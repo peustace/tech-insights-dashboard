@@ -1,8 +1,23 @@
 {
-  "last_updated": "2026-11-02 21:06 UTC",
+  "last_updated": "2026-11-02 21:24 UTC",
   "is_sunday_edition": false,
   "sectors": {
     "AI": [
+      {
+        "title": "\ud83d\udcc4 More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum",
+        "summary": "arXiv:2610.40758v1 Announce Type: new \nAbstract: Self-evolving agents rewrite a persistent state from feedback, but it is largely untested whether this lets them learn a rule nobody told them. An agen...",
+        "link": "https://arxiv.org/abs/2610.40758"
+      },
+      {
+        "title": "\ud83d\udcc4 Beyond Plausible Prediction: Safety Sufficiency in Web World Models",
+        "summary": "arXiv:2610.40798v1 Announce Type: new \nAbstract: Web world models increasingly predict the consequences of candidate actions before agents act, yet a plausible predicted future does not necessarily su...",
+        "link": "https://arxiv.org/abs/2610.40798"
+      },
+      {
+        "title": "\ud83d\udcc4 Circumventing the Computational Hardness of Computational Arbitrage",
+        "summary": "arXiv:2610.40831v1 Announce Type: new \nAbstract: AI model marketplaces host providers with heterogeneous costs and capabilities. These differences create an opportunity for computational arbitrage (Ol...",
+        "link": "https://arxiv.org/abs/2610.40831"
+      },
       {
         "title": "\ud83d\udcc4 nemotron-halloween",
         "summary": "...",
@@ -26,6 +41,11 @@
         "link": "https://arxiv.org/abs/2610.40709"
       },
       {
+        "title": "\ud83d\udcc4 Quantum manifestations of converse symmetry breaking",
+        "summary": "arXiv:2610.40762v1 Announce Type: new \nAbstract: Quantum synchronization holds promise in advancing quantum technologies such as sensing, communication, and computation. A key challenge in this rapidl...",
+        "link": "https://arxiv.org/abs/2610.40762"
+      },
+      {
         "title": "\ud83d\udcc4 University of Stuttgart Deploys Quantum Dot QKD Link Using Frequency Conversion Over Campus Fiber",
         "summary": "<p>The University of Stuttgart, in collaboration with Saarland University and Leibniz IFW Dresden, successfully deployed an entanglement-based quantum key distribution (QKD) link using a quantum dot p...",
         "link": "https://quantumcomputingreport.com/university-of-stuttgart-deploys-quantum-dot-qkd-link-using-frequency-conversion-over-campus-fiber/"
@@ -46,6 +66,11 @@
         "title": "\ud83d\udcc4 Friday Squid Blogging: Bigfin Squid Off California Coast",
         "summary": "<p>Neat <a href=\"https://www.smithsonianmag.com/smart-news/watch-an-elusive-and-ethereal-bigfin-squid-float-above-the-seafloor-off-central-california-180989491/\">video</a>:</p>\n<blockquote><p>The sigh...",
         "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-bigfin-squid-off-california-coast.html"
+      },
+      {
+        "title": "\ud83d\udcc4 Bloatware in Aftermarket Auto Parts",
+        "summary": "<p>This <a href=\"https://www.thedrive.com/news/cheap-aftermarket-head-units-are-loaded-with-spyware-by-the-way\">story</a> is interesting:</p>\n<blockquote><p>One Civic owner purchased a cheap aftermark...",
+        "link": "https://www.schneier.com/blog/archives/2026/10/bloatware-in-aftermarket-auto-parts.html"
       }
     ],
     "Space": [
@@ -58,6 +83,11 @@
         "title": "\ud83d\udcc4 ESI supplying solar array components to missile defense programs",
         "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/ESI-Motion-Square-Logo-Blue-PNG.pn...",
         "link": "https://spacenews.com/esi-supplying-solar-array-components-to-missile-defense-programs/"
+      },
+      {
+        "title": "\ud83d\udcc4 Advice for optimizing the space industry with Laura Crabtree",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/space-minds-podcast-Epsilon3-2000-1...",
+        "link": "https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree/"
       }
     ],
     "Renewables": [
@@ -70,6 +100,11 @@
         "title": "\ud83d\udcc4 Germany\u2019s Hydrogen Pipeline Reached Marl. Its Market Still Needs to Add Up.",
         "summary": "<p>Germany&#8217;s hydrogen backbone achieved a genuine milestone on August 4, 2026. RWE and its partners announced that renewable hydrogen produced during commissioning at Lingen had reached Marl Che...",
         "link": "https://cleantechnica.com/2026/11/02/germany-hydrogen-backbone-marl-paying-customers/"
+      },
+      {
+        "title": "\ud83d\udcc4 Jackery Launches Explorer 100D Portable Power Station. Maximum Capability For Carryon Compatibility",
+        "summary": "<p>Jackery just launched the Explorer 100D portable power station. This is Jackery\u2019s smallest battery, giving a new level of versatility to power many of the devices people rely on most. Meanwhile, it...",
+        "link": "https://cleantechnica.com/2026/11/02/jackery-launches-explorer-100d-portable-power-station/"
       },
       {
         "title": "\ud83d\udcc4 The (climate) case against (AI) data centers",
@@ -94,6 +129,11 @@
         "link": "https://www.carbonbrief.org/cop17-key-outcomes-agreed-at-the-un-biodiversity-conference-in-yerevan"
       },
       {
+        "title": "\ud83d\udcc4 Experts: What China wants from the COP31 climate talks",
+        "summary": "<p>With the COP31 climate summit in Turkey looming, all eyes are on China to see what the country will push&#8230;</p>\n<p>The post <a href=\"https://www.carbonbrief.org/experts-what-china-wants-from-th...",
+        "link": "https://www.carbonbrief.org/experts-what-china-wants-from-the-cop31-climate-talks"
+      },
+      {
         "title": "\ud83d\udcc4 NEWSFLASH: Gresham House Energy Storage Fund launches sales process",
         "summary": "The UK BESS-owning Gresham House Energy Storage Fund has launched a formal sales process, a decision which has seen its share price jump 10%....",
         "link": "https://www.energy-storage.news/newsflash-gresham-house-energy-storage-fund-launches-sales-process/"
@@ -114,6 +154,55 @@
         "title": "\ud83d\udcc4 AdvaMed Chair Mick Farrell shares his top priorities, challenges for the medtech industry",
         "summary": "<p>In a year where companies are grappling with cyberattacks, inflation and potential tariffs, Farrell, who is also CEO of Resmed, shared a bird&rsquo;s eye view of the issues.</p>...",
         "link": "https://www.medtechdive.com/news/advamed-chair-mick-farrell-shares-his-top-priorities-challenges-for-the-me/873389/"
+      },
+      {
+        "title": "\ud83d\udcc4 Abbott starts pivotal trial for mitral valve replacement device",
+        "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/otXKWk5IW410v1ZEZBVedv94wFthlU3Q4SfgVjYEJaQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9XQkE4ODEuanBn.webp\" /></div></figure>...",
+        "link": "https://www.medtechdive.com/news/abbott-starts-pivotal-trial-for-mitral-valve-replacement-device/873409/"
+      }
+    ],
+    "Telecommunications": [
+      {
+        "title": "\ud83d\udcc4 How Global Is Anycast?: Evaluating Performance Gaps",
+        "summary": "arXiv:2610.40833v1 Announce Type: new \nAbstract: Anycast networks aim to reduce latency by directing users to nearby service sites. However, users can still experience high latency even when accessing...",
+        "link": "https://arxiv.org/abs/2610.40833"
+      },
+      {
+        "title": "\ud83d\udcc4 ARK: Avoiding Routing Collisions for KV Cache Transfer in Disaggregated LLM Inference",
+        "summary": "arXiv:2610.41160v1 Announce Type: new \nAbstract: Disaggregated LLM inference separates the prefill and decode phases across GPU pools, generating massive KV-cache transfers. Because these transfers la...",
+        "link": "https://arxiv.org/abs/2610.41160"
+      },
+      {
+        "title": "\ud83d\udcc4 Beamfocusing Beyond the Near Field: Frequency Diverse Arrays for OFDM-ISAC Systems",
+        "summary": "arXiv:2610.41415v1 Announce Type: new \nAbstract: Traditional phased arrays (PAs) achieve near-field (NF) beamfocusing through spherical wavefront curvature, but lose this range selectivity in the far ...",
+        "link": "https://arxiv.org/abs/2610.41415"
+      },
+      {
+        "title": "\ud83d\udcc4 SpaceX eyes back door to MVNO via Boost Mobile \u2013 report",
+        "summary": "SpaceX's Elon Musk reportedly had talks with EchoStar's Charlie Ergen about a deal to buy Boost Mobile or use its network for Starlink mobile services, reports The Washington Post....",
+        "link": "https://www.lightreading.com/satellite/spacex-eyes-back-door-to-mvno-via-boost-mobile-report"
+      },
+      {
+        "title": "\ud83d\udcc4 Marvell strikes $115B deal for Lumentum",
+        "summary": "Marvell is acquiring Lumentum in an all-stock deal valued at $115 billion, representing $1,132 per share of Lumentum common stock. #pressrelease...",
+        "link": "https://www.lightreading.com/ai-machine-learning/marvell-strikes-115b-deal-for-lumentum"
+      }
+    ],
+    "Robotics": [
+      {
+        "title": "\ud83d\udcc4 WorldBridge: Bridging Video and Action for Task Generalization in World Action Models",
+        "summary": "arXiv:2610.40748v1 Announce Type: new \nAbstract: Achieving the broad task generalization of embodied models in physical environments remains a central challenge in robot learning. We study this challe...",
+        "link": "https://arxiv.org/abs/2610.40748"
+      },
+      {
+        "title": "\ud83d\udcc4 CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents",
+        "summary": "arXiv:2610.40799v1 Announce Type: new \nAbstract: Across coding, web, and tool-use tasks, language-model agents are now routinely trained with the same recipe: supervised fine-tuning (SFT) to learn the...",
+        "link": "https://arxiv.org/abs/2610.40799"
+      },
+      {
+        "title": "\ud83d\udcc4 From Teleoperation to Long-Horizon Dexterity: Evaluating Visuomotor Skills and Offline Proxies for Dexterous Manipulation",
+        "summary": "arXiv:2610.40828v1 Announce Type: new \nAbstract: Imitation learning policies are intended to make robotic manipulation robust to variations in object pose, appearance, and environment that challenge p...",
+        "link": "https://arxiv.org/abs/2610.40828"
       }
     ]
   },
