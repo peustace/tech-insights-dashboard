@@ -8,7 +8,7 @@ from google import genai
 
 client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
 
-# High-Signal Sources (including new Telecommunications & Robotics sectors)
+# High-Signal & Credible Sources
 SOURCES = {
     "AI": {
         "text_feeds": [
@@ -66,6 +66,11 @@ SOURCES = {
     }
 }
 
+def clean_html(raw_html):
+    """Strips all HTML tags (including <img>, <a>, <div>) to leave pure text."""
+    clean_text = re.sub(r'<[^>]+>', '', raw_html)
+    return clean_text.strip()
+
 def extract_youtube_transcript(video_url):
     try:
         video_id = re.search(r"(?:v=|\/)([0-9A-Za-z_-]{11})", video_url).group(1)
@@ -85,17 +90,17 @@ def summarize_with_gemini(source_type, title, raw_content):
     Source Material: {raw_content}
     
     Provide a concise 2-sentence key takeaway highlighting technical innovations or industry impact.
-    Do not use introductory fluff.
+    Do not include any introductory text or fluff.
     """
     try:
         response = client.models.generate_content(
             model="gemini-2.5-flash",
             contents=prompt
         )
-        return response.text.strip()
+        return clean_html(response.text.strip())
     except Exception as e:
         print(f"Gemini API Error: {e}")
-        return raw_content[:200] + "..."
+        return clean_html(raw_content)[:200] + "..."
 
 def generate_stock_analysis(sectors_summary):
     prompt = f"""
@@ -104,7 +109,7 @@ def generate_stock_analysis(sectors_summary):
     
     Identify 3 publicly traded companies directly or indirectly impacted by today's technical developments and write a short 2-sentence blurb for each explaining how recent sector updates will influence their stock or strategic positioning in time.
     
-    Format output strictly as JSON list of objects:
+    Format output strictly as a JSON list of objects:
     [
       {{"ticker": "NVDA", "company": "NVIDIA", "impact_blurb": "Impact statement..."}}
     ]
@@ -148,7 +153,8 @@ def run_pipeline():
         for pod_feed in sources.get("podcasts", []):
             feed = feedparser.parse(pod_feed)
             for entry in feed.entries[:2]:
-                summary = summarize_with_gemini("Podcast Episode", entry.title, entry.summary)
+                cleaned_summary = clean_html(entry.get("summary", entry.get("description", "")))
+                summary = summarize_with_gemini("Podcast Episode", entry.title, cleaned_summary)
                 sector_items.append({
                     "title": f"🎙️ {entry.title}",
                     "summary": summary,
@@ -158,21 +164,18 @@ def run_pipeline():
         for feed_url in sources.get("text_feeds", []):
             feed = feedparser.parse(feed_url)
             for entry in feed.entries[:3]:
-                raw_text = entry.get("summary", entry.get("description", ""))
-                summary = summarize_with_gemini("Journal/Blog Entry", entry.title, raw_text)
+                cleaned_text = clean_html(entry.get("summary", entry.get("description", "")))
+                summary = summarize_with_gemini("Journal/Blog Entry", entry.title, cleaned_text)
                 sector_items.append({
                     "title": f"📄 {entry.title}",
                     "summary": summary,
                     "link": entry.link
                 })
 
-        # Keep up to 5 items per sector
         dashboard_data["sectors"][sector] = sector_items[:5]
 
-    # Daily Stock Market Watch Section (Always Generated)
     dashboard_data["stock_watch"] = generate_stock_analysis(dashboard_data["sectors"])
 
-    # Save output to data.json
     with open("data.json", "w") as f:
         json.dump(dashboard_data, f, indent=2)
 
