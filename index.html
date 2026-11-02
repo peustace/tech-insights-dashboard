@@ -16,6 +16,8 @@
         .sector-card h3 { color: #38bdf8; border-bottom: 1px solid #334155; padding-bottom: 10px; margin-top: 0; }
         .item { margin-bottom: 14px; padding-bottom: 12px; border-bottom: 1px solid #334155; }
         .item:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+        /* CSS Rule to hide any residual inline images */
+        .item img, .special-box img { display: none !important; visibility: hidden !important; width: 0 !important; height: 0 !important; }
         .item-title { font-weight: 600; color: #f1f5f9; display: block; margin-bottom: 4px; }
         .item-summary { font-size: 0.88em; color: #cbd5e1; margin: 4px 0 6px 0; line-height: 1.4; }
         a { color: #38bdf8; text-decoration: none; font-size: 0.85em; font-weight: 500; }
@@ -33,13 +35,13 @@
             <div class="subtitle" id="last-updated">Loading latest feed updates...</div>
         </header>
 
-        <!-- Daily Stock Movement Radar (Always Visible) -->
+        <!-- Daily Stock Movement Radar -->
         <div id="stock-watch-container" class="special-box" style="display: none;">
             <h2 style="color: #4ade80; margin-top: 0;">📈 Sector Stock Impact Radar</h2>
             <div id="stock-watch-list"></div>
         </div>
 
-        <!-- Sunday Weekly Recap Section (Visible on Sundays) -->
+        <!-- Sunday Weekly Recap Section -->
         <div id="weekly-recap-container" class="special-box" style="display: none;">
             <h2 style="color: #facc15; margin-top: 0;">📅 Weekly Executive Recap</h2>
             <p id="weekly-recap-text" style="line-height: 1.5; color: #e2e8f0;"></p>
@@ -56,7 +58,6 @@
             .then(data => {
                 document.getElementById('last-updated').innerText = `Last Refreshed: ${data.last_updated}`;
 
-                // Render Stock Radar (Always visible when data is present)
                 if (data.stock_watch && data.stock_watch.length > 0) {
                     const stockList = document.getElementById('stock-watch-list');
                     data.stock_watch.forEach(stock => {
@@ -68,13 +69,11 @@
                     document.getElementById('stock-watch-container').style.display = 'block';
                 }
 
-                // Render Sunday Weekly Recap if available
                 if (data.weekly_recap) {
                     document.getElementById('weekly-recap-text').innerText = data.weekly_recap;
                     document.getElementById('weekly-recap-container').style.display = 'block';
                 }
 
-                // Render Sector Cards
                 const grid = document.getElementById('sectors-grid');
                 let sectorIndex = 0;
 
@@ -85,8 +84,6 @@
                     card.innerHTML = `<h3>${sector}</h3>`;
                     
                     const list = document.createElement('div');
-                    
-                    // Show top 2 articles
                     const topItems = items.slice(0, 2);
                     const remainingItems = items.slice(2);
 
@@ -94,7 +91,6 @@
                         list.appendChild(createItemElement(item));
                     });
 
-                    // Add expandable container for remaining items if > 2 exist
                     if (remainingItems.length > 0) {
                         const extraContainer = document.createElement('div');
                         extraContainer.id = `extra-${sectorIndex}`;
