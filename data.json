@@ -1,0 +1,122 @@
+{
+  "last_updated": "2026-11-02 21:06 UTC",
+  "is_sunday_edition": false,
+  "sectors": {
+    "AI": [
+      {
+        "title": "\ud83d\udcc4 nemotron-halloween",
+        "summary": "...",
+        "link": "https://huggingface.co/blog/nvidia/nemotron-halloween"
+      },
+      {
+        "title": "\ud83d\udcc4 Granite Switch 4.1.1 \u2014 Update models like you update software",
+        "summary": "...",
+        "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1"
+      }
+    ],
+    "Quantum": [
+      {
+        "title": "\ud83d\udcc4 Finite-Element Electromagnetic Analysis and Evaluation of Antenna Performance Metrics Using a Quantum Linear System Solver",
+        "summary": "arXiv:2610.40693v1 Announce Type: new \nAbstract: Electromagnetic analysis based on the finite element method is widely used in antenna design. At higher frequencies, however, the required mesh refinem...",
+        "link": "https://arxiv.org/abs/2610.40693"
+      },
+      {
+        "title": "\ud83d\udcc4 Finite-resource cooling of qudits beyond thermodynamic length",
+        "summary": "arXiv:2610.40709v1 Announce Type: new \nAbstract: Cooling a quantum system with $N$ thermal machines costs more than Landauer's bound. For swap-based collision models the excess is set by thermodynamic...",
+        "link": "https://arxiv.org/abs/2610.40709"
+      },
+      {
+        "title": "\ud83d\udcc4 University of Stuttgart Deploys Quantum Dot QKD Link Using Frequency Conversion Over Campus Fiber",
+        "summary": "<p>The University of Stuttgart, in collaboration with Saarland University and Leibniz IFW Dresden, successfully deployed an entanglement-based quantum key distribution (QKD) link using a quantum dot p...",
+        "link": "https://quantumcomputingreport.com/university-of-stuttgart-deploys-quantum-dot-qkd-link-using-frequency-conversion-over-campus-fiber/"
+      },
+      {
+        "title": "\ud83d\udcc4 Chalmers University Demonstrates Hardware-Level Microwave Crosstalk Suppression via Parasitic Capacitance Engineering",
+        "summary": "<p>Physicists at Chalmers University of Technology have developed a new method to eliminate microwave crosstalk in superconducting processors. Their research shows that by engineering on-chip parasiti...",
+        "link": "https://quantumcomputingreport.com/chalmers-university-demonstrates-hardware-level-microwave-crosstalk-suppression-via-parasitic-capacitance-engineering/"
+      }
+    ],
+    "CyberSecurity": [
+      {
+        "title": "\ud83d\udcc4 AI Vulnerability Finding",
+        "summary": "<p>A <a href=\"https://x.com/NickADobos/status/2113430301183823901\">comment</a>:</p>\n<blockquote><p>3% of &#8216;critical&#8217; software security bugs, in all of recorded history, have been found in t...",
+        "link": "https://www.schneier.com/blog/archives/2026/11/ai-vulnerability-finding-2.html"
+      },
+      {
+        "title": "\ud83d\udcc4 Friday Squid Blogging: Bigfin Squid Off California Coast",
+        "summary": "<p>Neat <a href=\"https://www.smithsonianmag.com/smart-news/watch-an-elusive-and-ethereal-bigfin-squid-float-above-the-seafloor-off-central-california-180989491/\">video</a>:</p>\n<blockquote><p>The sigh...",
+        "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-bigfin-squid-off-california-coast.html"
+      }
+    ],
+    "Space": [
+      {
+        "title": "\ud83d\udcc4 How to Expand Reliable, Flexible Access to Space",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"794\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/SpaceNews_AD-1-1.png?fit=1024%2C794...",
+        "link": "https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/"
+      },
+      {
+        "title": "\ud83d\udcc4 ESI supplying solar array components to missile defense programs",
+        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/ESI-Motion-Square-Logo-Blue-PNG.pn...",
+        "link": "https://spacenews.com/esi-supplying-solar-array-components-to-missile-defense-programs/"
+      }
+    ],
+    "Renewables": [
+      {
+        "title": "\ud83d\udcc4 Swarm Of Electric Trucks Coming To US (Battery Swapping Included?)",
+        "summary": "<p>The Australian firm Janus Electric has hooked up with Canada's Electrovaya to accelerate the electric truck conversion field in North America, regardless of the sharp U-turn in US electrification p...",
+        "link": "https://cleantechnica.com/2026/11/02/electric-trucks-us-canada-battery-swapping-trade-wars/"
+      },
+      {
+        "title": "\ud83d\udcc4 Germany\u2019s Hydrogen Pipeline Reached Marl. Its Market Still Needs to Add Up.",
+        "summary": "<p>Germany&#8217;s hydrogen backbone achieved a genuine milestone on August 4, 2026. RWE and its partners announced that renewable hydrogen produced during commissioning at Lingen had reached Marl Che...",
+        "link": "https://cleantechnica.com/2026/11/02/germany-hydrogen-backbone-marl-paying-customers/"
+      },
+      {
+        "title": "\ud83d\udcc4 The (climate) case against (AI) data centers",
+        "summary": "A conversation with Ketan Joshi....",
+        "link": "https://www.volts.wtf/p/the-climate-case-against-ai-data"
+      },
+      {
+        "title": "\ud83d\udcc4 The PAC taking out clean energy opponents",
+        "summary": "A conversation with Tom Matzzie of the Invest in Tomorrow Coalition....",
+        "link": "https://www.volts.wtf/p/the-pac-taking-out-clean-energy-opponents"
+      }
+    ],
+    "Energy": [
+      {
+        "title": "\ud83d\udcc4 Interactive: Who wants what at the COP31 climate change summit",
+        "summary": "<p>Delegates will soon gather in the Turkish resort city of Antalya for UN climate negotiations, against a backdrop of war,&#8230;</p>\n<p>The post <a href=\"https://www.carbonbrief.org/interactive-who-...",
+        "link": "https://www.carbonbrief.org/interactive-who-wants-what-at-the-cop31-climate-change-summit"
+      },
+      {
+        "title": "\ud83d\udcc4 COP17: Key outcomes agreed at the UN biodiversity conference in Yerevan",
+        "summary": "<p>Countries have completed the first \u201cglobal review\u201d of their progress towards reversing nature loss by 2030 at the COP17 biodiversity&#8230;</p>\n<p>The post <a href=\"https://www.carbonbrief.org/cop1...",
+        "link": "https://www.carbonbrief.org/cop17-key-outcomes-agreed-at-the-un-biodiversity-conference-in-yerevan"
+      },
+      {
+        "title": "\ud83d\udcc4 NEWSFLASH: Gresham House Energy Storage Fund launches sales process",
+        "summary": "The UK BESS-owning Gresham House Energy Storage Fund has launched a formal sales process, a decision which has seen its share price jump 10%....",
+        "link": "https://www.energy-storage.news/newsflash-gresham-house-energy-storage-fund-launches-sales-process/"
+      },
+      {
+        "title": "\ud83d\udcc4 Trump bulk power equipment ban sparks industry pushback: \u2018Let\u2019s not reinvent the wheel\u2019",
+        "summary": "US President Donald Trump\u2019s 26 August emergency executive order banning imports of certain foreign-made power equipment has prompted widespread public comment and private concern across the energy sto...",
+        "link": "https://www.energy-storage.news/trump-bulk-power-equipment-ban-sparks-industry-pushback-lets-not-reinvent-the-wheel/"
+      }
+    ],
+    "MedTech": [
+      {
+        "title": "\ud83d\udcc4 Abbott, Dexcom grapple with diabetes coverage ahead of planned Medicare expansion",
+        "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/BmE9ItavOTNSO-kMd9Dg7VvyW5oJlTnTvFTTtUz7yks/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yUFA4MEVNLmpwZw==.webp\" /></div></fig...",
+        "link": "https://www.medtechdive.com/news/abbott-dexcom-grapple-with-diabetes-coverage-ahead-of-planned-medicare-exp/873461/"
+      },
+      {
+        "title": "\ud83d\udcc4 AdvaMed Chair Mick Farrell shares his top priorities, challenges for the medtech industry",
+        "summary": "<p>In a year where companies are grappling with cyberattacks, inflation and potential tariffs, Farrell, who is also CEO of Resmed, shared a bird&rsquo;s eye view of the issues.</p>...",
+        "link": "https://www.medtechdive.com/news/advamed-chair-mick-farrell-shares-his-top-priorities-challenges-for-the-me/873389/"
+      }
+    ]
+  },
+  "weekly_recap": null,
+  "stock_watch": []
+}
