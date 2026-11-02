@@ -14,13 +14,16 @@
         .sector-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 20px; }
         .sector-card { background: #1e293b; border-radius: 8px; padding: 18px; border: 1px solid #334155; }
         .sector-card h3 { color: #38bdf8; border-bottom: 1px solid #334155; padding-bottom: 10px; margin-top: 0; }
-        .item { margin-bottom: 16px; padding-bottom: 12px; border-bottom: 1px solid #334155; }
+        .item { margin-bottom: 14px; padding-bottom: 12px; border-bottom: 1px solid #334155; }
         .item:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
         .item-title { font-weight: 600; color: #f1f5f9; display: block; margin-bottom: 4px; }
-        .item-summary { font-size: 0.88em; color: #cbd5e1; margin: 4px 0 8px 0; line-height: 1.4; }
+        .item-summary { font-size: 0.88em; color: #cbd5e1; margin: 4px 0 6px 0; line-height: 1.4; }
         a { color: #38bdf8; text-decoration: none; font-size: 0.85em; font-weight: 500; }
         a:hover { text-decoration: underline; }
         .ticker { color: #4ade80; font-weight: bold; }
+        .toggle-btn { background: #334155; color: #38bdf8; border: none; border-radius: 4px; padding: 6px 12px; font-size: 0.8em; font-weight: 600; cursor: pointer; margin-top: 8px; width: 100%; text-align: center; }
+        .toggle-btn:hover { background: #475569; }
+        .hidden-items { display: none; }
     </style>
 </head>
 <body>
@@ -30,20 +33,20 @@
             <div class="subtitle" id="last-updated">Loading latest feed updates...</div>
         </header>
 
-        <!-- Sunday Weekly Recap Section -->
-        <div id="weekly-recap-container" class="special-box" style="display: none;">
-            <h2 style="color: #facc15; margin-top: 0;">📅 Weekly Executive Recap</h2>
-            <p id="weekly-recap-text" style="line-height: 1.5; color: #e2e8f0;"></p>
-        </div>
-
-        <!-- Sunday Stock Movement Radar -->
+        <!-- Daily Stock Movement Radar (Always Visible) -->
         <div id="stock-watch-container" class="special-box" style="display: none;">
             <h2 style="color: #4ade80; margin-top: 0;">📈 Sector Stock Impact Radar</h2>
             <div id="stock-watch-list"></div>
         </div>
 
-        <!-- Daily Top 5 Sectors Grid -->
-        <h2 style="color: #f8fafc;">Daily Sector Intelligence (Top 5)</h2>
+        <!-- Sunday Weekly Recap Section (Visible on Sundays) -->
+        <div id="weekly-recap-container" class="special-box" style="display: none;">
+            <h2 style="color: #facc15; margin-top: 0;">📅 Weekly Executive Recap</h2>
+            <p id="weekly-recap-text" style="line-height: 1.5; color: #e2e8f0;"></p>
+        </div>
+
+        <!-- Daily Sectors Grid -->
+        <h2 style="color: #f8fafc;">Sector Intelligence</h2>
         <div class="sector-grid" id="sectors-grid"></div>
     </div>
 
@@ -53,13 +56,7 @@
             .then(data => {
                 document.getElementById('last-updated').innerText = `Last Refreshed: ${data.last_updated}`;
 
-                // Display Sunday Weekly Recap if available
-                if (data.weekly_recap) {
-                    document.getElementById('weekly-recap-text').innerText = data.weekly_recap;
-                    document.getElementById('weekly-recap-container').style.display = 'block';
-                }
-
-                // Display Sunday Stock Watch if available
+                // Render Stock Radar (Always visible when data is present)
                 if (data.stock_watch && data.stock_watch.length > 0) {
                     const stockList = document.getElementById('stock-watch-list');
                     data.stock_watch.forEach(stock => {
@@ -71,30 +68,78 @@
                     document.getElementById('stock-watch-container').style.display = 'block';
                 }
 
+                // Render Sunday Weekly Recap if available
+                if (data.weekly_recap) {
+                    document.getElementById('weekly-recap-text').innerText = data.weekly_recap;
+                    document.getElementById('weekly-recap-container').style.display = 'block';
+                }
+
                 // Render Sector Cards
                 const grid = document.getElementById('sectors-grid');
+                let sectorIndex = 0;
+
                 for (const [sector, items] of Object.entries(data.sectors)) {
+                    sectorIndex++;
                     const card = document.createElement('div');
                     card.className = 'sector-card';
                     card.innerHTML = `<h3>${sector}</h3>`;
                     
                     const list = document.createElement('div');
-                    items.forEach(item => {
-                        const itemBox = document.createElement('div');
-                        itemBox.className = 'item';
-                        itemBox.innerHTML = `
-                            <span class="item-title">${item.title}</span>
-                            <p class="item-summary">${item.summary}</p>
-                            <a href="${item.link}" target="_blank" rel="noopener">🔗 Follow-up Link →</a>
-                        `;
-                        list.appendChild(itemBox);
+                    
+                    // Show top 2 articles
+                    const topItems = items.slice(0, 2);
+                    const remainingItems = items.slice(2);
+
+                    topItems.forEach(item => {
+                        list.appendChild(createItemElement(item));
                     });
+
+                    // Add expandable container for remaining items if > 2 exist
+                    if (remainingItems.length > 0) {
+                        const extraContainer = document.createElement('div');
+                        extraContainer.id = `extra-${sectorIndex}`;
+                        extraContainer.className = 'hidden-items';
+
+                        remainingItems.forEach(item => {
+                            extraContainer.appendChild(createItemElement(item));
+                        });
+
+                        const toggleBtn = document.createElement('button');
+                        toggleBtn.className = 'toggle-btn';
+                        toggleBtn.innerText = `Show More (${remainingItems.length})`;
+                        toggleBtn.onclick = () => toggleItems(extraContainer.id, toggleBtn, remainingItems.length);
+
+                        list.appendChild(extraContainer);
+                        list.appendChild(toggleBtn);
+                    }
                     
                     card.appendChild(list);
                     grid.appendChild(card);
                 }
             })
-            .catch(err => console.error('Data file not created yet or load error:', err));
+            .catch(err => console.error('Data load error:', err));
+
+        function createItemElement(item) {
+            const itemBox = document.createElement('div');
+            itemBox.className = 'item';
+            itemBox.innerHTML = `
+                <span class="item-title">${item.title}</span>
+                <p class="item-summary">${item.summary}</p>
+                <a href="${item.link}" target="_blank" rel="noopener">🔗 Follow-up Link →</a>
+            `;
+            return itemBox;
+        }
+
+        function toggleItems(containerId, btn, count) {
+            const container = document.getElementById(containerId);
+            if (container.style.display === 'block') {
+                container.style.display = 'none';
+                btn.innerText = `Show More (${count})`;
+            } else {
+                container.style.display = 'block';
+                btn.innerText = 'Show Less';
+            }
+        }
     </script>
 </body>
 </html>
