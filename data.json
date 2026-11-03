@@ -1,23 +1,8 @@
 {
-  "last_updated": "2026-11-02 21:24 UTC",
+  "last_updated": "2026-11-03 06:52 UTC",
   "is_sunday_edition": false,
   "sectors": {
     "AI": [
-      {
-        "title": "\ud83d\udcc4 More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum",
-        "summary": "arXiv:2610.40758v1 Announce Type: new \nAbstract: Self-evolving agents rewrite a persistent state from feedback, but it is largely untested whether this lets them learn a rule nobody told them. An agen...",
-        "link": "https://arxiv.org/abs/2610.40758"
-      },
-      {
-        "title": "\ud83d\udcc4 Beyond Plausible Prediction: Safety Sufficiency in Web World Models",
-        "summary": "arXiv:2610.40798v1 Announce Type: new \nAbstract: Web world models increasingly predict the consequences of candidate actions before agents act, yet a plausible predicted future does not necessarily su...",
-        "link": "https://arxiv.org/abs/2610.40798"
-      },
-      {
-        "title": "\ud83d\udcc4 Circumventing the Computational Hardness of Computational Arbitrage",
-        "summary": "arXiv:2610.40831v1 Announce Type: new \nAbstract: AI model marketplaces host providers with heterogeneous costs and capabilities. These differences create an opportunity for computational arbitrage (Ol...",
-        "link": "https://arxiv.org/abs/2610.40831"
-      },
       {
         "title": "\ud83d\udcc4 nemotron-halloween",
         "summary": "...",
@@ -27,84 +12,79 @@
         "title": "\ud83d\udcc4 Granite Switch 4.1.1 \u2014 Update models like you update software",
         "summary": "...",
         "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1"
+      },
+      {
+        "title": "\ud83d\udcc4 Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+        "summary": "...",
+        "link": "https://huggingface.co/blog/announcing-project-protostar"
       }
     ],
     "Quantum": [
       {
-        "title": "\ud83d\udcc4 Finite-Element Electromagnetic Analysis and Evaluation of Antenna Performance Metrics Using a Quantum Linear System Solver",
-        "summary": "arXiv:2610.40693v1 Announce Type: new \nAbstract: Electromagnetic analysis based on the finite element method is widely used in antenna design. At higher frequencies, however, the required mesh refinem...",
-        "link": "https://arxiv.org/abs/2610.40693"
-      },
-      {
-        "title": "\ud83d\udcc4 Finite-resource cooling of qudits beyond thermodynamic length",
-        "summary": "arXiv:2610.40709v1 Announce Type: new \nAbstract: Cooling a quantum system with $N$ thermal machines costs more than Landauer's bound. For swap-based collision models the excess is set by thermodynamic...",
-        "link": "https://arxiv.org/abs/2610.40709"
-      },
-      {
-        "title": "\ud83d\udcc4 Quantum manifestations of converse symmetry breaking",
-        "summary": "arXiv:2610.40762v1 Announce Type: new \nAbstract: Quantum synchronization holds promise in advancing quantum technologies such as sensing, communication, and computation. A key challenge in this rapidl...",
-        "link": "https://arxiv.org/abs/2610.40762"
-      },
-      {
         "title": "\ud83d\udcc4 University of Stuttgart Deploys Quantum Dot QKD Link Using Frequency Conversion Over Campus Fiber",
-        "summary": "<p>The University of Stuttgart, in collaboration with Saarland University and Leibniz IFW Dresden, successfully deployed an entanglement-based quantum key distribution (QKD) link using a quantum dot p...",
+        "summary": "The University of Stuttgart, in collaboration with Saarland University and Leibniz IFW Dresden, successfully deployed an entanglement-based quantum key distribution (QKD) link using a quantum dot phot...",
         "link": "https://quantumcomputingreport.com/university-of-stuttgart-deploys-quantum-dot-qkd-link-using-frequency-conversion-over-campus-fiber/"
       },
       {
         "title": "\ud83d\udcc4 Chalmers University Demonstrates Hardware-Level Microwave Crosstalk Suppression via Parasitic Capacitance Engineering",
-        "summary": "<p>Physicists at Chalmers University of Technology have developed a new method to eliminate microwave crosstalk in superconducting processors. Their research shows that by engineering on-chip parasiti...",
+        "summary": "Physicists at Chalmers University of Technology have developed a new method to eliminate microwave crosstalk in superconducting processors. Their research shows that by engineering on-chip parasitic c...",
         "link": "https://quantumcomputingreport.com/chalmers-university-demonstrates-hardware-level-microwave-crosstalk-suppression-via-parasitic-capacitance-engineering/"
+      },
+      {
+        "title": "\ud83d\udcc4 Los Alamos and QC Ware Model Correlated Iron Oxides Using Sample-Based Quantum Diagonalization on IBM Hardware",
+        "summary": "Researchers from Los Alamos National Laboratory and QC Ware developed a hybrid quantum-classical workflow to simulate strongly correlated transition metal oxides. They used Sample-based Quantum Diagon...",
+        "link": "https://quantumcomputingreport.com/los-alamos-and-qc-ware-model-correlated-iron-oxides-using-sample-based-quantum-diagonalization-on-ibm-hardware/"
       }
     ],
     "CyberSecurity": [
       {
         "title": "\ud83d\udcc4 AI Vulnerability Finding",
-        "summary": "<p>A <a href=\"https://x.com/NickADobos/status/2113430301183823901\">comment</a>:</p>\n<blockquote><p>3% of &#8216;critical&#8217; software security bugs, in all of recorded history, have been found in t...",
+        "summary": "A comment:\n3% of &#8216;critical&#8217; software security bugs, in all of recorded history, have been found in the last month. This is on pace to find another ~100,000 bugs this year alone, adding ~26...",
         "link": "https://www.schneier.com/blog/archives/2026/11/ai-vulnerability-finding-2.html"
       },
       {
         "title": "\ud83d\udcc4 Friday Squid Blogging: Bigfin Squid Off California Coast",
-        "summary": "<p>Neat <a href=\"https://www.smithsonianmag.com/smart-news/watch-an-elusive-and-ethereal-bigfin-squid-float-above-the-seafloor-off-central-california-180989491/\">video</a>:</p>\n<blockquote><p>The sigh...",
+        "summary": "Neat video:\nThe sighting, announced September 2, marks the first time anyone has spotted a live bigfin squid, which belongs to the Magnapinna genus, in the northeastern Pacific Ocean.\nAs usual, you ca...",
         "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-bigfin-squid-off-california-coast.html"
       },
       {
         "title": "\ud83d\udcc4 Bloatware in Aftermarket Auto Parts",
-        "summary": "<p>This <a href=\"https://www.thedrive.com/news/cheap-aftermarket-head-units-are-loaded-with-spyware-by-the-way\">story</a> is interesting:</p>\n<blockquote><p>One Civic owner purchased a cheap aftermark...",
+        "summary": "This story is interesting:\nOne Civic owner purchased a cheap aftermarket head unit off Amazon, and decided to have Claude work its magic on it, like it would a smart TV. What was reportedly discovered...",
         "link": "https://www.schneier.com/blog/archives/2026/10/bloatware-in-aftermarket-auto-parts.html"
       }
     ],
     "Space": [
       {
         "title": "\ud83d\udcc4 How to Expand Reliable, Flexible Access to Space",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"794\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/SpaceNews_AD-1-1.png?fit=1024%2C794...",
+        "summary": "The space industry launched more rockets into orbit last year than ever before, yet satellite operators are confronting an unexpected problem: There still aren\u2019t enough rides to go around. And [&#8230...",
         "link": "https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/"
       },
       {
         "title": "\ud83d\udcc4 ESI supplying solar array components to missile defense programs",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"1024\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/ESI-Motion-Square-Logo-Blue-PNG.pn...",
+        "summary": "Oct. 30, 2026 \u2013 ESI Motion Inc. is proud to announce that it is supplying the Solar Array Drive Electronics (SADE) to Lockheed Martin for its work on the Space [&#8230;]\nThe post ESI supplying solar a...",
         "link": "https://spacenews.com/esi-supplying-solar-array-components-to-missile-defense-programs/"
       },
       {
         "title": "\ud83d\udcc4 Advice for optimizing the space industry with Laura Crabtree",
-        "summary": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/space-minds-podcast-Epsilon3-2000-1...",
+        "summary": "In this episode, Mike Gruss speaks with Laura Crabtree, the CEO of Epsilon3, who is also a former SpaceX astronaut trainer. They talk about ways that space companies can organize [&#8230;]\nThe post Ad...",
         "link": "https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree/"
       }
     ],
     "Renewables": [
       {
-        "title": "\ud83d\udcc4 Swarm Of Electric Trucks Coming To US (Battery Swapping Included?)",
-        "summary": "<p>The Australian firm Janus Electric has hooked up with Canada's Electrovaya to accelerate the electric truck conversion field in North America, regardless of the sharp U-turn in US electrification p...",
-        "link": "https://cleantechnica.com/2026/11/02/electric-trucks-us-canada-battery-swapping-trade-wars/"
+        "title": "\ud83d\udcc4 $150 billion more paid by Americans for gas this year than last",
+        "summary": "Since the beginning of America\u2019s war against Iran,\u00a0Americans have paid an additional $150+ billion for gas and diesel than they did last year during the same time period, according to a study from Bro...",
+        "link": "https://cleantechnica.com/2026/11/03/150-billion-more-paid-by-americans-for-gas-this-year-than-last/"
       },
       {
-        "title": "\ud83d\udcc4 Germany\u2019s Hydrogen Pipeline Reached Marl. Its Market Still Needs to Add Up.",
-        "summary": "<p>Germany&#8217;s hydrogen backbone achieved a genuine milestone on August 4, 2026. RWE and its partners announced that renewable hydrogen produced during commissioning at Lingen had reached Marl Che...",
-        "link": "https://cleantechnica.com/2026/11/02/germany-hydrogen-backbone-marl-paying-customers/"
+        "title": "\ud83d\udcc4 Congress Is Cutting Off Transportation Investments that Help Families Save Money",
+        "summary": "The loss of guaranteed federal funding could stall projects that make it easier and cheaper for Americans to get where they need to go. UPDATE: On October 27, 2026, an update to the Senate Commerce Co...",
+        "link": "https://cleantechnica.com/2026/11/02/congress-is-cutting-off-transportation-investments-that-help-families-save-money/"
       },
       {
-        "title": "\ud83d\udcc4 Jackery Launches Explorer 100D Portable Power Station. Maximum Capability For Carryon Compatibility",
-        "summary": "<p>Jackery just launched the Explorer 100D portable power station. This is Jackery\u2019s smallest battery, giving a new level of versatility to power many of the devices people rely on most. Meanwhile, it...",
-        "link": "https://cleantechnica.com/2026/11/02/jackery-launches-explorer-100d-portable-power-station/"
+        "title": "\ud83d\udcc4 The Future of Buildings in Illinois Is Electric",
+        "summary": "The Illinois Commerce Commission authorized a study of the most affordable way for the state to meet its building decarbonization goals. The report has fundamental flaws but critical insights. Illinoi...",
+        "link": "https://cleantechnica.com/2026/11/02/the-future-of-buildings-in-illinois-is-electric/"
       },
       {
         "title": "\ud83d\udcc4 The (climate) case against (AI) data centers",
@@ -120,62 +100,52 @@
     "Energy": [
       {
         "title": "\ud83d\udcc4 Interactive: Who wants what at the COP31 climate change summit",
-        "summary": "<p>Delegates will soon gather in the Turkish resort city of Antalya for UN climate negotiations, against a backdrop of war,&#8230;</p>\n<p>The post <a href=\"https://www.carbonbrief.org/interactive-who-...",
+        "summary": "Delegates will soon gather in the Turkish resort city of Antalya for UN climate negotiations, against a backdrop of war,&#8230;\nThe post Interactive: Who wants what at the COP31 climate change summit ...",
         "link": "https://www.carbonbrief.org/interactive-who-wants-what-at-the-cop31-climate-change-summit"
       },
       {
         "title": "\ud83d\udcc4 COP17: Key outcomes agreed at the UN biodiversity conference in Yerevan",
-        "summary": "<p>Countries have completed the first \u201cglobal review\u201d of their progress towards reversing nature loss by 2030 at the COP17 biodiversity&#8230;</p>\n<p>The post <a href=\"https://www.carbonbrief.org/cop1...",
+        "summary": "Countries have completed the first \u201cglobal review\u201d of their progress towards reversing nature loss by 2030 at the COP17 biodiversity&#8230;\nThe post COP17: Key outcomes agreed at the UN biodiversity c...",
         "link": "https://www.carbonbrief.org/cop17-key-outcomes-agreed-at-the-un-biodiversity-conference-in-yerevan"
       },
       {
         "title": "\ud83d\udcc4 Experts: What China wants from the COP31 climate talks",
-        "summary": "<p>With the COP31 climate summit in Turkey looming, all eyes are on China to see what the country will push&#8230;</p>\n<p>The post <a href=\"https://www.carbonbrief.org/experts-what-china-wants-from-th...",
+        "summary": "With the COP31 climate summit in Turkey looming, all eyes are on China to see what the country will push&#8230;\nThe post Experts: What China wants from the COP31 climate talks appeared first on Carbon...",
         "link": "https://www.carbonbrief.org/experts-what-china-wants-from-the-cop31-climate-talks"
       },
       {
-        "title": "\ud83d\udcc4 NEWSFLASH: Gresham House Energy Storage Fund launches sales process",
-        "summary": "The UK BESS-owning Gresham House Energy Storage Fund has launched a formal sales process, a decision which has seen its share price jump 10%....",
-        "link": "https://www.energy-storage.news/newsflash-gresham-house-energy-storage-fund-launches-sales-process/"
+        "title": "\ud83d\udcc4 Fluence CEO Julian Nebreda and CFO Ahmed Pasha leave with immediate effect",
+        "summary": "CEO and CFO of energy storage technology provider Fluence have both left the company....",
+        "link": "https://www.energy-storage.news/fluence-ceo-julian-nebreda-and-cfo-ahmed-pasha-leave-with-immediate-effect/"
       },
       {
-        "title": "\ud83d\udcc4 Trump bulk power equipment ban sparks industry pushback: \u2018Let\u2019s not reinvent the wheel\u2019",
-        "summary": "US President Donald Trump\u2019s 26 August emergency executive order banning imports of certain foreign-made power equipment has prompted widespread public comment and private concern across the energy sto...",
-        "link": "https://www.energy-storage.news/trump-bulk-power-equipment-ban-sparks-industry-pushback-lets-not-reinvent-the-wheel/"
+        "title": "\ud83d\udcc4 \u2018A lot of interest in sodium-ion\u2019 from Australian mining and data centres, CATL\u2019s ANZ general manager says",
+        "summary": "ESN Premium speaks with Zane Zhou of CATL Australia and New Zealand, about TENER+, sodium-ion demand, the Collie BESS and more....",
+        "link": "https://www.energy-storage.news/a-lot-of-interest-in-sodium-ion-from-australian-mining-and-data-centres-catls-anz-general-manager-says/"
       }
     ],
     "MedTech": [
       {
         "title": "\ud83d\udcc4 Abbott, Dexcom grapple with diabetes coverage ahead of planned Medicare expansion",
-        "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/BmE9ItavOTNSO-kMd9Dg7VvyW5oJlTnTvFTTtUz7yks/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yUFA4MEVNLmpwZw==.webp\" /></div></fig...",
+        "summary": "Abbott said it is facing pricing pressure and slower growth ahead of a planned coverage expansion for people with Type 2 diabetes. Competitor Dexcom, however, did not experience the same slowdown....",
         "link": "https://www.medtechdive.com/news/abbott-dexcom-grapple-with-diabetes-coverage-ahead-of-planned-medicare-exp/873461/"
       },
       {
         "title": "\ud83d\udcc4 AdvaMed Chair Mick Farrell shares his top priorities, challenges for the medtech industry",
-        "summary": "<p>In a year where companies are grappling with cyberattacks, inflation and potential tariffs, Farrell, who is also CEO of Resmed, shared a bird&rsquo;s eye view of the issues.</p>...",
+        "summary": "In a year where companies are grappling with cyberattacks, inflation and potential tariffs, Farrell, who is also CEO of Resmed, shared a bird&rsquo;s eye view of the issues....",
         "link": "https://www.medtechdive.com/news/advamed-chair-mick-farrell-shares-his-top-priorities-challenges-for-the-me/873389/"
       },
       {
         "title": "\ud83d\udcc4 Abbott starts pivotal trial for mitral valve replacement device",
-        "summary": "<figure><div><img src=\"https://imgproxy.divecdn.com/otXKWk5IW410v1ZEZBVedv94wFthlU3Q4SfgVjYEJaQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9XQkE4ODEuanBn.webp\" /></div></figure>...",
+        "summary": "The study is testing a device that Abbott executives believe can expand the mitral valve market....",
         "link": "https://www.medtechdive.com/news/abbott-starts-pivotal-trial-for-mitral-valve-replacement-device/873409/"
       }
     ],
     "Telecommunications": [
       {
-        "title": "\ud83d\udcc4 How Global Is Anycast?: Evaluating Performance Gaps",
-        "summary": "arXiv:2610.40833v1 Announce Type: new \nAbstract: Anycast networks aim to reduce latency by directing users to nearby service sites. However, users can still experience high latency even when accessing...",
-        "link": "https://arxiv.org/abs/2610.40833"
-      },
-      {
-        "title": "\ud83d\udcc4 ARK: Avoiding Routing Collisions for KV Cache Transfer in Disaggregated LLM Inference",
-        "summary": "arXiv:2610.41160v1 Announce Type: new \nAbstract: Disaggregated LLM inference separates the prefill and decode phases across GPU pools, generating massive KV-cache transfers. Because these transfers la...",
-        "link": "https://arxiv.org/abs/2610.41160"
-      },
-      {
-        "title": "\ud83d\udcc4 Beamfocusing Beyond the Near Field: Frequency Diverse Arrays for OFDM-ISAC Systems",
-        "summary": "arXiv:2610.41415v1 Announce Type: new \nAbstract: Traditional phased arrays (PAs) achieve near-field (NF) beamfocusing through spherical wavefront curvature, but lose this range selectivity in the far ...",
-        "link": "https://arxiv.org/abs/2610.41415"
+        "title": "\ud83d\udcc4 Brightspeed swaps CEOs as it reportedly nears bankruptcy",
+        "summary": "Shawn O'Donnell has succeeded Michel Combes as CEO of Brightspeed amid a report that the company is on the cusp of bankruptcy. Combes, who was acting CEO, will remain as chairman. New Street Research ...",
+        "link": "https://www.lightreading.com/broadband/brightspeed-swaps-ceos-as-it-reportedly-nears-bankruptcy"
       },
       {
         "title": "\ud83d\udcc4 SpaceX eyes back door to MVNO via Boost Mobile \u2013 report",
@@ -188,23 +158,7 @@
         "link": "https://www.lightreading.com/ai-machine-learning/marvell-strikes-115b-deal-for-lumentum"
       }
     ],
-    "Robotics": [
-      {
-        "title": "\ud83d\udcc4 WorldBridge: Bridging Video and Action for Task Generalization in World Action Models",
-        "summary": "arXiv:2610.40748v1 Announce Type: new \nAbstract: Achieving the broad task generalization of embodied models in physical environments remains a central challenge in robot learning. We study this challe...",
-        "link": "https://arxiv.org/abs/2610.40748"
-      },
-      {
-        "title": "\ud83d\udcc4 CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents",
-        "summary": "arXiv:2610.40799v1 Announce Type: new \nAbstract: Across coding, web, and tool-use tasks, language-model agents are now routinely trained with the same recipe: supervised fine-tuning (SFT) to learn the...",
-        "link": "https://arxiv.org/abs/2610.40799"
-      },
-      {
-        "title": "\ud83d\udcc4 From Teleoperation to Long-Horizon Dexterity: Evaluating Visuomotor Skills and Offline Proxies for Dexterous Manipulation",
-        "summary": "arXiv:2610.40828v1 Announce Type: new \nAbstract: Imitation learning policies are intended to make robotic manipulation robust to variations in object pose, appearance, and environment that challenge p...",
-        "link": "https://arxiv.org/abs/2610.40828"
-      }
-    ]
+    "Robotics": []
   },
   "weekly_recap": null,
   "stock_watch": []
