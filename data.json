@@ -1,59 +1,59 @@
 {
-  "last_updated": "2026-11-05 06:59 UTC",
+  "last_updated": "2026-11-06 06:58 UTC",
   "is_sunday_edition": false,
   "sectors": {
     "AI": [
       {
-        "title": "\ud83d\udcc4 Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions",
-        "summary": "arXiv:2611.05390v1 Announce Type: new \nAbstract: Multi-agent language-model systems often add a reviewer to improve an upstream agent's decision. Yet a reviewer can both repair errors and replace deci...",
-        "link": "https://arxiv.org/abs/2611.05390"
+        "title": "\ud83d\udcc4 Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
+        "summary": "arXiv:2611.06962v1 Announce Type: new \nAbstract: Proof assistants such as Lean check mathematical proofs down to the axioms, and AI agents have recently made writing such proofs cheap. We describe Aut...",
+        "link": "https://arxiv.org/abs/2611.06962"
       },
       {
-        "title": "\ud83d\udcc4 Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents",
-        "summary": "arXiv:2611.05391v1 Announce Type: new \nAbstract: Tool descriptions tell an agent what an action can do, but they do not necessarily reveal whether that action is healthy or suitable at the moment of u...",
-        "link": "https://arxiv.org/abs/2611.05391"
+        "title": "\ud83d\udcc4 KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
+        "summary": "arXiv:2611.06972v1 Announce Type: new \nAbstract: Liability adjudication tasks (e.g., legal charge determination) require analyzing event descriptions against domain-specific skills to determine whethe...",
+        "link": "https://arxiv.org/abs/2611.06972"
       },
       {
-        "title": "\ud83d\udcc4 Uncertainty-Aware Resource Orchestration for Agentic AI Systems",
-        "summary": "arXiv:2611.05392v1 Announce Type: new \nAbstract: Agentic artificial intelligence (AI) systems powered by large language models (LLMs) execute as autonomous multi-step pipelines that dynamically invoke...",
-        "link": "https://arxiv.org/abs/2611.05392"
+        "title": "\ud83d\udcc4 BlockLock: Reproducible LLM Inference with Fixed Batch Geometry",
+        "summary": "arXiv:2611.06977v1 Announce Type: new \nAbstract: Reproducible LLM inference requires that a request produces the same output regardless of the other requests in the batch. Existing solutions pay for t...",
+        "link": "https://arxiv.org/abs/2611.06977"
       },
       {
-        "title": "\ud83d\udcc4 Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+        "title": "\ud83d\udcc4 New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
         "summary": "...",
-        "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor"
+        "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"
       },
       {
-        "title": "\ud83d\udcc4 StateBench: Testing how language models track state changes over long documents",
+        "title": "\ud83d\udcc4 A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
         "summary": "...",
-        "link": "https://huggingface.co/blog/allenai/statebench"
+        "link": "https://huggingface.co/blog/phonon-tts"
       }
     ],
     "Quantum": [
       {
-        "title": "\ud83d\udcc4 Dynamically modulated light-matter interactions for ancilla-tolerant bosonic control",
-        "summary": "arXiv:2611.05460v1 Announce Type: new \nAbstract: Strong light-matter interactions are central to state-of-the-art quantum technologies, spanning platforms as diverse as Rydberg atoms, trapped ions, an...",
-        "link": "https://arxiv.org/abs/2611.05460"
+        "title": "\ud83d\udcc4 Physical regimes of quartic quantum advantage in elastic media simulation",
+        "summary": "arXiv:2611.06975v1 Announce Type: new \nAbstract: Quantum algorithms for elastic media simulation have been conjectured to offer up to a quartic quantum advantage over classical methods; however, the d...",
+        "link": "https://arxiv.org/abs/2611.06975"
       },
       {
-        "title": "\ud83d\udcc4 Spectral measures and sharpness of quantum speed limits",
-        "summary": "arXiv:2611.05462v1 Announce Type: new \nAbstract: Quantum speed limits bound the time required for a given state to evolve into a given subspace of the Hilbert space under specific energy constraints. ...",
-        "link": "https://arxiv.org/abs/2611.05462"
+        "title": "\ud83d\udcc4 FNO-Based Inverse Co-Design of Semiconducting Quantum-Dot Devices",
+        "summary": "arXiv:2611.06994v1 Announce Type: new \nAbstract: Gate-defined semiconductor quantum dots are promising building blocks for scalable spin-based quantum processors, however their operational properties ...",
+        "link": "https://arxiv.org/abs/2611.06994"
       },
       {
-        "title": "\ud83d\udcc4 Toward a Quantum Information Foundation for Neutron Scattering",
-        "summary": "arXiv:2611.05466v1 Announce Type: new \nAbstract: Neutron scattering is a central probe of quantum materials, yet what quantum information can, in principle, be extracted from a scattering experiment r...",
-        "link": "https://arxiv.org/abs/2611.05466"
+        "title": "\ud83d\udcc4 All Bell inequalities with a quantum advantage in the minimal scenario are self-testing",
+        "summary": "arXiv:2611.06997v1 Announce Type: new \nAbstract: In the minimal Bell scenario, all extremal quantum correlations are known, but the Tsirelson inequalities that delimit the quantum set remain poorly un...",
+        "link": "https://arxiv.org/abs/2611.06997"
       },
       {
-        "title": "\ud83d\udcc4 IBM Quantum and QuICS Deploy AI Agents to Discover Over 500 High-Efficiency Magic-State Factories",
-        "summary": "IBM Quantum and QuICS researchers have discovered over 500 new \"magic-state factories\" using AI agents and deterministic solvers. These factories produce non-Clifford states with significantly lower r...",
-        "link": "https://quantumcomputingreport.com/ibm-quantum-and-quics-deploy-ai-agents-to-discover-over-500-high-efficiency-magic-state-factories/"
+        "title": "\ud83d\udcc4 IQM and Volkswagen Advance Quantum-Classical AFQMC to Simulate Next-Generation Battery Chemistry",
+        "summary": "IQM Quantum Computers and Volkswagen Group Innovation have significantly advanced Quantum-Classical Auxiliary-Field Quantum Monte Carlo (QC-AFQMC) for simulating battery chemistry. They achieved up to...",
+        "link": "https://quantumcomputingreport.com/iqm-and-volkswagen-advance-quantum-classical-afqmc-to-simulate-next-generation-battery-chemistry/"
       },
       {
-        "title": "\ud83d\udcc4 Qoro Quantum Opens Cloud GPU Simulation Tier to Accelerate Large-Scale Circuit Emulation",
-        "summary": "Qoro Quantum has launched a new cloud-based GPU simulation tier for its Divi Python framework, allowing researchers to run tensor-network and noisy quantum circuit simulations without manual cluster a...",
-        "link": "https://quantumcomputingreport.com/qoro-quantum-opens-cloud-gpu-simulation-tier-to-accelerate-large-scale-circuit-emulation/"
+        "title": "\ud83d\udcc4 Quantinuum Unveils Nexus Roadmap to Automate Fault-Tolerant Application Deployment Through 2029",
+        "summary": "Quantinuum has unveiled its Nexus roadmap, outlining a platform to automate fault-tolerant quantum application deployment through 2029. This platform will transition developers from physical qubit exp...",
+        "link": "https://quantumcomputingreport.com/quantinuum-unveils-nexus-roadmap-to-automate-fault-tolerant-application-deployment-through-2029/"
       }
     ],
     "CyberSecurity": [
@@ -75,36 +75,36 @@
     ],
     "Space": [
       {
-        "title": "\ud83d\udcc4 Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution",
-        "summary": "Czech company Spacemanic and Belgian optical leader Simera Sense are teaming up to deliver a new dual-use satellite solution that can compete with bigger and heavier satellites. Simera Sense xScape200...",
-        "link": "https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/"
+        "title": "\ud83d\udcc4 CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
+        "summary": "CesiumAstro Inc., a global leader in space and defense communications systems and satellites, today announced the closing of $730 million in Series D financing, valuing the company at more than [&#823...",
+        "link": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/"
       },
       {
-        "title": "\ud83d\udcc4 DETUMBLER: Airbus\u2019 Passive Spin Stabilization Solution",
-        "summary": "The tumbling crisis: why dead satellites threaten orbit Every year, hundreds of satellites reach end-of-life, most are deorbited, but some fail abruptly. Yet, even when properly decommissioned, some d...",
-        "link": "https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution/"
+        "title": "\ud83d\udcc4 Cork Takes the Heat So DRACO\u2019s Data Can Survive",
+        "summary": "Mozelos, Portugal, September 2, 2026 &#8211; Amorim Cork Solutions is contributing its P50 cork-based thermal protection material to DRACO, a European Space Agency (ESA) mission designed to capture ra...",
+        "link": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/"
       },
       {
-        "title": "\ud83d\udcc4 How to Expand Reliable, Flexible Access to Space",
-        "summary": "The space industry launched more rockets into orbit last year than ever before, yet satellite operators are confronting an unexpected problem: There still aren\u2019t enough rides to go around. And [&#8230...",
-        "link": "https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/"
+        "title": "\ud83d\udcc4 Building a \u2018highway to the moon and back\u2019 with Winnie Lai",
+        "summary": "In this episode, SpaceNews\u2019 Mike Gruss speaks with Winnie Lai, CEO of Auriga Space. They talk about how electromagnetic launch technology that \u201ccatapults\u201d small launch vehicles could cut down on [&#82...",
+        "link": "https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai/"
       }
     ],
     "Renewables": [
       {
-        "title": "\ud83d\udcc4 Elon Musk Threw Away $474 Million (Or More) \u2026 But May Benefit From Failing",
-        "summary": "Some people think Elon Musk has lost his mind. Others think he&#8217;s always been a charlatan and has just had an insane amount of luck. Some people think he&#8217;s a genius and that everything he t...",
-        "link": "https://cleantechnica.com/2026/11/04/elon-musk-threw-away-474-million-or-more-but-may-benefit-from-failing/"
+        "title": "\ud83d\udcc4 Thermal Dawn \u2014 Thermal Storage Is Cheap Storage",
+        "summary": "Another great idea from Down Under: Thermal Dawn promises cost effective heating and cooling, mainly by replacing gas boilers in cold climates. CleanTechnica had a chance to interview Nick Zeniou, Fou...",
+        "link": "https://cleantechnica.com/2026/11/05/thermal-dawn-thermal-storage-is-cheap-storage/"
       },
       {
-        "title": "\ud83d\udcc4 Who Controls the Battery in Your Driveway?",
-        "summary": "Tesla brought home power backup to America. In Australia, an update is switching it off. North American owners just got Powershare with Powerwall. Australian owners of existing Teslas got a software u...",
-        "link": "https://cleantechnica.com/2026/11/04/who-controls-the-battery-in-your-driveway/"
+        "title": "\ud83d\udcc4 XPENG Researchers and Academic Partners Introduce GroundingPI, An Open-Source Visual Perception Model For Physical AI",
+        "summary": "Developed by researchers affiliated with XPENG, Peking University, The University of Hong Kong and other academic institutions, GroundingPI introduces a perception-focused approach to foundation model...",
+        "link": "https://cleantechnica.com/2026/11/05/xpeng-researchers-and-academic-partners-introduce-groundingpi-an-open-source-visual-perception-model-for-physical-ai/"
       },
       {
-        "title": "\ud83d\udcc4 Bay Area Air District Moves Forward with Nation\u2019s Strongest Water Heater Standards",
-        "summary": "Health advocates, environmental groups, heat pump installers, local electeds celebrate decision as. SAN FRANCISCO\u00a0\u2014\u00a0The Bay Area Air District voted today to move forward with the strongest clean appli...",
-        "link": "https://cleantechnica.com/2026/11/04/bay-area-air-district-moves-forward-with-nations-strongest-water-heater-standards/"
+        "title": "\ud83d\udcc4 You Need A New Car? Go Electric! It\u2019s Superior Technology. Part 2",
+        "summary": "Some reasons why you shouldn\u2019t be worried about buying an electric vehicle. Everyone knows that electric cars are much more inconvenient than gas cars. After all, there is a gas station on every corne...",
+        "link": "https://cleantechnica.com/2026/11/05/you-need-a-new-car-go-electric-its-superior-technology-part-2/"
       },
       {
         "title": "\ud83d\udcc4 The transformative potential of solid-state transformers",
@@ -119,90 +119,90 @@
     ],
     "Energy": [
       {
+        "title": "\ud83d\udcc4 Analysis: China\u2019s quarterly CO2 falls 3% in largest drop since Covid",
+        "summary": "China\u2019s carbon dioxide (CO2) emissions fell by 3.1% in the third quarter of 2026, as the Hormuz crisis continued to&#8230;\nThe post Analysis: China\u2019s quarterly CO2 falls 3% in largest drop since Covid...",
+        "link": "https://www.carbonbrief.org/analysis-chinas-quarterly-co2-falls-3-in-largest-drop-since-covid"
+      },
+      {
+        "title": "\ud83d\udcc4 Interactive: Tracking negotiating texts at the COP31 climate summit",
+        "summary": "The centrepiece of every UN climate summit is for countries to negotiate the wording of a large number of legal&#8230;\nThe post Interactive: Tracking negotiating texts at the COP31 climate summit appe...",
+        "link": "https://www.carbonbrief.org/interactive-tracking-negotiating-texts-at-the-cop31-climate-summit"
+      },
+      {
         "title": "\ud83d\udcc4 Q&A: What is the Brazil-led \u2018deforestation roadmap\u2019?",
         "summary": "On 3 November, the Brazilian presidency of the COP30 climate talks released its long-awaited \u201croadmap\u201d on ending deforestation.&#160; Ahead of&#8230;\nThe post Q&amp;A: What is the Brazil-led \u2018deforest...",
         "link": "https://www.carbonbrief.org/qa-what-is-the-brazil-led-deforestation-roadmap"
       },
       {
-        "title": "\ud83d\udcc4 Q&A: What is in the global \u2018roadmap\u2019 for transitioning away from fossil fuels?",
-        "summary": "Transitioning away from fossil fuels is \u201curgent, inevitable and, yet, possible\u201d, according to a first-of-its-kind global \u201croadmap\u201d produced by Brazil.&#8230;\nThe post Q&amp;A: What is in the global \u2018r...",
-        "link": "https://www.carbonbrief.org/qa-what-is-in-the-global-roadmap-for-transitioning-away-from-fossil-fuels"
+        "title": "\ud83d\udcc4 \u2018It\u2019s a no-brainer\u2019: Alfen CEO on sodium-ion BESS plans with CATL",
+        "summary": "We catch up with the CEO of Netherlands-headquartered system integrator Alfen to discuss its sodium-ion BESS partnership with CATL and plans for the technology in Europe....",
+        "link": "https://www.energy-storage.news/alfen-ceo-sodium-ion-bess-plans-catl/"
       },
       {
-        "title": "\ud83d\udcc4 CB Live: Carbon Brief\u2019s team at COP17 on the nature talks\u2019 key outcomes",
-        "summary": "Following this year\u2019s UN COP17 biodiversity conference, Carbon Brief\u2019s journalists hosted a livestream to explain what happened at the summit.&#8230;\nThe post CB Live: Carbon Brief\u2019s team at COP17 on ...",
-        "link": "https://www.carbonbrief.org/cb-live-carbon-briefs-team-at-cop17-on-the-nature-talks-key-outcomes"
-      },
-      {
-        "title": "\ud83d\udcc4 US Midterms: China\u2019s battery stocks jump, but Korean ones soar in reaction to Democrat wins",
-        "summary": "The Democrats have won the House and the Senate in the US Midterm elections, dealing a blow to the Trump administration and sending Chinese and Korean battery share prices upwards....",
-        "link": "https://www.energy-storage.news/us-midterms-chinas-battery-stocks-jump-korean-ones-soar-reaction-democrat-wins/"
-      },
-      {
-        "title": "\ud83d\udcc4 LG Energy Solution reports 60% growth in ESS shipments, 160GWh order backlog",
-        "summary": "LG Energy Solution saw 28% quarter-on-quarter growth in revenue in Q3 2026, with \u201csignificant energy storage system (ESS) shipment growth\u201d among the main drivers....",
-        "link": "https://www.energy-storage.news/lg-energy-solution-reports-60-growth-in-ess-shipments-160gwh-order-backlog/"
+        "title": "\ud83d\udcc4 US distributed energy storage updates from Base Power and Sunrun",
+        "summary": "US retail giant Walmart has made a strategic investment in home battery storage firm Base Power, while Sunrun has doubled the size of its home battery VPP in Puerto Rico....",
+        "link": "https://www.energy-storage.news/us-distributed-energy-storage-updates-from-base-power-and-sunrun/"
       }
     ],
     "MedTech": [
       {
-        "title": "\ud83d\udcc4 Zimmer raises sales forecast despite slower knee business",
-        "summary": "CEO Ivan Tornos did not attribute the company&rsquo;s performance in knees to a broader market slowdown, as competitor Stryker did last week....",
-        "link": "https://www.medtechdive.com/news/zimmer-raises-sales-forecast-despite-slower-knee-business/873760/"
+        "title": "\ud83d\udcc4 Edwards bumps up sales forecast on TAVR strength in Q3",
+        "summary": "Going forward, the heart valve maker expects procedure volumes to rise following positive study data and expanded Medicare reimbursement....",
+        "link": "https://www.medtechdive.com/news/edwards-bumps-up-sales-forecast-on-tavr-strength-in-q3/873876/"
       },
       {
-        "title": "\ud83d\udcc4 Philips settles with DOJ over recalled CPAP machines",
-        "summary": "Philips will pay 288 million euros to settle an investigation related to its recall of millions of sleep and respiratory devices....",
-        "link": "https://www.medtechdive.com/news/philips-settles-with-doj-over-recalled-cpap-machines/873738/"
+        "title": "\ud83d\udcc4 Boston Scientific, Blackstone agree to $455M deal to co-fund heart pump development",
+        "summary": "As part of the agreement, Blackstone may receive regulatory and commercial milestone payments, plus royalties on net sales.&nbsp;...",
+        "link": "https://www.medtechdive.com/news/boston-scientific-blackstone-agree-to-455m-deal-to-co-fund-heart-pump-dev/873686/"
       },
       {
-        "title": "\ud83d\udcc4 3 takeaways from TCT 2026",
-        "summary": "Edwards&rsquo; TAVR device in moderate aortic stenosis drew applause from meeting attendees, while Medtronic&rsquo;s renal denervation and Abbott&rsquo;s left atrial appendage closure devices also pro...",
-        "link": "https://www.medtechdive.com/news/3-takeaways-from-tct-2026/873743/"
+        "title": "\ud83d\udcc4 MiniMed names David Segal chief medical officer",
+        "summary": "Segal is succeeding Robert Vigersky, who is transitioning to a chief medical officer emeritus role ahead of his planned retirement at the end of next year....",
+        "link": "https://www.medtechdive.com/news/minimed-names-david-segal-chief-medical-officer/873834/"
       }
     ],
     "Telecommunications": [
       {
-        "title": "\ud83d\udcc4 Energy-efficient End-to-End Communication System with Spiking Neural Networks",
-        "summary": "arXiv:2611.05550v1 Announce Type: new \nAbstract: 2030 is expected to witness the first commercial 6G systems. However, traditional modular communication architectures cannot meet the latency, optimisa...",
-        "link": "https://arxiv.org/abs/2611.05550"
+        "title": "\ud83d\udcc4 ReDrone5G: Field Trial Evaluation of Remote UAV Media and Control over Public and Private 5G Networks",
+        "summary": "arXiv:2611.07068v1 Announce Type: new \nAbstract: Drone-assisted live media production stresses cellular networks by combining high-rate uplink video, continuous telemetry, and latency-sensitive comman...",
+        "link": "https://arxiv.org/abs/2611.07068"
       },
       {
-        "title": "\ud83d\udcc4 Optimization of Joint Beamforming in RIS-aided Multi-carrier and Multi-user MIMO Systems",
-        "summary": "arXiv:2611.05796v1 Announce Type: new \nAbstract: Reconfigurable intelligent surface (RIS)-aided multiple-input multiple-output (MIMO) communication is a promising enabler for beyond-fifth-generation w...",
-        "link": "https://arxiv.org/abs/2611.05796"
+        "title": "\ud83d\udcc4 A First Look at Starlink Maritime on Cruise Ships",
+        "summary": "arXiv:2611.07191v1 Announce Type: new \nAbstract: Low-Earth-Orbit (LEO) satellite networks are reshaping maritime connectivity, offering much lower latency and higher capacity than traditional geostati...",
+        "link": "https://arxiv.org/abs/2611.07191"
       },
       {
-        "title": "\ud83d\udcc4 StarWorld: A Cross-Layer World Model for Starlink Prediction and Streaming",
-        "summary": "arXiv:2611.05832v1 Announce Type: new \nAbstract: Starlink and other low Earth orbit (LEO) satellite broadband systems exhibit stochastic access dynamics whose effects propagate from network measuremen...",
-        "link": "https://arxiv.org/abs/2611.05832"
+        "title": "\ud83d\udcc4 IRIS: Intelligent Random Access with Integrated Shared Learning for Decentralized LEO Direct-to-Satellite Uplinks",
+        "summary": "arXiv:2611.07201v1 Announce Type: new \nAbstract: Grant-free uplink access in low-Earth-orbit (LEO) non-terrestrial networks (NTNs) poses a coordination challenge when multiple UEs share a satellite ch...",
+        "link": "https://arxiv.org/abs/2611.07201"
       },
       {
-        "title": "\ud83d\udcc4 Optimum forms group to explore 'potential strategic and financial transactions'",
-        "summary": "Debt-laden broadband operator Optimum Communications has expanded its board by two members who will serve on a special committee tasked with exploring possible transactions spanning financing, restruc...",
-        "link": "https://www.lightreading.com/cable-technology/optimum-forms-group-to-explore-potential-strategic-and-financial-transactions-"
+        "title": "\ud83d\udcc4 Vistance CEO stepping down in wake of CommScope dismantling",
+        "summary": "Chuck Treadway will step down as CEO of Vistance in February, an exit that follows a series of divestitures that got the company (formerly known as CommScope) clear of a massive debt load. Vistance is...",
+        "link": "https://www.lightreading.com/cable-technology/vistance-ceo-stepping-down-in-wake-of-commscope-dismantling"
       },
       {
-        "title": "\ud83d\udcc4 AT&amp;T, Rakuten tout integration with Starlink rival AST SpaceMobile for D2D services",
-        "summary": "AT&amp;T makes first call handoff to satellite with AST SpaceMobile and prepares for beta service, while Rakuten targets commercial launch in 'near future.'...",
-        "link": "https://www.lightreading.com/satellite/at-t-rakuten-tout-integration-with-starlink-rival-ast-spacemobile-for-d2d-services"
+        "title": "\ud83d\udcc4 Deutsche Telekom braces for SpaceX impact in US",
+        "summary": "Deutsche Telekom CEO Tim H\u00f6ttges says he takes SpaceX seriously as a new mobile network competitor in the US, as the carrier reports Q3 earnings....",
+        "link": "https://www.lightreading.com/finance/deutsche-telekom-braces-for-spacex-impact-in-us"
       }
     ],
     "Robotics": [
       {
-        "title": "\ud83d\udcc4 Jev with Foresight: Safe Language-Guided Autonomous Driving via a Language World Model",
-        "summary": "arXiv:2611.05448v1 Announce Type: new \nAbstract: Large language models understand passengers' driving commands, but as driving agents they reason in generated text for seconds and must infer each acti...",
-        "link": "https://arxiv.org/abs/2611.05448"
+        "title": "\ud83d\udcc4 Curvature by Design: A Support Structure for Continuum Robots",
+        "summary": "arXiv:2611.07091v1 Announce Type: new \nAbstract: Constant- and piecewise-constant-curvature models are widely used to simplify the kinematics of continuum robots, although the assumed curvature profil...",
+        "link": "https://arxiv.org/abs/2611.07091"
       },
       {
-        "title": "\ud83d\udcc4 Ctrl-F: Force as an Interface for Humanoid Loco-Manipulation",
-        "summary": "arXiv:2611.05507v1 Announce Type: new \nAbstract: Humanoid motion tracking has scaled to general policies that reproduce diverse human motion, but the resulting behavior is in free-space: the tracker k...",
-        "link": "https://arxiv.org/abs/2611.05507"
+        "title": "\ud83d\udcc4 Spatial-UMI-Dream: Scaling World Action Models with Metric Geometry for UMI Manipulation",
+        "summary": "arXiv:2611.07229v1 Announce Type: new \nAbstract: The Universal Manipulation Interface (UMI) enables scalable demonstration collection independently of a specific robot. However, its moving, close-rang...",
+        "link": "https://arxiv.org/abs/2611.07229"
       },
       {
-        "title": "\ud83d\udcc4 MESA: An Evaluation Framework for Compositional, Semantic, and Spatial Generalization in Robotics",
-        "summary": "arXiv:2611.05567v1 Announce Type: new \nAbstract: Despite growing interest in foundation models for robotic manipulation, systematic evaluation of their capabilities remains elusive. Existing benchmark...",
-        "link": "https://arxiv.org/abs/2611.05567"
+        "title": "\ud83d\udcc4 Adaptive Hybrid Force-Vision Control with EMG-Derived References for Deformable Bottle Manipulation",
+        "summary": "arXiv:2611.07235v1 Announce Type: new \nAbstract: Robotic automation of laboratory tasks has become a growing interest to remove researchers from hazardous environments and repetitive procedures. Howev...",
+        "link": "https://arxiv.org/abs/2611.07235"
       }
     ]
   },
