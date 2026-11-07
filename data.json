@@ -1,76 +1,56 @@
 {
-  "last_updated": "2026-11-06 06:58 UTC",
+  "last_updated": "2026-11-07 06:43 UTC",
   "is_sunday_edition": false,
   "sectors": {
     "AI": [
       {
-        "title": "\ud83d\udcc4 Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation",
-        "summary": "arXiv:2611.06962v1 Announce Type: new \nAbstract: Proof assistants such as Lean check mathematical proofs down to the axioms, and AI agents have recently made writing such proofs cheap. We describe Aut...",
-        "link": "https://arxiv.org/abs/2611.06962"
+        "title": "\ud83d\udcc4 ToyBlocks: A controlled world for robot learning and evaluation",
+        "summary": "...",
+        "link": "https://huggingface.co/blog/allenai/toyblocks"
       },
       {
-        "title": "\ud83d\udcc4 KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks",
-        "summary": "arXiv:2611.06972v1 Announce Type: new \nAbstract: Liability adjudication tasks (e.g., legal charge determination) require analyzing event descriptions against domain-specific skills to determine whethe...",
-        "link": "https://arxiv.org/abs/2611.06972"
-      },
-      {
-        "title": "\ud83d\udcc4 BlockLock: Reproducible LLM Inference with Fixed Batch Geometry",
-        "summary": "arXiv:2611.06977v1 Announce Type: new \nAbstract: Reproducible LLM inference requires that a request produces the same output regardless of the other requests in the batch. Existing solutions pay for t...",
-        "link": "https://arxiv.org/abs/2611.06977"
+        "title": "\ud83d\udcc4 Egyptian and Nigerian English join the Open ASR Leaderboard",
+        "summary": "...",
+        "link": "https://huggingface.co/blog/open-asr-leaderboard-liva"
       },
       {
         "title": "\ud83d\udcc4 New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
         "summary": "...",
         "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"
-      },
-      {
-        "title": "\ud83d\udcc4 A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-        "summary": "...",
-        "link": "https://huggingface.co/blog/phonon-tts"
       }
     ],
     "Quantum": [
       {
-        "title": "\ud83d\udcc4 Physical regimes of quartic quantum advantage in elastic media simulation",
-        "summary": "arXiv:2611.06975v1 Announce Type: new \nAbstract: Quantum algorithms for elastic media simulation have been conjectured to offer up to a quartic quantum advantage over classical methods; however, the d...",
-        "link": "https://arxiv.org/abs/2611.06975"
+        "title": "\ud83d\udcc4 NQCC Signs Enterprise Agreement with Phasecraft to Provide Quantum Software via SparQ Access",
+        "summary": "In November 2026, the NQCC and Phasecraft signed an agreement to provide UK organizations with access to Phasecraft's quantum software via SparQ Access. This partnership aims to lower the technical ba...",
+        "link": "https://quantumcomputingreport.com/nqcc-signs-enterprise-agreement-with-phasecraft-to-provide-quantum-software-via-sparq-access/"
       },
       {
-        "title": "\ud83d\udcc4 FNO-Based Inverse Co-Design of Semiconducting Quantum-Dot Devices",
-        "summary": "arXiv:2611.06994v1 Announce Type: new \nAbstract: Gate-defined semiconductor quantum dots are promising building blocks for scalable spin-based quantum processors, however their operational properties ...",
-        "link": "https://arxiv.org/abs/2611.06994"
-      },
-      {
-        "title": "\ud83d\udcc4 All Bell inequalities with a quantum advantage in the minimal scenario are self-testing",
-        "summary": "arXiv:2611.06997v1 Announce Type: new \nAbstract: In the minimal Bell scenario, all extremal quantum correlations are known, but the Tsirelson inequalities that delimit the quantum set remain poorly un...",
-        "link": "https://arxiv.org/abs/2611.06997"
+        "title": "\ud83d\udcc4 IQM Quantum Computers Reports Q3 2026 Results: Backlog Expands to \u20ac102.5M, Q3 Revenue Up 51%, and FY 2026 Guidance Reaffirmed",
+        "summary": "IQM Quantum Computers reported strong Q3 2026 results with revenue up 50.7% to \u20ac8.86 million, and a record order intake of \u20ac42.2 million, expanding their backlog to \u20ac102.5 million. They finalized a \u20ac3...",
+        "link": "https://quantumcomputingreport.com/iqm-quantum-computers-reports-q3-2026-results-backlog-expands-to-e102-5m-q3-revenue-up-51-and-fy-2026-guidance-reaffirmed/"
       },
       {
         "title": "\ud83d\udcc4 IQM and Volkswagen Advance Quantum-Classical AFQMC to Simulate Next-Generation Battery Chemistry",
         "summary": "IQM Quantum Computers and Volkswagen Group Innovation have significantly advanced Quantum-Classical Auxiliary-Field Quantum Monte Carlo (QC-AFQMC) for simulating battery chemistry. They achieved up to...",
         "link": "https://quantumcomputingreport.com/iqm-and-volkswagen-advance-quantum-classical-afqmc-to-simulate-next-generation-battery-chemistry/"
-      },
-      {
-        "title": "\ud83d\udcc4 Quantinuum Unveils Nexus Roadmap to Automate Fault-Tolerant Application Deployment Through 2029",
-        "summary": "Quantinuum has unveiled its Nexus roadmap, outlining a platform to automate fault-tolerant quantum application deployment through 2029. This platform will transition developers from physical qubit exp...",
-        "link": "https://quantumcomputingreport.com/quantinuum-unveils-nexus-roadmap-to-automate-fault-tolerant-application-deployment-through-2029/"
       }
     ],
     "CyberSecurity": [
       {
+        "title": "\ud83d\udcc4 Friday Squid Blogging: New Jurassic Squid Predecessors",
+        "summary": "News story: &#8220;Scientists discover a bizarre Jurassic &#8216;squid&#8217; unlike anything ever seen.&#8221;\nScientists have identified the &#8220;fattest&#8221; belemnite ever discovered, a bizarr...",
+        "link": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-new-jurassic-squid-predecessors.html"
+      },
+      {
+        "title": "\ud83d\udcc4 Pinpointing Location of Videos from Background Airplane Sounds",
+        "summary": "This is fascinating:\nThe video describes a technique that can reveal where an otherwise unidentifiable recording was made by analyzing its audio for the faint sounds of passing aircraft. The technique...",
+        "link": "https://www.schneier.com/blog/archives/2026/11/pinpointing-location-of-videos-from-background-airplane-sounds.html"
+      },
+      {
         "title": "\ud83d\udcc4 AIs Hacking the Law",
         "summary": "In both a 2021 essay and my 2022 book, A Hacker&#8217;s Mind, I talk about AIs finding vulnerabilities and exploits&#8212;hacking&#8212;the legal system.\nHere&#8217;s some demonstrations of this from ...",
         "link": "https://www.schneier.com/blog/archives/2026/11/ais-hacking-the-law.html"
-      },
-      {
-        "title": "\ud83d\udcc4 AI Vulnerability Finding",
-        "summary": "A comment:\n3% of &#8216;critical&#8217; software security bugs, in all of recorded history, have been found in the last month. This is on pace to find another ~100,000 bugs this year alone, adding ~26...",
-        "link": "https://www.schneier.com/blog/archives/2026/11/ai-vulnerability-finding-2.html"
-      },
-      {
-        "title": "\ud83d\udcc4 Friday Squid Blogging: Bigfin Squid Off California Coast",
-        "summary": "Neat video:\nThe sighting, announced September 2, marks the first time anyone has spotted a live bigfin squid, which belongs to the Magnapinna genus, in the northeastern Pacific Ocean.\nAs usual, you ca...",
-        "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-bigfin-squid-off-california-coast.html"
       }
     ],
     "Space": [
@@ -92,32 +72,37 @@
     ],
     "Renewables": [
       {
-        "title": "\ud83d\udcc4 Thermal Dawn \u2014 Thermal Storage Is Cheap Storage",
-        "summary": "Another great idea from Down Under: Thermal Dawn promises cost effective heating and cooling, mainly by replacing gas boilers in cold climates. CleanTechnica had a chance to interview Nick Zeniou, Fou...",
-        "link": "https://cleantechnica.com/2026/11/05/thermal-dawn-thermal-storage-is-cheap-storage/"
+        "title": "\ud83d\udcc4 NRDC Assessment of BAAJA, the 2026 Permitting & Transmission Bill",
+        "summary": "The Bipartisan American Affordability and Jobs Act of 2026 (BAAJA) is the result of years of negotiations on permitting reform. The product is a bill that combines critically important transmission an...",
+        "link": "https://cleantechnica.com/2026/11/06/nrdc-assessment-of-baaja-the-2026-permitting-transmission-bill/"
       },
       {
-        "title": "\ud83d\udcc4 XPENG Researchers and Academic Partners Introduce GroundingPI, An Open-Source Visual Perception Model For Physical AI",
-        "summary": "Developed by researchers affiliated with XPENG, Peking University, The University of Hong Kong and other academic institutions, GroundingPI introduces a perception-focused approach to foundation model...",
-        "link": "https://cleantechnica.com/2026/11/05/xpeng-researchers-and-academic-partners-introduce-groundingpi-an-open-source-visual-perception-model-for-physical-ai/"
+        "title": "\ud83d\udcc4 Solar Industry Shows Hope After US Election, Focuses On Key Message",
+        "summary": "Let&#8217;s be honest \u2014 even with humongous, epic control of Congress like we haven&#8217;t seen in several decades, Democrats can&#8217;t really do anything legislatively unless Donald Trump wants to...",
+        "link": "https://cleantechnica.com/2026/11/06/solar-industry-shows-hope-after-us-election-focuses-on-key-message/"
       },
       {
-        "title": "\ud83d\udcc4 You Need A New Car? Go Electric! It\u2019s Superior Technology. Part 2",
-        "summary": "Some reasons why you shouldn\u2019t be worried about buying an electric vehicle. Everyone knows that electric cars are much more inconvenient than gas cars. After all, there is a gas station on every corne...",
-        "link": "https://cleantechnica.com/2026/11/05/you-need-a-new-car-go-electric-its-superior-technology-part-2/"
+        "title": "\ud83d\udcc4 Tampa Community Turns Out for Sierra Club\u2019s \u2018Power & Perspectives: The Energy Dialogue\u2019",
+        "summary": "TAMPA, Fla. \u2014 On Thursday, November 5, Sierra Club Florida and partner organizations hosted \u201cPower &#38; Perspectives: The Energy Dialogue,\u201d a community town hall addressing TECO bill increases and th...",
+        "link": "https://cleantechnica.com/2026/11/06/tampa-community-turns-out-for-sierra-clubs-power-perspectives-the-energy-dialogue/"
+      },
+      {
+        "title": "\ud83d\udcc4 Best of October 2026",
+        "summary": "Highlights from the eight conversations released last month....",
+        "link": "https://www.volts.wtf/p/best-of-october-2026"
       },
       {
         "title": "\ud83d\udcc4 The transformative potential of solid-state transformers",
         "summary": "A conversation with Raghu Belur of Enphase....",
         "link": "https://www.volts.wtf/p/the-transformative-potential-of-solid"
-      },
-      {
-        "title": "\ud83d\udcc4 The (climate) case against (AI) data centers",
-        "summary": "A conversation with Ketan Joshi....",
-        "link": "https://www.volts.wtf/p/the-climate-case-against-ai-data"
       }
     ],
     "Energy": [
+      {
+        "title": "\ud83d\udcc4 \u2018Simply staggering\u2019: Rapidly developing \u2018super El Ni\u00f1o\u2019 on track to peak in December",
+        "summary": "The ongoing \u201csuper El Ni\u00f1o\u201d is likely to peak at the end of 2026 and push average global temperatures to&#8230;\nThe post \u2018Simply staggering\u2019: Rapidly developing \u2018super El Ni\u00f1o\u2019 on track to peak in Dec...",
+        "link": "https://www.carbonbrief.org/simply-staggering-rapidly-developing-super-el-nino-on-track-to-peak-in-december"
+      },
       {
         "title": "\ud83d\udcc4 Analysis: China\u2019s quarterly CO2 falls 3% in largest drop since Covid",
         "summary": "China\u2019s carbon dioxide (CO2) emissions fell by 3.1% in the third quarter of 2026, as the Hormuz crisis continued to&#8230;\nThe post Analysis: China\u2019s quarterly CO2 falls 3% in largest drop since Covid...",
@@ -129,82 +114,51 @@
         "link": "https://www.carbonbrief.org/interactive-tracking-negotiating-texts-at-the-cop31-climate-summit"
       },
       {
-        "title": "\ud83d\udcc4 Q&A: What is the Brazil-led \u2018deforestation roadmap\u2019?",
-        "summary": "On 3 November, the Brazilian presidency of the COP30 climate talks released its long-awaited \u201croadmap\u201d on ending deforestation.&#160; Ahead of&#8230;\nThe post Q&amp;A: What is the Brazil-led \u2018deforest...",
-        "link": "https://www.carbonbrief.org/qa-what-is-the-brazil-led-deforestation-roadmap"
+        "title": "\ud83d\udcc4 Ford Energy partners with DESRI to deploy US BESS",
+        "summary": "Renewables developer D. E. Shaw Renewable Investments (DESRI) and Ford Motor Company\u2019s energy storage subsidiary, Ford Energy, will partner to deploy energy storage in the US....",
+        "link": "https://www.energy-storage.news/ford-energy-partners-with-desri-to-deploy-us-bess/"
       },
       {
-        "title": "\ud83d\udcc4 \u2018It\u2019s a no-brainer\u2019: Alfen CEO on sodium-ion BESS plans with CATL",
-        "summary": "We catch up with the CEO of Netherlands-headquartered system integrator Alfen to discuss its sodium-ion BESS partnership with CATL and plans for the technology in Europe....",
-        "link": "https://www.energy-storage.news/alfen-ceo-sodium-ion-bess-plans-catl/"
-      },
-      {
-        "title": "\ud83d\udcc4 US distributed energy storage updates from Base Power and Sunrun",
-        "summary": "US retail giant Walmart has made a strategic investment in home battery storage firm Base Power, while Sunrun has doubled the size of its home battery VPP in Puerto Rico....",
-        "link": "https://www.energy-storage.news/us-distributed-energy-storage-updates-from-base-power-and-sunrun/"
+        "title": "\ud83d\udcc4 BESS Industry Buzz: Blue Wave in the midterms, RTE disagreements, cybersecurity incident in Chile",
+        "summary": "Welcome to our latest BESS Industry Buzz, this week featuring the US midterms, ultra-rapid BESS commissioning, how to calculate RTE and a cybersecurity incident in Chile....",
+        "link": "https://www.energy-storage.news/bess-industry-buzz-blue-wave-in-the-midterms-rte-disagreements-cybersecurity-incident-in-chile/"
       }
     ],
     "MedTech": [
       {
-        "title": "\ud83d\udcc4 Edwards bumps up sales forecast on TAVR strength in Q3",
-        "summary": "Going forward, the heart valve maker expects procedure volumes to rise following positive study data and expanded Medicare reimbursement....",
-        "link": "https://www.medtechdive.com/news/edwards-bumps-up-sales-forecast-on-tavr-strength-in-q3/873876/"
+        "title": "\ud83d\udcc4 Natera promotes Solomon Moshkevich to CEO",
+        "summary": "The CEO change was unexpected and prompted a stock selloff Friday, analysts said, but the new chief executive is prepared for the role....",
+        "link": "https://www.medtechdive.com/news/natera-promotes-solomon-moshkevich-to-ceo/874022/"
       },
       {
-        "title": "\ud83d\udcc4 Boston Scientific, Blackstone agree to $455M deal to co-fund heart pump development",
-        "summary": "As part of the agreement, Blackstone may receive regulatory and commercial milestone payments, plus royalties on net sales.&nbsp;...",
-        "link": "https://www.medtechdive.com/news/boston-scientific-blackstone-agree-to-455m-deal-to-co-fund-heart-pump-dev/873686/"
+        "title": "\ud83d\udcc4 Tandem Diabetes Care names next CEO",
+        "summary": "Jeannette Bankes will take over the role from John Sheridan, who will retire at the end of the year after leading the company since 2019....",
+        "link": "https://www.medtechdive.com/news/tandem-diabetes-care-names-next-ceo/874001/"
       },
       {
-        "title": "\ud83d\udcc4 MiniMed names David Segal chief medical officer",
-        "summary": "Segal is succeeding Robert Vigersky, who is transitioning to a chief medical officer emeritus role ahead of his planned retirement at the end of next year....",
-        "link": "https://www.medtechdive.com/news/minimed-names-david-segal-chief-medical-officer/873834/"
+        "title": "\ud83d\udcc4 Medicare will cut billions from 340B, expand site-neutral payments in 2027",
+        "summary": "Regulators finalized a rule Wednesday that would slash payments for drugs in the controversial 340B program and equalize some payments between care sites. Hospitals railed against the rule....",
+        "link": "https://www.medtechdive.com/news/medicare-will-cut-billions-from-340b-expand-site-neutral-payments-in-2027/873992/"
       }
     ],
     "Telecommunications": [
       {
-        "title": "\ud83d\udcc4 ReDrone5G: Field Trial Evaluation of Remote UAV Media and Control over Public and Private 5G Networks",
-        "summary": "arXiv:2611.07068v1 Announce Type: new \nAbstract: Drone-assisted live media production stresses cellular networks by combining high-rate uplink video, continuous telemetry, and latency-sensitive comman...",
-        "link": "https://arxiv.org/abs/2611.07068"
+        "title": "\ud83d\udcc4 Spectrum overhauls operating model in bid to reignite growth",
+        "summary": "'We recognize that we have not generated the customer growth and performance we expect,' said Spectrum CEO Chris Winfrey, noting that the company is being redesigned 'at every level.'...",
+        "link": "https://www.lightreading.com/cable-technology/spectrum-overhauls-operating-model-in-bid-to-reignite-growth"
       },
       {
-        "title": "\ud83d\udcc4 A First Look at Starlink Maritime on Cruise Ships",
-        "summary": "arXiv:2611.07191v1 Announce Type: new \nAbstract: Low-Earth-Orbit (LEO) satellite networks are reshaping maritime connectivity, offering much lower latency and higher capacity than traditional geostati...",
-        "link": "https://arxiv.org/abs/2611.07191"
+        "title": "\ud83d\udcc4 Cable One warns of Chapter 11 possibility if financing falters",
+        "summary": "With its Mega Broadband deal still in limbo, Cable One disclosed it might be necessary to file for bankruptcy if it's unable to clinch a new financing deal and manage near-term debt....",
+        "link": "https://www.lightreading.com/cable-technology/cable-one-warns-of-chapter-11-possibility-if-financing-falters"
       },
       {
-        "title": "\ud83d\udcc4 IRIS: Intelligent Random Access with Integrated Shared Learning for Decentralized LEO Direct-to-Satellite Uplinks",
-        "summary": "arXiv:2611.07201v1 Announce Type: new \nAbstract: Grant-free uplink access in low-Earth-orbit (LEO) non-terrestrial networks (NTNs) poses a coordination challenge when multiple UEs share a satellite ch...",
-        "link": "https://arxiv.org/abs/2611.07201"
-      },
-      {
-        "title": "\ud83d\udcc4 Vistance CEO stepping down in wake of CommScope dismantling",
-        "summary": "Chuck Treadway will step down as CEO of Vistance in February, an exit that follows a series of divestitures that got the company (formerly known as CommScope) clear of a massive debt load. Vistance is...",
-        "link": "https://www.lightreading.com/cable-technology/vistance-ceo-stepping-down-in-wake-of-commscope-dismantling"
-      },
-      {
-        "title": "\ud83d\udcc4 Deutsche Telekom braces for SpaceX impact in US",
-        "summary": "Deutsche Telekom CEO Tim H\u00f6ttges says he takes SpaceX seriously as a new mobile network competitor in the US, as the carrier reports Q3 earnings....",
-        "link": "https://www.lightreading.com/finance/deutsche-telekom-braces-for-spacex-impact-in-us"
+        "title": "\ud83d\udcc4 Comcast co-founder Julian Brodsky dies at 93",
+        "summary": "Julian Brodsky, a Comcast co-founder and cable industry pioneer, died on November 5 at the age of 93, Comcast said. #pressrelease...",
+        "link": "https://www.lightreading.com/cable-technology/comcast-co-founder-julian-brodsky-dies-at-93"
       }
     ],
-    "Robotics": [
-      {
-        "title": "\ud83d\udcc4 Curvature by Design: A Support Structure for Continuum Robots",
-        "summary": "arXiv:2611.07091v1 Announce Type: new \nAbstract: Constant- and piecewise-constant-curvature models are widely used to simplify the kinematics of continuum robots, although the assumed curvature profil...",
-        "link": "https://arxiv.org/abs/2611.07091"
-      },
-      {
-        "title": "\ud83d\udcc4 Spatial-UMI-Dream: Scaling World Action Models with Metric Geometry for UMI Manipulation",
-        "summary": "arXiv:2611.07229v1 Announce Type: new \nAbstract: The Universal Manipulation Interface (UMI) enables scalable demonstration collection independently of a specific robot. However, its moving, close-rang...",
-        "link": "https://arxiv.org/abs/2611.07229"
-      },
-      {
-        "title": "\ud83d\udcc4 Adaptive Hybrid Force-Vision Control with EMG-Derived References for Deformable Bottle Manipulation",
-        "summary": "arXiv:2611.07235v1 Announce Type: new \nAbstract: Robotic automation of laboratory tasks has become a growing interest to remove researchers from hazardous environments and repetitive procedures. Howev...",
-        "link": "https://arxiv.org/abs/2611.07235"
-      }
-    ]
+    "Robotics": []
   },
   "weekly_recap": null,
   "stock_watch": []
