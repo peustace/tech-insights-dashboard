@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-07 06:43 UTC",
-  "is_sunday_edition": false,
+  "last_updated": "2026-11-08 06:44 UTC",
+  "is_sunday_edition": true,
   "sectors": {
     "AI": [
       {
@@ -21,19 +21,19 @@
     ],
     "Quantum": [
       {
-        "title": "\ud83d\udcc4 NQCC Signs Enterprise Agreement with Phasecraft to Provide Quantum Software via SparQ Access",
-        "summary": "In November 2026, the NQCC and Phasecraft signed an agreement to provide UK organizations with access to Phasecraft's quantum software via SparQ Access. This partnership aims to lower the technical ba...",
-        "link": "https://quantumcomputingreport.com/nqcc-signs-enterprise-agreement-with-phasecraft-to-provide-quantum-software-via-sparq-access/"
+        "title": "\ud83d\udcc4 Riverlane Demonstrates Data-Driven DEM Augmentation to Reduce Surface-Code Logical Errors",
+        "summary": "Riverlane has developed a data-driven method to improve quantum error correction in surface-code architectures. By identifying unmodeled correlated error mechanisms from syndrome measurement data, the...",
+        "link": "https://quantumcomputingreport.com/riverlane-demonstrates-data-driven-dem-augmentation-to-reduce-surface-code-logical-errors/"
       },
       {
-        "title": "\ud83d\udcc4 IQM Quantum Computers Reports Q3 2026 Results: Backlog Expands to \u20ac102.5M, Q3 Revenue Up 51%, and FY 2026 Guidance Reaffirmed",
-        "summary": "IQM Quantum Computers reported strong Q3 2026 results with revenue up 50.7% to \u20ac8.86 million, and a record order intake of \u20ac42.2 million, expanding their backlog to \u20ac102.5 million. They finalized a \u20ac3...",
-        "link": "https://quantumcomputingreport.com/iqm-quantum-computers-reports-q3-2026-results-backlog-expands-to-e102-5m-q3-revenue-up-51-and-fy-2026-guidance-reaffirmed/"
+        "title": "\ud83d\udcc4 Who\u2019s News: Strategic Appointments at Quantum eMotion, Qtonic Quantum, Chicago Quantum Exchange, and Equal1",
+        "summary": "Quantum eMotion, Qtonic Quantum, Chicago Quantum Exchange, and Equal1 have announced strategic appointments to key leadership positions, bringing in experienced professionals to drive their respective...",
+        "link": "https://quantumcomputingreport.com/whos-news-strategic-appointments-at-quantum-emotion-qtonic-quantum-chicago-quantum-exchange-and-equal1/"
       },
       {
-        "title": "\ud83d\udcc4 IQM and Volkswagen Advance Quantum-Classical AFQMC to Simulate Next-Generation Battery Chemistry",
-        "summary": "IQM Quantum Computers and Volkswagen Group Innovation have significantly advanced Quantum-Classical Auxiliary-Field Quantum Monte Carlo (QC-AFQMC) for simulating battery chemistry. They achieved up to...",
-        "link": "https://quantumcomputingreport.com/iqm-and-volkswagen-advance-quantum-classical-afqmc-to-simulate-next-generation-battery-chemistry/"
+        "title": "\ud83d\udcc4 CO.LAB Selects Four Startups for Inaugural CO.LAB Q Commercialization Studio in Chattanooga",
+        "summary": "CO.LAB has launched its first CO.LAB Q commercialization studio in Chattanooga, featuring four startups: RidgeQuantum, Superquantum, esoteriq, and Kottackal Business Solutions. This 12-month program, ...",
+        "link": "https://quantumcomputingreport.com/co-lab-selects-four-startups-for-inaugural-co-lab-q-commercialization-studio-in-chattanooga/"
       }
     ],
     "CyberSecurity": [
@@ -72,19 +72,19 @@
     ],
     "Renewables": [
       {
-        "title": "\ud83d\udcc4 NRDC Assessment of BAAJA, the 2026 Permitting & Transmission Bill",
-        "summary": "The Bipartisan American Affordability and Jobs Act of 2026 (BAAJA) is the result of years of negotiations on permitting reform. The product is a bill that combines critically important transmission an...",
-        "link": "https://cleantechnica.com/2026/11/06/nrdc-assessment-of-baaja-the-2026-permitting-transmission-bill/"
+        "title": "\ud83d\udcc4 A New $1.5 Billion Wind Farm Will Play In Peoria",
+        "summary": "The global energy developer Repsol is on track to construct a 500-megawatt wind farm in Peoria County, Illinois, regardless of last year's sharp U-turn in federal energy policy.\nThe post A New $1.5 Bi...",
+        "link": "https://cleantechnica.com/2026/11/07/wind-farms-us-energy-policy-lawsuits-trump/"
       },
       {
-        "title": "\ud83d\udcc4 Solar Industry Shows Hope After US Election, Focuses On Key Message",
-        "summary": "Let&#8217;s be honest \u2014 even with humongous, epic control of Congress like we haven&#8217;t seen in several decades, Democrats can&#8217;t really do anything legislatively unless Donald Trump wants to...",
-        "link": "https://cleantechnica.com/2026/11/06/solar-industry-shows-hope-after-us-election-focuses-on-key-message/"
+        "title": "\ud83d\udcc4 BMW Pitches Free EV Charging And You Ain\u2019t Seen Nothing Yet",
+        "summary": "BMW is sweetening the EV charging pot with a $500 charging credit on its 2027 i5, i7, and iX3 electric cars in the US, a move that dovetails with the rise of \"free hours\" electricity rates.\u00a0\nThe post ...",
+        "link": "https://cleantechnica.com/2026/11/07/ev-charging-credit-bmw-free-hours-us-market/"
       },
       {
-        "title": "\ud83d\udcc4 Tampa Community Turns Out for Sierra Club\u2019s \u2018Power & Perspectives: The Energy Dialogue\u2019",
-        "summary": "TAMPA, Fla. \u2014 On Thursday, November 5, Sierra Club Florida and partner organizations hosted \u201cPower &#38; Perspectives: The Energy Dialogue,\u201d a community town hall addressing TECO bill increases and th...",
-        "link": "https://cleantechnica.com/2026/11/06/tampa-community-turns-out-for-sierra-clubs-power-perspectives-the-energy-dialogue/"
+        "title": "\ud83d\udcc4 REDD \u2014 Picking Up Our New Tesla Model Y",
+        "summary": "REDD, the name for our new Tesla Model Y (Standard Range \u201926 build, \u201927 model), was inspired by the movie of the same name \u2013 Retired, Extremely Dangerous Drivers (the wife and I, of course). As mentio...",
+        "link": "https://cleantechnica.com/2026/11/07/redd-picking-up-our-new-tesla-model-y/"
       },
       {
         "title": "\ud83d\udcc4 Best of October 2026",
