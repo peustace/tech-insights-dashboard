@@ -1,8 +1,23 @@
 {
-  "last_updated": "2026-11-08 06:44 UTC",
-  "is_sunday_edition": true,
+  "last_updated": "2026-11-09 07:10 UTC",
+  "is_sunday_edition": false,
   "sectors": {
     "AI": [
+      {
+        "title": "\ud83d\udcc4 Enhancing Academic Advisement with Case-Based Reasoning",
+        "summary": "arXiv:2611.08572v1 Announce Type: new \nAbstract: This research involved the study of an application of Case-Based Reasoning (CBR) in the field of academic advising. Academic advisement has been recogn...",
+        "link": "https://arxiv.org/abs/2611.08572"
+      },
+      {
+        "title": "\ud83d\udcc4 NormGym: Evaluating Normative Competence through Social Interaction",
+        "summary": "arXiv:2611.08613v1 Announce Type: new \nAbstract: Normative competence, the ability to infer socially enforced expectations from interaction and adjust behavior accordingly, is essential for agents ope...",
+        "link": "https://arxiv.org/abs/2611.08613"
+      },
+      {
+        "title": "\ud83d\udcc4 LLM-Based Feature Extraction for Multi-Criteria Inventory Classification",
+        "summary": "arXiv:2611.08626v1 Announce Type: new \nAbstract: E-commerce supply chains generate large volumes of customer feedback and operational data that remain underutilized in inventory management. Traditiona...",
+        "link": "https://arxiv.org/abs/2611.08626"
+      },
       {
         "title": "\ud83d\udcc4 ToyBlocks: A controlled world for robot learning and evaluation",
         "summary": "...",
@@ -12,14 +27,24 @@
         "title": "\ud83d\udcc4 Egyptian and Nigerian English join the Open ASR Leaderboard",
         "summary": "...",
         "link": "https://huggingface.co/blog/open-asr-leaderboard-liva"
-      },
-      {
-        "title": "\ud83d\udcc4 New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-        "summary": "...",
-        "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"
       }
     ],
     "Quantum": [
+      {
+        "title": "\ud83d\udcc4 Integral zeros of Krawtchouk polynomials and quantum entanglements",
+        "summary": "arXiv:2611.08518v1 Announce Type: new \nAbstract: In Heo and Kiem (2019), the authors raised a problem relating integral zeros of binary Krawtchouk polynomials, parametrized by quadruples $(m,n,k,\\ell)...",
+        "link": "https://arxiv.org/abs/2611.08518"
+      },
+      {
+        "title": "\ud83d\udcc4 Thermodynamics of Speed and Efficiency with Quantum Feedback",
+        "summary": "arXiv:2611.08564v1 Announce Type: new \nAbstract: Rapid thermodynamic operations generally entail irreversible dissipation, giving rise to trade-offs between operating speed and thermodynamic cost. Yet...",
+        "link": "https://arxiv.org/abs/2611.08564"
+      },
+      {
+        "title": "\ud83d\udcc4 Magic Is in the Eye of the Measure",
+        "summary": "arXiv:2611.08586v1 Announce Type: new \nAbstract: Magic, or nonstabilizerness, is the quantum resource behind universal quantum computation. Its applications in high-energy and nuclear physics rely alm...",
+        "link": "https://arxiv.org/abs/2611.08586"
+      },
       {
         "title": "\ud83d\udcc4 Riverlane Demonstrates Data-Driven DEM Augmentation to Reduce Surface-Code Logical Errors",
         "summary": "Riverlane has developed a data-driven method to improve quantum error correction in surface-code architectures. By identifying unmodeled correlated error mechanisms from syndrome measurement data, the...",
@@ -29,11 +54,6 @@
         "title": "\ud83d\udcc4 Who\u2019s News: Strategic Appointments at Quantum eMotion, Qtonic Quantum, Chicago Quantum Exchange, and Equal1",
         "summary": "Quantum eMotion, Qtonic Quantum, Chicago Quantum Exchange, and Equal1 have announced strategic appointments to key leadership positions, bringing in experienced professionals to drive their respective...",
         "link": "https://quantumcomputingreport.com/whos-news-strategic-appointments-at-quantum-emotion-qtonic-quantum-chicago-quantum-exchange-and-equal1/"
-      },
-      {
-        "title": "\ud83d\udcc4 CO.LAB Selects Four Startups for Inaugural CO.LAB Q Commercialization Studio in Chattanooga",
-        "summary": "CO.LAB has launched its first CO.LAB Q commercialization studio in Chattanooga, featuring four startups: RidgeQuantum, Superquantum, esoteriq, and Kottackal Business Solutions. This 12-month program, ...",
-        "link": "https://quantumcomputingreport.com/co-lab-selects-four-startups-for-inaugural-co-lab-q-commercialization-studio-in-chattanooga/"
       }
     ],
     "CyberSecurity": [
@@ -72,19 +92,19 @@
     ],
     "Renewables": [
       {
-        "title": "\ud83d\udcc4 A New $1.5 Billion Wind Farm Will Play In Peoria",
-        "summary": "The global energy developer Repsol is on track to construct a 500-megawatt wind farm in Peoria County, Illinois, regardless of last year's sharp U-turn in federal energy policy.\nThe post A New $1.5 Bi...",
-        "link": "https://cleantechnica.com/2026/11/07/wind-farms-us-energy-policy-lawsuits-trump/"
+        "title": "\ud83d\udcc4 The Jackery HomePower 2000 Plus v2 Red Cross Edition \u2014 CleanTechnica Tested",
+        "summary": "Jackery was one of the earliest portable power station producers to bring these beautiful creations into the mainstream. They have a line of portable power stations and proprietary portable, foldable ...",
+        "link": "https://cleantechnica.com/2026/11/08/the-jackery-homepower-2000-plus-v2-red-cross-edition-cleantechnica-tested/"
       },
       {
-        "title": "\ud83d\udcc4 BMW Pitches Free EV Charging And You Ain\u2019t Seen Nothing Yet",
-        "summary": "BMW is sweetening the EV charging pot with a $500 charging credit on its 2027 i5, i7, and iX3 electric cars in the US, a move that dovetails with the rise of \"free hours\" electricity rates.\u00a0\nThe post ...",
-        "link": "https://cleantechnica.com/2026/11/07/ev-charging-credit-bmw-free-hours-us-market/"
+        "title": "\ud83d\udcc4 Bigger than Godzilla!",
+        "summary": "Fortescue&#8217;s plans for the Pilbara include wind turbine blades that are bigger than Godzilla. While Fortescue\u2019s boss hobnobs with King Charles III and chats about sustainability, under the Common...",
+        "link": "https://cleantechnica.com/2026/11/08/bigger-than-godzilla/"
       },
       {
-        "title": "\ud83d\udcc4 REDD \u2014 Picking Up Our New Tesla Model Y",
-        "summary": "REDD, the name for our new Tesla Model Y (Standard Range \u201926 build, \u201927 model), was inspired by the movie of the same name \u2013 Retired, Extremely Dangerous Drivers (the wife and I, of course). As mentio...",
-        "link": "https://cleantechnica.com/2026/11/07/redd-picking-up-our-new-tesla-model-y/"
+        "title": "\ud83d\udcc4 Top Selling Electric Vehicles in the World \u2014 32% EV Share in September!",
+        "summary": "BEVs Up, PHEVs Down Plugin vehicle registrations were up 3% year over year (YoY) globally in September, ending the month at around 2.16 million units, pretty darn close to the all-time record (2.17 mi...",
+        "link": "https://cleantechnica.com/2026/11/08/top-selling-electric-vehicles-in-the-world-32-ev-share-in-september/"
       },
       {
         "title": "\ud83d\udcc4 Best of October 2026",
@@ -143,6 +163,21 @@
     ],
     "Telecommunications": [
       {
+        "title": "\ud83d\udcc4 Measuring Bounded Autonomy for an LLM Decomposition Planner on a Live 5G-Core Testbed",
+        "summary": "arXiv:2611.08707v1 Announce Type: new \nAbstract: Large language models (LLMs) are entering network-management control loops, yet their plans can fall outside the executable action space. Whether hard ...",
+        "link": "https://arxiv.org/abs/2611.08707"
+      },
+      {
+        "title": "\ud83d\udcc4 Stochastic AI Model Placement for AI-and-RAN Coexistence in 6G Networks",
+        "summary": "arXiv:2611.08739v1 Announce Type: new \nAbstract: This paper considers AI-service placement over geographically distributed RAN sites equipped with GPU resources partitioned into fixed, isolated multi-...",
+        "link": "https://arxiv.org/abs/2611.08739"
+      },
+      {
+        "title": "\ud83d\udcc4 StarLoc: A Practical Approach to Encoding Geographic Locators in IPv6 for Starlink",
+        "summary": "arXiv:2611.08772v1 Announce Type: new \nAbstract: LEO satellite networks such as Starlink provide Internet connectivity across continents, oceans, and airspace. IP geolocation providers map Starlink's ...",
+        "link": "https://arxiv.org/abs/2611.08772"
+      },
+      {
         "title": "\ud83d\udcc4 Spectrum overhauls operating model in bid to reignite growth",
         "summary": "'We recognize that we have not generated the customer growth and performance we expect,' said Spectrum CEO Chris Winfrey, noting that the company is being redesigned 'at every level.'...",
         "link": "https://www.lightreading.com/cable-technology/spectrum-overhauls-operating-model-in-bid-to-reignite-growth"
@@ -151,14 +186,25 @@
         "title": "\ud83d\udcc4 Cable One warns of Chapter 11 possibility if financing falters",
         "summary": "With its Mega Broadband deal still in limbo, Cable One disclosed it might be necessary to file for bankruptcy if it's unable to clinch a new financing deal and manage near-term debt....",
         "link": "https://www.lightreading.com/cable-technology/cable-one-warns-of-chapter-11-possibility-if-financing-falters"
-      },
-      {
-        "title": "\ud83d\udcc4 Comcast co-founder Julian Brodsky dies at 93",
-        "summary": "Julian Brodsky, a Comcast co-founder and cable industry pioneer, died on November 5 at the age of 93, Comcast said. #pressrelease...",
-        "link": "https://www.lightreading.com/cable-technology/comcast-co-founder-julian-brodsky-dies-at-93"
       }
     ],
-    "Robotics": []
+    "Robotics": [
+      {
+        "title": "\ud83d\udcc4 Q-OIL: Optimistic Exploration in Learning from Human Interventions",
+        "summary": "arXiv:2611.08576v1 Announce Type: new \nAbstract: As robots are deployed in the real world, they will inevitably make mistakes. Human interventions provide valuable feedback for improving their behavio...",
+        "link": "https://arxiv.org/abs/2611.08576"
+      },
+      {
+        "title": "\ud83d\udcc4 Meituan-Robotics-0: A Vision-Language-Action Foundation Model for Desktop Manipulation",
+        "summary": "arXiv:2611.08577v1 Announce Type: new \nAbstract: We present Meituan-Robotics-0 (MR0), a vision-language-action foundation model and embodied-agent system for stationary-base desktop manipulation. MR0 ...",
+        "link": "https://arxiv.org/abs/2611.08577"
+      },
+      {
+        "title": "\ud83d\udcc4 CS-Pi: Constraint-Satisfying Flow Policy Sampling",
+        "summary": "arXiv:2611.08654v1 Announce Type: new \nAbstract: A flow-matching policy deployed in the field must often satisfy a constraint that was absent from its demonstrations, such as avoiding an obstacle it h...",
+        "link": "https://arxiv.org/abs/2611.08654"
+      }
+    ]
   },
   "weekly_recap": null,
   "stock_watch": []
