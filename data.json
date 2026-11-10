@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09 07:10 UTC",
+  "last_updated": "2026-11-10 06:53 UTC",
   "is_sunday_edition": false,
   "sectors": {
     "AI": [
@@ -19,44 +19,39 @@
         "link": "https://arxiv.org/abs/2611.08626"
       },
       {
-        "title": "\ud83d\udcc4 ToyBlocks: A controlled world for robot learning and evaluation",
+        "title": "\ud83d\udcc4 Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
         "summary": "...",
-        "link": "https://huggingface.co/blog/allenai/toyblocks"
+        "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan"
       },
       {
-        "title": "\ud83d\udcc4 Egyptian and Nigerian English join the Open ASR Leaderboard",
+        "title": "\ud83d\udcc4 Your Experts Have Partners. There's HOPE for Keeping Them Together",
         "summary": "...",
-        "link": "https://huggingface.co/blog/open-asr-leaderboard-liva"
+        "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts"
       }
     ],
     "Quantum": [
       {
-        "title": "\ud83d\udcc4 Integral zeros of Krawtchouk polynomials and quantum entanglements",
-        "summary": "arXiv:2611.08518v1 Announce Type: new \nAbstract: In Heo and Kiem (2019), the authors raised a problem relating integral zeros of binary Krawtchouk polynomials, parametrized by quadruples $(m,n,k,\\ell)...",
-        "link": "https://arxiv.org/abs/2611.08518"
+        "title": "\ud83d\udcc4 Physics Reports Analysis Evaluates Emergence of Hybrid Semiconductor\u2013Superconducting Qubit Architectures",
+        "summary": "A new review in Physics Reports examines hybrid semiconductor-superconductor qubits, highlighting their development and various architectures like gate-tunable transmons and fluxoniums, Andreev level ...",
+        "link": "https://quantumcomputingreport.com/physics-reports-analysis-evaluates-emergence-of-hybrid-semiconductor-superconducting-qubit-architectures/"
       },
       {
-        "title": "\ud83d\udcc4 Thermodynamics of Speed and Efficiency with Quantum Feedback",
-        "summary": "arXiv:2611.08564v1 Announce Type: new \nAbstract: Rapid thermodynamic operations generally entail irreversible dissipation, giving rise to trade-offs between operating speed and thermodynamic cost. Yet...",
-        "link": "https://arxiv.org/abs/2611.08564"
+        "title": "\ud83d\udcc4 DLR Develops Scalable Unitary Data Encoding Beating Exponential State-Preparation Depth",
+        "summary": "Researchers at the German Aerospace Center (DLR) and the University of Cologne developed a new quantum state-preparation framework that significantly reduces circuit depth for loading classical data o...",
+        "link": "https://quantumcomputingreport.com/dlr-develops-scalable-unitary-data-encoding-beating-exponential-state-preparation-depth/"
       },
       {
-        "title": "\ud83d\udcc4 Magic Is in the Eye of the Measure",
-        "summary": "arXiv:2611.08586v1 Announce Type: new \nAbstract: Magic, or nonstabilizerness, is the quantum resource behind universal quantum computation. Its applications in high-energy and nuclear physics rely alm...",
-        "link": "https://arxiv.org/abs/2611.08586"
-      },
-      {
-        "title": "\ud83d\udcc4 Riverlane Demonstrates Data-Driven DEM Augmentation to Reduce Surface-Code Logical Errors",
-        "summary": "Riverlane has developed a data-driven method to improve quantum error correction in surface-code architectures. By identifying unmodeled correlated error mechanisms from syndrome measurement data, the...",
-        "link": "https://quantumcomputingreport.com/riverlane-demonstrates-data-driven-dem-augmentation-to-reduce-surface-code-logical-errors/"
-      },
-      {
-        "title": "\ud83d\udcc4 Who\u2019s News: Strategic Appointments at Quantum eMotion, Qtonic Quantum, Chicago Quantum Exchange, and Equal1",
-        "summary": "Quantum eMotion, Qtonic Quantum, Chicago Quantum Exchange, and Equal1 have announced strategic appointments to key leadership positions, bringing in experienced professionals to drive their respective...",
-        "link": "https://quantumcomputingreport.com/whos-news-strategic-appointments-at-quantum-emotion-qtonic-quantum-chicago-quantum-exchange-and-equal1/"
+        "title": "\ud83d\udcc4 IonQ and Classiq Outline Architectural Trade-Offs in Fault-Tolerant Resource Estimation",
+        "summary": "IonQ and Classiq's analysis shows that minimizing non-Clifford gates is no longer the primary factor in fault-tolerant quantum computing performance. Advances in magic state preparation mean that rout...",
+        "link": "https://quantumcomputingreport.com/ionq-and-classiq-outline-architectural-trade-offs-in-fault-tolerant-resource-estimation/"
       }
     ],
     "CyberSecurity": [
+      {
+        "title": "\ud83d\udcc4 AI Security",
+        "summary": "Two weeks ago, I attended the [un]prompted AI security conference in San Francisco. It was an excellent event: three days of very dense talks about all aspects of AI security. (My talk was about integ...",
+        "link": "https://www.schneier.com/blog/archives/2026/11/ai-security.html"
+      },
       {
         "title": "\ud83d\udcc4 Friday Squid Blogging: New Jurassic Squid Predecessors",
         "summary": "News story: &#8220;Scientists discover a bizarre Jurassic &#8216;squid&#8217; unlike anything ever seen.&#8221;\nScientists have identified the &#8220;fattest&#8221; belemnite ever discovered, a bizarr...",
@@ -66,14 +61,14 @@
         "title": "\ud83d\udcc4 Pinpointing Location of Videos from Background Airplane Sounds",
         "summary": "This is fascinating:\nThe video describes a technique that can reveal where an otherwise unidentifiable recording was made by analyzing its audio for the faint sounds of passing aircraft. The technique...",
         "link": "https://www.schneier.com/blog/archives/2026/11/pinpointing-location-of-videos-from-background-airplane-sounds.html"
-      },
-      {
-        "title": "\ud83d\udcc4 AIs Hacking the Law",
-        "summary": "In both a 2021 essay and my 2022 book, A Hacker&#8217;s Mind, I talk about AIs finding vulnerabilities and exploits&#8212;hacking&#8212;the legal system.\nHere&#8217;s some demonstrations of this from ...",
-        "link": "https://www.schneier.com/blog/archives/2026/11/ais-hacking-the-law.html"
       }
     ],
     "Space": [
+      {
+        "title": "\ud83d\udcc4 CCIA Report Highlights Satellite Connectivity\u2019s Potential to Expand Internet Access and Drive Economic Growth",
+        "summary": "Washington \u2014 The Computer &#38; Communications Industry Association today released Connecting the World: Unlocking the Potential of Satellite Connectivity, a new report examining how satellite technol...",
+        "link": "https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth/"
+      },
       {
         "title": "\ud83d\udcc4 CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
         "summary": "CesiumAstro Inc., a global leader in space and defense communications systems and satellites, today announced the closing of $730 million in Series D financing, valuing the company at more than [&#823...",
@@ -83,128 +78,97 @@
         "title": "\ud83d\udcc4 Cork Takes the Heat So DRACO\u2019s Data Can Survive",
         "summary": "Mozelos, Portugal, September 2, 2026 &#8211; Amorim Cork Solutions is contributing its P50 cork-based thermal protection material to DRACO, a European Space Agency (ESA) mission designed to capture ra...",
         "link": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/"
-      },
-      {
-        "title": "\ud83d\udcc4 Building a \u2018highway to the moon and back\u2019 with Winnie Lai",
-        "summary": "In this episode, SpaceNews\u2019 Mike Gruss speaks with Winnie Lai, CEO of Auriga Space. They talk about how electromagnetic launch technology that \u201ccatapults\u201d small launch vehicles could cut down on [&#82...",
-        "link": "https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai/"
       }
     ],
     "Renewables": [
       {
-        "title": "\ud83d\udcc4 The Jackery HomePower 2000 Plus v2 Red Cross Edition \u2014 CleanTechnica Tested",
-        "summary": "Jackery was one of the earliest portable power station producers to bring these beautiful creations into the mainstream. They have a line of portable power stations and proprietary portable, foldable ...",
-        "link": "https://cleantechnica.com/2026/11/08/the-jackery-homepower-2000-plus-v2-red-cross-edition-cleantechnica-tested/"
+        "title": "\ud83d\udcc4 Australian Plugin Vehicle Market Steady in October \u2014 Update",
+        "summary": "&#8230; with a spotlight on the Great Wall Motor ORA 5 rising star. CleanTechnica readers were probably hoping for the surge to keep surging Down Under. I was. However, it appears to have remained ste...",
+        "link": "https://cleantechnica.com/2026/11/09/australian-plugin-vehicle-market-steady-in-october-update/"
       },
       {
-        "title": "\ud83d\udcc4 Bigger than Godzilla!",
-        "summary": "Fortescue&#8217;s plans for the Pilbara include wind turbine blades that are bigger than Godzilla. While Fortescue\u2019s boss hobnobs with King Charles III and chats about sustainability, under the Common...",
-        "link": "https://cleantechnica.com/2026/11/08/bigger-than-godzilla/"
+        "title": "\ud83d\udcc4 More than 300 Solar & Storage Companies Urge Congress to Pass Bipartisan Permitting Reform to Accelerate Clean Energy Deployment, Lower Costs",
+        "summary": "WASHINGTON D.C. \u2014 More than 300 solar and storage companies are urging Congress to pass the Bipartisan American Affordability and Jobs Act (BAAJA), S. 5653, warning that outdated federal permitting pr...",
+        "link": "https://cleantechnica.com/2026/11/09/more-than-300-solar-storage-companies-urge-congress-to-pass-bipartisan-permitting-reform-to-accelerate-clean-energy-deployment-lower-costs/"
       },
       {
-        "title": "\ud83d\udcc4 Top Selling Electric Vehicles in the World \u2014 32% EV Share in September!",
-        "summary": "BEVs Up, PHEVs Down Plugin vehicle registrations were up 3% year over year (YoY) globally in September, ending the month at around 2.16 million units, pretty darn close to the all-time record (2.17 mi...",
-        "link": "https://cleantechnica.com/2026/11/08/top-selling-electric-vehicles-in-the-world-32-ev-share-in-september/"
+        "title": "\ud83d\udcc4 5 Years In, Mustang Mach-E Battery Data Shows What Real-World Electric Vehicle Durability Looks Like",
+        "summary": "Five years ago, the first Mustang Mach-E customers began adding something important to the Ford electric vehicle battery validation work: real-world ownership at scale. As part of our quality process,...",
+        "link": "https://cleantechnica.com/2026/11/09/5-years-in-mustang-mach-e-battery-data-shows-what-real-world-electric-vehicle-durability-looks-like/"
+      },
+      {
+        "title": "\ud83d\udcc4 So, how about those midterm elections?",
+        "summary": "A conversation with Caroline Spears of Climate Cabinet....",
+        "link": "https://www.volts.wtf/p/so-how-about-those-midterm-elections"
       },
       {
         "title": "\ud83d\udcc4 Best of October 2026",
         "summary": "Highlights from the eight conversations released last month....",
         "link": "https://www.volts.wtf/p/best-of-october-2026"
-      },
-      {
-        "title": "\ud83d\udcc4 The transformative potential of solid-state transformers",
-        "summary": "A conversation with Raghu Belur of Enphase....",
-        "link": "https://www.volts.wtf/p/the-transformative-potential-of-solid"
       }
     ],
     "Energy": [
+      {
+        "title": "\ud83d\udcc4 Analysis: Fossil-fuel CO2 emissions set to dip in 2026 as Iran conflict hits oil use",
+        "summary": "Carbon dioxide (CO2) emissions from fossil fuels and cement are projected to fall by around 0.4% in 2026 to 38.2bn&#8230;\nThe post Analysis: Fossil-fuel CO2 emissions set to dip in 2026 as Iran confli...",
+        "link": "https://www.carbonbrief.org/analysis-fossil-fuel-co2-emissions-set-to-dip-in-2026-as-iran-conflict-hits-oil-use"
+      },
+      {
+        "title": "\ud83d\udcc4 Q&A: What is the Bel\u00e9m-Antalya mechanism for a \u2018just transition\u2019?",
+        "summary": "One of the key expected outcomes from the upcoming COP31 climate summit in Antalya, Turkey, is the launch of a&#8230;\nThe post Q&amp;A: What is the Bel\u00e9m-Antalya mechanism for a \u2018just transition\u2019?\u00a0 ap...",
+        "link": "https://www.carbonbrief.org/qa-what-is-the-belem-antalya-mechanism-for-a-just-transition"
+      },
       {
         "title": "\ud83d\udcc4 \u2018Simply staggering\u2019: Rapidly developing \u2018super El Ni\u00f1o\u2019 on track to peak in December",
         "summary": "The ongoing \u201csuper El Ni\u00f1o\u201d is likely to peak at the end of 2026 and push average global temperatures to&#8230;\nThe post \u2018Simply staggering\u2019: Rapidly developing \u2018super El Ni\u00f1o\u2019 on track to peak in Dec...",
         "link": "https://www.carbonbrief.org/simply-staggering-rapidly-developing-super-el-nino-on-track-to-peak-in-december"
       },
       {
-        "title": "\ud83d\udcc4 Analysis: China\u2019s quarterly CO2 falls 3% in largest drop since Covid",
-        "summary": "China\u2019s carbon dioxide (CO2) emissions fell by 3.1% in the third quarter of 2026, as the Hormuz crisis continued to&#8230;\nThe post Analysis: China\u2019s quarterly CO2 falls 3% in largest drop since Covid...",
-        "link": "https://www.carbonbrief.org/analysis-chinas-quarterly-co2-falls-3-in-largest-drop-since-covid"
+        "title": "\ud83d\udcc4 Removing barriers to distributed energy resources could save US power system US$614 billion by 2050, report finds",
+        "summary": "A new report prepared by The Brattle Group for The Pew Charitable Trusts finds that removing barriers to distributed energy resources (DERs) could avoid an estimated US$614 billion in US power system ...",
+        "link": "https://www.energy-storage.news/removing-barriers-to-distributed-energy-resources-could-save-us-power-system-us614-billion-by-2050-report-finds/"
       },
       {
-        "title": "\ud83d\udcc4 Interactive: Tracking negotiating texts at the COP31 climate summit",
-        "summary": "The centrepiece of every UN climate summit is for countries to negotiate the wording of a large number of legal&#8230;\nThe post Interactive: Tracking negotiating texts at the COP31 climate summit appe...",
-        "link": "https://www.carbonbrief.org/interactive-tracking-negotiating-texts-at-the-cop31-climate-summit"
-      },
-      {
-        "title": "\ud83d\udcc4 Ford Energy partners with DESRI to deploy US BESS",
-        "summary": "Renewables developer D. E. Shaw Renewable Investments (DESRI) and Ford Motor Company\u2019s energy storage subsidiary, Ford Energy, will partner to deploy energy storage in the US....",
-        "link": "https://www.energy-storage.news/ford-energy-partners-with-desri-to-deploy-us-bess/"
-      },
-      {
-        "title": "\ud83d\udcc4 BESS Industry Buzz: Blue Wave in the midterms, RTE disagreements, cybersecurity incident in Chile",
-        "summary": "Welcome to our latest BESS Industry Buzz, this week featuring the US midterms, ultra-rapid BESS commissioning, how to calculate RTE and a cybersecurity incident in Chile....",
-        "link": "https://www.energy-storage.news/bess-industry-buzz-blue-wave-in-the-midterms-rte-disagreements-cybersecurity-incident-in-chile/"
+        "title": "\ud83d\udcc4 BloombergNEF: US midterm results likely a \u2018net positive\u2019 for BESS despite data centre headwinds",
+        "summary": "Derrick Flakoll, senior policy associate for North America at BloombergNEF, has offered a more measured take on how the Democrats' midterm victories could affect the battery energy storage system (BES...",
+        "link": "https://www.energy-storage.news/bloombergnef-us-midterm-results-likely-a-net-positive-for-bess-despite-data-centre-headwinds/"
       }
     ],
     "MedTech": [
       {
-        "title": "\ud83d\udcc4 Natera promotes Solomon Moshkevich to CEO",
-        "summary": "The CEO change was unexpected and prompted a stock selloff Friday, analysts said, but the new chief executive is prepared for the role....",
-        "link": "https://www.medtechdive.com/news/natera-promotes-solomon-moshkevich-to-ceo/874022/"
+        "title": "\ud83d\udcc4 Labcorp completes $375M Millennium Health takeover",
+        "summary": "The deal, which includes a $245 million upfront fee, expands the geographic reach of Labcorp&rsquo;s drug testing business....",
+        "link": "https://www.medtechdive.com/news/labcorp-completes-375m-millennium-health-takeover/874075/"
       },
       {
-        "title": "\ud83d\udcc4 Tandem Diabetes Care names next CEO",
-        "summary": "Jeannette Bankes will take over the role from John Sheridan, who will retire at the end of the year after leading the company since 2019....",
-        "link": "https://www.medtechdive.com/news/tandem-diabetes-care-names-next-ceo/874001/"
+        "title": "\ud83d\udcc4 Novocure denied FDA approval for metastatic cancer treatment",
+        "summary": "The FDA had uncertainty about the degree of clinical benefit for Novocure&rsquo;s treatment of brain metastases, the company said....",
+        "link": "https://www.medtechdive.com/news/novocure-denied-fda-approval-for-metastatic-cancer-treatment/874127/"
       },
       {
-        "title": "\ud83d\udcc4 Medicare will cut billions from 340B, expand site-neutral payments in 2027",
-        "summary": "Regulators finalized a rule Wednesday that would slash payments for drugs in the controversial 340B program and equalize some payments between care sites. Hospitals railed against the rule....",
-        "link": "https://www.medtechdive.com/news/medicare-will-cut-billions-from-340b-expand-site-neutral-payments-in-2027/873992/"
+        "title": "\ud83d\udcc4 FDA seeks input on telesurgery, autonomous robotics",
+        "summary": "The agency is inviting public comment on a new discussion paper as it prepares to shape policy covering robotic medical devices with autonomous or remote teleoperation functions....",
+        "link": "https://www.medtechdive.com/news/fda-seeks-input-on-telesurgery-autonomous-robotics/874124/"
       }
     ],
     "Telecommunications": [
       {
-        "title": "\ud83d\udcc4 Measuring Bounded Autonomy for an LLM Decomposition Planner on a Live 5G-Core Testbed",
-        "summary": "arXiv:2611.08707v1 Announce Type: new \nAbstract: Large language models (LLMs) are entering network-management control loops, yet their plans can fall outside the executable action space. Whether hard ...",
-        "link": "https://arxiv.org/abs/2611.08707"
+        "title": "\ud83d\udcc4 Optimum's path likely leads to a lender deal or bankruptcy court \u2013 analyst",
+        "summary": "'Absent a breakthrough creditor agreement, Optimum is days away from a bankruptcy filing,' reckons MoffettNathanson, which is skeptical that the troubled operator can quickly find a buyer....",
+        "link": "https://www.lightreading.com/cable-technology/optimum-s-path-likely-leads-to-a-lender-deal-or-bankruptcy-court-analyst"
       },
       {
-        "title": "\ud83d\udcc4 Stochastic AI Model Placement for AI-and-RAN Coexistence in 6G Networks",
-        "summary": "arXiv:2611.08739v1 Announce Type: new \nAbstract: This paper considers AI-service placement over geographically distributed RAN sites equipped with GPU resources partitioned into fixed, isolated multi-...",
-        "link": "https://arxiv.org/abs/2611.08739"
+        "title": "\ud83d\udcc4 Verizon CTO assesses 7GHz band for 6G after first call in the field",
+        "summary": "Verizon CTO Yago Tenorio shares initial finding from the carrier's 6G field tests using 7GHz and it's 'not super encouraging' for indoor penetration....",
+        "link": "https://www.lightreading.com/6g/verizon-cto-assesses-7ghz-band-for-6g-after-first-call-in-the-field"
       },
       {
-        "title": "\ud83d\udcc4 StarLoc: A Practical Approach to Encoding Geographic Locators in IPv6 for Starlink",
-        "summary": "arXiv:2611.08772v1 Announce Type: new \nAbstract: LEO satellite networks such as Starlink provide Internet connectivity across continents, oceans, and airspace. IP geolocation providers map Starlink's ...",
-        "link": "https://arxiv.org/abs/2611.08772"
-      },
-      {
-        "title": "\ud83d\udcc4 Spectrum overhauls operating model in bid to reignite growth",
-        "summary": "'We recognize that we have not generated the customer growth and performance we expect,' said Spectrum CEO Chris Winfrey, noting that the company is being redesigned 'at every level.'...",
-        "link": "https://www.lightreading.com/cable-technology/spectrum-overhauls-operating-model-in-bid-to-reignite-growth"
-      },
-      {
-        "title": "\ud83d\udcc4 Cable One warns of Chapter 11 possibility if financing falters",
-        "summary": "With its Mega Broadband deal still in limbo, Cable One disclosed it might be necessary to file for bankruptcy if it's unable to clinch a new financing deal and manage near-term debt....",
-        "link": "https://www.lightreading.com/cable-technology/cable-one-warns-of-chapter-11-possibility-if-financing-falters"
+        "title": "\ud83d\udcc4 DT builds out AI factory but still undecided on EU Gigafactory bid",
+        "summary": "DT expands its AI compute capacity in Munich\u2019s Tucherpark as the initial site is now 'sold out,' but it has yet to make a decision about EU Gigafactory bid....",
+        "link": "https://www.lightreading.com/ai-machine-learning/dt-builds-out-ai-factory-but-still-undecided-on-eu-gigafactory-bid"
       }
     ],
-    "Robotics": [
-      {
-        "title": "\ud83d\udcc4 Q-OIL: Optimistic Exploration in Learning from Human Interventions",
-        "summary": "arXiv:2611.08576v1 Announce Type: new \nAbstract: As robots are deployed in the real world, they will inevitably make mistakes. Human interventions provide valuable feedback for improving their behavio...",
-        "link": "https://arxiv.org/abs/2611.08576"
-      },
-      {
-        "title": "\ud83d\udcc4 Meituan-Robotics-0: A Vision-Language-Action Foundation Model for Desktop Manipulation",
-        "summary": "arXiv:2611.08577v1 Announce Type: new \nAbstract: We present Meituan-Robotics-0 (MR0), a vision-language-action foundation model and embodied-agent system for stationary-base desktop manipulation. MR0 ...",
-        "link": "https://arxiv.org/abs/2611.08577"
-      },
-      {
-        "title": "\ud83d\udcc4 CS-Pi: Constraint-Satisfying Flow Policy Sampling",
-        "summary": "arXiv:2611.08654v1 Announce Type: new \nAbstract: A flow-matching policy deployed in the field must often satisfy a constraint that was absent from its demonstrations, such as avoiding an obstacle it h...",
-        "link": "https://arxiv.org/abs/2611.08654"
-      }
-    ]
+    "Robotics": []
   },
   "weekly_recap": null,
   "stock_watch": []
