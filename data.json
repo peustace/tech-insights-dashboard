@@ -1,27 +1,17 @@
 {
-  "last_updated": "2026-11-11 06:56 UTC",
+  "last_updated": "2026-11-12 06:58 UTC",
   "is_sunday_edition": false,
   "sectors": {
     "AI": [
       {
-        "title": "\ud83d\udcc4 Auditable Human-Agent Teams for Autonomous X-ray Experimentation",
-        "summary": "arXiv:2611.12933v1 Announce Type: new \nAbstract: Closed-loop autonomous experimentation can accelerate scientific discovery, but implementation effort limits accessibility. Agentic systems may lower t...",
-        "link": "https://arxiv.org/abs/2611.12933"
-      },
-      {
-        "title": "\ud83d\udcc4 EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
-        "summary": "arXiv:2611.12934v1 Announce Type: new \nAbstract: While multimodal agents now carry out complex data analysis with tools, their ability to turn decades of satellite imagery into reliable land-change an...",
-        "link": "https://arxiv.org/abs/2611.12934"
-      },
-      {
-        "title": "\ud83d\udcc4 Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring",
-        "summary": "arXiv:2611.12935v1 Announce Type: new \nAbstract: Topic monitoring is the task of labelling the topic of each token in a model's response during generation. Activation-based monitors that run at genera...",
-        "link": "https://arxiv.org/abs/2611.12935"
-      },
-      {
         "title": "\ud83d\udcc4 BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
         "summary": "...",
         "link": "https://huggingface.co/blog/qvac/botpsy"
+      },
+      {
+        "title": "\ud83d\udcc4 Token Pooling-Aware Training for Multi-Vector Embedding Models",
+        "summary": "...",
+        "link": "https://huggingface.co/blog/token-pooling"
       },
       {
         "title": "\ud83d\udcc4 Pay for Hugging Face Hub with your Google Cloud Account",
@@ -31,32 +21,27 @@
     ],
     "Quantum": [
       {
-        "title": "\ud83d\udcc4 Time Running Backwards, and Where It Stops: Superoscillations of Proper Time and the Memory of the Environment",
-        "summary": "arXiv:2611.12971v1 Announce Type: new \nAbstract: A quantum system prepared in a superposition of proper times - a clock whose worldline is superposed, or a clock at rest in a superposed gravitational ...",
-        "link": "https://arxiv.org/abs/2611.12971"
+        "title": "\ud83d\udcc4 IBM Unveils 520-Qubit Nighthawk r3 Processor, 1,040-Qubit Linked Roadmap, and Managed Hybrid Workflows at QDC 2026",
+        "summary": "IBM introduced the Nighthawk r3 processor with 520 programmable qubits and a roadmap to 1,040 qubits by 2027, demonstrating advancements in quantum computing hardware and software. The company also un...",
+        "link": "https://quantumcomputingreport.com/ibm-unveils-520-qubit-nighthawk-r3-processor-1040-qubit-linked-roadmap-and-managed-hybrid-workflows-at-qdc-2026/"
       },
       {
-        "title": "\ud83d\udcc4 Second-level termination of the PPT entanglement-cost hierarchy for two qutrits",
-        "summary": "arXiv:2611.12993v1 Announce Type: new \nAbstract: We prove that for arbitrary two-qutrit quantum states, the semidefinite programming lower-bound hierarchy for the PPT entanglement cost terminates at t...",
-        "link": "https://arxiv.org/abs/2611.12993"
+        "title": "\ud83d\udcc4 Q-CTRL Deploys Fire Opal Dynamics Simulator on IBM Quantum Functions, Achieving 12\u00d7 Speedup on Nighthawk",
+        "summary": "Q-CTRL has deployed its Fire Opal Dynamics Simulator on IBM Quantum Functions, achieving a 12x speedup on Nighthawk r2 processors compared to Heron r3 systems for large-scale fermionic many-body physi...",
+        "link": "https://quantumcomputingreport.com/q-ctrl-deploys-fire-opal-dynamics-simulator-on-ibm-quantum-functions-achieving-12x-speedup-on-nighthawk/"
       },
       {
-        "title": "\ud83d\udcc4 Quantum simulation of real-time bosonic dynamics with binary and unary position encodings on superconducting and trapped-ion processors",
-        "summary": "arXiv:2611.13079v1 Announce Type: new \nAbstract: Simulating a bosonic degree of freedom on qubit hardware requires discretizing its position space, and the qubit encoding of the resulting lattice dete...",
-        "link": "https://arxiv.org/abs/2611.13079"
-      },
-      {
-        "title": "\ud83d\udcc4 Colorado Partners with IBM to Deploy AI-Driven Quantum Ecosystem Mapping and Workforce Tools",
-        "summary": "In a two-year initiative, Colorado has partnered with the IBM Impact Accelerator to advance quantum technology. This collaboration, coordinated by the Colorado Office of Economic Development and Inter...",
-        "link": "https://quantumcomputingreport.com/colorado-partners-with-ibm-to-deploy-ai-driven-quantum-ecosystem-mapping-and-workforce-tools/"
-      },
-      {
-        "title": "\ud83d\udcc4 Carahsoft Builds Federal Quantum Catalog with IonQ and PQSecure Partnerships",
-        "summary": "Carahsoft has partnered with IonQ and PQSecure to provide U.S. federal agencies with streamlined procurement of quantum computing hardware and post-quantum cryptographic solutions. This collaboration ...",
-        "link": "https://quantumcomputingreport.com/carahsoft-builds-federal-quantum-catalog-with-ionq-and-pqsecure-partnerships/"
+        "title": "\ud83d\udcc4 Q-CTRL Expands Fire Opal Suite with Constrained Optimization, Estimator Twirling, and Monte Carlo Solver",
+        "summary": "Q-CTRL has updated its Fire Opal platform with new features including constrained optimization for QAOA, significantly increasing approximation ratios. They've also introduced Monte Carlo integration ...",
+        "link": "https://quantumcomputingreport.com/q-ctrl-expands-fire-opal-suite-with-constrained-optimization-estimator-twirling-and-monte-carlo-solver/"
       }
     ],
     "CyberSecurity": [
+      {
+        "title": "\ud83d\udcc4 Three People Arrested for AI-Enhanced Impersonation Fraud",
+        "summary": "It&#8217;s hard to believe how lucrative this crime can be:\nAccording to a press release from the United States attorney\u2019s office for the southern district of New York, three men \u00ad Jacob Soall, Sharon...",
+        "link": "https://www.schneier.com/blog/archives/2026/11/three-people-arrested-for-ai-enhanced-impersonation-fraud.html"
+      },
       {
         "title": "\ud83d\udcc4 New OpenSSH Vulnerability",
         "summary": "It&#8217;s a bad one, and it&#8217;s been in the code for a decade:\nA newly disclosed flaw involving OpenSSH and musl, dubbed &#8220;*sshole,&#8221; allows attackers to log in to certain Alpine Linux ...",
@@ -66,58 +51,58 @@
         "title": "\ud83d\udcc4 AI Security",
         "summary": "Two weeks ago, I attended the [un]prompted AI security conference in San Francisco. It was an excellent event: three days of very dense talks about all aspects of AI security. (My talk was about integ...",
         "link": "https://www.schneier.com/blog/archives/2026/11/ai-security.html"
-      },
-      {
-        "title": "\ud83d\udcc4 Friday Squid Blogging: New Jurassic Squid Predecessors",
-        "summary": "News story: &#8220;Scientists discover a bizarre Jurassic &#8216;squid&#8217; unlike anything ever seen.&#8221;\nScientists have identified the &#8220;fattest&#8221; belemnite ever discovered, a bizarr...",
-        "link": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-new-jurassic-squid-predecessors.html"
       }
     ],
     "Space": [
       {
-        "title": "\ud83d\udcc4 Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
-        "summary": "SAN DIEGO, CA, November 10, 2026 &#8211; Kratos Defense &#38; Security Solutions, Inc., a technology company in defense, national security, and global markets, today announced a long-term agreement wi...",
-        "link": "https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions/"
+        "title": "\ud83d\udcc4 Senate committee takes up nominees for NASA chief financial officer and inspector general",
+        "summary": "A Senate committee is set to advance nominations for NASA\u2019s chief financial officer and inspector general.\nThe post Senate committee takes up nominees for NASA chief financial officer and inspector ge...",
+        "link": "https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/"
       },
       {
-        "title": "\ud83d\udcc4 ESCAPADE on its way to Mars after Earth flybys",
-        "summary": "Two NASA smallsats are headed toward Mars after completing flybys of Earth nearly a year after their launch.\nThe post ESCAPADE on its way to Mars after Earth flybys appeared first on SpaceNews....",
-        "link": "https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/"
+        "title": "\ud83d\udcc4 Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare",
+        "summary": "East Aurora, N.Y. &#8212; Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering [&#8230;...",
+        "link": "https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/"
       },
       {
-        "title": "\ud83d\udcc4 CCIA Report Highlights Satellite Connectivity\u2019s Potential to Expand Internet Access and Drive Economic Growth",
-        "summary": "Washington \u2014 The Computer &#38; Communications Industry Association today released Connecting the World: Unlocking the Potential of Satellite Connectivity, a new report examining how satellite technol...",
-        "link": "https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth/"
+        "title": "\ud83d\udcc4 Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push",
+        "summary": "(Karlsruhe, Germany, September 29th 2026) Horizon Microtechnologies is accelerating industrialisation of its metallised polymer micro-additive manufacturing platform through IP-MASS, a two-year scale-...",
+        "link": "https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/"
       }
     ],
     "Renewables": [
       {
-        "title": "\ud83d\udcc4 Joint Letter on Low-Carbon Steel Credits in the Review of EU CO\u2082 Emission Standards for Cars",
-        "summary": "Creating predictable demand for genuinely low-carbon steel is urgent. If properly designed, low-carbon steel credits can create a lead market for green steel and secure a future for a green steel indu...",
-        "link": "https://cleantechnica.com/2026/11/10/joint-letter-on-low-carbon-steel-credits-in-the-review-of-eu-co%e2%82%82-emission-standards-for-cars/"
+        "title": "\ud83d\udcc4 Was Corruption The Biggest Issue In The US Election?",
+        "summary": "I saw last week that one of the biggest factors contributing to the enormous blue tsunami that set new history for US elections was people being fed up with government corruption. This has always been...",
+        "link": "https://cleantechnica.com/2026/11/11/was-corruption-the-biggest-issue-in-the-us-election/"
       },
       {
-        "title": "\ud83d\udcc4 Solar & Storage Industry Statement on Bipartisan Permitting Reform Bill Passing First Procedural Vote",
-        "summary": "WASHINGTON D.C. \u2014 Following is a statement from Tim Pawlenty, CEO of the Solar Energy Industries Association (SEIA) on the Bipartisan American Affordability and Jobs Act (BAAJA) clearing its first pro...",
-        "link": "https://cleantechnica.com/2026/11/10/solar-storage-industry-statement-on-bipartisan-permitting-reform-bill-passing-first-procedural-vote/"
+        "title": "\ud83d\udcc4 The Perovskite Solar Cell Kraken Has Been Unleashed Upon The US",
+        "summary": "Perovskite is a relatively inexpensive material that has attracted thousands of researchers since 2009, when a team of scientists in Japan first demonstrated its use in solar cells. They achieved a so...",
+        "link": "https://cleantechnica.com/2026/11/11/perovskite-solar-cells-us-caelux-heliene/"
       },
       {
-        "title": "\ud83d\udcc4 Introducing the Waymo Accessibility Network UK: Co-Designing the Future of Autonomous Mobility",
-        "summary": "Today, we\u2019re launching the Waymo Accessibility Network UK to inform the future of autonomous mobility in the UK and enable a more independent future of transport. Whether it&#8217;s travelling to work...",
-        "link": "https://cleantechnica.com/2026/11/10/introducing-the-waymo-accessibility-network-uk-co-designing-the-future-of-autonomous-mobility/"
+        "title": "\ud83d\udcc4 Renowned Awards for the Newcomer: ID. Polo Wins Golden Steering Wheel, the Autonis Design Award and Is Voted German Car of the Year 2027",
+        "summary": "Golden Steering Wheel 2026 \u2014 ID. Polo wins in the category Best car under 25,000 euros German Car of the Year 2027 \u2014 ID. Polo wins overall and is the winner of the \u2018Budget car\u2019 category Autonis reader...",
+        "link": "https://cleantechnica.com/2026/11/11/renowned-awards-for-the-newcomer-id-polo-wins-golden-steering-wheel-the-autonis-design-award-and-is-voted-german-car-of-the-year-2027/"
+      },
+      {
+        "title": "\ud83d\udcc4 The federal permitting bill has been updated. What changed?",
+        "summary": "A(nother) conversation with Daniel Palken....",
+        "link": "https://www.volts.wtf/p/the-federal-permitting-bill-has-been"
       },
       {
         "title": "\ud83d\udcc4 So, how about those midterm elections?",
         "summary": "A conversation with Caroline Spears of Climate Cabinet....",
         "link": "https://www.volts.wtf/p/so-how-about-those-midterm-elections"
-      },
-      {
-        "title": "\ud83d\udcc4 Best of October 2026",
-        "summary": "Highlights from the eight conversations released last month....",
-        "link": "https://www.volts.wtf/p/best-of-october-2026"
       }
     ],
     "Energy": [
+      {
+        "title": "\ud83d\udcc4 Analysis: Climate-finance pledges fall 70% as countries meet at COP31",
+        "summary": "The amount of public funding pledged to help developing countries tackle climate change has dropped by more than 70% in&#8230;\nThe post Analysis: Climate-finance pledges fall 70% as countries meet at ...",
+        "link": "https://www.carbonbrief.org/analysis-climate-finance-pledges-fall-70-as-countries-meet-at-cop31"
+      },
       {
         "title": "\ud83d\udcc4 Analysis: Which countries have sent the most delegates to COP31?",
         "summary": "More than 92,000 people have registered to attend the COP31 climate summit in Antalya, Turkey, potentially making it the largest&#8230;\nThe post Analysis: Which countries have sent the most delegates ...",
@@ -129,82 +114,51 @@
         "link": "https://www.carbonbrief.org/analysis-fossil-fuel-co2-emissions-set-to-dip-in-2026-as-iran-conflict-hits-oil-use"
       },
       {
-        "title": "\ud83d\udcc4 Q&A: What is the Bel\u00e9m-Antalya mechanism for a \u2018just transition\u2019?",
-        "summary": "One of the key expected outcomes from the upcoming COP31 climate summit in Antalya, Turkey, is the launch of a&#8230;\nThe post Q&amp;A: What is the Bel\u00e9m-Antalya mechanism for a \u2018just transition\u2019?\u00a0 ap...",
-        "link": "https://www.carbonbrief.org/qa-what-is-the-belem-antalya-mechanism-for-a-just-transition"
+        "title": "\ud83d\udcc4 Lydian\u2019s 600MWh Utah BESS reaches commercial operation, supporting Meta data centre",
+        "summary": "Excelsior Energy Capital-backed developer Lydian Energy has brought its 150MW/600MWh Faraday battery energy storage system (BESS) project in Utah County, Utah, US into commercial operation....",
+        "link": "https://www.energy-storage.news/lydians-600mwh-utah-bess-reaches-commercial-operation-supporting-meta-data-centre/"
       },
       {
-        "title": "\ud83d\udcc4 BAAJA: US legislation to speed up permitting carries hidden political risk, \u2018won\u2019t solve interconnection queue wait\u2019",
-        "summary": "The energy storage industry is abuzz with discussion of passing BAAJA following Democrats\u2019 taking of the House and Senate in the 2026 US midterm elections....",
-        "link": "https://www.energy-storage.news/baaja-us-legislation-to-speed-up-permitting-carries-hidden-political-risk-wont-solve-interconnection-queue-wait/"
-      },
-      {
-        "title": "\ud83d\udcc4 Canada: Alectra-Convergent complete 320MWh portfolio in Ontario, Rodan advances country\u2019s largest BTM BESS",
-        "summary": "Alectra Energy Solutions and Convergent Energy &#038; Power have completed a 320MWh BESS portfolio at three sites in Ontario....",
-        "link": "https://www.energy-storage.news/canada-alectra-convergent-complete-320mwh-portfolio-in-ontario-rodan-advances-countrys-largest-btm-bess/"
+        "title": "\ud83d\udcc4 Calibrant Energy secures US$145 million for solar and BESS across US power markets including PJM hyperscaler project",
+        "summary": "Calibrant Energy, an energy-as-a-service platform, has closed a US$145 million debt facility for solar and energy storage projects across several US power markets....",
+        "link": "https://www.energy-storage.news/calibrant-energy-secures-us145-million-for-solar-and-bess-across-us-power-markets-including-pjm-hyperscaler-project/"
       }
     ],
     "MedTech": [
       {
+        "title": "\ud83d\udcc4 Oura makes bet on AI in healthcare with $625M Counsel Health buy",
+        "summary": "The planned acquisition comes as wearable firms push to up their healthcare offerings....",
+        "link": "https://www.medtechdive.com/news/oura-makes-bet-on-ai-in-healthcare-with-625m-counsel-health-buy/874398/"
+      },
+      {
+        "title": "\ud83d\udcc4 Tandem recalls Mobi insulin pump, reports 230 adverse events",
+        "summary": "A problem with a false occlusion alarm could interrupt insulin delivery for users, according to an entry in the FDA&rsquo;s recall database....",
+        "link": "https://www.medtechdive.com/news/tandem-recalls-mobi-insulin-pump-reports-230-adverse-events/874386/"
+      },
+      {
         "title": "\ud83d\udcc4 Virtuoso robot wins FDA nod for bladder tumor removal",
         "summary": "Virtuoso Surgical&rsquo;s robotic system can remove lesions in one piece in a minimally invasive procedure designed to improve cancer diagnosis and staging....",
         "link": "https://www.medtechdive.com/news/virtuoso-robot-wins-fda-nod-for-bladder-tumor-removal/874261/"
-      },
-      {
-        "title": "\ud83d\udcc4 Getinge hires president of acute care therapies",
-        "summary": "Stacy Beske is joining Getinge from Philips&nbsp;and will take over the role on Dec. 1....",
-        "link": "https://www.medtechdive.com/news/getinge-hires-president-of-acute-care-therapies/874219/"
-      },
-      {
-        "title": "\ud83d\udcc4 Labcorp completes $375M Millennium Health takeover",
-        "summary": "The deal, which includes a $245 million upfront fee, expands the geographic reach of Labcorp&rsquo;s drug testing business....",
-        "link": "https://www.medtechdive.com/news/labcorp-completes-375m-millennium-health-takeover/874075/"
       }
     ],
     "Telecommunications": [
       {
-        "title": "\ud83d\udcc4 Collision Avoidance and Collision Detection Strategies to Counteract Large-Scale FMCW Automotive Radar Interference",
-        "summary": "arXiv:2611.13214v1 Announce Type: new \nAbstract: Automotive radars operating in dense traffic environments may experience significant mutual interference, potentially degrading sensing reliability for...",
-        "link": "https://arxiv.org/abs/2611.13214"
+        "title": "\ud83d\udcc4 Starlink gets faster ahead of 'V3' launches, but shift to dynamic pricing could backfire",
+        "summary": "Ookla says Starlink speeds are climbing as the service attracts more urban subscribers ahead of a wider rollout of high-capacity 'V3' satellites. But Starlink's risky shift to dynamic pricing is alrea...",
+        "link": "https://www.lightreading.com/satellite/starlink-gets-faster-ahead-of-v3-launches-but-shift-to-dynamic-pricing-could-backfire"
       },
       {
-        "title": "\ud83d\udcc4 Network-Co-Designed Dynamic Sparsification for Dependable Distributed Robot Learning over 3GPP Networks",
-        "summary": "arXiv:2611.13282v1 Announce Type: new \nAbstract: Robot fleets performing distributed learning often face volatile uplink conditions like bandwidth variation, packet loss, and latency spikes that delay...",
-        "link": "https://arxiv.org/abs/2611.13282"
+        "title": "\ud83d\udcc4 T-Mobile goes national with T-Mix and gets real about robots",
+        "summary": "T-Mobile's CMO Allan Samson says T-Mix tackles a subscription problem while giving customers more flexibility in the value they get from their mobile plans. Meanwhile, the company says its network is ...",
+        "link": "https://www.lightreading.com/5g/t-mobile-goes-national-with-t-mix-and-gets-real-about-robots"
       },
       {
-        "title": "\ud83d\udcc4 Confidence-Aware xApp Conflict Triage in Open RAN: A Closed-Loop ns3-oran Evaluation",
-        "summary": "arXiv:2611.13516v1 Announce Type: new \nAbstract: In the Open Radio Access Network (Open RAN), independent RAN control applications (xApps) may request changes to the same radio parameter to optimize t...",
-        "link": "https://arxiv.org/abs/2611.13516"
-      },
-      {
-        "title": "\ud83d\udcc4 Swiss operator Quickline virtualizes with Harmonic",
-        "summary": "Quickline, a wholesale broadband operator in Switzerland, is replacing its legacy, chassis-based CMTS with Harmonic's 'cOS' virtualized platform. #pressrelease...",
-        "link": "https://www.lightreading.com/cable-technology/swiss-operator-quickline-virtualizes-with-harmonic"
-      },
-      {
-        "title": "\ud83d\udcc4 Craig Cowden named CEO of TierPoint",
-        "summary": "Cable and mobile industry vet Craig Cowden has been named CEO of cloud and data center specialist TierPoint. He'll succeed founding CEO Jerry Kent on January 4, 2027. #pressrelease...",
-        "link": "https://www.lightreading.com/data-centers/craig-cowden-named-ceo-of-tierpoint"
+        "title": "\ud83d\udcc4 Senate Democrats grill FCC nominee on E-Rate's future",
+        "summary": "Republican nominee for FCC Commissioner, Danielle Thumann Severs, was noncommittal when answering Senate Democrats' questions on what's to come of the E-Rate telecom subsidy program for schools and li...",
+        "link": "https://www.lightreading.com/broadband/senate-democrats-grill-fcc-nominee-on-e-rate-s-future"
       }
     ],
-    "Robotics": [
-      {
-        "title": "\ud83d\udcc4 Maze Runner: Autonomous Maze Navigation with Line-Based Localization and Control Barrier Functions",
-        "summary": "arXiv:2611.12949v1 Announce Type: new \nAbstract: Maze navigation requires localization from sparse, repetitive geometry, planning through narrow corridors, and control that stays safe when the estimat...",
-        "link": "https://arxiv.org/abs/2611.12949"
-      },
-      {
-        "title": "\ud83d\udcc4 CAFE: Closed-Loop Autonomous Task Formulation and Execution without Instance-Specific Instructions",
-        "summary": "arXiv:2611.12983v1 Announce Type: new \nAbstract: Scene-driven robot autonomy requires selecting tasks from observations as well as executing them. We study scene-driven task formulation and execution ...",
-        "link": "https://arxiv.org/abs/2611.12983"
-      },
-      {
-        "title": "\ud83d\udcc4 RoboACE: Adversarial Co-Evolution for Robot Self-Improvement",
-        "summary": "arXiv:2611.13034v1 Announce Type: new \nAbstract: Robot agents can improve reusable skills, planning procedures, and recovery strategies from execution feedback, yet a fixed practice source leaves the ...",
-        "link": "https://arxiv.org/abs/2611.13034"
-      }
-    ]
+    "Robotics": []
   },
   "weekly_recap": null,
   "stock_watch": []
