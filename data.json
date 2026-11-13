@@ -1,42 +1,47 @@
 {
-  "last_updated": "2026-11-12 06:58 UTC",
+  "last_updated": "2026-11-13 06:57 UTC",
   "is_sunday_edition": false,
   "sectors": {
     "AI": [
       {
+        "title": "\ud83d\udcc4 LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+        "summary": "...",
+        "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
+      },
+      {
+        "title": "\ud83d\udcc4 The Definitive Fine-Tuning Guide for 3D Generation Models",
+        "summary": "...",
+        "link": "https://huggingface.co/blog/3d-lora-finetuning"
+      },
+      {
         "title": "\ud83d\udcc4 BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
         "summary": "...",
         "link": "https://huggingface.co/blog/qvac/botpsy"
-      },
-      {
-        "title": "\ud83d\udcc4 Token Pooling-Aware Training for Multi-Vector Embedding Models",
-        "summary": "...",
-        "link": "https://huggingface.co/blog/token-pooling"
-      },
-      {
-        "title": "\ud83d\udcc4 Pay for Hugging Face Hub with your Google Cloud Account",
-        "summary": "...",
-        "link": "https://huggingface.co/blog/hub-gcp-marketplace"
       }
     ],
     "Quantum": [
       {
-        "title": "\ud83d\udcc4 IBM Unveils 520-Qubit Nighthawk r3 Processor, 1,040-Qubit Linked Roadmap, and Managed Hybrid Workflows at QDC 2026",
-        "summary": "IBM introduced the Nighthawk r3 processor with 520 programmable qubits and a roadmap to 1,040 qubits by 2027, demonstrating advancements in quantum computing hardware and software. The company also un...",
-        "link": "https://quantumcomputingreport.com/ibm-unveils-520-qubit-nighthawk-r3-processor-1040-qubit-linked-roadmap-and-managed-hybrid-workflows-at-qdc-2026/"
+        "title": "\ud83d\udcc4 Qunova Computing Achieves Chemical Accuracy at 80 Qubits on Iron-Sulfur Cluster Using IBM Quantum System Two and Fugaku",
+        "summary": "Qunova Computing achieved a breakthrough in quantum chemistry by simulating an 80-qubit iron-sulfur cluster with chemical accuracy using a hybrid approach combining IBM Quantum System Two and the Fuga...",
+        "link": "https://quantumcomputingreport.com/qunova-computing-achieves-chemical-accuracy-at-80-qubits-on-iron-sulfur-cluster-using-ibm-quantum-system-two-and-fugaku/"
       },
       {
-        "title": "\ud83d\udcc4 Q-CTRL Deploys Fire Opal Dynamics Simulator on IBM Quantum Functions, Achieving 12\u00d7 Speedup on Nighthawk",
-        "summary": "Q-CTRL has deployed its Fire Opal Dynamics Simulator on IBM Quantum Functions, achieving a 12x speedup on Nighthawk r2 processors compared to Heron r3 systems for large-scale fermionic many-body physi...",
-        "link": "https://quantumcomputingreport.com/q-ctrl-deploys-fire-opal-dynamics-simulator-on-ibm-quantum-functions-achieving-12x-speedup-on-nighthawk/"
+        "title": "\ud83d\udcc4 Cleveland Clinic, RIKEN, and IBM Cross 12,000-Atom Barrier in Heterogeneous Quantum-Classical Drug Binding Simulations",
+        "summary": "A collaboration between Cleveland Clinic, RIKEN, and IBM Quantum has achieved the largest heterogeneous quantum-classical (HQC) electronic-structure calculation to date, simulating protein-ligand comp...",
+        "link": "https://quantumcomputingreport.com/cleveland-clinic-riken-and-ibm-cross-12000-atom-barrier-in-heterogeneous-quantum-classical-drug-binding-simulations/"
       },
       {
-        "title": "\ud83d\udcc4 Q-CTRL Expands Fire Opal Suite with Constrained Optimization, Estimator Twirling, and Monte Carlo Solver",
-        "summary": "Q-CTRL has updated its Fire Opal platform with new features including constrained optimization for QAOA, significantly increasing approximation ratios. They've also introduced Monte Carlo integration ...",
-        "link": "https://quantumcomputingreport.com/q-ctrl-expands-fire-opal-suite-with-constrained-optimization-estimator-twirling-and-monte-carlo-solver/"
+        "title": "\ud83d\udcc4 LTM Becomes First Global Systems Integrator to Launch Function in IBM Quantum Functions Catalog with AI-QEM",
+        "summary": "LTM has launched its AI-QEM software in the IBM Quantum Functions Catalog, becoming the first global systems integrator to do so. This software utilizes an AI-powered approach to mitigate hardware noi...",
+        "link": "https://quantumcomputingreport.com/ltm-becomes-first-global-systems-integrator-to-launch-function-in-ibm-quantum-functions-catalog-with-ai-qem/"
       }
     ],
     "CyberSecurity": [
+      {
+        "title": "\ud83d\udcc4 Another Way Police Are Locating People from Their Smartphones",
+        "summary": "Penlink&#8217;s Webloc is an application that locates people using information from the weather, gaming, email, and religious apps on their phone. It&#8217;s sold to the police.\nThe tool collects vast...",
+        "link": "https://www.schneier.com/blog/archives/2026/11/another-way-police-are-locating-people-from-their-smartphones.html"
+      },
       {
         "title": "\ud83d\udcc4 Three People Arrested for AI-Enhanced Impersonation Fraud",
         "summary": "It&#8217;s hard to believe how lucrative this crime can be:\nAccording to a press release from the United States attorney\u2019s office for the southern district of New York, three men \u00ad Jacob Soall, Sharon...",
@@ -46,45 +51,40 @@
         "title": "\ud83d\udcc4 New OpenSSH Vulnerability",
         "summary": "It&#8217;s a bad one, and it&#8217;s been in the code for a decade:\nA newly disclosed flaw involving OpenSSH and musl, dubbed &#8220;*sshole,&#8221; allows attackers to log in to certain Alpine Linux ...",
         "link": "https://www.schneier.com/blog/archives/2026/11/new-openssh-vulnerability.html"
-      },
-      {
-        "title": "\ud83d\udcc4 AI Security",
-        "summary": "Two weeks ago, I attended the [un]prompted AI security conference in San Francisco. It was an excellent event: three days of very dense talks about all aspects of AI security. (My talk was about integ...",
-        "link": "https://www.schneier.com/blog/archives/2026/11/ai-security.html"
       }
     ],
     "Space": [
       {
-        "title": "\ud83d\udcc4 Senate committee takes up nominees for NASA chief financial officer and inspector general",
-        "summary": "A Senate committee is set to advance nominations for NASA\u2019s chief financial officer and inspector general.\nThe post Senate committee takes up nominees for NASA chief financial officer and inspector ge...",
-        "link": "https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/"
+        "title": "\ud83d\udcc4 AST SpaceMobile presses case for developing own launch vehicle",
+        "summary": "AST SpaceMobile executives expressed confidence in the company\u2019s ability to field a new reusable launch vehicle in just two years despite widespread industry skepticism.\nThe post AST SpaceMobile press...",
+        "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/"
       },
       {
-        "title": "\ud83d\udcc4 Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare",
-        "summary": "East Aurora, N.Y. &#8212; Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering [&#8230;...",
-        "link": "https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/"
+        "title": "\ud83d\udcc4 UARX Space Marks a Milestone for Spain\u2019s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology",
+        "summary": "Nigr\u00e1n, Spain &#124; November 12 2026 \u2013 UARX Space has achieved a major milestone for Spain\u2019s space industry with the deployment of OSSIE-D, an Orbital Transfer Vehicle (OTV) designed and [&#8230;]\nTh...",
+        "link": "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/"
       },
       {
-        "title": "\ud83d\udcc4 Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push",
-        "summary": "(Karlsruhe, Germany, September 29th 2026) Horizon Microtechnologies is accelerating industrialisation of its metallised polymer micro-additive manufacturing platform through IP-MASS, a two-year scale-...",
-        "link": "https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/"
+        "title": "\ud83d\udcc4 What role does industry play in Europe\u2019s space sovereignty push?",
+        "summary": "In this episode, SpaceNews\u2019 Jason Rainbow interviews Atle Woello, the CEO and senior vice president of the space systems and surveillance business unit at Kongsberg NanoAvionics. They discuss the role...",
+        "link": "https://spacenews.com/what-role-does-industry-play-in-europes-space-sovereignty-push/"
       }
     ],
     "Renewables": [
       {
-        "title": "\ud83d\udcc4 Was Corruption The Biggest Issue In The US Election?",
-        "summary": "I saw last week that one of the biggest factors contributing to the enormous blue tsunami that set new history for US elections was people being fed up with government corruption. This has always been...",
-        "link": "https://cleantechnica.com/2026/11/11/was-corruption-the-biggest-issue-in-the-us-election/"
+        "title": "\ud83d\udcc4 Data Centers, AI, & the Growing Demand for Energy: Impacts, Risks, & Solutions",
+        "summary": "Learn how the rapid growth of data centers is affecting electricity bills, public health, communities, and the environment and what can be done about it. Data centers, the physical infrastructure powe...",
+        "link": "https://cleantechnica.com/2026/11/12/data-centers-ai-the-growing-demand-for-energy-impacts-risks-solutions/"
       },
       {
-        "title": "\ud83d\udcc4 The Perovskite Solar Cell Kraken Has Been Unleashed Upon The US",
-        "summary": "Perovskite is a relatively inexpensive material that has attracted thousands of researchers since 2009, when a team of scientists in Japan first demonstrated its use in solar cells. They achieved a so...",
-        "link": "https://cleantechnica.com/2026/11/11/perovskite-solar-cells-us-caelux-heliene/"
+        "title": "\ud83d\udcc4 Managing Offshore Wind in the Face of Uncertainty",
+        "summary": "This report lays out key adaptive management principles and recommendations for regulators. Despite current headwinds from the Trump administration, offshore wind energy is essential for transitioning...",
+        "link": "https://cleantechnica.com/2026/11/12/managing-offshore-wind-in-the-face-of-uncertainty/"
       },
       {
-        "title": "\ud83d\udcc4 Renowned Awards for the Newcomer: ID. Polo Wins Golden Steering Wheel, the Autonis Design Award and Is Voted German Car of the Year 2027",
-        "summary": "Golden Steering Wheel 2026 \u2014 ID. Polo wins in the category Best car under 25,000 euros German Car of the Year 2027 \u2014 ID. Polo wins overall and is the winner of the \u2018Budget car\u2019 category Autonis reader...",
-        "link": "https://cleantechnica.com/2026/11/11/renowned-awards-for-the-newcomer-id-polo-wins-golden-steering-wheel-the-autonis-design-award-and-is-voted-german-car-of-the-year-2027/"
+        "title": "\ud83d\udcc4 Senate Republicans Begin the Process of Jamming BAAJA While Trump Threatens to Ignore It",
+        "summary": "Democrats Must Fight to Fix Draft Legislation Washington, DC \u2014 Following Monday\u2019s vote to open debate on the legislation, a number of Senate Democrats called for an amendment process to fix the \u201cBipar...",
+        "link": "https://cleantechnica.com/2026/11/12/senate-republicans-begin-the-process-of-jamming-baaja-while-trump-threatens-to-ignore-it/"
       },
       {
         "title": "\ud83d\udcc4 The federal permitting bill has been updated. What changed?",
@@ -99,6 +99,11 @@
     ],
     "Energy": [
       {
+        "title": "\ud83d\udcc4 COP31: How Ed Miliband answered Carbon Brief readers\u2019 questions",
+        "summary": "UK foreign secretary and COP veteran Ed Miliband spoke with Carbon Brief earlier today at COP31 in Antalya, Turkey, to&#8230;\nThe post COP31: How Ed Miliband answered Carbon Brief readers\u2019 questions a...",
+        "link": "https://www.carbonbrief.org/cop31-how-ed-miliband-answered-carbon-brief-readers-questions"
+      },
+      {
         "title": "\ud83d\udcc4 Analysis: Climate-finance pledges fall 70% as countries meet at COP31",
         "summary": "The amount of public funding pledged to help developing countries tackle climate change has dropped by more than 70% in&#8230;\nThe post Analysis: Climate-finance pledges fall 70% as countries meet at ...",
         "link": "https://www.carbonbrief.org/analysis-climate-finance-pledges-fall-70-as-countries-meet-at-cop31"
@@ -109,53 +114,48 @@
         "link": "https://www.carbonbrief.org/analysis-which-countries-have-sent-the-most-delegates-to-cop31"
       },
       {
-        "title": "\ud83d\udcc4 Analysis: Fossil-fuel CO2 emissions set to dip in 2026 as Iran conflict hits oil use",
-        "summary": "Carbon dioxide (CO2) emissions from fossil fuels and cement are projected to fall by around 0.4% in 2026 to 38.2bn&#8230;\nThe post Analysis: Fossil-fuel CO2 emissions set to dip in 2026 as Iran confli...",
-        "link": "https://www.carbonbrief.org/analysis-fossil-fuel-co2-emissions-set-to-dip-in-2026-as-iran-conflict-hits-oil-use"
+        "title": "\ud83d\udcc4 AirTrunk secures exclusivity on 800MWh+ battery storage as part of 1GW Hunter renewables deal in Australia",
+        "summary": "AirTrunk has signed an exclusivity agreement with European Energy Australia covering more than 800MWh of battery storage in NSW....",
+        "link": "https://www.energy-storage.news/airtrunk-secures-exclusivity-on-800mwh-battery-storage-as-part-of-1gw-hunter-renewables-deal-in-australia/"
       },
       {
-        "title": "\ud83d\udcc4 Lydian\u2019s 600MWh Utah BESS reaches commercial operation, supporting Meta data centre",
-        "summary": "Excelsior Energy Capital-backed developer Lydian Energy has brought its 150MW/600MWh Faraday battery energy storage system (BESS) project in Utah County, Utah, US into commercial operation....",
-        "link": "https://www.energy-storage.news/lydians-600mwh-utah-bess-reaches-commercial-operation-supporting-meta-data-centre/"
-      },
-      {
-        "title": "\ud83d\udcc4 Calibrant Energy secures US$145 million for solar and BESS across US power markets including PJM hyperscaler project",
-        "summary": "Calibrant Energy, an energy-as-a-service platform, has closed a US$145 million debt facility for solar and energy storage projects across several US power markets....",
-        "link": "https://www.energy-storage.news/calibrant-energy-secures-us145-million-for-solar-and-bess-across-us-power-markets-including-pjm-hyperscaler-project/"
+        "title": "\ud83d\udcc4 DC bidirectional charging and data centre demand are reshaping the case for US DERs",
+        "summary": "As data centre demand surges, utilities and developers are turning to distributed energy resources (DERs) to ease grid strain....",
+        "link": "https://www.energy-storage.news/dc-bidirectional-charging-and-data-centre-demand-are-reshaping-the-case-for-us-ders/"
       }
     ],
     "MedTech": [
       {
+        "title": "\ud83d\udcc4 Abbott\u2019s defibrillation lead lands FDA approval and CE mark",
+        "summary": "The authorizations position Abbott to launch a purpose-built lead for left bundle branch area pacing in the U.S. and Europe....",
+        "link": "https://www.medtechdive.com/news/abbotts-defibrillation-lead-lands-fda-approval-and-ce-mark/874474/"
+      },
+      {
+        "title": "\ud83d\udcc4 J&J leads Francis Medical investment to fund prostate cancer device",
+        "summary": "With Johnson &amp; Johnson&rsquo;s support, Francis plans to take its water-vapor therapy device through the premarket approval process....",
+        "link": "https://www.medtechdive.com/news/jj-leads-francis-medical-investment-to-fund-prostate-cancer-device/874352/"
+      },
+      {
         "title": "\ud83d\udcc4 Oura makes bet on AI in healthcare with $625M Counsel Health buy",
         "summary": "The planned acquisition comes as wearable firms push to up their healthcare offerings....",
         "link": "https://www.medtechdive.com/news/oura-makes-bet-on-ai-in-healthcare-with-625m-counsel-health-buy/874398/"
-      },
-      {
-        "title": "\ud83d\udcc4 Tandem recalls Mobi insulin pump, reports 230 adverse events",
-        "summary": "A problem with a false occlusion alarm could interrupt insulin delivery for users, according to an entry in the FDA&rsquo;s recall database....",
-        "link": "https://www.medtechdive.com/news/tandem-recalls-mobi-insulin-pump-reports-230-adverse-events/874386/"
-      },
-      {
-        "title": "\ud83d\udcc4 Virtuoso robot wins FDA nod for bladder tumor removal",
-        "summary": "Virtuoso Surgical&rsquo;s robotic system can remove lesions in one piece in a minimally invasive procedure designed to improve cancer diagnosis and staging....",
-        "link": "https://www.medtechdive.com/news/virtuoso-robot-wins-fda-nod-for-bladder-tumor-removal/874261/"
       }
     ],
     "Telecommunications": [
       {
-        "title": "\ud83d\udcc4 Starlink gets faster ahead of 'V3' launches, but shift to dynamic pricing could backfire",
-        "summary": "Ookla says Starlink speeds are climbing as the service attracts more urban subscribers ahead of a wider rollout of high-capacity 'V3' satellites. But Starlink's risky shift to dynamic pricing is alrea...",
-        "link": "https://www.lightreading.com/satellite/starlink-gets-faster-ahead-of-v3-launches-but-shift-to-dynamic-pricing-could-backfire"
+        "title": "\ud83d\udcc4 SpaceX's bid for Grain's lowband spectrum takes a step forward",
+        "summary": "The FCC has cleared SpaceX's application for Grain Management's 800MHz lowband spectrum, a key piece for its Starlink Mobile ambitions. Detractors have until December 8 to oppose it....",
+        "link": "https://www.lightreading.com/5g/spacex-s-bid-for-grain-s-lowband-spectrum-takes-a-step-forward"
       },
       {
-        "title": "\ud83d\udcc4 T-Mobile goes national with T-Mix and gets real about robots",
-        "summary": "T-Mobile's CMO Allan Samson says T-Mix tackles a subscription problem while giving customers more flexibility in the value they get from their mobile plans. Meanwhile, the company says its network is ...",
-        "link": "https://www.lightreading.com/5g/t-mobile-goes-national-with-t-mix-and-gets-real-about-robots"
+        "title": "\ud83d\udcc4 Telef\u00f3nica stands by VMO2 amid UK fiber consolidation drama",
+        "summary": "Telef\u00f3nica backs its UK joint venture Virgin Media O2 and criticizes regulatory pushback on Nexfibre's deal to acquire Netomnia, as it reports Q3 earnings....",
+        "link": "https://www.lightreading.com/finance/telef-nica-stands-by-vmo2-amid-uk-fiber-consolidation-drama"
       },
       {
-        "title": "\ud83d\udcc4 Senate Democrats grill FCC nominee on E-Rate's future",
-        "summary": "Republican nominee for FCC Commissioner, Danielle Thumann Severs, was noncommittal when answering Senate Democrats' questions on what's to come of the E-Rate telecom subsidy program for schools and li...",
-        "link": "https://www.lightreading.com/broadband/senate-democrats-grill-fcc-nominee-on-e-rate-s-future"
+        "title": "\ud83d\udcc4 Jensen Huang out as Nvidia CEO as telecom makes big bets on AI",
+        "summary": "Jensen Huang resigned as Nvidia CEO amid an affair with an alleged Chinese spy. His abrupt exit sent shockwaves across the AI industry and could bring uncertainty to telecom players becoming reliant o...",
+        "link": "https://www.lightreading.com/ai-machine-learning/jensen-huang-out-as-nvidia-ceo-as-telecom-makes-big-bets-on-ai"
       }
     ],
     "Robotics": []
