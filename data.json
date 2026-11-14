@@ -1,59 +1,64 @@
 {
-  "last_updated": "2026-11-13 06:57 UTC",
+  "last_updated": "2026-11-14 06:46 UTC",
   "is_sunday_edition": false,
   "sectors": {
     "AI": [
       {
-        "title": "\ud83d\udcc4 LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+        "title": "\ud83d\udcc4 Build a Robot Pick-and-Place Simulation with SimReady Assets",
         "summary": "...",
-        "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
+        "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"
       },
       {
-        "title": "\ud83d\udcc4 The Definitive Fine-Tuning Guide for 3D Generation Models",
+        "title": "\ud83d\udcc4 XYBench: Helping with the problem behind the question",
         "summary": "...",
-        "link": "https://huggingface.co/blog/3d-lora-finetuning"
+        "link": "https://huggingface.co/blog/allenai/xybench"
       },
       {
-        "title": "\ud83d\udcc4 BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+        "title": "\ud83d\udcc4 llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
         "summary": "...",
-        "link": "https://huggingface.co/blog/qvac/botpsy"
+        "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
       }
     ],
     "Quantum": [
       {
-        "title": "\ud83d\udcc4 Qunova Computing Achieves Chemical Accuracy at 80 Qubits on Iron-Sulfur Cluster Using IBM Quantum System Two and Fugaku",
-        "summary": "Qunova Computing achieved a breakthrough in quantum chemistry by simulating an 80-qubit iron-sulfur cluster with chemical accuracy using a hybrid approach combining IBM Quantum System Two and the Fuga...",
-        "link": "https://quantumcomputingreport.com/qunova-computing-achieves-chemical-accuracy-at-80-qubits-on-iron-sulfur-cluster-using-ibm-quantum-system-two-and-fugaku/"
+        "title": "\ud83d\udcc4 QFactorial and Monash University Secure A$1.12 Million ($$758.6K USD) Australian Government Grant for Quantum Logistics Optimization",
+        "summary": "QFactorial and Monash University have received a A$1.12 million Australian government grant to develop a hybrid quantum-classical optimization solver for freight and last-mile delivery. The 15-month p...",
+        "link": "https://quantumcomputingreport.com/qfactorial-and-monash-university-secure-a1-12-million-758-6k-usd-australian-government-grant-for-quantum-logistics-optimization/"
       },
       {
-        "title": "\ud83d\udcc4 Cleveland Clinic, RIKEN, and IBM Cross 12,000-Atom Barrier in Heterogeneous Quantum-Classical Drug Binding Simulations",
-        "summary": "A collaboration between Cleveland Clinic, RIKEN, and IBM Quantum has achieved the largest heterogeneous quantum-classical (HQC) electronic-structure calculation to date, simulating protein-ligand comp...",
-        "link": "https://quantumcomputingreport.com/cleveland-clinic-riken-and-ibm-cross-12000-atom-barrier-in-heterogeneous-quantum-classical-drug-binding-simulations/"
+        "title": "\ud83d\udcc4 Quantum XChange Phio TX Becomes First Post-Quantum Cryptographic Management Platform to Earn EUCC Certification",
+        "summary": "Quantum XChange's Phio TX cryptographic management software (version 4.5.6) is the first post-quantum cryptography (PQC) management platform to achieve EUCC certification, adding to its existing U.S. ...",
+        "link": "https://quantumcomputingreport.com/quantum-xchange-phio-tx-becomes-first-post-quantum-cryptographic-management-platform-to-earn-eucc-certification/"
       },
       {
-        "title": "\ud83d\udcc4 LTM Becomes First Global Systems Integrator to Launch Function in IBM Quantum Functions Catalog with AI-QEM",
-        "summary": "LTM has launched its AI-QEM software in the IBM Quantum Functions Catalog, becoming the first global systems integrator to do so. This software utilizes an AI-powered approach to mitigate hardware noi...",
-        "link": "https://quantumcomputingreport.com/ltm-becomes-first-global-systems-integrator-to-launch-function-in-ibm-quantum-functions-catalog-with-ai-qem/"
+        "title": "\ud83d\udcc4 JIJ Expands Quantum-HPC and Industrial R&D Collaborations with Mitsubishi Electric, Q-CTRL, and Tinuviel Therapeutics",
+        "summary": "JIJ Inc. has expanded its quantum-HPC and industrial R&#038;D collaborations with three new partnerships. These collaborations involve Mitsubishi Electric for thermal-fluid engineering simulation, Q-C...",
+        "link": "https://quantumcomputingreport.com/jij-expands-quantum-hpc-and-industrial-rd-collaborations-with-mitsubishi-electric-q-ctrl-and-tinuviel-therapeutics/"
       }
     ],
     "CyberSecurity": [
       {
+        "title": "\ud83d\udcc4 Friday Squid Blogging: Pacific Flying Squid Populations Dropping in Korean Waters",
+        "summary": "Climate change is the issue.\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.\nBlog moderation policy....",
+        "link": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html"
+      },
+      {
+        "title": "\ud83d\udcc4 AI Doesn\u2019t Have to Go Rogue to Break the World",
+        "summary": "This essay is adapted from a keynote speech delivered at the DEF CON 34 conference in Las Vegas on August 7, 2026. The essay originally appeared in CyberScoop.\nI want to talk about AI hacking. There a...",
+        "link": "https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html"
+      },
+      {
         "title": "\ud83d\udcc4 Another Way Police Are Locating People from Their Smartphones",
         "summary": "Penlink&#8217;s Webloc is an application that locates people using information from the weather, gaming, email, and religious apps on their phone. It&#8217;s sold to the police.\nThe tool collects vast...",
         "link": "https://www.schneier.com/blog/archives/2026/11/another-way-police-are-locating-people-from-their-smartphones.html"
-      },
-      {
-        "title": "\ud83d\udcc4 Three People Arrested for AI-Enhanced Impersonation Fraud",
-        "summary": "It&#8217;s hard to believe how lucrative this crime can be:\nAccording to a press release from the United States attorney\u2019s office for the southern district of New York, three men \u00ad Jacob Soall, Sharon...",
-        "link": "https://www.schneier.com/blog/archives/2026/11/three-people-arrested-for-ai-enhanced-impersonation-fraud.html"
-      },
-      {
-        "title": "\ud83d\udcc4 New OpenSSH Vulnerability",
-        "summary": "It&#8217;s a bad one, and it&#8217;s been in the code for a decade:\nA newly disclosed flaw involving OpenSSH and musl, dubbed &#8220;*sshole,&#8221; allows attackers to log in to certain Alpine Linux ...",
-        "link": "https://www.schneier.com/blog/archives/2026/11/new-openssh-vulnerability.html"
       }
     ],
     "Space": [
+      {
+        "title": "\ud83d\udcc4 Commercial Space Federation Welcomes CesiumAstro as a New Associate Member",
+        "summary": "November 13, 2026\u2014 Washington, D.C.\u2014The Commercial Space Federation (CSF) is pleased to welcome CesiumAstro as its newest Associate Member. A global leader in advanced connectivity solutions for the s...",
+        "link": "https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member/"
+      },
       {
         "title": "\ud83d\udcc4 AST SpaceMobile presses case for developing own launch vehicle",
         "summary": "AST SpaceMobile executives expressed confidence in the company\u2019s ability to field a new reusable launch vehicle in just two years despite widespread industry skepticism.\nThe post AST SpaceMobile press...",
@@ -63,28 +68,23 @@
         "title": "\ud83d\udcc4 UARX Space Marks a Milestone for Spain\u2019s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology",
         "summary": "Nigr\u00e1n, Spain &#124; November 12 2026 \u2013 UARX Space has achieved a major milestone for Spain\u2019s space industry with the deployment of OSSIE-D, an Orbital Transfer Vehicle (OTV) designed and [&#8230;]\nTh...",
         "link": "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/"
-      },
-      {
-        "title": "\ud83d\udcc4 What role does industry play in Europe\u2019s space sovereignty push?",
-        "summary": "In this episode, SpaceNews\u2019 Jason Rainbow interviews Atle Woello, the CEO and senior vice president of the space systems and surveillance business unit at Kongsberg NanoAvionics. They discuss the role...",
-        "link": "https://spacenews.com/what-role-does-industry-play-in-europes-space-sovereignty-push/"
       }
     ],
     "Renewables": [
       {
-        "title": "\ud83d\udcc4 Data Centers, AI, & the Growing Demand for Energy: Impacts, Risks, & Solutions",
-        "summary": "Learn how the rapid growth of data centers is affecting electricity bills, public health, communities, and the environment and what can be done about it. Data centers, the physical infrastructure powe...",
-        "link": "https://cleantechnica.com/2026/11/12/data-centers-ai-the-growing-demand-for-energy-impacts-risks-solutions/"
+        "title": "\ud83d\udcc4 Tesla Starts Selling Cybercab \u2014 $30,000*",
+        "summary": "Well, it&#8217;s a big day in Tesla World. The company has officially launched Cybercab sales. You can now order a Cybercab for the starting price of $30,000 (technically, $29,900). That said, there i...",
+        "link": "https://cleantechnica.com/2026/11/13/tesla-starts-selling-cybercab-30000/"
       },
       {
-        "title": "\ud83d\udcc4 Managing Offshore Wind in the Face of Uncertainty",
-        "summary": "This report lays out key adaptive management principles and recommendations for regulators. Despite current headwinds from the Trump administration, offshore wind energy is essential for transitioning...",
-        "link": "https://cleantechnica.com/2026/11/12/managing-offshore-wind-in-the-face-of-uncertainty/"
+        "title": "\ud83d\udcc4 Who Can Weather the Health Storm?",
+        "summary": "States facing the greatest health damage from climate change are the least equipped to protect their residents. Across the United States, climate change is intensifying extreme weather events, resulti...",
+        "link": "https://cleantechnica.com/2026/11/13/who-can-weather-the-health-storm/"
       },
       {
-        "title": "\ud83d\udcc4 Senate Republicans Begin the Process of Jamming BAAJA While Trump Threatens to Ignore It",
-        "summary": "Democrats Must Fight to Fix Draft Legislation Washington, DC \u2014 Following Monday\u2019s vote to open debate on the legislation, a number of Senate Democrats called for an amendment process to fix the \u201cBipar...",
-        "link": "https://cleantechnica.com/2026/11/12/senate-republicans-begin-the-process-of-jamming-baaja-while-trump-threatens-to-ignore-it/"
+        "title": "\ud83d\udcc4 Comparative Cost Analysis for Residential Curbside Organics Collection Programs",
+        "summary": "This analysis of eight residential programs shows that, if properly implemented, cities can use a new organics collection program to build a more efficient, resilient, and sustainable solid waste syst...",
+        "link": "https://cleantechnica.com/2026/11/13/comparative-cost-analysis-for-residential-curbside-organics-collection-programs/"
       },
       {
         "title": "\ud83d\udcc4 The federal permitting bill has been updated. What changed?",
@@ -114,48 +114,48 @@
         "link": "https://www.carbonbrief.org/analysis-which-countries-have-sent-the-most-delegates-to-cop31"
       },
       {
-        "title": "\ud83d\udcc4 AirTrunk secures exclusivity on 800MWh+ battery storage as part of 1GW Hunter renewables deal in Australia",
-        "summary": "AirTrunk has signed an exclusivity agreement with European Energy Australia covering more than 800MWh of battery storage in NSW....",
-        "link": "https://www.energy-storage.news/airtrunk-secures-exclusivity-on-800mwh-battery-storage-as-part-of-1gw-hunter-renewables-deal-in-australia/"
+        "title": "\ud83d\udcc4 The next phase of ESS: LG Energy Solution\u2019s strategy for an evolving energy market",
+        "summary": "Chang Beom Kang, Head of the ESS Battery Division at LG Energy Solution, discusses his view of the changing market and the company's strategy for future growth....",
+        "link": "https://www.energy-storage.news/the-next-phase-of-ess-lg-energy-solutions-strategy-for-an-evolving-energy-market/"
       },
       {
-        "title": "\ud83d\udcc4 DC bidirectional charging and data centre demand are reshaping the case for US DERs",
-        "summary": "As data centre demand surges, utilities and developers are turning to distributed energy resources (DERs) to ease grid strain....",
-        "link": "https://www.energy-storage.news/dc-bidirectional-charging-and-data-centre-demand-are-reshaping-the-case-for-us-ders/"
+        "title": "\ud83d\udcc4 Toll makes way for floor, offtake contracting beginning to standardise in UK BESS market",
+        "summary": "Floors are increasingly the offtake structure of choice in the UK market, and the contracting for them is beginning to standardise, industry experts said....",
+        "link": "https://www.energy-storage.news/toll-makes-way-for-floor-offtake-contracting-beginning-to-standardise-in-uk-bess-market/"
       }
     ],
     "MedTech": [
       {
+        "title": "\ud83d\udcc4 FDA posts early alerts for two product removals",
+        "summary": "&nbsp;Intersurgical told customers to immediately stop using affected devices, while Arrow International instructed users to quarantine and return certain products....",
+        "link": "https://www.medtechdive.com/news/fda-posts-early-alerts-for-two-product-removals/874629/"
+      },
+      {
+        "title": "\ud83d\udcc4 Bipartisan push possible to curb Trump tariffs",
+        "summary": "Three bills in Congress would significantly restrict presidential tariff power if they become law, and experts say there's appetite for change in trade policy....",
+        "link": "https://www.medtechdive.com/news/bipartisan-push-possible-to-curb-trump-tariffs/874520/"
+      },
+      {
         "title": "\ud83d\udcc4 Abbott\u2019s defibrillation lead lands FDA approval and CE mark",
         "summary": "The authorizations position Abbott to launch a purpose-built lead for left bundle branch area pacing in the U.S. and Europe....",
         "link": "https://www.medtechdive.com/news/abbotts-defibrillation-lead-lands-fda-approval-and-ce-mark/874474/"
-      },
-      {
-        "title": "\ud83d\udcc4 J&J leads Francis Medical investment to fund prostate cancer device",
-        "summary": "With Johnson &amp; Johnson&rsquo;s support, Francis plans to take its water-vapor therapy device through the premarket approval process....",
-        "link": "https://www.medtechdive.com/news/jj-leads-francis-medical-investment-to-fund-prostate-cancer-device/874352/"
-      },
-      {
-        "title": "\ud83d\udcc4 Oura makes bet on AI in healthcare with $625M Counsel Health buy",
-        "summary": "The planned acquisition comes as wearable firms push to up their healthcare offerings....",
-        "link": "https://www.medtechdive.com/news/oura-makes-bet-on-ai-in-healthcare-with-625m-counsel-health-buy/874398/"
       }
     ],
     "Telecommunications": [
       {
-        "title": "\ud83d\udcc4 SpaceX's bid for Grain's lowband spectrum takes a step forward",
-        "summary": "The FCC has cleared SpaceX's application for Grain Management's 800MHz lowband spectrum, a key piece for its Starlink Mobile ambitions. Detractors have until December 8 to oppose it....",
-        "link": "https://www.lightreading.com/5g/spacex-s-bid-for-grain-s-lowband-spectrum-takes-a-step-forward"
+        "title": "\ud83d\udcc4 FCC sets key dates for upper C-band auction",
+        "summary": "The FCC said the auction for 160MHz of upper C-band spectrum will begin on April 27, 2027, putting winners on track to light up most of that spectrum before the end of 2030....",
+        "link": "https://www.lightreading.com/regulatory-politics/fcc-sets-key-dates-for-upper-c-band-auction"
       },
       {
-        "title": "\ud83d\udcc4 Telef\u00f3nica stands by VMO2 amid UK fiber consolidation drama",
-        "summary": "Telef\u00f3nica backs its UK joint venture Virgin Media O2 and criticizes regulatory pushback on Nexfibre's deal to acquire Netomnia, as it reports Q3 earnings....",
-        "link": "https://www.lightreading.com/finance/telef-nica-stands-by-vmo2-amid-uk-fiber-consolidation-drama"
+        "title": "\ud83d\udcc4 Singtel raises full-year outlook despite 55% drop in profit in H1",
+        "summary": "Singtel Group has increased its full-year operating company earnings before interest and tax (OpCo Ebit) growth guidance to mid to high-single digits for FY2027....",
+        "link": "https://www.lightreading.com/finance/singtel-s-fundamentals-hold-firm-despite-55-profit-plunge-in-1h-fy2027"
       },
       {
-        "title": "\ud83d\udcc4 Jensen Huang out as Nvidia CEO as telecom makes big bets on AI",
-        "summary": "Jensen Huang resigned as Nvidia CEO amid an affair with an alleged Chinese spy. His abrupt exit sent shockwaves across the AI industry and could bring uncertainty to telecom players becoming reliant o...",
-        "link": "https://www.lightreading.com/ai-machine-learning/jensen-huang-out-as-nvidia-ceo-as-telecom-makes-big-bets-on-ai"
+        "title": "\ud83d\udcc4 GTCR intervenes in bid to break deadlock on Cable One-Mega Broadband deal",
+        "summary": "GTCR and Mega Broadband are stepping into the Cable One-CoBank lawsuit in an attempt to expedite a pair of court hearings that have stalled the Cable One-Mega Broadband deal....",
+        "link": "https://www.lightreading.com/cable-technology/gtcr-intervenes-in-bid-to-break-deadlock-on-cable-one-mega-broadband-deal"
       }
     ],
     "Robotics": []
