@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-14 06:46 UTC",
-  "is_sunday_edition": false,
+  "last_updated": "2026-11-15 06:50 UTC",
+  "is_sunday_edition": true,
   "sectors": {
     "AI": [
       {
@@ -21,22 +21,27 @@
     ],
     "Quantum": [
       {
+        "title": "\ud83d\udcc4 Making Quantum SDKs More Accessible: Lessons from Contributing to Qiskit",
+        "summary": "Software developer Gloria Amos describes her experience in making a contribution to the open source Qiskit platform and provides insights into some of the things contributors should watch out for.\nThe...",
+        "link": "https://quantumcomputingreport.com/making-quantum-sdks-more-accessiblelessons-from-contributing-to-qiskit/"
+      },
+      {
+        "title": "\ud83d\udcc4 Who\u2019s News: Strategic Appointments at SemiQon, OrangeQS, IonQ, Haiqu, and Jij",
+        "summary": "This article announces several strategic appointments in the quantum technology sector. SemiQon appointed Dr. Thierry Botter as CCO, OrangeQS named Raj Badoni as CCO, and IonQ expanded its finance lea...",
+        "link": "https://quantumcomputingreport.com/whos-news-strategic-appointments-at-semiqon-orangeqs-ionq-haiqu-and-jij/"
+      },
+      {
         "title": "\ud83d\udcc4 QFactorial and Monash University Secure A$1.12 Million ($$758.6K USD) Australian Government Grant for Quantum Logistics Optimization",
         "summary": "QFactorial and Monash University have received a A$1.12 million Australian government grant to develop a hybrid quantum-classical optimization solver for freight and last-mile delivery. The 15-month p...",
         "link": "https://quantumcomputingreport.com/qfactorial-and-monash-university-secure-a1-12-million-758-6k-usd-australian-government-grant-for-quantum-logistics-optimization/"
-      },
-      {
-        "title": "\ud83d\udcc4 Quantum XChange Phio TX Becomes First Post-Quantum Cryptographic Management Platform to Earn EUCC Certification",
-        "summary": "Quantum XChange's Phio TX cryptographic management software (version 4.5.6) is the first post-quantum cryptography (PQC) management platform to achieve EUCC certification, adding to its existing U.S. ...",
-        "link": "https://quantumcomputingreport.com/quantum-xchange-phio-tx-becomes-first-post-quantum-cryptographic-management-platform-to-earn-eucc-certification/"
-      },
-      {
-        "title": "\ud83d\udcc4 JIJ Expands Quantum-HPC and Industrial R&D Collaborations with Mitsubishi Electric, Q-CTRL, and Tinuviel Therapeutics",
-        "summary": "JIJ Inc. has expanded its quantum-HPC and industrial R&#038;D collaborations with three new partnerships. These collaborations involve Mitsubishi Electric for thermal-fluid engineering simulation, Q-C...",
-        "link": "https://quantumcomputingreport.com/jij-expands-quantum-hpc-and-industrial-rd-collaborations-with-mitsubishi-electric-q-ctrl-and-tinuviel-therapeutics/"
       }
     ],
     "CyberSecurity": [
+      {
+        "title": "\ud83d\udcc4 Upcoming Speaking Engagements",
+        "summary": "This is a current list of where and when I am scheduled to speak:\n\nI\u2019m speaking at the Catalyst Summit in Brampton, Ontario, Canada, on Wednesday, November 18, 2026.\nI\u2019m speaking at QT Qonference 2026...",
+        "link": "https://www.schneier.com/blog/archives/2026/11/upcoming-speaking-engagements-62.html"
+      },
       {
         "title": "\ud83d\udcc4 Friday Squid Blogging: Pacific Flying Squid Populations Dropping in Korean Waters",
         "summary": "Climate change is the issue.\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.\nBlog moderation policy....",
@@ -46,11 +51,6 @@
         "title": "\ud83d\udcc4 AI Doesn\u2019t Have to Go Rogue to Break the World",
         "summary": "This essay is adapted from a keynote speech delivered at the DEF CON 34 conference in Las Vegas on August 7, 2026. The essay originally appeared in CyberScoop.\nI want to talk about AI hacking. There a...",
         "link": "https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html"
-      },
-      {
-        "title": "\ud83d\udcc4 Another Way Police Are Locating People from Their Smartphones",
-        "summary": "Penlink&#8217;s Webloc is an application that locates people using information from the weather, gaming, email, and religious apps on their phone. It&#8217;s sold to the police.\nThe tool collects vast...",
-        "link": "https://www.schneier.com/blog/archives/2026/11/another-way-police-are-locating-people-from-their-smartphones.html"
       }
     ],
     "Space": [
@@ -72,19 +72,19 @@
     ],
     "Renewables": [
       {
-        "title": "\ud83d\udcc4 Tesla Starts Selling Cybercab \u2014 $30,000*",
-        "summary": "Well, it&#8217;s a big day in Tesla World. The company has officially launched Cybercab sales. You can now order a Cybercab for the starting price of $30,000 (technically, $29,900). That said, there i...",
-        "link": "https://cleantechnica.com/2026/11/13/tesla-starts-selling-cybercab-30000/"
+        "title": "\ud83d\udcc4 Sonnen, SOLRITE, & ADAPT Energy, Integrating VPP Breakers to Turn Home Loads into Flexible Grid Assets",
+        "summary": "SOLRITE Unveils Next-Gen Virtual Power Plant Node with sonnen and ADAPT Energy, Integrating VPP Breakers to Turn Home Loads into Flexible Grid Assets ADAPT Energy\u2019s control of VPP breakers will add di...",
+        "link": "https://cleantechnica.com/2026/11/14/sonnen-solrite-adapt-energy-integrating-vpp-breakers-to-turn-home-loads-into-flexible-grid-assets/"
       },
       {
-        "title": "\ud83d\udcc4 Who Can Weather the Health Storm?",
-        "summary": "States facing the greatest health damage from climate change are the least equipped to protect their residents. Across the United States, climate change is intensifying extreme weather events, resulti...",
-        "link": "https://cleantechnica.com/2026/11/13/who-can-weather-the-health-storm/"
+        "title": "\ud83d\udcc4 Rocket Fuel: The Last Frontier For Natural Gas",
+        "summary": "SpaceX is among the industrial-scale consumers of natural gas adding more pipes to the nation's sprawling network of gas pipelines, which the startup needs to ensure a steady supply of fuel for its gr...",
+        "link": "https://cleantechnica.com/2026/11/14/natural-gas-methane-rocket-fuel-spacex-pipelines/"
       },
       {
-        "title": "\ud83d\udcc4 Comparative Cost Analysis for Residential Curbside Organics Collection Programs",
-        "summary": "This analysis of eight residential programs shows that, if properly implemented, cities can use a new organics collection program to build a more efficient, resilient, and sustainable solid waste syst...",
-        "link": "https://cleantechnica.com/2026/11/13/comparative-cost-analysis-for-residential-curbside-organics-collection-programs/"
+        "title": "\ud83d\udcc4 313 kW Rooftop Solar System at Virginia Elementary Will Save $581,000 in Energy Costs",
+        "summary": "Roanoke City Schools to Add 313 kW Solar Power System Staunton, VA \u2014 Secure Solar Futures, a provider of on-site clean energy to schools, local governments, and businesses, will build a 313-kilowatt s...",
+        "link": "https://cleantechnica.com/2026/11/14/313-kw-solar-power-system-rooftop-system-at-virginia-elementary-will-save-581000-in-energy-costs/"
       },
       {
         "title": "\ud83d\udcc4 The federal permitting bill has been updated. What changed?",
