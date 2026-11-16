@@ -1,8 +1,23 @@
 {
-  "last_updated": "2026-11-15 06:50 UTC",
-  "is_sunday_edition": true,
+  "last_updated": "2026-11-16 08:12 UTC",
+  "is_sunday_edition": false,
   "sectors": {
     "AI": [
+      {
+        "title": "\ud83d\udcc4 When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
+        "summary": "arXiv:2611.17338v1 Announce Type: new \nAbstract: LLM memory systems often delete facts classified as stale. We show that this hard-filtering step can reduce downstream accuracy when resolver errors de...",
+        "link": "https://arxiv.org/abs/2611.17338"
+      },
+      {
+        "title": "\ud83d\udcc4 Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
+        "summary": "arXiv:2611.17339v1 Announce Type: new \nAbstract: Hallucination detection for large language models is dominated by methods evaluated on 7B-70B research models with abundant sampling budgets and exact-...",
+        "link": "https://arxiv.org/abs/2611.17339"
+      },
+      {
+        "title": "\ud83d\udcc4 LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
+        "summary": "arXiv:2611.17340v1 Announce Type: new \nAbstract: Large language models are expensive to update through full retraining. Parameter-efficient fine-tuning reduces the cost of adaptation, but repeated ada...",
+        "link": "https://arxiv.org/abs/2611.17340"
+      },
       {
         "title": "\ud83d\udcc4 Build a Robot Pick-and-Place Simulation with SimReady Assets",
         "summary": "...",
@@ -12,28 +27,33 @@
         "title": "\ud83d\udcc4 XYBench: Helping with the problem behind the question",
         "summary": "...",
         "link": "https://huggingface.co/blog/allenai/xybench"
-      },
-      {
-        "title": "\ud83d\udcc4 llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-        "summary": "...",
-        "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
       }
     ],
     "Quantum": [
       {
-        "title": "\ud83d\udcc4 Making Quantum SDKs More Accessible: Lessons from Contributing to Qiskit",
-        "summary": "Software developer Gloria Amos describes her experience in making a contribution to the open source Qiskit platform and provides insights into some of the things contributors should watch out for.\nThe...",
-        "link": "https://quantumcomputingreport.com/making-quantum-sdks-more-accessiblelessons-from-contributing-to-qiskit/"
+        "title": "\ud83d\udcc4 Analytic spread complexity in three-level systems and the spacing-ratio distribution",
+        "summary": "arXiv:2611.17417v1 Announce Type: new \nAbstract: The spread complexity characterizes the spreading of a quantum state over the Krylov basis and has been proposed to capture the correlations between en...",
+        "link": "https://arxiv.org/abs/2611.17417"
       },
       {
-        "title": "\ud83d\udcc4 Who\u2019s News: Strategic Appointments at SemiQon, OrangeQS, IonQ, Haiqu, and Jij",
-        "summary": "This article announces several strategic appointments in the quantum technology sector. SemiQon appointed Dr. Thierry Botter as CCO, OrangeQS named Raj Badoni as CCO, and IonQ expanded its finance lea...",
-        "link": "https://quantumcomputingreport.com/whos-news-strategic-appointments-at-semiqon-orangeqs-ionq-haiqu-and-jij/"
+        "title": "\ud83d\udcc4 Quantum violation of Causal Friendliness in the instrumental scenario",
+        "summary": "arXiv:2611.17431v1 Announce Type: new \nAbstract: How far can quantum theory depart from a classical worldview? Bell inequality violations show that no theory can simultaneously uphold absoluteness of ...",
+        "link": "https://arxiv.org/abs/2611.17431"
       },
       {
-        "title": "\ud83d\udcc4 QFactorial and Monash University Secure A$1.12 Million ($$758.6K USD) Australian Government Grant for Quantum Logistics Optimization",
-        "summary": "QFactorial and Monash University have received a A$1.12 million Australian government grant to develop a hybrid quantum-classical optimization solver for freight and last-mile delivery. The 15-month p...",
-        "link": "https://quantumcomputingreport.com/qfactorial-and-monash-university-secure-a1-12-million-758-6k-usd-australian-government-grant-for-quantum-logistics-optimization/"
+        "title": "\ud83d\udcc4 Fast mixing and thermal phases from strong decay of correlations",
+        "summary": "arXiv:2611.17433v1 Announce Type: new \nAbstract: We show that a strong form of correlation decay in quantum Gibbs states has far-reaching dynamical consequences. For a smooth path of geometrically loc...",
+        "link": "https://arxiv.org/abs/2611.17433"
+      },
+      {
+        "title": "\ud83d\udcc4 Qatar Ministry of Communications and Information Technology Signs Post-Quantum Readiness Agreement with SignQuantum and QANplatform",
+        "summary": "The Ministry of Communications and Information Technology of Qatar has partnered with SignQuantum and QANplatform to explore post-quantum cryptography for public-sector data, aligning with Qatar's Nat...",
+        "link": "https://quantumcomputingreport.com/qatar-ministry-of-communications-and-information-technology-signs-post-quantum-readiness-agreement-with-signquantum-and-qanplatform/"
+      },
+      {
+        "title": "\ud83d\udcc4 Cross-Platform Cloud Benchmark Reveals Wide Gap Between Physical Qubit Counts and Entangled GHZ State Sizes",
+        "summary": "A new study benchmarked nine cloud-accessible quantum processors, revealing a significant gap between the number of physical qubits and the size of entangled GHZ states achievable without error mitiga...",
+        "link": "https://quantumcomputingreport.com/cross-platform-cloud-benchmark-reveals-wide-gap-between-physical-qubit-counts-and-entangled-ghz-state-sizes/"
       }
     ],
     "CyberSecurity": [
@@ -72,19 +92,19 @@
     ],
     "Renewables": [
       {
-        "title": "\ud83d\udcc4 Sonnen, SOLRITE, & ADAPT Energy, Integrating VPP Breakers to Turn Home Loads into Flexible Grid Assets",
-        "summary": "SOLRITE Unveils Next-Gen Virtual Power Plant Node with sonnen and ADAPT Energy, Integrating VPP Breakers to Turn Home Loads into Flexible Grid Assets ADAPT Energy\u2019s control of VPP breakers will add di...",
-        "link": "https://cleantechnica.com/2026/11/14/sonnen-solrite-adapt-energy-integrating-vpp-breakers-to-turn-home-loads-into-flexible-grid-assets/"
+        "title": "\ud83d\udcc4 NAED Unveils PV-1 PECVD-V, a U.S.-Engineered Vertical Deposition Platform Built for 96,000-Wafer-per-Hour Tandem Solar Manufacturing",
+        "summary": "Patent-pending vertical PECVD/PVD architecture doubles wafer throughput over NAED&#8217;s previous platform and is designed to produce perovskite/HJT tandem cells targeting 30% efficiency NAED Energy ...",
+        "link": "https://cleantechnica.com/2026/11/15/naed-unveils-pv-1-pecvd-v-a-u-s-engineered-vertical-deposition-platform-built-for-96000-wafer-per-hour-tandem-solar-manufacturing/"
       },
       {
-        "title": "\ud83d\udcc4 Rocket Fuel: The Last Frontier For Natural Gas",
-        "summary": "SpaceX is among the industrial-scale consumers of natural gas adding more pipes to the nation's sprawling network of gas pipelines, which the startup needs to ensure a steady supply of fuel for its gr...",
-        "link": "https://cleantechnica.com/2026/11/14/natural-gas-methane-rocket-fuel-spacex-pipelines/"
+        "title": "\ud83d\udcc4 A Radically Different Approach to AI",
+        "summary": "About forty years ago, I decided I would develop artificial intelligence in my spare time. I knew about the Turing test, and I believed that a computer tricking people into thinking it was human did n...",
+        "link": "https://cleantechnica.com/2026/11/15/a-radically-different-approach-to-ai/"
       },
       {
-        "title": "\ud83d\udcc4 313 kW Rooftop Solar System at Virginia Elementary Will Save $581,000 in Energy Costs",
-        "summary": "Roanoke City Schools to Add 313 kW Solar Power System Staunton, VA \u2014 Secure Solar Futures, a provider of on-site clean energy to schools, local governments, and businesses, will build a 313-kilowatt s...",
-        "link": "https://cleantechnica.com/2026/11/14/313-kw-solar-power-system-rooftop-system-at-virginia-elementary-will-save-581000-in-energy-costs/"
+        "title": "\ud83d\udcc4 Scout Steps Toward Mass Production, With 200,000+ Reservations On The Line",
+        "summary": "Scout Motors, the revived American brand now focused on off-road capable and affordable electric trucks and SUVs, has apparently produced its first validation build vehicles at its factory in South Ca...",
+        "link": "https://cleantechnica.com/2026/11/15/scout-steps-toward-mass-production-with-200000-reservations-on-the-line/"
       },
       {
         "title": "\ud83d\udcc4 The federal permitting bill has been updated. What changed?",
@@ -114,14 +134,14 @@
         "link": "https://www.carbonbrief.org/analysis-which-countries-have-sent-the-most-delegates-to-cop31"
       },
       {
-        "title": "\ud83d\udcc4 The next phase of ESS: LG Energy Solution\u2019s strategy for an evolving energy market",
-        "summary": "Chang Beom Kang, Head of the ESS Battery Division at LG Energy Solution, discusses his view of the changing market and the company's strategy for future growth....",
-        "link": "https://www.energy-storage.news/the-next-phase-of-ess-lg-energy-solutions-strategy-for-an-evolving-energy-market/"
+        "title": "\ud83d\udcc4 Sunrun closes preferred equity investment for US distributed energy resources, totalling 110MWh of batteries",
+        "summary": "US distributed energy resource (DER) installer Sunrun has announced a preferred equity investment with energy investment firm Captona....",
+        "link": "https://www.energy-storage.news/sunrun-closes-preferred-equity-investment-for-us-distributed-energy-resources-totalling-110mwh-of-batteries/"
       },
       {
-        "title": "\ud83d\udcc4 Toll makes way for floor, offtake contracting beginning to standardise in UK BESS market",
-        "summary": "Floors are increasingly the offtake structure of choice in the UK market, and the contracting for them is beginning to standardise, industry experts said....",
-        "link": "https://www.energy-storage.news/toll-makes-way-for-floor-offtake-contracting-beginning-to-standardise-in-uk-bess-market/"
+        "title": "\ud83d\udcc4 BESS Industry Buzz: CATL sodium-ion specs, BESS availability and the price of speed-to-power",
+        "summary": "Another edition of our BESS Industry Buzz, this week looking at new details on CATL's sodium-ion technology, BESS availability, BAAJA trade-offs and the price of speed to power....",
+        "link": "https://www.energy-storage.news/bess-industry-buzz-catl-sodium-ion-specs-bess-availability-and-the-price-of-speed-to-power/"
       }
     ],
     "MedTech": [
@@ -143,6 +163,21 @@
     ],
     "Telecommunications": [
       {
+        "title": "\ud83d\udcc4 INC-SRv6: In-Network Route Exploration and Fast Failover Using Segment Routing Headers in Dynamic UAV Networks",
+        "summary": "arXiv:2611.17659v1 Announce Type: new \nAbstract: Unmanned aerial vehicle (UAV) networks require a network provisioning mechanism that guarantees delivery and latency quality of service (QoS) under dyn...",
+        "link": "https://arxiv.org/abs/2611.17659"
+      },
+      {
+        "title": "\ud83d\udcc4 uhd-rfsoc: Bringing Off-the-Shelf RFSoC Boards to Unmodified UHD Applications",
+        "summary": "arXiv:2611.17723v1 Announce Type: new \nAbstract: Next-generation wireless research relies on software-defined radios (SDRs) with more channels and larger bandwidth. The USRP family is one of the most ...",
+        "link": "https://arxiv.org/abs/2611.17723"
+      },
+      {
+        "title": "\ud83d\udcc4 Mobile Edge Deployment and Resource Management for Maritime Wireless Networks",
+        "summary": "arXiv:2611.17779v1 Announce Type: new \nAbstract: Mobile Edge Computing (MEC) has been envisioned as one of the key technologies for supplying computation and storage resources in Internet of Vessels (...",
+        "link": "https://arxiv.org/abs/2611.17779"
+      },
+      {
         "title": "\ud83d\udcc4 FCC sets key dates for upper C-band auction",
         "summary": "The FCC said the auction for 160MHz of upper C-band spectrum will begin on April 27, 2027, putting winners on track to light up most of that spectrum before the end of 2030....",
         "link": "https://www.lightreading.com/regulatory-politics/fcc-sets-key-dates-for-upper-c-band-auction"
@@ -151,14 +186,25 @@
         "title": "\ud83d\udcc4 Singtel raises full-year outlook despite 55% drop in profit in H1",
         "summary": "Singtel Group has increased its full-year operating company earnings before interest and tax (OpCo Ebit) growth guidance to mid to high-single digits for FY2027....",
         "link": "https://www.lightreading.com/finance/singtel-s-fundamentals-hold-firm-despite-55-profit-plunge-in-1h-fy2027"
-      },
-      {
-        "title": "\ud83d\udcc4 GTCR intervenes in bid to break deadlock on Cable One-Mega Broadband deal",
-        "summary": "GTCR and Mega Broadband are stepping into the Cable One-CoBank lawsuit in an attempt to expedite a pair of court hearings that have stalled the Cable One-Mega Broadband deal....",
-        "link": "https://www.lightreading.com/cable-technology/gtcr-intervenes-in-bid-to-break-deadlock-on-cable-one-mega-broadband-deal"
       }
     ],
-    "Robotics": []
+    "Robotics": [
+      {
+        "title": "\ud83d\udcc4 Agentic-Teacher: An Agentic Data Engine for Failure-Driven VLA Post-Training",
+        "summary": "arXiv:2611.17394v1 Announce Type: new \nAbstract: Improving a pretrained vision-language-action (VLA) model requires demonstrations that address its weaknesses and provide effective supervision for lea...",
+        "link": "https://arxiv.org/abs/2611.17394"
+      },
+      {
+        "title": "\ud83d\udcc4 Racing the Clock: Teaching VLNs Budget-Conditioned Object Search",
+        "summary": "arXiv:2611.17442v1 Announce Type: new \nAbstract: A rescue robot entering a building with thirty seconds on the clock should sprint toward the single most promising room; given ten minutes, it should i...",
+        "link": "https://arxiv.org/abs/2611.17442"
+      },
+      {
+        "title": "\ud83d\udcc4 Learning Latent Goal Costs for Visual World-Model Planning with an Expanding Curriculum",
+        "summary": "arXiv:2611.17529v1 Announce Type: new \nAbstract: Image-goal planning with a frozen visual world model depends on how predicted observations are scored against the goal. Mean-squared error (MSE) betwee...",
+        "link": "https://arxiv.org/abs/2611.17529"
+      }
+    ]
   },
   "weekly_recap": null,
   "stock_watch": []
