@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16 08:12 UTC",
+  "last_updated": "2026-11-17 07:00 UTC",
   "is_sunday_edition": false,
   "sectors": {
     "AI": [
@@ -19,44 +19,39 @@
         "link": "https://arxiv.org/abs/2611.17340"
       },
       {
+        "title": "\ud83d\udcc4 Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+        "summary": "...",
+        "link": "https://huggingface.co/blog/openrouter"
+      },
+      {
         "title": "\ud83d\udcc4 Build a Robot Pick-and-Place Simulation with SimReady Assets",
         "summary": "...",
         "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"
-      },
-      {
-        "title": "\ud83d\udcc4 XYBench: Helping with the problem behind the question",
-        "summary": "...",
-        "link": "https://huggingface.co/blog/allenai/xybench"
       }
     ],
     "Quantum": [
       {
-        "title": "\ud83d\udcc4 Analytic spread complexity in three-level systems and the spacing-ratio distribution",
-        "summary": "arXiv:2611.17417v1 Announce Type: new \nAbstract: The spread complexity characterizes the spreading of a quantum state over the Krylov basis and has been proposed to capture the correlations between en...",
-        "link": "https://arxiv.org/abs/2611.17417"
+        "title": "\ud83d\udcc4 Q-CTRL Unifies Boulder Opal and Fire Opal into Autonomous End-to-End Quantum Infrastructure Software",
+        "summary": "Q-CTRL has integrated its Boulder Opal and Fire Opal software into a single platform for end-to-end quantum infrastructure. This unified system automates the entire quantum computing lifecycle, from p...",
+        "link": "https://quantumcomputingreport.com/q-ctrl-unifies-boulder-opal-and-fire-opal-into-autonomous-end-to-end-quantum-infrastructure-software/"
       },
       {
-        "title": "\ud83d\udcc4 Quantum violation of Causal Friendliness in the instrumental scenario",
-        "summary": "arXiv:2611.17431v1 Announce Type: new \nAbstract: How far can quantum theory depart from a classical worldview? Bell inequality violations show that no theory can simultaneously uphold absoluteness of ...",
-        "link": "https://arxiv.org/abs/2611.17431"
+        "title": "\ud83d\udcc4 Alice & Bob Details QRMI and Slurm 26.11 Hierarchical Resource Integration for Cat-Qubit Systems at SC26",
+        "summary": "At SC26, Alice &#038; Bob detailed how their cat-qubit quantum processors integrate with NVIDIA\u2019s Slurm 26.11 workload manager via the Quantum Resource Management Interface (QRMI). This collaboration ...",
+        "link": "https://quantumcomputingreport.com/alice-bob-details-qrmi-and-slurm-26-11-hierarchical-resource-integration-for-cat-qubit-systems-at-sc26/"
       },
       {
-        "title": "\ud83d\udcc4 Fast mixing and thermal phases from strong decay of correlations",
-        "summary": "arXiv:2611.17433v1 Announce Type: new \nAbstract: We show that a strong form of correlation decay in quantum Gibbs states has far-reaching dynamical consequences. For a smooth path of geometrically loc...",
-        "link": "https://arxiv.org/abs/2611.17433"
-      },
-      {
-        "title": "\ud83d\udcc4 Qatar Ministry of Communications and Information Technology Signs Post-Quantum Readiness Agreement with SignQuantum and QANplatform",
-        "summary": "The Ministry of Communications and Information Technology of Qatar has partnered with SignQuantum and QANplatform to explore post-quantum cryptography for public-sector data, aligning with Qatar's Nat...",
-        "link": "https://quantumcomputingreport.com/qatar-ministry-of-communications-and-information-technology-signs-post-quantum-readiness-agreement-with-signquantum-and-qanplatform/"
-      },
-      {
-        "title": "\ud83d\udcc4 Cross-Platform Cloud Benchmark Reveals Wide Gap Between Physical Qubit Counts and Entangled GHZ State Sizes",
-        "summary": "A new study benchmarked nine cloud-accessible quantum processors, revealing a significant gap between the number of physical qubits and the size of entangled GHZ states achievable without error mitiga...",
-        "link": "https://quantumcomputingreport.com/cross-platform-cloud-benchmark-reveals-wide-gap-between-physical-qubit-counts-and-entangled-ghz-state-sizes/"
+        "title": "\ud83d\udcc4 Quantinuum Details Nexus Hybrid Workflow Runtime Integration with Slurm and OpenQSE at SC26",
+        "summary": "Quantinuum's Nexus developer platform and Hybrid Workflow Runtime (Tierkreis) integrate quantum programming with supercomputing workload managers like Slurm, as demonstrated at SC26. This integration ...",
+        "link": "https://quantumcomputingreport.com/quantinuum-details-nexus-hybrid-workflow-runtime-integration-with-slurm-and-openqse-at-sc26/"
       }
     ],
     "CyberSecurity": [
+      {
+        "title": "\ud83d\udcc4 Usable Security at Luxury Hotels",
+        "summary": "Interesting case study from luxury hotels. Attackers used a fake booking request to gain access to a reservations inbox, where they copied genuine refund requests and got fraudulent ones approved.\nThi...",
+        "link": "https://www.schneier.com/blog/archives/2026/11/usable-security-at-luxury-hotels.html"
+      },
       {
         "title": "\ud83d\udcc4 Upcoming Speaking Engagements",
         "summary": "This is a current list of where and when I am scheduled to speak:\n\nI\u2019m speaking at the Catalyst Summit in Brampton, Ontario, Canada, on Wednesday, November 18, 2026.\nI\u2019m speaking at QT Qonference 2026...",
@@ -66,23 +61,18 @@
         "title": "\ud83d\udcc4 Friday Squid Blogging: Pacific Flying Squid Populations Dropping in Korean Waters",
         "summary": "Climate change is the issue.\nAs usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.\nBlog moderation policy....",
         "link": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html"
-      },
-      {
-        "title": "\ud83d\udcc4 AI Doesn\u2019t Have to Go Rogue to Break the World",
-        "summary": "This essay is adapted from a keynote speech delivered at the DEF CON 34 conference in Las Vegas on August 7, 2026. The essay originally appeared in CyberScoop.\nI want to talk about AI hacking. There a...",
-        "link": "https://www.schneier.com/blog/archives/2026/11/ai-doesnt-have-to-go-rogue-to-break-the-world.html"
       }
     ],
     "Space": [
       {
+        "title": "\ud83d\udcc4 SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
+        "summary": "LOS ALAMOS, N.M., Nov. 16, 2026 \u2014 Space Nuclear Power Corp. (SpaceNukes) opened its Manufacture and Materials Development Facility at 150 Central Park Square in Los Alamos on Nov. 13. [&#8230;]\nThe po...",
+        "link": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/"
+      },
+      {
         "title": "\ud83d\udcc4 Commercial Space Federation Welcomes CesiumAstro as a New Associate Member",
         "summary": "November 13, 2026\u2014 Washington, D.C.\u2014The Commercial Space Federation (CSF) is pleased to welcome CesiumAstro as its newest Associate Member. A global leader in advanced connectivity solutions for the s...",
         "link": "https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member/"
-      },
-      {
-        "title": "\ud83d\udcc4 AST SpaceMobile presses case for developing own launch vehicle",
-        "summary": "AST SpaceMobile executives expressed confidence in the company\u2019s ability to field a new reusable launch vehicle in just two years despite widespread industry skepticism.\nThe post AST SpaceMobile press...",
-        "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/"
       },
       {
         "title": "\ud83d\udcc4 UARX Space Marks a Milestone for Spain\u2019s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology",
@@ -92,32 +82,37 @@
     ],
     "Renewables": [
       {
-        "title": "\ud83d\udcc4 NAED Unveils PV-1 PECVD-V, a U.S.-Engineered Vertical Deposition Platform Built for 96,000-Wafer-per-Hour Tandem Solar Manufacturing",
-        "summary": "Patent-pending vertical PECVD/PVD architecture doubles wafer throughput over NAED&#8217;s previous platform and is designed to produce perovskite/HJT tandem cells targeting 30% efficiency NAED Energy ...",
-        "link": "https://cleantechnica.com/2026/11/15/naed-unveils-pv-1-pecvd-v-a-u-s-engineered-vertical-deposition-platform-built-for-96000-wafer-per-hour-tandem-solar-manufacturing/"
+        "title": "\ud83d\udcc4 BMW In South Carolina: A Free Trade Success Story",
+        "summary": "I recently attended BMW&#8217;s \u201cBeyond The Machine\u201d event in South Carolina. The largest facility of the German company globally is Plant Spartanburg in Greer, South Carolina. As part of the event, I...",
+        "link": "https://cleantechnica.com/2026/11/17/bmw-in-south-carolina-a-free-trade-success-story/"
       },
       {
-        "title": "\ud83d\udcc4 A Radically Different Approach to AI",
-        "summary": "About forty years ago, I decided I would develop artificial intelligence in my spare time. I knew about the Turing test, and I believed that a computer tricking people into thinking it was human did n...",
-        "link": "https://cleantechnica.com/2026/11/15/a-radically-different-approach-to-ai/"
+        "title": "\ud83d\udcc4 XPENG Forecasts 45% Sales Growth in 4th Quarter",
+        "summary": "XPENG just reported 3rd quarter financial details today, while also forecasting what will happen in the 4th quarter. Everything is looking quite rosy at the moment. As far as 3rd quarter financials go...",
+        "link": "https://cleantechnica.com/2026/11/16/xpeng-forecasts-45-sales-growth-in-4th-quarter/"
       },
       {
-        "title": "\ud83d\udcc4 Scout Steps Toward Mass Production, With 200,000+ Reservations On The Line",
-        "summary": "Scout Motors, the revived American brand now focused on off-road capable and affordable electric trucks and SUVs, has apparently produced its first validation build vehicles at its factory in South Ca...",
-        "link": "https://cleantechnica.com/2026/11/15/scout-steps-toward-mass-production-with-200000-reservations-on-the-line/"
+        "title": "\ud83d\udcc4 Trump Forces 7th Expensive Old Coal Power Plant To Stay Open",
+        "summary": "When a power plant gets old enough and is inefficient and expensive, it should be shut down. When it&#8217;s time to close, it&#8217;s time to close. As we&#8217;ve learned about the severe health cos...",
+        "link": "https://cleantechnica.com/2026/11/16/trump-forces-7th-expensive-old-coal-power-plant-to-stay-open/"
+      },
+      {
+        "title": "\ud83d\udcc4 Community Post #32: your Thanksgiving playbook",
+        "summary": "Open to all free & paid subscribers....",
+        "link": "https://www.volts.wtf/p/community-post-32-your-thanksgiving"
       },
       {
         "title": "\ud83d\udcc4 The federal permitting bill has been updated. What changed?",
         "summary": "A(nother) conversation with Daniel Palken....",
         "link": "https://www.volts.wtf/p/the-federal-permitting-bill-has-been"
-      },
-      {
-        "title": "\ud83d\udcc4 So, how about those midterm elections?",
-        "summary": "A conversation with Caroline Spears of Climate Cabinet....",
-        "link": "https://www.volts.wtf/p/so-how-about-those-midterm-elections"
       }
     ],
     "Energy": [
+      {
+        "title": "\ud83d\udcc4 Revealed: Russia, Saudi Arabia and Australia are largest CO2 exporters of all time",
+        "summary": "Russia, Saudi Arabia and COP31 co-president Australia are the largest exporters of carbon dioxide (CO2) emissions in history, reveals Carbon&#8230;\nThe post Revealed: Russia, Saudi Arabia and Australi...",
+        "link": "https://www.carbonbrief.org/revealed-russia-saudi-arabia-and-australia-are-largest-co2-exporters-of-all-time"
+      },
       {
         "title": "\ud83d\udcc4 COP31: How Ed Miliband answered Carbon Brief readers\u2019 questions",
         "summary": "UK foreign secretary and COP veteran Ed Miliband spoke with Carbon Brief earlier today at COP31 in Antalya, Turkey, to&#8230;\nThe post COP31: How Ed Miliband answered Carbon Brief readers\u2019 questions a...",
@@ -129,82 +124,51 @@
         "link": "https://www.carbonbrief.org/analysis-climate-finance-pledges-fall-70-as-countries-meet-at-cop31"
       },
       {
-        "title": "\ud83d\udcc4 Analysis: Which countries have sent the most delegates to COP31?",
-        "summary": "More than 92,000 people have registered to attend the COP31 climate summit in Antalya, Turkey, potentially making it the largest&#8230;\nThe post Analysis: Which countries have sent the most delegates ...",
-        "link": "https://www.carbonbrief.org/analysis-which-countries-have-sent-the-most-delegates-to-cop31"
+        "title": "\ud83d\udcc4 Flatiron Energy breaks ground on 1.2GWh Massachusetts BESS",
+        "summary": "US energy storage developer Flatiron Energy has broken ground on its 250MW/1,200MWh Energizar Energy Storage Project in Chelsea, Massachusetts, US....",
+        "link": "https://www.energy-storage.news/flatiron-energy-breaks-ground-on-1-2gwh-massachusetts-bess/"
       },
       {
-        "title": "\ud83d\udcc4 Sunrun closes preferred equity investment for US distributed energy resources, totalling 110MWh of batteries",
-        "summary": "US distributed energy resource (DER) installer Sunrun has announced a preferred equity investment with energy investment firm Captona....",
-        "link": "https://www.energy-storage.news/sunrun-closes-preferred-equity-investment-for-us-distributed-energy-resources-totalling-110mwh-of-batteries/"
-      },
-      {
-        "title": "\ud83d\udcc4 BESS Industry Buzz: CATL sodium-ion specs, BESS availability and the price of speed-to-power",
-        "summary": "Another edition of our BESS Industry Buzz, this week looking at new details on CATL's sodium-ion technology, BESS availability, BAAJA trade-offs and the price of speed to power....",
-        "link": "https://www.energy-storage.news/bess-industry-buzz-catl-sodium-ion-specs-bess-availability-and-the-price-of-speed-to-power/"
+        "title": "\ud83d\udcc4 NeoVolta anchors US manufacturing ramp-up with US$116 million BESS agreement as quarterly loss narrows",
+        "summary": "US-based BESS manufacturer NeoVolta has signed a US$116 million master purchase agreement with an unnamed \u201cleading energy solutions provider.\u201d...",
+        "link": "https://www.energy-storage.news/neovolta-anchors-us-manufacturing-ramp-up-with-us116-million-bess-agreement-as-quarterly-loss-narrows/"
       }
     ],
     "MedTech": [
       {
-        "title": "\ud83d\udcc4 FDA posts early alerts for two product removals",
-        "summary": "&nbsp;Intersurgical told customers to immediately stop using affected devices, while Arrow International instructed users to quarantine and return certain products....",
-        "link": "https://www.medtechdive.com/news/fda-posts-early-alerts-for-two-product-removals/874629/"
+        "title": "\ud83d\udcc4 Apple, OpenEvidence launch conversational health AI study and app",
+        "summary": "The tech juggernaut and clinical AI company will research&nbsp;what drives consumer trust and the quality of health AI responses, among other areas. Apple could use the findings to inform product deve...",
+        "link": "https://www.medtechdive.com/news/apple-openevidence-conversational-health-ai-study-app/874780/"
       },
       {
-        "title": "\ud83d\udcc4 Bipartisan push possible to curb Trump tariffs",
-        "summary": "Three bills in Congress would significantly restrict presidential tariff power if they become law, and experts say there's appetite for change in trade policy....",
-        "link": "https://www.medtechdive.com/news/bipartisan-push-possible-to-curb-trump-tariffs/874520/"
+        "title": "\ud83d\udcc4 MiniMed gets FDA nod for tubeless insulin pump",
+        "summary": "MiniMed will go head to head with Tandem Diabetes Care as both companies debut their first tubeless pumps....",
+        "link": "https://www.medtechdive.com/news/minimed-gets-fda-nod-for-tubeless-insulin-pump/874766/"
       },
       {
-        "title": "\ud83d\udcc4 Abbott\u2019s defibrillation lead lands FDA approval and CE mark",
-        "summary": "The authorizations position Abbott to launch a purpose-built lead for left bundle branch area pacing in the U.S. and Europe....",
-        "link": "https://www.medtechdive.com/news/abbotts-defibrillation-lead-lands-fda-approval-and-ce-mark/874474/"
+        "title": "\ud83d\udcc4 Medtronic to buy Contego Medical for $380M",
+        "summary": "The deal is intended to expand Medtronic&rsquo;s portfolio of carotid artery and peripheral vascular disease treatments....",
+        "link": "https://www.medtechdive.com/news/medtronic-to-buy-contego-medical-for-380m/874754/"
       }
     ],
     "Telecommunications": [
       {
-        "title": "\ud83d\udcc4 INC-SRv6: In-Network Route Exploration and Fast Failover Using Segment Routing Headers in Dynamic UAV Networks",
-        "summary": "arXiv:2611.17659v1 Announce Type: new \nAbstract: Unmanned aerial vehicle (UAV) networks require a network provisioning mechanism that guarantees delivery and latency quality of service (QoS) under dyn...",
-        "link": "https://arxiv.org/abs/2611.17659"
+        "title": "\ud83d\udcc4 NYSE warns Cable One",
+        "summary": "Cable One said it has been notified by the NYSE that its stock is not in compliance with listing standards, giving it 45 days to submit a plan to resolve the issue. #pressrelease...",
+        "link": "https://www.lightreading.com/regulatory-politics/nyse-warns-cable-one"
       },
       {
-        "title": "\ud83d\udcc4 uhd-rfsoc: Bringing Off-the-Shelf RFSoC Boards to Unmodified UHD Applications",
-        "summary": "arXiv:2611.17723v1 Announce Type: new \nAbstract: Next-generation wireless research relies on software-defined radios (SDRs) with more channels and larger bandwidth. The USRP family is one of the most ...",
-        "link": "https://arxiv.org/abs/2611.17723"
+        "title": "\ud83d\udcc4 SpaceX's Starship program advances as Amazon Leo suffers another setback",
+        "summary": "SpaceX nailed its first-ever upper-stage Starship catch, a key reusability milestone. Meanwhile, Amazon Leo lost 40 satellites as ULA's Vulcan rocket suffered an in-flight 'anomaly,' raising fresh con...",
+        "link": "https://www.lightreading.com/satellite/spacex-s-starship-program-advances-as-amazon-leo-suffers-another-setback"
       },
       {
-        "title": "\ud83d\udcc4 Mobile Edge Deployment and Resource Management for Maritime Wireless Networks",
-        "summary": "arXiv:2611.17779v1 Announce Type: new \nAbstract: Mobile Edge Computing (MEC) has been envisioned as one of the key technologies for supplying computation and storage resources in Internet of Vessels (...",
-        "link": "https://arxiv.org/abs/2611.17779"
-      },
-      {
-        "title": "\ud83d\udcc4 FCC sets key dates for upper C-band auction",
-        "summary": "The FCC said the auction for 160MHz of upper C-band spectrum will begin on April 27, 2027, putting winners on track to light up most of that spectrum before the end of 2030....",
-        "link": "https://www.lightreading.com/regulatory-politics/fcc-sets-key-dates-for-upper-c-band-auction"
-      },
-      {
-        "title": "\ud83d\udcc4 Singtel raises full-year outlook despite 55% drop in profit in H1",
-        "summary": "Singtel Group has increased its full-year operating company earnings before interest and tax (OpCo Ebit) growth guidance to mid to high-single digits for FY2027....",
-        "link": "https://www.lightreading.com/finance/singtel-s-fundamentals-hold-firm-despite-55-profit-plunge-in-1h-fy2027"
+        "title": "\ud83d\udcc4 Optimum delays $102.5M in interest payments as it pursues new debt deal",
+        "summary": "Optimum has delayed $102.5 million in interest payments and will use a 30-day grace period to continue negotiations with an ad hoc group of debt holders that could result in a 'material reduction' in ...",
+        "link": "https://www.lightreading.com/cable-technology/optimum-delays-102-5m-in-interest-payments-as-it-pursues-new-debt-deal"
       }
     ],
-    "Robotics": [
-      {
-        "title": "\ud83d\udcc4 Agentic-Teacher: An Agentic Data Engine for Failure-Driven VLA Post-Training",
-        "summary": "arXiv:2611.17394v1 Announce Type: new \nAbstract: Improving a pretrained vision-language-action (VLA) model requires demonstrations that address its weaknesses and provide effective supervision for lea...",
-        "link": "https://arxiv.org/abs/2611.17394"
-      },
-      {
-        "title": "\ud83d\udcc4 Racing the Clock: Teaching VLNs Budget-Conditioned Object Search",
-        "summary": "arXiv:2611.17442v1 Announce Type: new \nAbstract: A rescue robot entering a building with thirty seconds on the clock should sprint toward the single most promising room; given ten minutes, it should i...",
-        "link": "https://arxiv.org/abs/2611.17442"
-      },
-      {
-        "title": "\ud83d\udcc4 Learning Latent Goal Costs for Visual World-Model Planning with an Expanding Curriculum",
-        "summary": "arXiv:2611.17529v1 Announce Type: new \nAbstract: Image-goal planning with a frozen visual world model depends on how predicted observations are scored against the goal. Mean-squared error (MSE) betwee...",
-        "link": "https://arxiv.org/abs/2611.17529"
-      }
-    ]
+    "Robotics": []
   },
   "weekly_recap": null,
   "stock_watch": []
