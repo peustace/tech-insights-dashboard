@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-11-19 07:00 UTC",
+  "last_updated": "2026-11-20 06:59 UTC",
   "is_sunday_edition": false,
   "sectors": {
     "AI": [
       {
-        "title": "\ud83d\udcc4 Human-AI Mutualism Is Unstable under Capability Asymmetry",
-        "summary": "arXiv:2611.23322v1 Announce Type: new \nAbstract: One hope for a good human future alongside advanced AI rests on enduring mutualism: humans and AI will need each other, so the relationship will stay g...",
-        "link": "https://arxiv.org/abs/2611.23322"
+        "title": "\ud83d\udcc4 Closing the Analyze-to-Design Gap: An Authorization-Bounded Agent for Self-Driving Laboratories",
+        "summary": "arXiv:2611.25043v1 Announce Type: new \nAbstract: Artificial intelligence (AI) agents are increasingly integrated into self-driving laboratories (SDLs) to plan experiments and interpret results. Howeve...",
+        "link": "https://arxiv.org/abs/2611.25043"
       },
       {
-        "title": "\ud83d\udcc4 Training Language Models for Introspective Oversight",
-        "summary": "arXiv:2611.23365v1 Announce Type: new \nAbstract: Language models increasingly exhibit behaviors that are difficult to detect in transcripts, such as reward hacking, deception, and sycophancy. Asking t...",
-        "link": "https://arxiv.org/abs/2611.23365"
+        "title": "\ud83d\udcc4 An LLM-Agentic Framework for Intelligent Work Order Management in Industrial Maintenance",
+        "summary": "arXiv:2611.25070v1 Announce Type: new \nAbstract: This paper presents an AI-driven framework, CodeReAct agent, designed to enhance industrial equipment maintenance through natural language (NL) interac...",
+        "link": "https://arxiv.org/abs/2611.25070"
       },
       {
-        "title": "\ud83d\udcc4 Where the Tokens Go: Heat, Entropy and Error in Agentic Coding",
-        "summary": "arXiv:2611.23375v1 Announce Type: new \nAbstract: Coding agents are billed by the token, yet software engineering says nothing about what a token actually buys. Here we introduce a theory of software t...",
-        "link": "https://arxiv.org/abs/2611.23375"
+        "title": "\ud83d\udcc4 SailSearch: Agent-Assisted Discovery in Combinatorial Optimization",
+        "summary": "arXiv:2611.25087v1 Announce Type: new \nAbstract: We present SailSearch, a human-guided workflow for algorithmic research with two language-model agents, and report results on Market Split and maximum ...",
+        "link": "https://arxiv.org/abs/2611.25087"
       },
       {
         "title": "\ud83d\udcc4 DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
@@ -31,29 +31,29 @@
     ],
     "Quantum": [
       {
-        "title": "\ud83d\udcc4 The Bapat-Sunder eigenvalue conjecture fails over the reals",
-        "summary": "arXiv:2611.23269v1 Announce Type: new \nAbstract: In 1986 Bapat and Sunder asked whether $\\operatorname{per}(A)$ is the largest eigenvalue of $F_A=[a_{i,j}\\operatorname{per}(A(i,j))]$ for every positiv...",
-        "link": "https://arxiv.org/abs/2611.23269"
+        "title": "\ud83d\udcc4 Entanglement Geometry Beyond Polygons: Graph-Theoretic Entanglement Inequalities",
+        "summary": "arXiv:2611.25019v1 Announce Type: new \nAbstract: Entanglement entropies of pure multipartite states can be constrained by organizing subsystem cuts as edges (hyperedges) of graphs (hypergraphs). Start...",
+        "link": "https://arxiv.org/abs/2611.25019"
       },
       {
-        "title": "\ud83d\udcc4 Scrambling leads to entanglement cost in NLQC",
-        "summary": "arXiv:2611.23378v1 Announce Type: new \nAbstract: In a non-local quantum computation (NLQC), shared entanglement along with a single simultaneous round of quantum communication is used to implement a j...",
-        "link": "https://arxiv.org/abs/2611.23378"
+        "title": "\ud83d\udcc4 The Clifford Hierarchy from Clifford Stabilizers in 2D",
+        "summary": "arXiv:2611.25025v1 Announce Type: new \nAbstract: The Bravyi-K\\\"onig theorem limits the constant-depth logical gates of 2D topological Pauli stabilizer codes to be in the Clifford group. Known qubit co...",
+        "link": "https://arxiv.org/abs/2611.25025"
       },
       {
-        "title": "\ud83d\udcc4 Look Mum, No Hands! Quantum State Preparation without Time-Dependent Control",
-        "summary": "arXiv:2611.23382v1 Announce Type: new \nAbstract: How much can be prepared with a quantum system whose Hamiltonian cannot be modulated in time? Common intuition suggests that the answer is not much. Wi...",
-        "link": "https://arxiv.org/abs/2611.23382"
+        "title": "\ud83d\udcc4 Passive memories beyond the Ising model: from SFQ to GKP",
+        "summary": "arXiv:2611.25030v1 Announce Type: new \nAbstract: Self-correcting quantum memories are spin Hamiltonians that aim to generalize the classical memory of the magnetic hard disk (i.e. ferromagnetic Ising ...",
+        "link": "https://arxiv.org/abs/2611.25030"
       },
       {
-        "title": "\ud83d\udcc4 Qatar and France Sign Bilateral Letter of Intent on Digital Cooperation Highlighting Shared Quantum Ambitions",
-        "summary": "Qatar and France have signed a Letter of Intent to enhance cooperation in AI, digital transformation, and quantum technologies. This agreement, formalized at the ITU Plenipotentiary Conference 2026, a...",
-        "link": "https://quantumcomputingreport.com/qatar-and-france-sign-bilateral-letter-of-intent-on-digital-cooperation-highlighting-shared-quantum-ambitions/"
+        "title": "\ud83d\udcc4 UCLA Researchers Model Collectively Enhanced Superconducting-Qubit Interfaces for Microwave-to-Optical Transduction",
+        "summary": "UCLA researchers have developed a theoretical model for enhancing microwave-to-optical quantum transduction using superconducting qubits. Their proposed architecture collectively couples multiple qubi...",
+        "link": "https://quantumcomputingreport.com/ucla-researchers-model-collectively-enhanced-superconducting-qubit-interfaces-for-microwave-to-optical-transduction/"
       },
       {
-        "title": "\ud83d\udcc4 Quandela and NVIDIA Benchmark Photonic Quantum Simulability Frontiers on H100 GPUs",
-        "summary": "Quandela, CNRS, and NVIDIA have established a \"simulability frontier\" for photonic quantum processors using NVIDIA H100 GPUs. Their research defines a unified metric for when quantum processors outper...",
-        "link": "https://quantumcomputingreport.com/quandela-and-nvidia-benchmark-photonic-quantum-simulability-frontiers-on-h100-gpus/"
+        "title": "\ud83d\udcc4 Researchers Introduce QECLean Framework to Formally Verify Quantum Error-Correcting Codes in Lean 4",
+        "summary": "Researchers have developed QECLean, an open-source framework using Lean 4 to formally verify quantum error-correcting codes, addressing the difficulty of verifying complex, algorithmically discovered ...",
+        "link": "https://quantumcomputingreport.com/researchers-introduce-qeclean-framework-to-formally-verify-quantum-error-correcting-codes-in-lean-4/"
       }
     ],
     "CyberSecurity": [
@@ -75,36 +75,36 @@
     ],
     "Space": [
       {
+        "title": "\ud83d\udcc4 The sweet spot for constellation size",
+        "summary": "In this episode of Space Minds, SpaceNews\u2019 Mike Gruss speaks with Jan Smolders, the chief commercial officer at Space Inventor. During a conversation at Space Tech Expo Europe, they discuss [&#8230;]\n...",
+        "link": "https://spacenews.com/the-sweet-spot-for-constellation-size/"
+      },
+      {
+        "title": "\ud83d\udcc4 Making the case for optical",
+        "summary": "In this episode of Space Minds, SpaceNews\u2019 Mike Gruss speaks with Jean-Fran\u00e7ois Morizur, the co-founder and CEO of Cailabs, at Space Tech Expo Europe. Morizur discusses the misconceptions with laser [...",
+        "link": "https://spacenews.com/making-the-case-for-optical/"
+      },
+      {
         "title": "\ud83d\udcc4 Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers",
         "summary": "\u2013 Collaboration to assess next-generation ultralight solar cells for space-based computing infrastructure \u2013 Partnership brings together Korean space energy technology and French orbital infrastructure...",
         "link": "https://spacenews.com/flexell-space-and-alatyr-sign-mou-to-explore-solar-power-solutions-for-orbital-data-centers/"
-      },
-      {
-        "title": "\ud83d\udcc4 All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center",
-        "summary": "MERRITT ISLAND, FL, November 18, 2026 \u2014 All Points Logistics has announced a partnership with Expeditors International of Washington, Inc. (NYSE: EXPD) to serve as the exclusive logistics provider for...",
-        "link": "https://spacenews.com/all-points-logistics-announces-partnership-with-expeditors-for-space-prep-logistics-center-at-kennedy-space-center/"
-      },
-      {
-        "title": "\ud83d\udcc4 Origami and solar arrays",
-        "summary": "In this episode of SpaceMinds, SpaceNews\u2019 Mike Gruss talks with Thomas Sinn, the CEO of Dcubed, at Space Tech Expo Europe. They discuss the company&#8217;s new $30 million funding round, [&#8230;]\nThe...",
-        "link": "https://spacenews.com/origami-and-solar-arrays/"
       }
     ],
     "Renewables": [
       {
-        "title": "\ud83d\udcc4 Europe\u2019s Inland Barges Need a Cargo Plan Before an Electric Fleet Plan",
-        "summary": "Coal throughput at Rotterdam rose 15.3% in the first nine months of 2026. Crude oil and petroleum-product volumes also increased. An inland vessel operator looking only at this year&#8217;s cargo mark...",
-        "link": "https://cleantechnica.com/2026/11/18/europe-inland-barges-future-cargo-electric-fleet/"
+        "title": "\ud83d\udcc4 AGCO Celebrates Construction Milestone at Olmedo Solar Project in Spain",
+        "summary": "OLMEDO, Spain, Nov. 19, 2026 \u2014 AGCO (NYSE: AGCO) today announced that Project Olmedo, the solar installation at the center of its first Virtual Power Purchase Agreement (VPPA), has completed construct...",
+        "link": "https://cleantechnica.com/2026/11/19/agco-celebrates-construction-milestone-at-olmedo-solar-project-in-spain/"
       },
       {
-        "title": "\ud83d\udcc4 CA Governor Talks Climate Action And Punches Nazis On European Tour",
-        "summary": "The renewable energy transition entwines with the fight against Russian aggression in Europe, where California Governor Gavin Newsom is making a play for attention on the world stage (cropped, courtes...",
-        "link": "https://cleantechnica.com/2026/11/18/renewable-energy-ukraine-gavin-newsom-punch-nazis/"
+        "title": "\ud83d\udcc4 Inspiring Hearts & Minds on Solar",
+        "summary": "Since the invention of the solar cell seven decades ago, the story of American solar has seen its fair share of twists and turns on its journey to becoming the country\u2019s most affordable and fastest-gr...",
+        "link": "https://cleantechnica.com/2026/11/19/inspiring-hearts-minds-on-solar/"
       },
       {
-        "title": "\ud83d\udcc4 Solar Insure Launches 20-Year Commercial Battery Warranty, Expanding Protection for Solar & Storage Projects",
-        "summary": "Launching at RE+ Las Vegas, November 17\u201320 &#124; Visit Solar Insure at Booth C4190 Commercial property owners invest in solar and battery storage to manage energy costs and strengthen resilience. One...",
-        "link": "https://cleantechnica.com/2026/11/18/solar-insure-launches-20-year-commercial-battery-warranty-expanding-protection-for-solar-storage-projects/"
+        "title": "\ud83d\udcc4 Leapmotor Produces Its 2 Millionth EV",
+        "summary": "Leapmotor just produced its 2 millionth vehicle, all EVs of course. The EV startup has seen a meteoric rise in the highly competitive Chinese EV market, and increasingly abroad. Of course, most of us ...",
+        "link": "https://cleantechnica.com/2026/11/19/leapmotor-produces-its-2-millionth-ev/"
       },
       {
         "title": "\ud83d\udcc4 \u201cRepowering\u201d worn out solar fields could create gigawatts of new grid capacity, quickly",
@@ -134,17 +134,22 @@
         "link": "https://www.carbonbrief.org/analysis-climate-finance-pledges-fall-70-as-countries-meet-at-cop31"
       },
       {
-        "title": "\ud83d\udcc4 US ROUNDUP: Samsung SDI, EQT and Canadian Solar announce deals as RE+ takes place",
-        "summary": "Deals and acquisitions were announced this week as RE+, the biggest clean energy trade show in the US, takes place in Las Vegas, Nevada....",
-        "link": "https://www.energy-storage.news/us-roundup-samsung-sdi-eqt-canadian-solar-deals-re-plus/"
+        "title": "\ud83d\udcc4 \u2018The biggest change is scale\u2019: Giga Storage on evolution of BESS asset management in Europe",
+        "summary": "We hear from the head of market strategy &#038; public affairs for Netherlands-based BESS platform Giga Storage, on the key trends and challenges in European asset management today....",
+        "link": "https://www.energy-storage.news/the-biggest-change-is-scale-giga-storage-on-evolution-of-bess-asset-management-in-europe/"
       },
       {
-        "title": "\ud83d\udcc4 \u2018Using every ounce of value from the assets\u2019: LG Energy Solution Vertech CPO talks data centres, BESS and software integration at RE+ 2026",
-        "summary": "Energy-Storage.news speaks with LG Energy Solution Vertech chief product officer Tristan Doherty at RE+ 2026....",
-        "link": "https://www.energy-storage.news/using-every-ounce-of-value-from-the-assets-lg-energy-solution-vertech-cpo-talks-data-centres-bess-and-software-integration-at-re-2026/"
+        "title": "\ud83d\udcc4 Data centre power buildouts are d\u00e9j\u00e0 vu for US storage integrators with off-grid roots",
+        "summary": "As AI-driven data centre demand reshapes the US power landscape, BESS technology providers at RE+ highlighted an unexpected competitive advantage....",
+        "link": "https://www.energy-storage.news/data-centre-power-buildouts-are-deja-vu-for-us-storage-integrators-with-off-grid-roots/"
       }
     ],
     "MedTech": [
+      {
+        "title": "\ud83d\udcc4 GeneDx appoints Everett Cunningham as CEO",
+        "summary": "Analysts hailed Cunningham&rsquo;s experience as a boost to GeneDx as the company tries to enter new markets and maintain its leadership in a competitive sector....",
+        "link": "https://www.medtechdive.com/news/genedx-appoints-everett-cunningham-as-ceo/875157/"
+      },
       {
         "title": "\ud83d\udcc4 Senseonics, Beta Bionics integrate diabetes technology",
         "summary": "The collaboration, combining Senseonics&rsquo; implantable glucose sensor with Beta Bionics&rsquo; insulin pump, is intended to simplify diabetes management....",
@@ -154,55 +159,50 @@
         "title": "\ud83d\udcc4 Health AI spend doubles as providers invest in clinical copilots, front-office AI",
         "summary": "As healthcare AI spending increases, providers are investing in use cases outside ambient scribing and increasingly evaluating&nbsp;clinical and administrative tools from startups....",
         "link": "https://www.medtechdive.com/news/health-ai-spend-doubles-as-providers-invest-in-clinical-copilots-front-off/875020/"
-      },
-      {
-        "title": "\ud83d\udcc4 White House pulls nomination for FDA nominee Overton",
-        "summary": "The sudden end of Heidi Overton&rsquo;s candidacy likely ensures a Democrat-controlled Congress will choose the FDA&rsquo;s next leader &mdash; but shouldn&rsquo;t disrupt the agency, analysts say.&nb...",
-        "link": "https://www.medtechdive.com/news/white-house-withdraw-heidi-overton-fda-commissioner-nomination/875070/"
       }
     ],
     "Telecommunications": [
       {
-        "title": "\ud83d\udcc4 Interference-Aware Tone Selection for Bluetooth Channel Sounding",
-        "summary": "arXiv:2611.23471v1 Announce Type: new \nAbstract: Bluetooth Channel Sounding enables distance estimation using phase measurements across multiple frequencies. However, coexistence with Wi-Fi and other ...",
-        "link": "https://arxiv.org/abs/2611.23471"
+        "title": "\ud83d\udcc4 Benchmarking Open-Source O-RAN and 5G NTN Stacks on Embedded ARM Platforms for Space Payloads",
+        "summary": "arXiv:2611.25206v1 Announce Type: new \nAbstract: Regenerative satellite payloads, which host the 5G Next Generation Node B (gNB) onboard instead of transparently relaying the radio signal, are a key b...",
+        "link": "https://arxiv.org/abs/2611.25206"
       },
       {
-        "title": "\ud83d\udcc4 Capability Internet: A Network Architecture for Autonomous Agents",
-        "summary": "arXiv:2611.23841v1 Announce Type: new \nAbstract: Autonomous agents increasingly provide and consume network services. An agent coordinating a long-running task across organizations must track what has...",
-        "link": "https://arxiv.org/abs/2611.23841"
+        "title": "\ud83d\udcc4 SimPyWireless: A PHY-Aware Discrete-Event Simulation Framework for Wi-Fi and 5G NR-U Coexistence in the 5 GHz Band",
+        "summary": "arXiv:2611.25350v1 Announce Type: new \nAbstract: The growing demand from heterogeneous wireless applications with stringent QoS and QoE requirements is increasing pressure on available spectrum resour...",
+        "link": "https://arxiv.org/abs/2611.25350"
       },
       {
-        "title": "\ud83d\udcc4 CoSlice: Coordinated Multi-Agent Reinforcement Learning for 5G Network Slicing Allocation",
-        "summary": "arXiv:2611.23909v1 Announce Type: new \nAbstract: Radio Access Network (RAN) slicing is a shared resource allocation problem: each slice seeks to satisfy its Service Level Agreement (SLA) with minimal ...",
-        "link": "https://arxiv.org/abs/2611.23909"
+        "title": "\ud83d\udcc4 Intent-Defined Radio: A Goal-Native Architecture for Next-Generation Wireless Networks",
+        "summary": "arXiv:2611.25657v1 Announce Type: new \nAbstract: Wireless systems are becoming harder to operate because service goals are increasingly expressed in outcome-oriented terms, while radio platforms still...",
+        "link": "https://arxiv.org/abs/2611.25657"
       },
       {
-        "title": "\ud83d\udcc4 Comcast touts Fastly partnership as gaming downloads and sports streaming collide",
-        "summary": "Comcast is highlighting a partnership with Fastly and its underlying network as it braces for a major gaming release that coincides with Amazon's Thursday night football stream. #pressrelease...",
-        "link": "https://www.lightreading.com/cable-technology/comcast-touts-fastly-partnership-as-gaming-downloads-and-sports-streaming-collide"
+        "title": "\ud83d\udcc4 Maria Popo stepping down as SCTE president and CEO",
+        "summary": "Maria Popo will exit her role as SCTE president and CEO at year-end as the organization completes its operational integration into CableLabs. CableLabs COO Jeff Leget will oversee day-to-day operation...",
+        "link": "https://www.lightreading.com/cable-technology/maria-popo-stepping-down-as-scte-ceo"
       },
       {
-        "title": "\ud83d\udcc4 T-Mobile grabs for Bluewater's 600MHz licenses, keeping them out of SpaceX's reach",
-        "summary": "T-Mobile informed the FCC it is acquiring Bluewater Wireless' 600MHz spectrum licenses covering 435 counties in 27 states. It will add about 10MHz of capacity in most areas, and it keeps the spectrum ...",
-        "link": "https://www.lightreading.com/5g/t-mobile-grabs-for-bluewater-s-600mhz-licenses-keeping-them-out-of-spacex-s-reach"
+        "title": "\ud83d\udcc4 FCC votes for final rules to improve drone connectivity and in-flight broadband",
+        "summary": "The FCC has voted to adopt a package of final rules that include the opening up of the 450MHz band for safety links to support drones and 'advanced air mobility.' #pressrelease...",
+        "link": "https://www.lightreading.com/regulatory-politics/fcc-votes-for-final-rules-to-improve-drone-connectivity-and-in-flight-broadband"
       }
     ],
     "Robotics": [
       {
-        "title": "\ud83d\udcc4 BiCAT: Bimanual Coordination Action Tokenization",
-        "summary": "arXiv:2611.23499v1 Announce Type: new \nAbstract: Autoregressive vision-language-action (VLA) models predict discrete action tokens with the next-token objective of their vision-language backbone, so t...",
-        "link": "https://arxiv.org/abs/2611.23499"
+        "title": "\ud83d\udcc4 Inhabitant: An Agent Framework for Long-Horizon Human-Scene Interaction with Spatial Control and Quantitative Feedback",
+        "summary": "arXiv:2611.25005v1 Announce Type: new \nAbstract: Recent work on human-scene interaction (HSI) generation moves from single interactions to long-horizon interaction, where a language-model agent plans ...",
+        "link": "https://arxiv.org/abs/2611.25005"
       },
       {
-        "title": "\ud83d\udcc4 Learning and Control in Physically Coupled Dynamical Systems",
-        "summary": "arXiv:2611.23502v1 Announce Type: new \nAbstract: We introduce TAG (Testbed for Autonomous Games), a compact, low-cost robotic platform for studying learning and control in physically coupled dynamical...",
-        "link": "https://arxiv.org/abs/2611.23502"
+        "title": "\ud83d\udcc4 Mapping the Wind to Find the Source: Online Physics-Informed Gas Source Localization with Mobile Robots",
+        "summary": "arXiv:2611.25067v1 Announce Type: new \nAbstract: Gas Source Localization (GSL) with mobile robots is challenging because wind and gas measurements are spatially sparse, noisy, and potentially affected...",
+        "link": "https://arxiv.org/abs/2611.25067"
       },
       {
-        "title": "\ud83d\udcc4 RageVLA: Augmentation-Trained Perception and Action for State-of-the-Art Robustness on LIBERO",
-        "summary": "arXiv:2611.23517v1 Announce Type: new \nAbstract: Vision-language-action (VLA) models look saturated on LIBERO, yet most of them fall apart on LIBERO-PRO as soon as an object moves or the instruction a...",
-        "link": "https://arxiv.org/abs/2611.23517"
+        "title": "\ud83d\udcc4 MAWAM: A Multi-Agent World-Action Model for Coordinated Manipulation",
+        "summary": "arXiv:2611.25105v1 Announce Type: new \nAbstract: Every move in a robot team changes the world in which its teammates must act. Coordinated manipulation therefore calls for predicting the team's action...",
+        "link": "https://arxiv.org/abs/2611.25105"
       }
     ]
   },
