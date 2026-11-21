@@ -1,76 +1,56 @@
 {
-  "last_updated": "2026-11-20 06:59 UTC",
+  "last_updated": "2026-11-21 06:55 UTC",
   "is_sunday_edition": false,
   "sectors": {
     "AI": [
       {
-        "title": "\ud83d\udcc4 Closing the Analyze-to-Design Gap: An Authorization-Bounded Agent for Self-Driving Laboratories",
-        "summary": "arXiv:2611.25043v1 Announce Type: new \nAbstract: Artificial intelligence (AI) agents are increasingly integrated into self-driving laboratories (SDLs) to plan experiments and interpret results. Howeve...",
-        "link": "https://arxiv.org/abs/2611.25043"
+        "title": "\ud83d\udcc4 Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+        "summary": "...",
+        "link": "https://huggingface.co/blog/inkling2mini"
       },
       {
-        "title": "\ud83d\udcc4 An LLM-Agentic Framework for Intelligent Work Order Management in Industrial Maintenance",
-        "summary": "arXiv:2611.25070v1 Announce Type: new \nAbstract: This paper presents an AI-driven framework, CodeReAct agent, designed to enhance industrial equipment maintenance through natural language (NL) interac...",
-        "link": "https://arxiv.org/abs/2611.25070"
-      },
-      {
-        "title": "\ud83d\udcc4 SailSearch: Agent-Assisted Discovery in Combinatorial Optimization",
-        "summary": "arXiv:2611.25087v1 Announce Type: new \nAbstract: We present SailSearch, a human-guided workflow for algorithmic research with two language-model agents, and report results on Market Split and maximum ...",
-        "link": "https://arxiv.org/abs/2611.25087"
+        "title": "\ud83d\udcc4 Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+        "summary": "...",
+        "link": "https://huggingface.co/blog/harness-adapters-at-scale"
       },
       {
         "title": "\ud83d\udcc4 DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
         "summary": "...",
         "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"
-      },
-      {
-        "title": "\ud83d\udcc4 Why your fine-tuning job takes longer than the FLOPs say",
-        "summary": "...",
-        "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time"
       }
     ],
     "Quantum": [
       {
-        "title": "\ud83d\udcc4 Entanglement Geometry Beyond Polygons: Graph-Theoretic Entanglement Inequalities",
-        "summary": "arXiv:2611.25019v1 Announce Type: new \nAbstract: Entanglement entropies of pure multipartite states can be constrained by organizing subsystem cuts as edges (hyperedges) of graphs (hypergraphs). Start...",
-        "link": "https://arxiv.org/abs/2611.25019"
+        "title": "\ud83d\udcc4 Central New Mexico Community College and Sandia National Labs Sign MOU to Expand Quantum Technician Training",
+        "summary": "Central New Mexico Community College (CNM) and Sandia National Laboratories have signed an MOU to expand technician training in quantum science, advanced manufacturing, AI, and systems integration. CN...",
+        "link": "https://quantumcomputingreport.com/central-new-mexico-community-college-and-sandia-national-labs-sign-mou-to-expand-quantum-technician-training/"
       },
       {
-        "title": "\ud83d\udcc4 The Clifford Hierarchy from Clifford Stabilizers in 2D",
-        "summary": "arXiv:2611.25025v1 Announce Type: new \nAbstract: The Bravyi-K\\\"onig theorem limits the constant-depth logical gates of 2D topological Pauli stabilizer codes to be in the Clifford group. Known qubit co...",
-        "link": "https://arxiv.org/abs/2611.25025"
+        "title": "\ud83d\udcc4 KT and LG Electronics Demonstrate Quantum Secure Direct Communication for Image and Text Transmission",
+        "summary": "KT and LG Electronics have successfully demonstrated a quantum secure direct communication (QSDC) system, transmitting image and text data embedded directly in quantum states. This differs from tradit...",
+        "link": "https://quantumcomputingreport.com/kt-and-lg-electronics-demonstrate-quantum-secure-direct-communication-for-image-and-text-transmission/"
       },
       {
-        "title": "\ud83d\udcc4 Passive memories beyond the Ising model: from SFQ to GKP",
-        "summary": "arXiv:2611.25030v1 Announce Type: new \nAbstract: Self-correcting quantum memories are spin Hamiltonians that aim to generalize the classical memory of the magnetic hard disk (i.e. ferromagnetic Ising ...",
-        "link": "https://arxiv.org/abs/2611.25030"
-      },
-      {
-        "title": "\ud83d\udcc4 UCLA Researchers Model Collectively Enhanced Superconducting-Qubit Interfaces for Microwave-to-Optical Transduction",
-        "summary": "UCLA researchers have developed a theoretical model for enhancing microwave-to-optical quantum transduction using superconducting qubits. Their proposed architecture collectively couples multiple qubi...",
-        "link": "https://quantumcomputingreport.com/ucla-researchers-model-collectively-enhanced-superconducting-qubit-interfaces-for-microwave-to-optical-transduction/"
-      },
-      {
-        "title": "\ud83d\udcc4 Researchers Introduce QECLean Framework to Formally Verify Quantum Error-Correcting Codes in Lean 4",
-        "summary": "Researchers have developed QECLean, an open-source framework using Lean 4 to formally verify quantum error-correcting codes, addressing the difficulty of verifying complex, algorithmically discovered ...",
-        "link": "https://quantumcomputingreport.com/researchers-introduce-qeclean-framework-to-formally-verify-quantum-error-correcting-codes-in-lean-4/"
+        "title": "\ud83d\udcc4 Vendavo Adapts Quantum Amplitude Estimation on NVIDIA CUDA-Q to Model B2B Rebate Budget Risk",
+        "summary": "Vendavo has demonstrated a quantum amplitude estimation method using NVIDIA's CUDA-Q platform to model correlated budget risk in B2B rebate programs. This simulation, involving a 15-qubit circuit, sho...",
+        "link": "https://quantumcomputingreport.com/vendavo-adapts-quantum-amplitude-estimation-on-nvidia-cuda-q-to-model-b2b-rebate-budget-risk/"
       }
     ],
     "CyberSecurity": [
       {
+        "title": "\ud83d\udcc4 Friday Squid Blogging: The Largest Squid Ever Filmed",
+        "summary": "This  is the story of the largest squid ever filmed, in December 2006 near Japan&#8217;s Ogasawara Islands.\nAs usual, you can also use this squid post to talk about the security stories in the news th...",
+        "link": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-the-largest-squid-ever-filmed.html"
+      },
+      {
+        "title": "\ud83d\udcc4 Opening a 400-Year-Old Cryptex",
+        "summary": "Researchers used CT scanning technology to recover the code and open a 400-year-old cryptex padlock.\nYou can buy a USB-drive cryptex....",
+        "link": "https://www.schneier.com/blog/archives/2026/11/opening-a-400-year-old-cryptex.html"
+      },
+      {
         "title": "\ud83d\udcc4 France Is Blaming Iran for the Fridge Cyberattack",
         "summary": "Interesting:\nU.S. intelligence agencies have recently reached a &#8220;low confidence&#8221; assessment that Iran was responsible for the attacks in France, according to three U.S. officials who spoke...",
         "link": "https://www.schneier.com/blog/archives/2026/11/france-is-blaming-iran-for-the-fridge-cyberattack.html"
-      },
-      {
-        "title": "\ud83d\udcc4 Formal Verification of the Signal Protocol Using AI",
-        "summary": "This seems like a good thing:\nGoogle Deepmind researchers used agentic AI to mathematically prove, or \u201cformally verify,\u201d a number of the Signal protocol\u2019s key cryptographic guarantees\u00ada landmark devel...",
-        "link": "https://www.schneier.com/blog/archives/2026/11/formal-verification-of-the-signal-protocol-using-ai.html"
-      },
-      {
-        "title": "\ud83d\udcc4 Usable Security at Luxury Hotels",
-        "summary": "Interesting case study from luxury hotels. Attackers used a fake booking request to gain access to a reservations inbox, where they copied genuine refund requests and got fraudulent ones approved.\nThi...",
-        "link": "https://www.schneier.com/blog/archives/2026/11/usable-security-at-luxury-hotels.html"
       }
     ],
     "Space": [
@@ -92,29 +72,29 @@
     ],
     "Renewables": [
       {
-        "title": "\ud83d\udcc4 AGCO Celebrates Construction Milestone at Olmedo Solar Project in Spain",
-        "summary": "OLMEDO, Spain, Nov. 19, 2026 \u2014 AGCO (NYSE: AGCO) today announced that Project Olmedo, the solar installation at the center of its first Virtual Power Purchase Agreement (VPPA), has completed construct...",
-        "link": "https://cleantechnica.com/2026/11/19/agco-celebrates-construction-milestone-at-olmedo-solar-project-in-spain/"
+        "title": "\ud83d\udcc4 Waymo Pulls Robotaxis from Highways",
+        "summary": "Waymo has apparently run into some issues with its robotaxis on highways in California, and it has pulled its robotaxis off of highways across the United States as a result. The main issue is that Way...",
+        "link": "https://cleantechnica.com/2026/11/21/waymo-pulls-robotaxis-from-highways/"
       },
       {
-        "title": "\ud83d\udcc4 Inspiring Hearts & Minds on Solar",
-        "summary": "Since the invention of the solar cell seven decades ago, the story of American solar has seen its fair share of twists and turns on its journey to becoming the country\u2019s most affordable and fastest-gr...",
-        "link": "https://cleantechnica.com/2026/11/19/inspiring-hearts-minds-on-solar/"
+        "title": "\ud83d\udcc4 NIO Launches Special Edition Firefly \u201cPianke Liujin\u201d",
+        "summary": "Initially, I was like, &#8220;Wow, I love this car, I have to write about it!&#8221; Then I realized there were only going to be 333 units of the model built, so it really isn&#8217;t going to make a ...",
+        "link": "https://cleantechnica.com/2026/11/20/nio-launches-special-edition-firefly-pianke-liujin/"
       },
       {
-        "title": "\ud83d\udcc4 Leapmotor Produces Its 2 Millionth EV",
-        "summary": "Leapmotor just produced its 2 millionth vehicle, all EVs of course. The EV startup has seen a meteoric rise in the highly competitive Chinese EV market, and increasingly abroad. Of course, most of us ...",
-        "link": "https://cleantechnica.com/2026/11/19/leapmotor-produces-its-2-millionth-ev/"
+        "title": "\ud83d\udcc4 JA Energy Storage Launches an Internal Battery Passport Platform to Facilitate Compliance with EU Standards",
+        "summary": "JJA ESS has launched its own battery passport data platform to support lifecycle information management and help companies prepare for upcoming EU regulations. The platform is hosted in the company&#8...",
+        "link": "https://cleantechnica.com/2026/11/20/ja-energy-storage-launches-an-internal-battery-passport-platform-to-facilitate-compliance-with-eu-standards/"
+      },
+      {
+        "title": "\ud83d\udcc4 Can a developer turn data centers\u2019 reputation around?",
+        "summary": "A conversation with Charley Daitch and JD Lambert of Rowan....",
+        "link": "https://www.volts.wtf/p/can-a-developer-turn-data-centers"
       },
       {
         "title": "\ud83d\udcc4 \u201cRepowering\u201d worn out solar fields could create gigawatts of new grid capacity, quickly",
         "summary": "A conversation with Lisa Hansmann of Foundry-Logic....",
         "link": "https://www.volts.wtf/p/repowering-worn-out-solar-fields"
-      },
-      {
-        "title": "\ud83d\udcc4 Community Post #32: your Thanksgiving playbook",
-        "summary": "Open to all free & paid subscribers....",
-        "link": "https://www.volts.wtf/p/community-post-32-your-thanksgiving"
       }
     ],
     "Energy": [
@@ -134,77 +114,51 @@
         "link": "https://www.carbonbrief.org/analysis-climate-finance-pledges-fall-70-as-countries-meet-at-cop31"
       },
       {
-        "title": "\ud83d\udcc4 \u2018The biggest change is scale\u2019: Giga Storage on evolution of BESS asset management in Europe",
-        "summary": "We hear from the head of market strategy &#038; public affairs for Netherlands-based BESS platform Giga Storage, on the key trends and challenges in European asset management today....",
-        "link": "https://www.energy-storage.news/the-biggest-change-is-scale-giga-storage-on-evolution-of-bess-asset-management-in-europe/"
+        "title": "\ud83d\udcc4 \u2018Sodium is a chance for us to lean forward and win\u2019: Alsym Energy at RE+ on why US battery policy needs to shift upstream",
+        "summary": "Sodium-ion (Na-ion) is continuing to gain traction as a legitimate \"major chemistry\" \u2014 with CATL, BYD, and GM all committing to it \u2014 some developers, within and outside the US Na-ion space have argued...",
+        "link": "https://www.energy-storage.news/sodium-is-a-chance-for-us-to-lean-forward-and-win-alsym-energy-at-re-on-why-us-battery-policy-needs-to-shift-upstream/"
       },
       {
-        "title": "\ud83d\udcc4 Data centre power buildouts are d\u00e9j\u00e0 vu for US storage integrators with off-grid roots",
-        "summary": "As AI-driven data centre demand reshapes the US power landscape, BESS technology providers at RE+ highlighted an unexpected competitive advantage....",
-        "link": "https://www.energy-storage.news/data-centre-power-buildouts-are-deja-vu-for-us-storage-integrators-with-off-grid-roots/"
+        "title": "\ud83d\udcc4 Who\u2019s gaining geopolitical advantage in the energy transition?",
+        "summary": "Energy transition expert Chris Nelder looks at which countries are leading the way in the geopolitical race for clean energy supremacy....",
+        "link": "https://www.energy-storage.news/whos-gaining-geopolitical-advantage-in-the-energy-transition/"
       }
     ],
     "MedTech": [
       {
-        "title": "\ud83d\udcc4 GeneDx appoints Everett Cunningham as CEO",
-        "summary": "Analysts hailed Cunningham&rsquo;s experience as a boost to GeneDx as the company tries to enter new markets and maintain its leadership in a competitive sector....",
-        "link": "https://www.medtechdive.com/news/genedx-appoints-everett-cunningham-as-ceo/875157/"
+        "title": "\ud83d\udcc4 Zimmer submits Monogram robot to FDA",
+        "summary": "The company is targeting Food and Drug Administration clearance next year for an autonomous orthopedic robot....",
+        "link": "https://www.medtechdive.com/news/zimmer-submits-monogram-robot-to-fda/875347/"
       },
       {
-        "title": "\ud83d\udcc4 Senseonics, Beta Bionics integrate diabetes technology",
-        "summary": "The collaboration, combining Senseonics&rsquo; implantable glucose sensor with Beta Bionics&rsquo; insulin pump, is intended to simplify diabetes management....",
-        "link": "https://www.medtechdive.com/news/senseonics-beta-bionics-integrate-diabetes-technology/875120/"
+        "title": "\ud83d\udcc4 J&J to install first Ottava robot in US hospital",
+        "summary": "The commercial agreement with Memorial Hermann-Texas Medical Center comes in the same week that rival Medtronic revealed expanded FDA clearance for its Hugo robot in general surgical procedures....",
+        "link": "https://www.medtechdive.com/news/jj-to-install-first-ottava-robot-in-us-hospital/875343/"
       },
       {
-        "title": "\ud83d\udcc4 Health AI spend doubles as providers invest in clinical copilots, front-office AI",
-        "summary": "As healthcare AI spending increases, providers are investing in use cases outside ambient scribing and increasingly evaluating&nbsp;clinical and administrative tools from startups....",
-        "link": "https://www.medtechdive.com/news/health-ai-spend-doubles-as-providers-invest-in-clinical-copilots-front-off/875020/"
+        "title": "\ud83d\udcc4 Abbott starts trial of Encantor transcatheter aortic valve",
+        "summary": "The balloon-expandable system could complement Abbott&rsquo;s existing self-expanding Navitor device....",
+        "link": "https://www.medtechdive.com/news/abbott-starts-trial-of-encantor-transcatheter-aortic-valve/875298/"
       }
     ],
     "Telecommunications": [
       {
-        "title": "\ud83d\udcc4 Benchmarking Open-Source O-RAN and 5G NTN Stacks on Embedded ARM Platforms for Space Payloads",
-        "summary": "arXiv:2611.25206v1 Announce Type: new \nAbstract: Regenerative satellite payloads, which host the 5G Next Generation Node B (gNB) onboard instead of transparently relaying the radio signal, are a key b...",
-        "link": "https://arxiv.org/abs/2611.25206"
+        "title": "\ud83d\udcc4 FCC tightens grip on Chinese telcos, blocks direct access to US phone numbers",
+        "summary": "The FCC has banned Chinese carriers from gaining direct access to US phone numbers over national security concerns and to crack down on scam robocalls....",
+        "link": "https://www.lightreading.com/regulatory-politics/fcc-tightens-grip-on-chinese-telcos-blocks-direct-access-to-us-phone-numbers"
       },
       {
-        "title": "\ud83d\udcc4 SimPyWireless: A PHY-Aware Discrete-Event Simulation Framework for Wi-Fi and 5G NR-U Coexistence in the 5 GHz Band",
-        "summary": "arXiv:2611.25350v1 Announce Type: new \nAbstract: The growing demand from heterogeneous wireless applications with stringent QoS and QoE requirements is increasing pressure on available spectrum resour...",
-        "link": "https://arxiv.org/abs/2611.25350"
+        "title": "\ud83d\udcc4 Eurobites: VMO2 soups up its 'social' broadband packages",
+        "summary": "Also in today's EMEA regional roundup: Connect Fibre half-done in Derbyshire; Orange wants to make connectivity safer for kids; BBC benefits from YouTube exposure....",
+        "link": "https://www.lightreading.com/sustainability/eurobites-vmo2-soups-up-its-social-broadband-packages"
       },
       {
-        "title": "\ud83d\udcc4 Intent-Defined Radio: A Goal-Native Architecture for Next-Generation Wireless Networks",
-        "summary": "arXiv:2611.25657v1 Announce Type: new \nAbstract: Wireless systems are becoming harder to operate because service goals are increasingly expressed in outcome-oriented terms, while radio platforms still...",
-        "link": "https://arxiv.org/abs/2611.25657"
-      },
-      {
-        "title": "\ud83d\udcc4 Maria Popo stepping down as SCTE president and CEO",
-        "summary": "Maria Popo will exit her role as SCTE president and CEO at year-end as the organization completes its operational integration into CableLabs. CableLabs COO Jeff Leget will oversee day-to-day operation...",
-        "link": "https://www.lightreading.com/cable-technology/maria-popo-stepping-down-as-scte-ceo"
-      },
-      {
-        "title": "\ud83d\udcc4 FCC votes for final rules to improve drone connectivity and in-flight broadband",
-        "summary": "The FCC has voted to adopt a package of final rules that include the opening up of the 450MHz band for safety links to support drones and 'advanced air mobility.' #pressrelease...",
-        "link": "https://www.lightreading.com/regulatory-politics/fcc-votes-for-final-rules-to-improve-drone-connectivity-and-in-flight-broadband"
+        "title": "\ud83d\udcc4 The Buildout: WOW goes wide in Georgia",
+        "summary": "This week in broadband builds: WOW makes $50 million investment in Columbus, Georgia; Spectrum's rural reach grows in Kentucky, Michigan, Tennessee; GoNetspeed kicks off in Newport, Rhode Island \u2013 and...",
+        "link": "https://www.lightreading.com/broadband/the-buildout-wow-goes-wide-in-georgia"
       }
     ],
-    "Robotics": [
-      {
-        "title": "\ud83d\udcc4 Inhabitant: An Agent Framework for Long-Horizon Human-Scene Interaction with Spatial Control and Quantitative Feedback",
-        "summary": "arXiv:2611.25005v1 Announce Type: new \nAbstract: Recent work on human-scene interaction (HSI) generation moves from single interactions to long-horizon interaction, where a language-model agent plans ...",
-        "link": "https://arxiv.org/abs/2611.25005"
-      },
-      {
-        "title": "\ud83d\udcc4 Mapping the Wind to Find the Source: Online Physics-Informed Gas Source Localization with Mobile Robots",
-        "summary": "arXiv:2611.25067v1 Announce Type: new \nAbstract: Gas Source Localization (GSL) with mobile robots is challenging because wind and gas measurements are spatially sparse, noisy, and potentially affected...",
-        "link": "https://arxiv.org/abs/2611.25067"
-      },
-      {
-        "title": "\ud83d\udcc4 MAWAM: A Multi-Agent World-Action Model for Coordinated Manipulation",
-        "summary": "arXiv:2611.25105v1 Announce Type: new \nAbstract: Every move in a robot team changes the world in which its teammates must act. Coordinated manipulation therefore calls for predicting the team's action...",
-        "link": "https://arxiv.org/abs/2611.25105"
-      }
-    ]
+    "Robotics": []
   },
   "weekly_recap": null,
   "stock_watch": []
