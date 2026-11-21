@@ -1,141 +1,562 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="auto">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tech Insights Dashboard</title>
-    <style>
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #0f172a; color: #f8fafc; margin: 0; padding: 24px; }
-        .container { max-width: 1200px; margin: 0 auto; }
-        header { border-bottom: 1px solid #334155; padding-bottom: 16px; margin-bottom: 24px; }
-        h1 { color: #38bdf8; margin: 0 0 8px 0; }
-        .subtitle { color: #94a3b8; font-size: 0.9em; }
-        .special-box { background: #1e293b; border-radius: 8px; padding: 20px; margin-bottom: 24px; border: 1px solid #334155; }
-        .sector-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 20px; }
-        .sector-card { background: #1e293b; border-radius: 8px; padding: 18px; border: 1px solid #334155; }
-        .sector-card h3 { color: #38bdf8; border-bottom: 1px solid #334155; padding-bottom: 10px; margin-top: 0; }
-        .item { margin-bottom: 14px; padding-bottom: 12px; border-bottom: 1px solid #334155; }
-        .item:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
-        /* CSS Rule to hide any residual inline images */
-        .item img, .special-box img { display: none !important; visibility: hidden !important; width: 0 !important; height: 0 !important; }
-        .item-title { font-weight: 600; color: #f1f5f9; display: block; margin-bottom: 4px; }
-        .item-summary { font-size: 0.88em; color: #cbd5e1; margin: 4px 0 6px 0; line-height: 1.4; }
-        a { color: #38bdf8; text-decoration: none; font-size: 0.85em; font-weight: 500; }
-        a:hover { text-decoration: underline; }
-        .ticker { color: #4ade80; font-weight: bold; }
-        .toggle-btn { background: #334155; color: #38bdf8; border: none; border-radius: 4px; padding: 6px 12px; font-size: 0.8em; font-weight: 600; cursor: pointer; margin-top: 8px; width: 100%; text-align: center; }
-        .toggle-btn:hover { background: #475569; }
-        .hidden-items { display: none; }
-    </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="dark light">
+<title>Tech Insights</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%E2%9A%A1%3C/text%3E%3C/svg%3E">
+<script>
+  // Apply the saved theme before first paint to avoid a flash.
+  try { var t = localStorage.getItem('ti:theme'); if (t === 'light' || t === 'dark') document.documentElement.dataset.theme = t; } catch (e) {}
+</script>
+<style>
+  :root {
+    --bg:#0b1220; --surface:#131c2e; --surface2:#1a2540; --border:#26324d; --text:#e8edf7; --muted:#93a1bd;
+    --accent:#5cc8ff; --good:#4ade80; --warn:#facc15; --danger:#f87171; --shadow:0 1px 2px rgba(0,0,0,.35);
+    --c0:#5cc8ff; --c1:#a78bfa; --c2:#f472b6; --c3:#fb923c; --c4:#4ade80; --c5:#facc15; --c6:#2dd4bf; --c7:#f87171;
+    --c8:#60a5fa; --c9:#c084fc; --c10:#34d399; --c11:#fbbf24; --c12:#fb7185; --c13:#38bdf8; --c14:#a3e635; --c15:#e879f9;
+  }
+  html[data-theme="light"] {
+    --bg:#f5f7fb; --surface:#ffffff; --surface2:#eef2f9; --border:#d7dfec; --text:#101828; --muted:#566782;
+    --accent:#0369a1; --good:#15803d; --warn:#a16207; --danger:#b91c1c; --shadow:0 1px 2px rgba(16,24,40,.08);
+    --c0:#0369a1; --c1:#6d28d9; --c2:#be185d; --c3:#c2410c; --c4:#15803d; --c5:#a16207; --c6:#0f766e; --c7:#b91c1c;
+    --c8:#1d4ed8; --c9:#7e22ce; --c10:#047857; --c11:#b45309; --c12:#be123c; --c13:#0284c7; --c14:#4d7c0f; --c15:#a21caf;
+  }
+  @media (prefers-color-scheme: light) {
+    html[data-theme="auto"] {
+      --bg:#f5f7fb; --surface:#ffffff; --surface2:#eef2f9; --border:#d7dfec; --text:#101828; --muted:#566782;
+      --accent:#0369a1; --good:#15803d; --warn:#a16207; --danger:#b91c1c; --shadow:0 1px 2px rgba(16,24,40,.08);
+      --c0:#0369a1; --c1:#6d28d9; --c2:#be185d; --c3:#c2410c; --c4:#15803d; --c5:#a16207; --c6:#0f766e; --c7:#b91c1c;
+      --c8:#1d4ed8; --c9:#7e22ce; --c10:#047857; --c11:#b45309; --c12:#be123c; --c13:#0284c7; --c14:#4d7c0f; --c15:#a21caf;
+    }
+  }
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; scroll-padding-top: 120px; }
+  @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } * { transition: none !important; } }
+  body { margin:0; background:var(--bg); color:var(--text); line-height:1.5; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; -webkit-text-size-adjust:100%; }
+  .wrap { max-width:1240px; margin:0 auto; padding:0 16px; }
+  a { color:var(--accent); text-decoration:none; } a:hover { text-decoration:underline; }
+  :focus-visible { outline:2px solid var(--accent); outline-offset:2px; border-radius:4px; }
+  .skip { position:absolute; left:-999px; top:8px; background:var(--surface); padding:8px 12px; border-radius:6px; z-index:50; }
+  .skip:focus { left:8px; }
+  button, select, input { font:inherit; color:inherit; }
+  button { cursor:pointer; }
+
+  /* Header */
+  .topbar { position:sticky; top:0; z-index:20; background:color-mix(in srgb, var(--bg) 92%, transparent); backdrop-filter:blur(10px); border-bottom:1px solid var(--border); }
+  .bar { display:flex; flex-wrap:wrap; align-items:center; gap:10px 16px; padding-top:12px; padding-bottom:8px; }
+  .brand { flex:1 1 220px; min-width:0; }
+  .brand h1 { margin:0; font-size:1.25rem; letter-spacing:-.01em; }
+  .brand h1 span { color:var(--accent); }
+  .status { margin:2px 0 0; font-size:.8rem; color:var(--muted); }
+  .tools { display:flex; flex:1 1 320px; min-width:0; gap:8px; justify-content:flex-end; align-items:center; }
+  .search { flex:1 1 160px; min-width:120px; max-width:340px; background:var(--surface); border:1px solid var(--border); border-radius:8px; padding:8px 12px; }
+  .search::placeholder { color:var(--muted); }
+  .btn, select.btn { background:var(--surface); border:1px solid var(--border); border-radius:8px; padding:7px 11px; font-size:.85rem; }
+  .btn:hover { background:var(--surface2); }
+  .btn[aria-pressed="true"] { background:var(--surface2); border-color:var(--accent); }
+  .chips { display:flex; gap:8px; overflow-x:auto; padding-bottom:10px; padding-right:40px; scrollbar-width:none;
+           -webkit-mask-image:linear-gradient(to right, #000 calc(100% - 40px), transparent); mask-image:linear-gradient(to right, #000 calc(100% - 40px), transparent); }
+  .chips::-webkit-scrollbar { display:none; }
+  .chip { flex:0 0 auto; display:inline-flex; align-items:center; gap:6px; border:1px solid var(--border); background:var(--surface); border-radius:999px; padding:5px 12px; font-size:.82rem; white-space:nowrap; }
+  .chip:hover { background:var(--surface2); }
+  .chip[aria-pressed="true"] { background:var(--accent); border-color:var(--accent); color:var(--bg); font-weight:600; }
+  .chip .dot { width:8px; height:8px; border-radius:50%; background:var(--sector, var(--muted)); }
+  .chip[aria-pressed="true"] .dot { background:var(--bg); }
+  .chip .count { opacity:.7; font-variant-numeric:tabular-nums; }
+  @media (max-width:600px) {
+    .tools { flex:1 1 100%; flex-wrap:nowrap; }
+    .search { flex:1 1 0; min-width:0; max-width:none; }
+    .btn, select.btn { flex:0 0 auto; padding:7px 9px; }
+    select.btn { max-width:110px; }
+  }
+
+  /* Sections */
+  main { padding-top:20px; padding-bottom:48px; }
+  section { margin-bottom:28px; }
+  h2 { font-size:1.05rem; margin:0 0 12px; display:flex; flex-wrap:wrap; align-items:baseline; gap:2px 8px; }
+  h2 .sub { font-weight:400; font-size:.8rem; color:var(--muted); }
+  .notice { background:color-mix(in srgb, var(--warn) 14%, var(--surface)); border:1px solid color-mix(in srgb, var(--warn) 50%, var(--border)); border-radius:10px; padding:10px 14px; margin-bottom:12px; font-size:.9rem; }
+  .notice.info { background:var(--surface); border-color:var(--border); }
+  .panel { background:var(--surface); border:1px solid var(--border); border-radius:12px; padding:16px; box-shadow:var(--shadow); }
+  details.panel > summary { cursor:pointer; font-weight:600; list-style:none; display:flex; align-items:center; gap:8px; }
+  details.panel > summary::-webkit-details-marker { display:none; }
+  details.panel > summary::before { content:"▸"; color:var(--muted); transition:transform .15s; }
+  details.panel[open] > summary::before { transform:rotate(90deg); }
+  details.panel .sub { font-weight:400; font-size:.8rem; color:var(--muted); }
+  .empty { color:var(--muted); font-size:.9rem; padding:8px 0; }
+
+  /* Items */
+  .item { padding:12px 0; border-top:1px solid var(--border); }
+  .item:first-child { border-top:none; padding-top:0; }
+  .meta { display:flex; flex-wrap:wrap; align-items:center; gap:4px 8px; font-size:.76rem; color:var(--muted); }
+  .badge { border-radius:4px; padding:1px 6px; font-weight:600; font-size:.68rem; text-transform:uppercase; letter-spacing:.03em; border:1px solid currentColor; }
+  .badge.paper { color:var(--c1); } .badge.news { color:var(--c0); } .badge.podcast { color:var(--c3); } .badge.community { color:var(--c4); }
+  .badge.new { background:var(--good); border-color:var(--good); color:var(--bg); }
+  .sector-tag { color:var(--sector, var(--muted)); font-weight:600; }
+  .title { margin:4px 0 0; font-size:1rem; line-height:1.35; font-weight:600; }
+  .title a { color:var(--text); } .title a:hover { color:var(--accent); }
+  .summary { margin:6px 0 0; font-size:.9rem; color:color-mix(in srgb, var(--text) 82%, var(--muted)); }
+  .why { margin:6px 0 0; font-size:.86rem; color:var(--text); border-left:3px solid var(--sector, var(--accent)); padding-left:10px; }
+  .why b { color:var(--muted); font-weight:600; }
+  .foot { display:flex; flex-wrap:wrap; align-items:center; gap:4px 12px; margin-top:8px; font-size:.78rem; color:var(--muted); }
+  .foot .also a { color:var(--muted); text-decoration:underline; text-decoration-color:var(--border); }
+  .save { margin-left:auto; background:none; border:none; padding:2px 6px; color:var(--muted); font-size:1rem; line-height:1; border-radius:6px; }
+  .save:hover { color:var(--warn); background:var(--surface2); }
+  .save[aria-pressed="true"] { color:var(--warn); }
+
+  /* Top stories */
+  .top-grid { display:grid; gap:14px; grid-template-columns:repeat(auto-fit, minmax(280px, 1fr)); }
+  .top-card { position:relative; background:var(--surface); border:1px solid var(--border); border-top:3px solid var(--sector, var(--accent)); border-radius:12px; padding:14px 16px 12px; box-shadow:var(--shadow); }
+  .top-card .item { border:none; padding:0; }
+  .top-card .meta { padding-right:34px; }
+  .rank { position:absolute; top:8px; right:12px; font-size:1.6rem; font-weight:800; color:var(--border); font-variant-numeric:tabular-nums; }
+  @media (min-width:900px) { .top-grid { grid-template-columns:repeat(6, 1fr); } .top-card { grid-column:span 2; } .top-card:first-child { grid-column:span 3; } .top-card:nth-child(2) { grid-column:span 3; } .top-card:first-child .title { font-size:1.15rem; } }
+
+  /* Emerging, stocks, recap */
+  .terms { display:flex; flex-wrap:wrap; gap:8px; }
+  .term { background:var(--surface); border:1px solid var(--border); border-radius:999px; padding:5px 12px; font-size:.84rem; }
+  .term:hover { border-color:var(--accent); }
+  .term small { color:var(--muted); margin-left:6px; }
+  .stocks { display:grid; gap:12px; grid-template-columns:repeat(auto-fit, minmax(240px, 1fr)); margin-top:12px; }
+  .stock { background:var(--surface2); border-radius:10px; padding:12px; }
+  .ticker { display:inline-block; font-weight:800; color:var(--good); letter-spacing:.03em; }
+  .stock .co { color:var(--muted); font-size:.82rem; margin-left:6px; }
+  .stock p { margin:6px 0 0; font-size:.88rem; }
+  .disclaimer { font-size:.78rem; color:var(--muted); margin:10px 0 0; }
+  .recap-text { margin:12px 0 0; max-width:75ch; }
+  .themes { display:flex; flex-wrap:wrap; gap:6px; margin-top:12px; }
+
+  /* Sector grid */
+  /* Masonry-style columns so cards of different heights pack without gaps. */
+  .grid { column-width:340px; column-gap:16px; }
+  .grid > .card { break-inside:avoid; -webkit-column-break-inside:avoid; page-break-inside:avoid; margin:0 0 16px; }
+  .empty-sectors { margin-top:6px; }
+  .card { background:var(--surface); border:1px solid var(--border); border-top:3px solid var(--sector, var(--accent)); border-radius:12px; padding:14px 16px; box-shadow:var(--shadow); }
+  .card h3 { margin:0 0 10px; font-size:1rem; display:flex; align-items:center; gap:8px; }
+  .card h3 button.name { all:unset; cursor:pointer; color:var(--sector, var(--text)); }
+  .card h3 button.name:focus-visible { outline:2px solid var(--accent); border-radius:4px; }
+  .card h3 .n { color:var(--muted); font-size:.78rem; font-weight:400; }
+  .pin { margin-left:auto; background:none; border:none; font-size:.95rem; opacity:.45; padding:2px 6px; border-radius:6px; filter:grayscale(1); }
+  .pin:hover, .pin[aria-pressed="true"] { opacity:1; filter:none; background:var(--surface2); }
+  .more { width:100%; margin-top:6px; background:var(--surface2); border:none; border-radius:8px; padding:7px; font-size:.8rem; font-weight:600; color:var(--accent); }
+  .more:hover { filter:brightness(1.15); }
+
+  /* List view: compact scanning */
+  body.view-list .summary, body.view-list .top-card .summary { display:none; }
+  body.view-list .item { padding:8px 0; }
+  body.view-list .why { font-size:.8rem; border-left:none; padding-left:0; color:var(--muted); display:-webkit-box; -webkit-line-clamp:1; -webkit-box-orient:vertical; overflow:hidden; }
+
+  .health-row { display:flex; flex-wrap:wrap; gap:4px 12px; font-size:.84rem; padding:4px 0; border-top:1px solid var(--border); }
+  .health-row:first-of-type { border-top:none; }
+  .ok { color:var(--good); } .bad { color:var(--danger); } .meh { color:var(--warn); }
+  .toast { position:fixed; left:50%; bottom:20px; transform:translateX(-50%); background:var(--surface2); border:1px solid var(--border); padding:8px 14px; border-radius:999px; font-size:.85rem; z-index:60; box-shadow:var(--shadow); }
+  footer { color:var(--muted); font-size:.78rem; text-align:center; padding:0 16px 32px; }
+</style>
 </head>
 <body>
-    <div class="container">
-        <header>
-            <h1>⚡ Technical Insights Dashboard</h1>
-            <div class="subtitle" id="last-updated">Loading latest feed updates...</div>
-        </header>
-
-        <!-- Daily Stock Movement Radar -->
-        <div id="stock-watch-container" class="special-box" style="display: none;">
-            <h2 style="color: #4ade80; margin-top: 0;">📈 Sector Stock Impact Radar</h2>
-            <div id="stock-watch-list"></div>
-        </div>
-
-        <!-- Sunday Weekly Recap Section -->
-        <div id="weekly-recap-container" class="special-box" style="display: none;">
-            <h2 style="color: #facc15; margin-top: 0;">📅 Weekly Executive Recap</h2>
-            <p id="weekly-recap-text" style="line-height: 1.5; color: #e2e8f0;"></p>
-        </div>
-
-        <!-- Daily Sectors Grid -->
-        <h2 style="color: #f8fafc;">Sector Intelligence</h2>
-        <div class="sector-grid" id="sectors-grid"></div>
+<a class="skip" href="#main">Skip to content</a>
+<header class="topbar">
+  <div class="wrap bar">
+    <div class="brand">
+      <h1><span>⚡</span> Tech Insights</h1>
+      <p class="status" id="status" aria-live="polite">Loading latest updates…</p>
     </div>
+    <div class="tools">
+      <input class="search" id="search" type="search" placeholder="Search stories  ( / )" aria-label="Search stories" autocomplete="off">
+      <select class="btn" id="archive" aria-label="View an earlier day" hidden></select>
+      <button class="btn" id="view" aria-pressed="false" title="Switch between card and compact list view">List</button>
+      <button class="btn" id="theme" title="Switch theme">Auto</button>
+    </div>
+  </div>
+  <nav class="wrap chips" id="chips" aria-label="Filter by sector"></nav>
+</header>
 
-    <script>
-        fetch('data.json')
-            .then(response => response.json())
-            .then(data => {
-                document.getElementById('last-updated').innerText = `Last Refreshed: ${data.last_updated}`;
+<main class="wrap" id="main" tabindex="-1">
+  <noscript><div class="notice">This dashboard needs JavaScript to load its data.</div></noscript>
+  <div id="notices"></div>
+  <div id="content"></div>
+  <section id="health"></section>
+</main>
+<footer>Summaries are AI-generated from linked sources and can be wrong; always check the original.</footer>
 
-                if (data.stock_watch && data.stock_watch.length > 0) {
-                    const stockList = document.getElementById('stock-watch-list');
-                    data.stock_watch.forEach(stock => {
-                        const div = document.createElement('div');
-                        div.style.marginBottom = "10px";
-                        div.innerHTML = `<span class="ticker">${stock.ticker} (${stock.company})</span>: ${stock.impact_blurb}`;
-                        stockList.appendChild(div);
-                    });
-                    document.getElementById('stock-watch-container').style.display = 'block';
-                }
+<script>
+(function () {
+  'use strict';
 
-                if (data.weekly_recap) {
-                    document.getElementById('weekly-recap-text').innerText = data.weekly_recap;
-                    document.getElementById('weekly-recap-container').style.display = 'block';
-                }
+  // ---------- tiny helpers ----------
+  function h(tag, props) {
+    var el = document.createElement(tag);
+    if (props) Object.keys(props).forEach(function (k) {
+      var v = props[k];
+      if (v == null || v === false) return;
+      if (k === 'class') el.className = v;
+      else if (k === 'text') el.textContent = v;
+      else if (k.slice(0, 2) === 'on') el.addEventListener(k.slice(2), v);
+      else el.setAttribute(k, v === true ? '' : v);
+    });
+    for (var i = 2; i < arguments.length; i++) append(el, arguments[i]);
+    return el;
+  }
+  function append(el, kid) {
+    if (kid == null || kid === false) return;
+    if (Array.isArray(kid)) return kid.forEach(function (k) { append(el, k); });
+    el.appendChild(kid.nodeType ? kid : document.createTextNode(String(kid)));
+  }
+  function safeUrl(u) {
+    try { var x = new URL(u); return (x.protocol === 'http:' || x.protocol === 'https:') ? x.href : null; } catch (e) { return null; }
+  }
+  function ext(url, text, cls) {
+    var href = safeUrl(url);
+    return href ? h('a', { href: href, target: '_blank', rel: 'noopener noreferrer', class: cls, text: text }) : h('span', { class: cls, text: text });
+  }
+  var store = {
+    get: function (k, d) { try { var v = localStorage.getItem('ti:' + k); return v == null ? d : JSON.parse(v); } catch (e) { return d; } },
+    set: function (k, v) { try { localStorage.setItem('ti:' + k, JSON.stringify(v)); } catch (e) {} }
+  };
+  function timeAgo(ms) {
+    var s = Math.max(0, (Date.now() - ms) / 1000);
+    if (s < 90) return 'just now';
+    if (s < 3600) return Math.round(s / 60) + 'm ago';
+    if (s < 86400) return Math.round(s / 3600) + 'h ago';
+    if (s < 86400 * 14) return Math.round(s / 86400) + 'd ago';
+    return new Date(ms).toLocaleDateString();
+  }
+  function ts(iso) { var t = Date.parse(iso || ''); return isNaN(t) ? null : t; }
+  // Decode HTML entities such as &#8217; left in older data. A textarea never parses tags, so this is inert.
+  var decoder = document.createElement('textarea');
+  function decode(s) { s = String(s == null ? '' : s); if (s.indexOf('&') === -1) return s; decoder.innerHTML = s; return decoder.value; }
+  function cap(s) { return s.replace(/\b[a-z]/g, function (c) { return c.toUpperCase(); }); }
+  var DISPLAY = { Breaking: 'Breaking' };
+  function label(sector) { return DISPLAY[sector] || sector; }
 
-                const grid = document.getElementById('sectors-grid');
-                let sectorIndex = 0;
+  // ---------- state ----------
+  var S = {
+    data: null, date: null, filter: 'all', query: '', expanded: {}, archiveDates: [],
+    view: store.get('view', 'cards'), theme: store.get('theme', 'auto'),
+    pinned: store.get('pinned', null), saved: store.get('saved', {}),
+    prevVisit: store.get('lastVisit', null), loadedAt: 0
+  };
+  var $ = function (id) { return document.getElementById(id); };
 
-                for (const [sector, items] of Object.entries(data.sectors)) {
-                    sectorIndex++;
-                    const card = document.createElement('div');
-                    card.className = 'sector-card';
-                    card.innerHTML = `<h3>${sector}</h3>`;
-                    
-                    const list = document.createElement('div');
-                    const topItems = items.slice(0, 2);
-                    const remainingItems = items.slice(2);
+  // ---------- data normalisation (also upgrades the old v1 data.json) ----------
+  function simpleId(s) { var x = 5381; for (var i = 0; i < s.length; i++) x = ((x << 5) + x + s.charCodeAt(i)) | 0; return 'v1' + (x >>> 0).toString(16); }
+  function normalise(raw) {
+    var d = raw || {};
+    var generated = d.generated_at || (d.last_updated ? d.last_updated.replace(' UTC', ':00Z').replace(' ', 'T') : null);
+    d.generated_at = generated;
+    d.sectors = d.sectors || {};
+    var byId = {};
+    Object.keys(d.sectors).forEach(function (sector) {
+      d.sectors[sector] = (d.sectors[sector] || []).map(function (it) {
+        var title = decode(it.title).replace(/^[\u{1F4C4}\u{1F399}\u{1F3A5}️\s]+/u, '');
+        var type = it.type || (/^\u{1F399}/u.test(it.title || '') ? 'podcast' : 'news');
+        var host = ''; try { host = new URL(it.link).hostname.replace(/^www\./, ''); } catch (e) {}
+        var summary = decode(it.summary).trim();
+        if (/^\.{3}$|^…$/.test(summary)) summary = '';
+        var out = {
+          id: it.id || simpleId(String(it.link || title)), title: title, summary: summary, why_it_matters: decode(it.why_it_matters),
+          link: it.link, source: it.source || host, type: type, sector: it.sector || sector, published: it.published || null,
+          first_seen: it.first_seen || generated, importance: it.importance, score: it.score || 0, related: it.related || []
+        };
+        byId[out.id] = byId[out.id] || out;
+        return out;
+      });
+    });
+    if (!Array.isArray(d.top_stories) || !d.top_stories.length) {
+      d.top_stories = Object.keys(d.sectors).map(function (s) { return d.sectors[s][0]; }).filter(Boolean).slice(0, 5);
+    } else {
+      // Reuse the normalised sector copy of each top story; otherwise clean the stored one the same way.
+      d.top_stories = d.top_stories.map(function (t) {
+        return byId[t.id] || Object.assign({}, t, { title: decode(t.title), summary: decode(t.summary), why_it_matters: decode(t.why_it_matters), related: t.related || [], score: t.score || 0 });
+      });
+    }
+    d.emerging = d.emerging || [];
+    d.stock_watch = d.stock_watch || [];
+    d.notices = d.notices || [];
+    d.priority_sectors = d.priority_sectors || [];
+    if (typeof d.weekly_recap === 'string') d.weekly_recap = { text: d.weekly_recap, themes: [] };
+    d.byId = byId;
+    return d;
+  }
 
-                    topItems.forEach(item => {
-                        list.appendChild(createItemElement(item));
-                    });
+  function allItems() {
+    var seen = {}, out = [];
+    Object.keys(S.data.sectors).forEach(function (sec) {
+      S.data.sectors[sec].forEach(function (it) { if (!seen[it.id]) { seen[it.id] = 1; out.push(it); } });
+    });
+    return out;
+  }
+  function isNew(it) {
+    if (S.date || !S.prevVisit) return false;
+    var t = ts(it.first_seen);
+    return t != null && t > S.prevVisit;
+  }
+  function pinnedSet() {
+    var list = S.pinned || S.data.priority_sectors || [];
+    var o = {}; list.forEach(function (s) { o[s] = 1; }); return o;
+  }
+  function sectorIndex(sector) { return Object.keys(S.data.sectors).indexOf(sector); }
+  function sectorStyle(sector) { var i = sectorIndex(sector); return i < 0 ? '' : '--sector:var(--c' + (i % 16) + ')'; }
+  function matches(it, q) {
+    var hay = (it.title + ' ' + it.summary + ' ' + it.why_it_matters + ' ' + it.source + ' ' + it.sector).toLowerCase();
+    return q.toLowerCase().split(/\s+/).filter(Boolean).every(function (w) { return hay.indexOf(w) !== -1; });
+  }
 
-                    if (remainingItems.length > 0) {
-                        const extraContainer = document.createElement('div');
-                        extraContainer.id = `extra-${sectorIndex}`;
-                        extraContainer.className = 'hidden-items';
+  // ---------- components ----------
+  function saveButton(it) {
+    var btn = h('button', { class: 'save', type: 'button', 'aria-label': 'Save story', title: 'Save for later' });
+    function paint() { var on = !!S.saved[it.id]; btn.setAttribute('aria-pressed', on ? 'true' : 'false'); btn.textContent = on ? '★' : '☆'; btn.setAttribute('aria-label', on ? 'Remove from saved' : 'Save story'); }
+    btn.addEventListener('click', function () {
+      if (S.saved[it.id]) delete S.saved[it.id];
+      else S.saved[it.id] = { id: it.id, title: it.title, summary: it.summary, why_it_matters: it.why_it_matters, link: it.link, source: it.source, type: it.type, sector: it.sector, published: it.published, first_seen: it.first_seen, related: [], saved_at: Date.now() };
+      store.set('saved', S.saved); paint(); renderChips(); if (S.filter === '__saved') renderContent();
+    });
+    paint(); return btn;
+  }
+  function itemEl(it, opts) {
+    opts = opts || {};
+    var when = ts(it.published) || ts(it.first_seen);
+    var related = (it.related || []).filter(function (r) { return safeUrl(r.link); });
+    return h('article', { class: 'item', style: sectorStyle(it.sector) },
+      h('div', { class: 'meta' },
+        // Only label the unusual types; "news" is the default and would just add noise.
+        ['paper', 'podcast', 'community'].indexOf(it.type) > -1 ? h('span', { class: 'badge ' + it.type, text: it.type === 'community' ? 'Buzz' : it.type }) : null,
+        opts.showSector ? h('span', { class: 'sector-tag', text: label(it.sector) }) : null,
+        h('span', { text: it.source }),
+        when ? h('time', { datetime: new Date(when).toISOString(), title: new Date(when).toLocaleString(), text: timeAgo(when) }) : null,
+        isNew(it) ? h('span', { class: 'badge new', text: 'New' }) : null),
+      h('h4', { class: 'title' }, ext(it.link, it.title)),
+      it.summary ? h('p', { class: 'summary', text: it.summary }) : null,
+      it.why_it_matters ? h('p', { class: 'why' }, h('b', { text: 'Why it matters: ' }), it.why_it_matters) : null,
+      h('div', { class: 'foot' },
+        related.length ? h('span', { class: 'also' }, 'Also covered by ', related.slice(0, 3).map(function (r, i) { return [i ? ', ' : '', ext(r.link, r.source || 'source')]; })) : null,
+        saveButton(it)));
+  }
+  function itemList(items, opts) { return h('div', { class: 'items' }, items.map(function (it) { return itemEl(it, opts); })); }
+  function section(title, sub, body, id) {
+    return h('section', { id: id }, h('h2', null, title, sub ? h('span', { class: 'sub', text: sub }) : null), body);
+  }
+  function emptyMsg(text) { return h('p', { class: 'empty', text: text }); }
 
-                        remainingItems.forEach(item => {
-                            extraContainer.appendChild(createItemElement(item));
-                        });
+  // ---------- views ----------
+  function topSection() {
+    var top = S.data.top_stories;
+    if (!top.length) return null;
+    return section('Top stories', 'ranked by importance, freshness and how many sources cover them',
+      h('div', { class: 'top-grid' }, top.map(function (it, i) {
+        return h('div', { class: 'top-card', style: sectorStyle(it.sector) }, h('span', { class: 'rank', 'aria-hidden': 'true', text: i + 1 }), itemEl(it, { showSector: true }));
+      })), 'top');
+  }
+  function emergingSection() {
+    var e = S.data.emerging;
+    if (!e.length) return null;
+    return section('Emerging now', 'topics appearing across several independent sources',
+      h('div', { class: 'terms' }, e.map(function (t) {
+        return h('button', { class: 'term', type: 'button', title: 'Search for this topic', onclick: function () { setQuery(t.term); } }, cap(t.term), h('small', { text: t.sources + ' sources' }));
+      })), 'emerging');
+  }
+  function stocksSection() {
+    var s = S.data.stock_watch;
+    if (!s.length) return null;
+    var made = ts(S.data.stock_watch_generated_at);
+    var stale = made && (Date.now() - made) > 36 * 3600 * 1000;
+    return h('section', null, h('details', { class: 'panel', open: true },
+      h('summary', null, 'Sector stock impact radar', made ? h('span', { class: 'sub', text: (stale ? 'stale · ' : '') + 'generated ' + timeAgo(made) }) : null),
+      h('div', { class: 'stocks' }, s.map(function (x) {
+        return h('div', { class: 'stock' }, h('span', { class: 'ticker', text: x.ticker }), h('span', { class: 'co', text: x.company }), h('p', { text: x.impact_blurb }));
+      })),
+      h('p', { class: 'disclaimer', text: 'AI-generated speculation about how news could affect companies. It is not investment advice and can be wrong.' })));
+  }
+  function recapSection() {
+    var r = S.data.weekly_recap;
+    if (!r || !r.text) return null;
+    var made = ts(r.generated_at);
+    var fresh = !made || (Date.now() - made) < 2 * 86400 * 1000;
+    return h('section', null, h('details', { class: 'panel', open: fresh },
+      h('summary', null, 'Weekly executive recap', r.week_ending ? h('span', { class: 'sub', text: 'week ending ' + r.week_ending }) : null),
+      h('p', { class: 'recap-text', text: r.text }),
+      (r.themes && r.themes.length) ? h('div', { class: 'themes' }, r.themes.map(function (t) { return h('button', { class: 'term', type: 'button', onclick: function () { setQuery(t); }, text: t }); })) : null));
+  }
+  function sectorCard(sector, items, pinned) {
+    var limit = pinned ? 5 : 3;
+    var open = !!S.expanded[sector];
+    var shown = open ? items : items.slice(0, limit);
+    var health = (S.data.health && S.data.health.feeds || []).filter(function (f) { return f.sector === sector && f.status === 'error'; });
+    var card = h('div', { class: 'card' + (pinned ? ' pinned' : ''), style: sectorStyle(sector) },
+      h('h3', null,
+        h('button', { class: 'name', type: 'button', title: 'Show only ' + label(sector), onclick: function () { setFilter(sector); }, text: label(sector) }),
+        h('span', { class: 'n', text: items.length ? String(items.length) : '' }),
+        h('button', { class: 'pin', type: 'button', 'aria-pressed': pinned ? 'true' : 'false', title: pinned ? 'Unpin sector' : 'Pin sector (moves first, shows more)', 'aria-label': (pinned ? 'Unpin ' : 'Pin ') + label(sector),
+          onclick: function () { var p = pinnedSet(); if (p[sector]) delete p[sector]; else p[sector] = 1; S.pinned = Object.keys(p); store.set('pinned', S.pinned); renderContent(); }, text: '📌' })),
+      items.length ? itemList(shown) : emptyMsg(health.length ? 'Source problem: ' + health.map(function (f) { return f.source; }).join(', ') + ' (see Feed status below).' : 'No recent items.'));
+    if (items.length > limit) {
+      card.appendChild(h('button', { class: 'more', type: 'button', 'aria-expanded': open ? 'true' : 'false', text: open ? 'Show less' : 'Show ' + (items.length - limit) + ' more',
+        onclick: function () { S.expanded[sector] = !open; renderContent(); } }));
+    }
+    return card;
+  }
+  function sectorsSection() {
+    var p = pinnedSet();
+    var all = Object.keys(S.data.sectors);
+    var names = all.filter(function (n) { return S.data.sectors[n].length; });
+    var empty = all.filter(function (n) { return !S.data.sectors[n].length; });
+    names.sort(function (a, b) { return (p[b] ? 1 : 0) - (p[a] ? 1 : 0) || all.indexOf(a) - all.indexOf(b); });
+    var failing = {};
+    ((S.data.health && S.data.health.feeds) || []).forEach(function (f) { if (f.status === 'error') failing[f.sector] = 1; });
+    var body = [h('div', { class: 'grid' }, names.map(function (n) { return sectorCard(n, S.data.sectors[n], !!p[n]); }))];
+    if (empty.length) {
+      body.push(h('p', { class: 'empty empty-sectors' }, 'No recent items: ',
+        empty.map(function (n, i) { return [i ? ', ' : '', label(n) + (failing[n] ? ' (source problem)' : '')]; }),
+        '. ', h('a', { href: '#health', text: 'See feed status' }), '.'));
+    }
+    return section('Sector intelligence', 'pinned sectors come first and show more stories', body, 'sectors');
+  }
+  function backLink() { return h('button', { class: 'btn', type: 'button', onclick: function () { S.query = ''; $('search').value = ''; setFilter('all'); }, text: '← All sectors' }); }
 
-                        const toggleBtn = document.createElement('button');
-                        toggleBtn.className = 'toggle-btn';
-                        toggleBtn.innerText = `Show More (${remainingItems.length})`;
-                        toggleBtn.onclick = () => toggleItems(extraContainer.id, toggleBtn, remainingItems.length);
+  function renderContent() {
+    var root = $('content'); root.textContent = '';
+    if (!S.data) return;
+    var q = S.query.trim();
+    if (q) {
+      var found = allItems().filter(function (it) { return matches(it, q); }).sort(function (a, b) { return b.score - a.score; });
+      root.appendChild(section('Results', found.length + ' for “' + q + '”', found.length ? h('div', { class: 'panel' }, itemList(found, { showSector: true })) : emptyMsg('Nothing matches that search in the current data.')));
+      return;
+    }
+    if (S.filter === '__saved') {
+      var saved = Object.keys(S.saved).map(function (k) { return S.saved[k]; }).sort(function (a, b) { return b.saved_at - a.saved_at; });
+      root.appendChild(section('Saved stories', 'stored in this browser only', saved.length ? h('div', { class: 'panel' }, itemList(saved, { showSector: true })) : emptyMsg('Nothing saved yet. Tap ☆ on a story to keep it here.')));
+      return;
+    }
+    if (S.filter === '__new') {
+      var fresh = allItems().filter(isNew).sort(function (a, b) { return b.score - a.score; });
+      root.appendChild(section('New since your last visit', fresh.length + ' stories', fresh.length ? h('div', { class: 'panel' }, itemList(fresh, { showSector: true })) : emptyMsg('Nothing new since your last visit.')));
+      return;
+    }
+    if (S.filter !== 'all' && S.data.sectors[S.filter]) {
+      var items = S.data.sectors[S.filter];
+      root.appendChild(h('div', { style: 'margin-bottom:12px' }, backLink()));
+      root.appendChild(section(label(S.filter), items.length + ' stories', items.length ? h('div', { class: 'panel', style: sectorStyle(S.filter) }, itemList(items)) : emptyMsg('No recent items.')));
+      return;
+    }
+    [topSection(), emergingSection(), stocksSection(), recapSection(), sectorsSection()].forEach(function (n) { if (n) root.appendChild(n); });
+  }
 
-                        list.appendChild(extraContainer);
-                        list.appendChild(toggleBtn);
-                    }
-                    
-                    card.appendChild(list);
-                    grid.appendChild(card);
-                }
-            })
-            .catch(err => console.error('Data load error:', err));
+  function renderChips() {
+    var nav = $('chips'); nav.textContent = '';
+    function chip(key, text, count, sector) {
+      var on = S.filter === key && !S.query.trim();
+      nav.appendChild(h('button', { class: 'chip', type: 'button', 'aria-pressed': on ? 'true' : 'false', style: sector ? sectorStyle(sector) : null, onclick: function () { setFilter(key); } },
+        sector ? h('span', { class: 'dot' }) : null, text, count != null ? h('span', { class: 'count', text: String(count) }) : null));
+    }
+    chip('all', 'All');
+    var newCount = allItems().filter(isNew).length;
+    if (newCount) chip('__new', 'New', newCount);
+    var savedCount = Object.keys(S.saved).length;
+    if (savedCount) chip('__saved', '★ Saved', savedCount);
+    if (S.data) Object.keys(S.data.sectors).forEach(function (s) { chip(s, label(s), S.data.sectors[s].length, s); });
+  }
 
-        function createItemElement(item) {
-            const itemBox = document.createElement('div');
-            itemBox.className = 'item';
-            itemBox.innerHTML = `
-                <span class="item-title">${item.title}</span>
-                <p class="item-summary">${item.summary}</p>
-                <a href="${item.link}" target="_blank" rel="noopener">🔗 Follow-up Link →</a>
-            `;
-            return itemBox;
-        }
+  function renderStatus() {
+    var d = S.data, el = $('status');
+    if (!d) return;
+    var gen = ts(d.generated_at);
+    var parts = [];
+    parts.push(S.date ? 'Archive for ' + S.date : (gen ? 'Updated ' + timeAgo(gen) : 'Updated ' + (d.last_updated || 'recently')));
+    var n = allItems().filter(isNew).length;
+    if (n) parts.push(n + ' new since your last visit (' + timeAgo(S.prevVisit) + ')');
+    el.textContent = parts.join(' · ');
+  }
 
-        function toggleItems(containerId, btn, count) {
-            const container = document.getElementById(containerId);
-            if (container.style.display === 'block') {
-                container.style.display = 'none';
-                btn.innerText = `Show More (${count})`;
-            } else {
-                container.style.display = 'block';
-                btn.innerText = 'Show Less';
-            }
-        }
-    </script>
+  function renderNotices() {
+    var box = $('notices'); box.textContent = '';
+    var d = S.data; if (!d) return;
+    if (S.date) box.appendChild(h('div', { class: 'notice info' }, 'You are viewing the archived snapshot for ' + S.date + '. ', h('a', { href: '#', onclick: function (e) { e.preventDefault(); loadDate(null); }, text: 'Back to latest' })));
+    var gen = ts(d.generated_at);
+    if (!S.date && gen && (Date.now() - gen) > 12 * 3600 * 1000) box.appendChild(h('div', { class: 'notice' }, 'This data is about ' + Math.round((Date.now() - gen) / 3600000) + ' hours old. The scheduled update may be failing; check the Actions tab of the repository.'));
+    d.notices.forEach(function (t) { box.appendChild(h('div', { class: 'notice', text: t })); });
+  }
+
+  function renderHealth() {
+    var box = $('health'); box.textContent = '';
+    var hd = S.data && S.data.health;
+    if (!hd || !hd.feeds || !hd.feeds.length) return;
+    var feeds = hd.feeds.slice().sort(function (a, b) { return (a.status === 'ok') - (b.status === 'ok'); });
+    var ok = feeds.filter(function (f) { return f.status === 'ok'; }).length;
+    var ai = hd.ai || {};
+    box.appendChild(h('details', { class: 'panel' },
+      h('summary', null, 'Feed status', h('span', { class: 'sub', text: ok + ' of ' + feeds.length + ' feeds healthy' + (ai.model ? ' · ' + (ai.available ? 'AI: ' + ai.model : 'AI unavailable') : '') })),
+      h('div', { style: 'margin-top:10px' }, feeds.map(function (f) {
+        return h('div', { class: 'health-row' },
+          h('span', { class: f.status === 'ok' ? 'ok' : (f.status === 'empty' ? 'meh' : 'bad'), text: f.status === 'ok' ? '● ok' : '● ' + f.status }),
+          h('span', { text: label(f.sector) + ' · ' + f.source }),
+          h('span', { class: 'sub', style: 'color:var(--muted)', text: f.error ? f.error : (f.entries + ' entries') }));
+      })),
+      (ai.errors && ai.errors.length) ? h('p', { class: 'disclaimer', text: 'AI errors: ' + ai.errors.join(' | ') }) : null));
+  }
+
+  function renderAll() { renderStatus(); renderNotices(); renderChips(); renderContent(); renderHealth(); }
+
+  // ---------- controls ----------
+  function setFilter(key) { S.filter = key; S.query = ''; $('search').value = ''; renderChips(); renderContent(); window.scrollTo({ top: 0 }); }
+  function setQuery(q) { S.query = q; $('search').value = q; renderChips(); renderContent(); window.scrollTo({ top: 0 }); }
+  function applyView() { document.body.classList.toggle('view-list', S.view === 'list'); var b = $('view'); b.setAttribute('aria-pressed', S.view === 'list' ? 'true' : 'false'); b.textContent = S.view === 'list' ? 'Cards' : 'List'; }
+  function applyTheme() { document.documentElement.dataset.theme = S.theme; $('theme').textContent = S.theme === 'auto' ? 'Auto' : (S.theme === 'dark' ? 'Dark' : 'Light'); }
+  function toast(text) { var t = h('div', { class: 'toast', role: 'status', text: text }); document.body.appendChild(t); setTimeout(function () { t.remove(); }, 3500); }
+
+  var timer;
+  $('search').addEventListener('input', function (e) { clearTimeout(timer); var v = e.target.value; timer = setTimeout(function () { S.query = v; renderChips(); renderContent(); }, 120); });
+  $('view').addEventListener('click', function () { S.view = S.view === 'list' ? 'cards' : 'list'; store.set('view', S.view); applyView(); });
+  $('theme').addEventListener('click', function () { S.theme = { auto: 'light', light: 'dark', dark: 'auto' }[S.theme] || 'auto'; store.set('theme', S.theme); applyTheme(); });
+  document.addEventListener('keydown', function (e) {
+    if (e.key === '/' && !/INPUT|SELECT|TEXTAREA/.test(document.activeElement.tagName)) { e.preventDefault(); $('search').focus(); }
+    if (e.key === 'Escape' && document.activeElement === $('search')) { $('search').value = ''; S.query = ''; $('search').blur(); renderChips(); renderContent(); }
+  });
+  function markVisit() { if (!S.date && S.data) store.set('lastVisit', Date.now()); }
+  document.addEventListener('visibilitychange', function () { if (document.visibilityState === 'hidden') markVisit(); else maybeRefresh(); });
+  window.addEventListener('pagehide', markVisit);
+
+  // ---------- loading ----------
+  function getJson(url) { return fetch(url, { cache: 'no-cache' }).then(function (r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); }); }
+  function loadDate(date) {
+    S.date = date;
+    var url = date ? 'archive/' + encodeURIComponent(date) + '.json' : 'data.json';
+    try { history.replaceState(null, '', date ? '?date=' + encodeURIComponent(date) : location.pathname); } catch (e) {}
+    $('archive').value = date || '';
+    return getJson(url).then(function (raw) { S.data = normalise(raw); S.loadedAt = Date.now(); renderAll(); })
+      .catch(function (err) {
+        $('status').textContent = 'Could not load data';
+        $('content').textContent = '';
+        $('content').appendChild(h('div', { class: 'notice' }, 'Could not load ' + url + ' (' + err.message + '). ', h('a', { href: '#', onclick: function (e) { e.preventDefault(); loadDate(date); }, text: 'Try again' })));
+      });
+  }
+  function maybeRefresh() {
+    if (S.date || !S.data || Date.now() - S.loadedAt < 10 * 60 * 1000) return;
+    getJson('data.json').then(function (raw) {
+      S.loadedAt = Date.now();
+      if (raw.generated_at && raw.generated_at !== S.data.generated_at) { S.data = normalise(raw); renderAll(); toast('Dashboard updated'); }
+    }).catch(function () {});
+  }
+  setInterval(function () { if (document.visibilityState === 'visible') maybeRefresh(); }, 60 * 1000);
+
+  function loadArchiveIndex() {
+    getJson('archive/index.json').then(function (idx) {
+      var dates = (idx.dates || []).filter(function (d) { return /^\d{4}-\d{2}-\d{2}$/.test(d); });
+      if (!dates.length) return;
+      var sel = $('archive'); sel.textContent = '';
+      sel.appendChild(h('option', { value: '', text: 'Latest' }));
+      dates.forEach(function (d) { sel.appendChild(h('option', { value: d, text: d })); });
+      sel.hidden = false;
+      sel.value = S.date || '';
+      sel.addEventListener('change', function () { loadDate(sel.value || null); });
+    }).catch(function () {});
+  }
+
+  applyTheme(); applyView();
+  var param = new URLSearchParams(location.search).get('date');
+  loadDate(param && /^\d{4}-\d{2}-\d{2}$/.test(param) ? param : null).then(loadArchiveIndex);
+})();
+</script>
 </body>
 </html>
