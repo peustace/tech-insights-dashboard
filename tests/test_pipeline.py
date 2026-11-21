@@ -1,4 +1,4 @@
-"""End-to-end pipeline test with a fake feedparser and a fake Gemini client (no network)."""
+"""End-to-end pipeline test with a fake feedparser and a fake Claude client (no network)."""
 import json
 import os
 import sys
@@ -53,26 +53,26 @@ def fake_parse(url, agent=None):
     return FEEDS.get(url, FakeParsed())  # unknown feeds are "empty"
 
 
-class FakeGemini:
+class FakeLLM:
     available = True
     model = "fake"
     errors = []
     calls = 0
 
-    def __init__(self, enabled=True):
+    def __init__(self, enabled=True, client=None):
         pass
 
-    def generate_json(self, prompt, attempts=3):
-        FakeGemini.calls += 1
-        if "ITEMS:" in prompt:
-            items = json.loads(prompt.split("ITEMS:\n", 1)[1])
+    def generate_json(self, system, user, max_tokens=4096):
+        FakeLLM.calls += 1
+        if user.startswith("ITEMS:"):
+            items = json.loads(user.split("ITEMS:\n", 1)[1])
             return json.dumps([
                 {"id": i["id"], "summary": f"Summary of {i['title'][:40]} with detail.", "why_it_matters": "Matters a lot.", "importance": 7}
                 for i in items
             ])
-        if "DEVELOPMENTS:" in prompt:
+        if user.startswith("DEVELOPMENTS:"):
             return json.dumps([{"ticker": "NVDA", "company": "NVIDIA", "impact_blurb": "Could gain."}])
-        if "STORIES:" in prompt:
+        if user.startswith("STORIES:"):
             return json.dumps({"text": "This week the Rubin platform dominated coverage across several outlets.", "themes": ["Chips"]})
         return None
 
@@ -80,14 +80,14 @@ class FakeGemini:
 class PipelineTest(unittest.TestCase):
     def setUp(self):
         self.tmp = Path(tempfile.mkdtemp())
-        FakeGemini.calls = 0
+        FakeLLM.calls = 0
         patches = [
             mock.patch.object(fd, "DATA_FILE", self.tmp / "data.json"),
             mock.patch.object(fd, "STATE_FILE", self.tmp / "state" / "items.json"),
             mock.patch.object(fd, "ARCHIVE_DIR", self.tmp / "archive"),
             mock.patch.dict(os.environ, {"PIPELINE_NOW": NOW_ISO}),
             mock.patch.dict(sys.modules, {"feedparser": types.SimpleNamespace(parse=fake_parse)}),
-            mock.patch.object(fd, "Gemini", FakeGemini),
+            mock.patch.object(fd, "LLM", FakeLLM),
         ]
         for p in patches:
             p.start()
@@ -121,6 +121,23 @@ class PipelineTest(unittest.TestCase):
         self.assertTrue((self.tmp / "state" / "items.json").exists())
         self.assertEqual(json.loads((self.tmp / "archive" / "index.json").read_text())["dates"], ["2026-11-22"])
 
+    def test_switching_provider_resets_exhausted_ai_attempts(self):
+        class Off(FakeLLM):
+            available = False
+            errors = ["ANTHROPIC_API_KEY is not set"]
+
+        with mock.patch.object(fd, "LLM", Off):
+            self.run_it()  # builds state with feed-text summaries only
+        state_path = self.tmp / "state" / "items.json"
+        state = json.loads(state_path.read_text())
+        state.pop("provider", None)  # as left behind by the old provider
+        for item in state["items"].values():
+            item["ai_attempts"] = fd.MAX_AI_ATTEMPTS  # exhausted by earlier failures
+        state_path.write_text(json.dumps(state))
+        data = self.run_it()  # Claude available now
+        self.assertTrue(all(i["summary_source"] == "ai" for i in data["sectors"]["AI"]))
+        self.assertEqual(json.loads(state_path.read_text())["provider"], fd.PROVIDER)
+
     def test_emerging_waits_for_history_then_appears(self):
         self.assertEqual(self.run_it()["emerging"], [])  # no archive yet
         # Three earlier days of unrelated snapshots provide a baseline.
@@ -131,17 +148,17 @@ class PipelineTest(unittest.TestCase):
 
     def test_second_run_does_not_resummarise(self):
         self.run_it()
-        first_calls = FakeGemini.calls
+        first_calls = FakeLLM.calls
         self.run_it()
         # Only stock/recap may call again (and they are throttled); item summaries must not.
-        self.assertLessEqual(FakeGemini.calls - first_calls, 0)
+        self.assertLessEqual(FakeLLM.calls - first_calls, 0)
 
     def test_no_ai_falls_back_to_feed_text_and_never_ellipsis(self):
-        class Off(FakeGemini):
+        class Off(FakeLLM):
             available = False
-            errors = ["GEMINI_API_KEY is not set"]
+            errors = ["ANTHROPIC_API_KEY is not set"]
 
-        with mock.patch.object(fd, "Gemini", Off):
+        with mock.patch.object(fd, "LLM", Off):
             data = self.run_it()
         for items in data["sectors"].values():
             for item in items:

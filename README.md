@@ -1,7 +1,7 @@
 # Tech Insights Dashboard
 
 A static dashboard for keeping up with fast-moving technology news. A scheduled GitHub Action reads
-RSS feeds, asks Gemini for short summaries, ranks and de-duplicates the stories, and commits the result
+RSS feeds, asks Claude (through the Anthropic API) for short summaries, ranks and de-duplicates the stories, and commits the result
 as `data.json`. `index.html` renders it; there is no server and no build step.
 
 ## What you get
@@ -36,9 +36,11 @@ If every feed fails, the run exits with an error and leaves the previous `data.j
 ## Setup
 
 1. **Secrets** (Settings → Secrets and variables → Actions → *Secrets*):
-   - `GEMINI_API_KEY` (required for AI summaries, stock radar and recap; without it the page falls back to feed text)
+   - `ANTHROPIC_API_KEY` (required for AI summaries, stock radar and recap; without it the page falls back to feed text).
+     Create a key in the [Claude Console](https://platform.claude.com); API usage is billed separately from claude.ai plans.
+     You can delete the old `GEMINI_API_KEY` secret.
    - Optional digest: `SLACK_WEBHOOK_URL`, or `SMTP_HOST`, `SMTP_PORT`, `SMTP_USER`, `SMTP_PASS`, `DIGEST_TO`, `DIGEST_FROM`
-2. **Variables** (same page → *Variables*, all optional): `GEMINI_MODEL` (default `gemini-2.5-flash`),
+2. **Variables** (same page → *Variables*, all optional): `CLAUDE_MODEL` (default `claude-haiku-5-5`, the fast and inexpensive tier; try `claude-sonnet-5-5` for richer notes),
    `SITE_URL` (link included in digests).
 3. **Workflow permissions:** the workflow requests `contents: write` itself. If your organisation restricts the
    default token, allow read and write permissions under Settings → Actions → General.
@@ -55,7 +57,7 @@ Feed URLs are not checked at build time; the *Feed status* panel shows any that 
 
 ```bash
 pip install -r requirements.txt
-GEMINI_API_KEY=your-key python fetch_data.py          # add --dry-run to avoid writing files, --no-ai to skip Gemini
+ANTHROPIC_API_KEY=your-key python fetch_data.py       # add --dry-run to avoid writing files, --no-ai to skip Claude
 python -m http.server 8000                              # then open http://localhost:8000
 python digest.py --dry-run                              # preview the digest
 python -m unittest discover -s tests -t .               # tests need no network or API key

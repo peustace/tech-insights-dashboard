@@ -3,7 +3,7 @@
 Everything here is deterministic and unit-tested (see tests/test_insights.py):
 text cleaning, link sanitising, de-duplication, ranking, top-story selection,
 emerging-term detection, weekly-recap triggering and validation of model output.
-Network and Gemini calls live in fetch_data.py.
+Network and Claude calls live in fetch_data.py.
 """
 import copy
 import hashlib
