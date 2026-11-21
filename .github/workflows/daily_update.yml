@@ -41,8 +41,8 @@ jobs:
 
       - name: Fetch, summarise and rank
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}        # optional repository variable
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}        # optional repository variable (default claude-haiku-5-5)
           FORCE_WEEKLY: ${{ inputs.force_weekly && '1' || '' }}
         run: python fetch_data.py
 
