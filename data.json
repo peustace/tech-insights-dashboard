@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "generated_at": "2026-11-22T06:45:14Z",
-  "last_updated": "2026-11-22 06:45 UTC",
+  "generated_at": "2026-11-22T10:35:22Z",
+  "last_updated": "2026-11-22 10:35 UTC",
   "is_sunday_edition": true,
   "priority_sectors": [
     "AI",
@@ -10,7 +10,7 @@
   ],
   "notices": [
     "AI summaries are unavailable this run; showing feed text instead.",
-    "8 feed(s) returned no items; see Feed status at the bottom of the page."
+    "7 feed(s) returned no items; see Feed status at the bottom of the page."
   ],
   "top_stories": [
     {
@@ -25,7 +25,7 @@
       "published": "2026-11-22T06:30:00Z",
       "first_seen": "2026-11-22T06:45:14Z",
       "importance": null,
-      "score": 3.98,
+      "score": 3.697,
       "summary_source": "feed",
       "related": []
     },
@@ -41,7 +41,7 @@
       "published": "2026-11-22T06:27:00Z",
       "first_seen": "2026-11-22T06:45:14Z",
       "importance": null,
-      "score": 3.977,
+      "score": 3.694,
       "summary_source": "feed",
       "related": []
     },
@@ -57,7 +57,23 @@
       "published": "2026-11-22T04:49:26Z",
       "first_seen": "2026-11-22T06:45:14Z",
       "importance": null,
-      "score": 3.854,
+      "score": 3.58,
+      "summary_source": "feed",
+      "related": []
+    },
+    {
+      "id": "a3b87572c678",
+      "title": "Current and former officials from the US and other countries describe the Chinese spy agency MSS' campaign to help Chinese companies acquire advanced AI chips (New York Times)",
+      "summary": "New York Times : Current and former officials from the US and other countries describe the Chinese spy agency MSS' campaign to help Chinese companies acquire advanced AI chips — China's espionage agency has been running a secret campaign to help the country's companies acquire…",
+      "why_it_matters": "",
+      "link": "https://www.techmeme.com/261122/p5",
+      "source": "Techmeme",
+      "type": "community",
+      "sector": "Breaking",
+      "published": "2026-11-22T07:00:41Z",
+      "first_seen": "2026-11-22T10:35:22Z",
+      "importance": null,
+      "score": 3.36,
       "summary_source": "feed",
       "related": []
     },
@@ -73,23 +89,7 @@
       "published": "2026-11-22T06:40:16Z",
       "first_seen": "2026-11-22T06:45:14Z",
       "importance": null,
-      "score": 3.594,
-      "summary_source": "feed",
-      "related": []
-    },
-    {
-      "id": "99f5a48a6699",
-      "title": "A joint statement by the Lean and Mathlib communities says \"we have full confidence that Alpöge's proof of the Riemann Hypothesis is correct\" (Lean community blog)",
-      "summary": "Lean community blog : A joint statement by the Lean and Mathlib communities says “we have full confidence that Alpöge's proof of the Riemann Hypothesis is correct” — Joint statement by the Lean and Mathlib communities, endorsed by the Lean FRO and the Mathlib Initiative.",
-      "why_it_matters": "",
-      "link": "https://www.techmeme.com/261122/p3",
-      "source": "Techmeme",
-      "type": "community",
-      "sector": "Breaking",
-      "published": "2026-11-22T06:00:02Z",
-      "first_seen": "2026-11-22T06:45:14Z",
-      "importance": null,
-      "score": 3.548,
+      "score": 3.338,
       "summary_source": "feed",
       "related": []
     }
@@ -108,7 +108,7 @@
         "published": "2026-11-20T00:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.394,
+        "score": 1.295,
         "summary_source": "none",
         "related": []
       },
@@ -124,7 +124,7 @@
         "published": "2026-11-20T00:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.394,
+        "score": 1.295,
         "summary_source": "none",
         "related": []
       },
@@ -140,7 +140,7 @@
         "published": "2026-11-18T19:54:56Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.812,
+        "score": 0.754,
         "summary_source": "none",
         "related": []
       },
@@ -156,7 +156,23 @@
         "published": "2026-11-18T18:53:43Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.796,
+        "score": 0.739,
+        "summary_source": "none",
+        "related": []
+      },
+      {
+        "id": "ed6639f101be",
+        "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
+        "summary": "",
+        "why_it_matters": "",
+        "link": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
+        "source": "Import AI",
+        "type": "news",
+        "sector": "AI",
+        "published": "2026-11-16T14:01:15Z",
+        "first_seen": "2026-11-22T10:35:22Z",
+        "importance": null,
+        "score": 0.267,
         "summary_source": "none",
         "related": []
       }
@@ -174,7 +190,7 @@
         "published": "2026-11-20T22:23:32Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.145,
+        "score": 1.992,
         "summary_source": "feed",
         "related": []
       },
@@ -190,7 +206,7 @@
         "published": "2026-11-20T15:37:26Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.883,
+        "score": 1.749,
         "summary_source": "feed",
         "related": []
       },
@@ -206,7 +222,7 @@
         "published": "2026-11-20T09:43:53Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.681,
+        "score": 1.561,
         "summary_source": "feed",
         "related": []
       },
@@ -222,7 +238,7 @@
         "published": "2026-11-20T08:01:14Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.627,
+        "score": 1.511,
         "summary_source": "feed",
         "related": []
       },
@@ -238,7 +254,7 @@
         "published": "2026-11-20T07:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.595,
+        "score": 1.481,
         "summary_source": "feed",
         "related": []
       },
@@ -254,7 +270,7 @@
         "published": "2026-11-19T08:06:18Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.026,
+        "score": 0.953,
         "summary_source": "feed",
         "related": []
       },
@@ -270,7 +286,7 @@
         "published": "2026-11-19T08:05:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.026,
+        "score": 0.953,
         "summary_source": "feed",
         "related": []
       },
@@ -286,7 +302,7 @@
         "published": "2026-11-19T08:03:18Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.025,
+        "score": 0.952,
         "summary_source": "feed",
         "related": []
       }
@@ -304,7 +320,7 @@
         "published": "2026-11-21T08:14:48Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.593,
+        "score": 2.409,
         "summary_source": "feed",
         "related": []
       },
@@ -320,7 +336,7 @@
         "published": "2026-11-21T08:10:01Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.589,
+        "score": 2.405,
         "summary_source": "feed",
         "related": []
       },
@@ -336,7 +352,7 @@
         "published": "2026-11-21T08:00:26Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.581,
+        "score": 2.398,
         "summary_source": "feed",
         "related": []
       },
@@ -352,7 +368,7 @@
         "published": "2026-11-21T07:36:27Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.562,
+        "score": 2.379,
         "summary_source": "feed",
         "related": []
       }
@@ -370,7 +386,7 @@
         "published": "2026-11-21T22:59:58Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.445,
+        "score": 3.2,
         "summary_source": "feed",
         "related": []
       },
@@ -386,7 +402,7 @@
         "published": "2026-11-21T18:01:58Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.131,
+        "score": 2.908,
         "summary_source": "feed",
         "related": []
       },
@@ -402,7 +418,7 @@
         "published": "2026-11-21T15:17:27Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.97,
+        "score": 2.759,
         "summary_source": "feed",
         "related": []
       },
@@ -418,7 +434,7 @@
         "published": "2026-11-21T14:26:04Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.921,
+        "score": 2.713,
         "summary_source": "feed",
         "related": []
       },
@@ -434,7 +450,7 @@
         "published": "2026-11-21T00:36:39Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.239,
+        "score": 2.079,
         "summary_source": "feed",
         "related": []
       },
@@ -450,7 +466,7 @@
         "published": "2026-11-20T22:04:12Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.132,
+        "score": 1.98,
         "summary_source": "feed",
         "related": []
       },
@@ -466,7 +482,7 @@
         "published": "2026-11-20T12:04:46Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.759,
+        "score": 1.634,
         "summary_source": "feed",
         "related": []
       },
@@ -482,7 +498,7 @@
         "published": "2026-11-18T12:05:35Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.698,
+        "score": 0.648,
         "summary_source": "feed",
         "related": []
       }
@@ -500,7 +516,7 @@
         "published": "2026-11-19T17:25:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.228,
+        "score": 1.141,
         "summary_source": "feed",
         "related": []
       },
@@ -516,7 +532,7 @@
         "published": "2026-11-19T15:38:18Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.187,
+        "score": 1.102,
         "summary_source": "feed",
         "related": []
       },
@@ -532,7 +548,7 @@
         "published": "2026-11-18T22:02:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.845,
+        "score": 0.785,
         "summary_source": "feed",
         "related": []
       },
@@ -548,7 +564,7 @@
         "published": "2026-11-18T20:31:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.821,
+        "score": 0.763,
         "summary_source": "feed",
         "related": []
       }
@@ -566,7 +582,7 @@
         "published": "2026-11-22T04:49:26Z",
         "first_seen": "2026-11-22T06:45:14Z",
         "importance": null,
-        "score": 3.854,
+        "score": 3.58,
         "summary_source": "feed",
         "related": []
       },
@@ -582,7 +598,7 @@
         "published": "2026-11-21T21:34:39Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.352,
+        "score": 3.114,
         "summary_source": "feed",
         "related": []
       },
@@ -598,7 +614,7 @@
         "published": "2026-11-21T19:38:50Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.23,
+        "score": 3.0,
         "summary_source": "feed",
         "related": []
       },
@@ -614,7 +630,7 @@
         "published": "2026-11-21T16:49:13Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.059,
+        "score": 2.841,
         "summary_source": "feed",
         "related": []
       },
@@ -630,7 +646,7 @@
         "published": "2026-11-21T14:27:15Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.923,
+        "score": 2.714,
         "summary_source": "feed",
         "related": []
       },
@@ -646,7 +662,7 @@
         "published": "2026-11-20T11:03:46Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.725,
+        "score": 1.602,
         "summary_source": "feed",
         "related": []
       },
@@ -662,7 +678,7 @@
         "published": "2026-11-18T16:02:59Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.753,
+        "score": 0.7,
         "summary_source": "feed",
         "related": []
       },
@@ -678,7 +694,7 @@
         "published": "2026-11-16T11:04:27Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.272,
+        "score": 0.252,
         "summary_source": "none",
         "related": []
       }
@@ -696,7 +712,7 @@
         "published": "2026-11-20T12:53:38Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.787,
+        "score": 1.659,
         "summary_source": "feed",
         "related": []
       },
@@ -712,7 +728,7 @@
         "published": "2026-11-20T12:01:59Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.757,
+        "score": 1.632,
         "summary_source": "feed",
         "related": []
       },
@@ -728,7 +744,7 @@
         "published": "2026-11-20T11:55:25Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.754,
+        "score": 1.629,
         "summary_source": "feed",
         "related": []
       },
@@ -744,7 +760,7 @@
         "published": "2026-11-20T11:34:56Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.742,
+        "score": 1.618,
         "summary_source": "feed",
         "related": []
       },
@@ -760,7 +776,7 @@
         "published": "2026-11-17T05:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.384,
+        "score": 0.356,
         "summary_source": "feed",
         "related": []
       }
@@ -778,7 +794,7 @@
         "published": "2026-11-20T16:46:43Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.925,
+        "score": 1.788,
         "summary_source": "feed",
         "related": []
       },
@@ -794,7 +810,7 @@
         "published": "2026-11-20T16:24:06Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.911,
+        "score": 1.775,
         "summary_source": "feed",
         "related": []
       },
@@ -810,7 +826,7 @@
         "published": "2026-11-20T15:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.861,
+        "score": 1.728,
         "summary_source": "feed",
         "related": []
       },
@@ -826,7 +842,7 @@
         "published": "2026-11-19T15:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.172,
+        "score": 1.089,
         "summary_source": "feed",
         "related": []
       }
@@ -844,7 +860,7 @@
         "published": null,
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.479,
+        "score": 3.232,
         "summary_source": "feed",
         "related": []
       },
@@ -860,7 +876,7 @@
         "published": null,
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.479,
+        "score": 3.232,
         "summary_source": "feed",
         "related": []
       },
@@ -876,7 +892,7 @@
         "published": null,
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.479,
+        "score": 3.232,
         "summary_source": "feed",
         "related": []
       },
@@ -892,7 +908,7 @@
         "published": null,
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.479,
+        "score": 3.232,
         "summary_source": "feed",
         "related": []
       },
@@ -908,7 +924,7 @@
         "published": "2026-11-21T12:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.788,
+        "score": 2.589,
         "summary_source": "feed",
         "related": []
       },
@@ -924,7 +940,7 @@
         "published": "2026-11-21T09:30:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.657,
+        "score": 2.468,
         "summary_source": "feed",
         "related": []
       },
@@ -940,7 +956,7 @@
         "published": "2026-11-20T23:43:53Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.201,
+        "score": 2.044,
         "summary_source": "feed",
         "related": []
       },
@@ -956,7 +972,7 @@
         "published": "2026-11-20T21:19:27Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.101,
+        "score": 1.952,
         "summary_source": "feed",
         "related": []
       }
@@ -974,7 +990,7 @@
         "published": "2026-11-20T14:06:42Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.829,
+        "score": 1.699,
         "summary_source": "feed",
         "related": []
       },
@@ -990,7 +1006,7 @@
         "published": "2026-11-20T13:22:14Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.803,
+        "score": 1.675,
         "summary_source": "feed",
         "related": []
       },
@@ -1006,7 +1022,7 @@
         "published": "2026-11-20T13:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.79,
+        "score": 1.663,
         "summary_source": "feed",
         "related": []
       },
@@ -1022,7 +1038,7 @@
         "published": "2026-11-20T08:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.626,
+        "score": 1.51,
         "summary_source": "feed",
         "related": []
       }
@@ -1040,7 +1056,7 @@
         "published": "2026-11-21T22:25:35Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.407,
+        "score": 3.165,
         "summary_source": "feed",
         "related": []
       },
@@ -1056,7 +1072,7 @@
         "published": "2026-11-21T00:55:45Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.253,
+        "score": 2.092,
         "summary_source": "feed",
         "related": []
       },
@@ -1072,7 +1088,7 @@
         "published": "2026-11-20T17:30:03Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.952,
+        "score": 1.813,
         "summary_source": "feed",
         "related": []
       },
@@ -1088,7 +1104,7 @@
         "published": "2026-11-20T17:04:28Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.936,
+        "score": 1.799,
         "summary_source": "feed",
         "related": []
       },
@@ -1104,7 +1120,7 @@
         "published": "2026-11-20T03:06:28Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.48,
+        "score": 1.374,
         "summary_source": "feed",
         "related": []
       },
@@ -1120,7 +1136,7 @@
         "published": "2026-11-16T14:00:02Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.287,
+        "score": 0.267,
         "summary_source": "feed",
         "related": []
       },
@@ -1136,7 +1152,7 @@
         "published": "2026-11-16T10:00:01Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.266,
+        "score": 0.247,
         "summary_source": "feed",
         "related": []
       },
@@ -1152,7 +1168,7 @@
         "published": "2026-11-15T14:00:02Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.181,
+        "score": 0.168,
         "summary_source": "feed",
         "related": []
       }
@@ -1170,7 +1186,7 @@
         "published": "2026-11-20T21:52:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.124,
+        "score": 1.973,
         "summary_source": "feed",
         "related": []
       },
@@ -1186,7 +1202,7 @@
         "published": "2026-11-19T23:30:50Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.381,
+        "score": 1.283,
         "summary_source": "feed",
         "related": []
       },
@@ -1202,7 +1218,7 @@
         "published": "2026-11-18T19:52:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.811,
+        "score": 0.753,
         "summary_source": "feed",
         "related": []
       },
@@ -1218,7 +1234,7 @@
         "published": "2026-11-18T15:10:53Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.741,
+        "score": 0.688,
         "summary_source": "feed",
         "related": []
       }
@@ -1236,7 +1252,7 @@
         "published": "2026-11-20T20:15:54Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.059,
+        "score": 1.912,
         "summary_source": "feed",
         "related": []
       },
@@ -1252,7 +1268,7 @@
         "published": "2026-11-20T12:00:25Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.756,
+        "score": 1.631,
         "summary_source": "feed",
         "related": []
       },
@@ -1268,7 +1284,7 @@
         "published": "2026-11-20T12:00:01Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.756,
+        "score": 1.631,
         "summary_source": "feed",
         "related": []
       },
@@ -1284,7 +1300,7 @@
         "published": "2026-11-20T00:26:03Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.406,
+        "score": 1.305,
         "summary_source": "feed",
         "related": []
       },
@@ -1300,7 +1316,7 @@
         "published": "2026-11-19T12:00:45Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.107,
+        "score": 1.028,
         "summary_source": "feed",
         "related": []
       },
@@ -1316,7 +1332,7 @@
         "published": "2026-11-18T21:36:40Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.839,
+        "score": 0.779,
         "summary_source": "feed",
         "related": []
       },
@@ -1332,7 +1348,7 @@
         "published": "2026-11-18T19:29:41Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.805,
+        "score": 0.748,
         "summary_source": "feed",
         "related": []
       },
@@ -1348,7 +1364,7 @@
         "published": "2026-11-18T00:01:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.553,
+        "score": 0.514,
         "summary_source": "feed",
         "related": []
       }
@@ -1366,7 +1382,7 @@
         "published": "2026-11-22T06:30:00Z",
         "first_seen": "2026-11-22T06:45:14Z",
         "importance": null,
-        "score": 3.98,
+        "score": 3.697,
         "summary_source": "feed",
         "related": []
       },
@@ -1382,7 +1398,7 @@
         "published": "2026-11-22T06:27:00Z",
         "first_seen": "2026-11-22T06:45:14Z",
         "importance": null,
-        "score": 3.977,
+        "score": 3.694,
         "summary_source": "feed",
         "related": []
       },
@@ -1398,7 +1414,7 @@
         "published": "2026-11-21T14:30:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.925,
+        "score": 2.717,
         "summary_source": "feed",
         "related": []
       },
@@ -1414,7 +1430,7 @@
         "published": "2026-11-21T13:30:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.869,
+        "score": 2.665,
         "summary_source": "feed",
         "related": []
       },
@@ -1430,7 +1446,7 @@
         "published": "2026-11-21T09:44:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.669,
+        "score": 2.479,
         "summary_source": "feed",
         "related": []
       },
@@ -1446,7 +1462,7 @@
         "published": "2026-11-20T18:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.971,
+        "score": 1.831,
         "summary_source": "feed",
         "related": []
       },
@@ -1462,7 +1478,7 @@
         "published": "2026-11-20T17:18:38Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.945,
+        "score": 1.807,
         "summary_source": "feed",
         "related": []
       },
@@ -1478,12 +1494,28 @@
         "published": "2026-11-20T08:40:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.647,
+        "score": 1.53,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Breaking": [
+      {
+        "id": "a3b87572c678",
+        "title": "Current and former officials from the US and other countries describe the Chinese spy agency MSS' campaign to help Chinese companies acquire advanced AI chips (New York Times)",
+        "summary": "New York Times : Current and former officials from the US and other countries describe the Chinese spy agency MSS' campaign to help Chinese companies acquire advanced AI chips — China's espionage agency has been running a secret campaign to help the country's companies acquire…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261122/p5",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-22T07:00:41Z",
+        "first_seen": "2026-11-22T10:35:22Z",
+        "importance": null,
+        "score": 3.36,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "983f6e759354",
         "title": "Tesla rolls out FSD v15, featuring a photorealistic rendering of car surroundings; Elon Musk says it is real-time AI video generation without using game engines (Mike Pearl/Gizmodo)",
@@ -1496,7 +1528,7 @@
         "published": "2026-11-22T06:40:16Z",
         "first_seen": "2026-11-22T06:45:14Z",
         "importance": null,
-        "score": 3.594,
+        "score": 3.338,
         "summary_source": "feed",
         "related": []
       },
@@ -1512,7 +1544,7 @@
         "published": "2026-11-22T06:00:02Z",
         "first_seen": "2026-11-22T06:45:14Z",
         "importance": null,
-        "score": 3.548,
+        "score": 3.296,
         "summary_source": "feed",
         "related": []
       },
@@ -1528,7 +1560,7 @@
         "published": "2026-11-22T05:50:01Z",
         "first_seen": "2026-11-22T06:45:14Z",
         "importance": null,
-        "score": 3.537,
+        "score": 3.285,
         "summary_source": "feed",
         "related": []
       },
@@ -1544,7 +1576,7 @@
         "published": "2026-11-22T05:45:01Z",
         "first_seen": "2026-11-22T06:45:14Z",
         "importance": null,
-        "score": 3.531,
+        "score": 3.28,
         "summary_source": "feed",
         "related": []
       },
@@ -1560,8 +1592,24 @@
         "published": "2026-11-22T00:10:02Z",
         "first_seen": "2026-11-22T02:40:25Z",
         "importance": null,
-        "score": 3.171,
+        "score": 2.945,
         "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "7985fe39b9dc",
+        "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+        "summary": "",
+        "why_it_matters": "",
+        "link": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+        "source": "Hacker News",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-22T04:04:56Z",
+        "first_seen": "2026-11-22T10:35:22Z",
+        "importance": null,
+        "score": 2.823,
+        "summary_source": "none",
         "related": []
       },
       {
@@ -1576,39 +1624,7 @@
         "published": "2026-11-21T20:10:02Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.936,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "1d7e68992e84",
-        "title": "Investigation: Alice Huang had ties to gaming firms, alleged Prince Group figures and hundreds of shell companies in a network moving Nvidia chips to China (Financial Times)",
-        "summary": "Financial Times : Investigation: Alice Huang had ties to gaming firms, alleged Prince Group figures and hundreds of shell companies in a network moving Nvidia chips to China — Chinese executive in romantic relationship with former Nvidia CEO Jensen Huang had connections to the…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261121/p9",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-21T18:55:01Z",
-        "first_seen": "2026-11-21T23:30:38Z",
-        "importance": null,
-        "score": 2.866,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "01fbfb30d701",
-        "title": "Sources: Amazon is nearing a $7.5B deal to buy AI startup Decart; talks are at an advanced stage and a deal could come together as soon as next week (Financial Times)",
-        "summary": "Financial Times : Sources: Amazon is nearing a $7.5B deal to buy AI startup Decart; talks are at an advanced stage and a deal could come together as soon as next week — Acquisition would help AWS compete with Nvidia in race for computing power — Amazon is nearing a $7.5bn deal…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261121/p8",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-21T17:55:01Z",
-        "first_seen": "2026-11-21T23:30:38Z",
-        "importance": null,
-        "score": 2.812,
+        "score": 2.727,
         "summary_source": "feed",
         "related": []
       }
@@ -1632,9 +1648,9 @@
         "sector": "AI",
         "source": "Import AI",
         "url": "https://importai.substack.com/feed",
-        "status": "error",
-        "entries": 0,
-        "error": "HTTP 403"
+        "status": "ok",
+        "entries": 1,
+        "error": null
       },
       {
         "sector": "AI",
@@ -1768,9 +1784,9 @@
         "sector": "Biotech",
         "source": "Fierce Biotech",
         "url": "https://www.fiercebiotech.com/rss/xml",
-        "status": "ok",
-        "entries": 4,
-        "error": null
+        "status": "error",
+        "entries": 0,
+        "error": "HTTP 403"
       },
       {
         "sector": "Telecommunications",
@@ -1880,9 +1896,9 @@
         "sector": "Breaking",
         "source": "Hacker News",
         "url": "https://hnrss.org/frontpage?points=150",
-        "status": "error",
-        "entries": 0,
-        "error": "<urlopen error timed out>"
+        "status": "ok",
+        "entries": 6,
+        "error": null
       }
     ],
     "ai": {
