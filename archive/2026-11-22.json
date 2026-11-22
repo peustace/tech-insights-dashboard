@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "generated_at": "2026-11-22T02:40:25Z",
-  "last_updated": "2026-11-22 02:40 UTC",
+  "generated_at": "2026-11-22T06:45:14Z",
+  "last_updated": "2026-11-22 06:45 UTC",
   "is_sunday_edition": true,
   "priority_sectors": [
     "AI",
@@ -10,86 +10,86 @@
   ],
   "notices": [
     "AI summaries are unavailable this run; showing feed text instead.",
-    "7 feed(s) returned no items; see Feed status at the bottom of the page."
+    "8 feed(s) returned no items; see Feed status at the bottom of the page."
   ],
   "top_stories": [
     {
-      "id": "56cf0c2c4945",
-      "title": "Merck’s TROP2 ADC extends survival in pivotal gastroesophageal cancer trial",
-      "summary": "Merck & Co.’s sacituzumab tirumotecan has improved overall survival in a phase 3 cancer trial, delivering a second pivotal global victory for the TROP2-directed antibody-drug conjugate.",
+      "id": "68bfbd295176",
+      "title": "Google Announces Agent Compute Engine for Secure AI Agent Execution",
+      "summary": "Google recently announced Agent Compute Engine, a managed service that runs AI agents in isolated microVMs, with checkpointing capabilities to suspend and resume execution environments.",
       "why_it_matters": "",
-      "link": "https://www.fiercebiotech.com/biotech/mercks-trop2-adc-extends-survival-pivotal-gastroesophageal-cancer-trial",
-      "source": "Fierce Biotech",
+      "link": "https://www.infoq.com/news/2026/11/google-agent-compute-engine/",
+      "source": "InfoQ",
       "type": "news",
-      "sector": "Biotech",
-      "published": null,
-      "first_seen": "2026-11-21T23:30:38Z",
+      "sector": "Developer Tools",
+      "published": "2026-11-22T06:30:00Z",
+      "first_seen": "2026-11-22T06:45:14Z",
       "importance": null,
-      "score": 3.764,
+      "score": 3.98,
       "summary_source": "feed",
       "related": []
     },
     {
-      "id": "359f4ada0e1f",
-      "title": "Researchers may have to ‘revise a lot’ of theories about dementia after uncovering plastics in brain",
-      "summary": "The field of micro- and nanoplastics has drawn a lot of interest in recent years as concerns grow about the impact of contamination in the environment.",
+      "id": "85aa3f9305b2",
+      "title": "AWS Lambda Now Runs GPU Inference with 48 Concurrent Invocations Sharing One Model per GPU",
+      "summary": "AWS Lambda now runs Event Functions on EC2 G-series GPU instances through Lambda Managed Instances, with up to 48 concurrent invocations sharing one model per GPU, vLLM and SGLang base images that need no handler code, and 90-minute asynchronous timeouts.",
       "why_it_matters": "",
-      "link": "https://www.fiercebiotech.com/research/researchers-uncover-plastics-present-dementia-brains-after-death",
-      "source": "Fierce Biotech",
+      "link": "https://www.infoq.com/news/2026/11/aws-lambda-gpu-managed-instances/",
+      "source": "InfoQ",
       "type": "news",
-      "sector": "Biotech",
-      "published": null,
-      "first_seen": "2026-11-21T23:30:38Z",
+      "sector": "Developer Tools",
+      "published": "2026-11-22T06:27:00Z",
+      "first_seen": "2026-11-22T06:45:14Z",
       "importance": null,
-      "score": 3.764,
+      "score": 3.977,
       "summary_source": "feed",
       "related": []
     },
     {
-      "id": "7af040343434",
-      "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
-      "summary": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters.",
+      "id": "163b193381ba",
+      "title": "Ford Begins Producing Its Own LFP Batteries",
+      "summary": "Ford is now a battery producer. Yes, it’s using battery technology licensed from CATL, but it is now producing EV batteries it is going to be using in its own vehicles.",
       "why_it_matters": "",
-      "link": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
-      "source": "BleepingComputer",
-      "type": "news",
-      "sector": "CyberSecurity",
-      "published": "2026-11-21T22:59:58Z",
-      "first_seen": "2026-11-21T23:30:38Z",
-      "importance": null,
-      "score": 3.727,
-      "summary_source": "feed",
-      "related": []
-    },
-    {
-      "id": "879bc7819129",
-      "title": "The manufacturing data gap holding back physical AI",
-      "summary": "Manufacturers looking to deploy autonomous robots must close gaps in industrial data collection, interoperability, and quality feedback to enable reliable decision-making and improve production efficiency.",
-      "why_it_matters": "",
-      "link": "https://www.therobotreport.com/the-manufacturing-data-gap-holding-back-physical-ai/",
-      "source": "The Robot Report",
-      "type": "news",
-      "sector": "Robotics",
-      "published": "2026-11-21T22:25:35Z",
-      "first_seen": "2026-11-21T23:30:38Z",
-      "importance": null,
-      "score": 3.686,
-      "summary_source": "feed",
-      "related": []
-    },
-    {
-      "id": "2123fc4f72ea",
-      "title": "Who Needs Automatic Driving? You Love to Drive! However, for Many Handicapped, Tesla’s Full Self Driving Is the Only Option. It’s Use It, or Don’t Drive!",
-      "summary": "Editor’s note: In my opinion, a person should not be using Tesla FSD to drive somewhere if they aren’t capable of driving the trip fully themselves.",
-      "why_it_matters": "",
-      "link": "https://cleantechnica.com/2026/11/21/who-needs-automatic-driving-you-love-to-drive-however-for-many-handicapped-teslas-full-self-driving-is-the-only-option-its-use-it-or-dont-drive/",
+      "link": "https://cleantechnica.com/2026/11/21/ford-begins-producing-its-own-lfp-batteries/",
       "source": "CleanTechnica",
       "type": "news",
       "sector": "Renewables",
-      "published": "2026-11-21T21:34:39Z",
-      "first_seen": "2026-11-21T23:30:38Z",
+      "published": "2026-11-22T04:49:26Z",
+      "first_seen": "2026-11-22T06:45:14Z",
       "importance": null,
-      "score": 3.626,
+      "score": 3.854,
+      "summary_source": "feed",
+      "related": []
+    },
+    {
+      "id": "983f6e759354",
+      "title": "Tesla rolls out FSD v15, featuring a photorealistic rendering of car surroundings; Elon Musk says it is real-time AI video generation without using game engines (Mike Pearl/Gizmodo)",
+      "summary": "Mike Pearl / Gizmodo : Tesla rolls out FSD v15, featuring a photorealistic rendering of car surroundings; Elon Musk says it is real-time AI video generation without using game engines — FSD v15 was released to some vehicles on Saturday.",
+      "why_it_matters": "",
+      "link": "https://www.techmeme.com/261122/p4",
+      "source": "Techmeme",
+      "type": "community",
+      "sector": "Breaking",
+      "published": "2026-11-22T06:40:16Z",
+      "first_seen": "2026-11-22T06:45:14Z",
+      "importance": null,
+      "score": 3.594,
+      "summary_source": "feed",
+      "related": []
+    },
+    {
+      "id": "99f5a48a6699",
+      "title": "A joint statement by the Lean and Mathlib communities says \"we have full confidence that Alpöge's proof of the Riemann Hypothesis is correct\" (Lean community blog)",
+      "summary": "Lean community blog : A joint statement by the Lean and Mathlib communities says “we have full confidence that Alpöge's proof of the Riemann Hypothesis is correct” — Joint statement by the Lean and Mathlib communities, endorsed by the Lean FRO and the Mathlib Initiative.",
+      "why_it_matters": "",
+      "link": "https://www.techmeme.com/261122/p3",
+      "source": "Techmeme",
+      "type": "community",
+      "sector": "Breaking",
+      "published": "2026-11-22T06:00:02Z",
+      "first_seen": "2026-11-22T06:45:14Z",
+      "importance": null,
+      "score": 3.548,
       "summary_source": "feed",
       "related": []
     }
@@ -108,7 +108,7 @@
         "published": "2026-11-20T00:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.508,
+        "score": 1.394,
         "summary_source": "none",
         "related": []
       },
@@ -124,7 +124,7 @@
         "published": "2026-11-20T00:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.508,
+        "score": 1.394,
         "summary_source": "none",
         "related": []
       },
@@ -140,7 +140,7 @@
         "published": "2026-11-18T19:54:56Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.878,
+        "score": 0.812,
         "summary_source": "none",
         "related": []
       },
@@ -156,7 +156,7 @@
         "published": "2026-11-18T18:53:43Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.861,
+        "score": 0.796,
         "summary_source": "none",
         "related": []
       }
@@ -174,7 +174,7 @@
         "published": "2026-11-20T22:23:32Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.32,
+        "score": 2.145,
         "summary_source": "feed",
         "related": []
       },
@@ -190,7 +190,7 @@
         "published": "2026-11-20T15:37:26Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.037,
+        "score": 1.883,
         "summary_source": "feed",
         "related": []
       },
@@ -206,7 +206,7 @@
         "published": "2026-11-20T09:43:53Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.818,
+        "score": 1.681,
         "summary_source": "feed",
         "related": []
       },
@@ -222,7 +222,7 @@
         "published": "2026-11-20T08:01:14Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.76,
+        "score": 1.627,
         "summary_source": "feed",
         "related": []
       },
@@ -238,7 +238,7 @@
         "published": "2026-11-20T07:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.725,
+        "score": 1.595,
         "summary_source": "feed",
         "related": []
       },
@@ -254,7 +254,7 @@
         "published": "2026-11-19T08:06:18Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.11,
+        "score": 1.026,
         "summary_source": "feed",
         "related": []
       },
@@ -270,7 +270,7 @@
         "published": "2026-11-19T08:05:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.11,
+        "score": 1.026,
         "summary_source": "feed",
         "related": []
       },
@@ -286,7 +286,7 @@
         "published": "2026-11-19T08:03:18Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.109,
+        "score": 1.025,
         "summary_source": "feed",
         "related": []
       }
@@ -304,7 +304,7 @@
         "published": "2026-11-21T08:14:48Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.805,
+        "score": 2.593,
         "summary_source": "feed",
         "related": []
       },
@@ -320,7 +320,7 @@
         "published": "2026-11-21T08:10:01Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.801,
+        "score": 2.589,
         "summary_source": "feed",
         "related": []
       },
@@ -336,7 +336,7 @@
         "published": "2026-11-21T08:00:26Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.792,
+        "score": 2.581,
         "summary_source": "feed",
         "related": []
       },
@@ -352,7 +352,7 @@
         "published": "2026-11-21T07:36:27Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.771,
+        "score": 2.562,
         "summary_source": "feed",
         "related": []
       }
@@ -370,7 +370,7 @@
         "published": "2026-11-21T22:59:58Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.727,
+        "score": 3.445,
         "summary_source": "feed",
         "related": []
       },
@@ -386,7 +386,7 @@
         "published": "2026-11-21T18:01:58Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.387,
+        "score": 3.131,
         "summary_source": "feed",
         "related": []
       },
@@ -402,7 +402,7 @@
         "published": "2026-11-21T15:17:27Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.213,
+        "score": 2.97,
         "summary_source": "feed",
         "related": []
       },
@@ -418,7 +418,7 @@
         "published": "2026-11-21T14:26:04Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.16,
+        "score": 2.921,
         "summary_source": "feed",
         "related": []
       },
@@ -434,7 +434,7 @@
         "published": "2026-11-21T00:36:39Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.422,
+        "score": 2.239,
         "summary_source": "feed",
         "related": []
       },
@@ -450,7 +450,7 @@
         "published": "2026-11-20T22:04:12Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.306,
+        "score": 2.132,
         "summary_source": "feed",
         "related": []
       },
@@ -466,7 +466,7 @@
         "published": "2026-11-20T12:04:46Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.903,
+        "score": 1.759,
         "summary_source": "feed",
         "related": []
       },
@@ -482,7 +482,7 @@
         "published": "2026-11-18T12:05:35Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.755,
+        "score": 0.698,
         "summary_source": "feed",
         "related": []
       }
@@ -500,7 +500,7 @@
         "published": "2026-11-19T17:25:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.328,
+        "score": 1.228,
         "summary_source": "feed",
         "related": []
       },
@@ -516,7 +516,7 @@
         "published": "2026-11-19T15:38:18Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.284,
+        "score": 1.187,
         "summary_source": "feed",
         "related": []
       },
@@ -532,7 +532,7 @@
         "published": "2026-11-18T22:02:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.915,
+        "score": 0.845,
         "summary_source": "feed",
         "related": []
       },
@@ -548,12 +548,28 @@
         "published": "2026-11-18T20:31:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.888,
+        "score": 0.821,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Renewables": [
+      {
+        "id": "163b193381ba",
+        "title": "Ford Begins Producing Its Own LFP Batteries",
+        "summary": "Ford is now a battery producer. Yes, it’s using battery technology licensed from CATL, but it is now producing EV batteries it is going to be using in its own vehicles.",
+        "why_it_matters": "",
+        "link": "https://cleantechnica.com/2026/11/21/ford-begins-producing-its-own-lfp-batteries/",
+        "source": "CleanTechnica",
+        "type": "news",
+        "sector": "Renewables",
+        "published": "2026-11-22T04:49:26Z",
+        "first_seen": "2026-11-22T06:45:14Z",
+        "importance": null,
+        "score": 3.854,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "2123fc4f72ea",
         "title": "Who Needs Automatic Driving? You Love to Drive! However, for Many Handicapped, Tesla’s Full Self Driving Is the Only Option. It’s Use It, or Don’t Drive!",
@@ -566,7 +582,7 @@
         "published": "2026-11-21T21:34:39Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.626,
+        "score": 3.352,
         "summary_source": "feed",
         "related": []
       },
@@ -582,7 +598,7 @@
         "published": "2026-11-21T19:38:50Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.494,
+        "score": 3.23,
         "summary_source": "feed",
         "related": []
       },
@@ -598,7 +614,7 @@
         "published": "2026-11-21T16:49:13Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.309,
+        "score": 3.059,
         "summary_source": "feed",
         "related": []
       },
@@ -614,7 +630,7 @@
         "published": "2026-11-21T14:27:15Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.161,
+        "score": 2.923,
         "summary_source": "feed",
         "related": []
       },
@@ -630,7 +646,7 @@
         "published": "2026-11-20T11:03:46Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.866,
+        "score": 1.725,
         "summary_source": "feed",
         "related": []
       },
@@ -646,7 +662,7 @@
         "published": "2026-11-18T16:02:59Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.815,
+        "score": 0.753,
         "summary_source": "feed",
         "related": []
       },
@@ -662,7 +678,7 @@
         "published": "2026-11-16T11:04:27Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.294,
+        "score": 0.272,
         "summary_source": "none",
         "related": []
       }
@@ -680,7 +696,7 @@
         "published": "2026-11-20T12:53:38Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.933,
+        "score": 1.787,
         "summary_source": "feed",
         "related": []
       },
@@ -696,7 +712,7 @@
         "published": "2026-11-20T12:01:59Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.901,
+        "score": 1.757,
         "summary_source": "feed",
         "related": []
       },
@@ -712,7 +728,7 @@
         "published": "2026-11-20T11:55:25Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.897,
+        "score": 1.754,
         "summary_source": "feed",
         "related": []
       },
@@ -728,7 +744,7 @@
         "published": "2026-11-20T11:34:56Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.884,
+        "score": 1.742,
         "summary_source": "feed",
         "related": []
       },
@@ -744,7 +760,7 @@
         "published": "2026-11-17T05:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.415,
+        "score": 0.384,
         "summary_source": "feed",
         "related": []
       }
@@ -762,7 +778,7 @@
         "published": "2026-11-20T16:46:43Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.083,
+        "score": 1.925,
         "summary_source": "feed",
         "related": []
       },
@@ -778,7 +794,7 @@
         "published": "2026-11-20T16:24:06Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.068,
+        "score": 1.911,
         "summary_source": "feed",
         "related": []
       },
@@ -794,7 +810,7 @@
         "published": "2026-11-20T15:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.013,
+        "score": 1.861,
         "summary_source": "feed",
         "related": []
       },
@@ -810,7 +826,7 @@
         "published": "2026-11-19T15:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.268,
+        "score": 1.172,
         "summary_source": "feed",
         "related": []
       }
@@ -828,7 +844,7 @@
         "published": null,
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.764,
+        "score": 3.479,
         "summary_source": "feed",
         "related": []
       },
@@ -844,7 +860,7 @@
         "published": null,
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.764,
+        "score": 3.479,
         "summary_source": "feed",
         "related": []
       },
@@ -860,7 +876,7 @@
         "published": null,
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.764,
+        "score": 3.479,
         "summary_source": "feed",
         "related": []
       },
@@ -876,7 +892,7 @@
         "published": null,
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.764,
+        "score": 3.479,
         "summary_source": "feed",
         "related": []
       },
@@ -892,7 +908,7 @@
         "published": "2026-11-21T12:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.015,
+        "score": 2.788,
         "summary_source": "feed",
         "related": []
       },
@@ -908,7 +924,7 @@
         "published": "2026-11-21T09:30:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.874,
+        "score": 2.657,
         "summary_source": "feed",
         "related": []
       },
@@ -924,7 +940,7 @@
         "published": "2026-11-20T23:43:53Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.381,
+        "score": 2.201,
         "summary_source": "feed",
         "related": []
       },
@@ -940,7 +956,7 @@
         "published": "2026-11-20T21:19:27Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.273,
+        "score": 2.101,
         "summary_source": "feed",
         "related": []
       }
@@ -958,7 +974,7 @@
         "published": "2026-11-20T14:06:42Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.978,
+        "score": 1.829,
         "summary_source": "feed",
         "related": []
       },
@@ -974,7 +990,7 @@
         "published": "2026-11-20T13:22:14Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.95,
+        "score": 1.803,
         "summary_source": "feed",
         "related": []
       },
@@ -990,7 +1006,7 @@
         "published": "2026-11-20T13:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.937,
+        "score": 1.79,
         "summary_source": "feed",
         "related": []
       },
@@ -1006,7 +1022,7 @@
         "published": "2026-11-20T08:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.759,
+        "score": 1.626,
         "summary_source": "feed",
         "related": []
       }
@@ -1024,7 +1040,7 @@
         "published": "2026-11-21T22:25:35Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.686,
+        "score": 3.407,
         "summary_source": "feed",
         "related": []
       },
@@ -1040,7 +1056,7 @@
         "published": "2026-11-21T00:55:45Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.437,
+        "score": 2.253,
         "summary_source": "feed",
         "related": []
       },
@@ -1056,7 +1072,7 @@
         "published": "2026-11-20T17:30:03Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.112,
+        "score": 1.952,
         "summary_source": "feed",
         "related": []
       },
@@ -1072,7 +1088,7 @@
         "published": "2026-11-20T17:04:28Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.095,
+        "score": 1.936,
         "summary_source": "feed",
         "related": []
       },
@@ -1088,7 +1104,7 @@
         "published": "2026-11-20T03:06:28Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.601,
+        "score": 1.48,
         "summary_source": "feed",
         "related": []
       },
@@ -1104,7 +1120,7 @@
         "published": "2026-11-16T14:00:02Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.311,
+        "score": 0.287,
         "summary_source": "feed",
         "related": []
       },
@@ -1120,7 +1136,7 @@
         "published": "2026-11-16T10:00:01Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.288,
+        "score": 0.266,
         "summary_source": "feed",
         "related": []
       },
@@ -1136,7 +1152,7 @@
         "published": "2026-11-15T14:00:02Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.196,
+        "score": 0.181,
         "summary_source": "feed",
         "related": []
       }
@@ -1154,7 +1170,7 @@
         "published": "2026-11-20T21:52:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.298,
+        "score": 2.124,
         "summary_source": "feed",
         "related": []
       },
@@ -1170,7 +1186,7 @@
         "published": "2026-11-19T23:30:50Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.494,
+        "score": 1.381,
         "summary_source": "feed",
         "related": []
       },
@@ -1186,7 +1202,7 @@
         "published": "2026-11-18T19:52:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.877,
+        "score": 0.811,
         "summary_source": "feed",
         "related": []
       },
@@ -1202,7 +1218,7 @@
         "published": "2026-11-18T15:10:53Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.801,
+        "score": 0.741,
         "summary_source": "feed",
         "related": []
       }
@@ -1220,7 +1236,7 @@
         "published": "2026-11-20T20:15:54Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.227,
+        "score": 2.059,
         "summary_source": "feed",
         "related": []
       },
@@ -1236,7 +1252,7 @@
         "published": "2026-11-20T12:00:25Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.9,
+        "score": 1.756,
         "summary_source": "feed",
         "related": []
       },
@@ -1252,7 +1268,7 @@
         "published": "2026-11-20T12:00:01Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.9,
+        "score": 1.756,
         "summary_source": "feed",
         "related": []
       },
@@ -1268,7 +1284,7 @@
         "published": "2026-11-20T00:26:03Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.52,
+        "score": 1.406,
         "summary_source": "feed",
         "related": []
       },
@@ -1284,7 +1300,7 @@
         "published": "2026-11-19T12:00:45Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.197,
+        "score": 1.107,
         "summary_source": "feed",
         "related": []
       },
@@ -1300,7 +1316,7 @@
         "published": "2026-11-18T21:36:40Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.907,
+        "score": 0.839,
         "summary_source": "feed",
         "related": []
       },
@@ -1316,7 +1332,7 @@
         "published": "2026-11-18T19:29:41Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.871,
+        "score": 0.805,
         "summary_source": "feed",
         "related": []
       },
@@ -1332,12 +1348,44 @@
         "published": "2026-11-18T00:01:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.599,
+        "score": 0.553,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Developer Tools": [
+      {
+        "id": "68bfbd295176",
+        "title": "Google Announces Agent Compute Engine for Secure AI Agent Execution",
+        "summary": "Google recently announced Agent Compute Engine, a managed service that runs AI agents in isolated microVMs, with checkpointing capabilities to suspend and resume execution environments.",
+        "why_it_matters": "",
+        "link": "https://www.infoq.com/news/2026/11/google-agent-compute-engine/",
+        "source": "InfoQ",
+        "type": "news",
+        "sector": "Developer Tools",
+        "published": "2026-11-22T06:30:00Z",
+        "first_seen": "2026-11-22T06:45:14Z",
+        "importance": null,
+        "score": 3.98,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "85aa3f9305b2",
+        "title": "AWS Lambda Now Runs GPU Inference with 48 Concurrent Invocations Sharing One Model per GPU",
+        "summary": "AWS Lambda now runs Event Functions on EC2 G-series GPU instances through Lambda Managed Instances, with up to 48 concurrent invocations sharing one model per GPU, vLLM and SGLang base images that need no handler code, and 90-minute asynchronous timeouts.",
+        "why_it_matters": "",
+        "link": "https://www.infoq.com/news/2026/11/aws-lambda-gpu-managed-instances/",
+        "source": "InfoQ",
+        "type": "news",
+        "sector": "Developer Tools",
+        "published": "2026-11-22T06:27:00Z",
+        "first_seen": "2026-11-22T06:45:14Z",
+        "importance": null,
+        "score": 3.977,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "0ba5c06cad14",
         "title": "Grafana 13.3 Adds Shared Dashboard Variables and Notebooks",
@@ -1350,7 +1398,7 @@
         "published": "2026-11-21T14:30:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.164,
+        "score": 2.925,
         "summary_source": "feed",
         "related": []
       },
@@ -1366,7 +1414,7 @@
         "published": "2026-11-21T13:30:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.104,
+        "score": 2.869,
         "summary_source": "feed",
         "related": []
       },
@@ -1382,7 +1430,7 @@
         "published": "2026-11-21T09:44:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.887,
+        "score": 2.669,
         "summary_source": "feed",
         "related": []
       },
@@ -1398,7 +1446,7 @@
         "published": "2026-11-20T18:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.132,
+        "score": 1.971,
         "summary_source": "feed",
         "related": []
       },
@@ -1414,7 +1462,7 @@
         "published": "2026-11-20T17:18:38Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.104,
+        "score": 1.945,
         "summary_source": "feed",
         "related": []
       },
@@ -1430,44 +1478,76 @@
         "published": "2026-11-20T08:40:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.782,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "d3c90de9ad10",
-        "title": "The best things in open source are built together",
-        "summary": "Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion.",
-        "why_it_matters": "",
-        "link": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
-        "source": "GitHub Blog",
-        "type": "news",
-        "sector": "Developer Tools",
-        "published": "2026-11-19T16:00:00Z",
-        "first_seen": "2026-11-21T23:30:38Z",
-        "importance": null,
-        "score": 1.293,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "941c34f32c5b",
-        "title": "Chaos, then control: the maturity model most AI rollouts skip over",
-        "summary": "Every engineering org has rolled out AI coding tools by now, but far fewer have actually seen the outcomes they were hoping for.",
-        "why_it_matters": "",
-        "link": "https://stackoverflow.blog/2026/11/19/chaos-then-control/",
-        "source": "Stack Overflow Blog",
-        "type": "news",
-        "sector": "Developer Tools",
-        "published": "2026-11-19T08:40:00Z",
-        "first_seen": "2026-11-21T23:30:38Z",
-        "importance": null,
-        "score": 1.122,
+        "score": 1.647,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Breaking": [
+      {
+        "id": "983f6e759354",
+        "title": "Tesla rolls out FSD v15, featuring a photorealistic rendering of car surroundings; Elon Musk says it is real-time AI video generation without using game engines (Mike Pearl/Gizmodo)",
+        "summary": "Mike Pearl / Gizmodo : Tesla rolls out FSD v15, featuring a photorealistic rendering of car surroundings; Elon Musk says it is real-time AI video generation without using game engines — FSD v15 was released to some vehicles on Saturday.",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261122/p4",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-22T06:40:16Z",
+        "first_seen": "2026-11-22T06:45:14Z",
+        "importance": null,
+        "score": 3.594,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "99f5a48a6699",
+        "title": "A joint statement by the Lean and Mathlib communities says \"we have full confidence that Alpöge's proof of the Riemann Hypothesis is correct\" (Lean community blog)",
+        "summary": "Lean community blog : A joint statement by the Lean and Mathlib communities says “we have full confidence that Alpöge's proof of the Riemann Hypothesis is correct” — Joint statement by the Lean and Mathlib communities, endorsed by the Lean FRO and the Mathlib Initiative.",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261122/p3",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-22T06:00:02Z",
+        "first_seen": "2026-11-22T06:45:14Z",
+        "importance": null,
+        "score": 3.548,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "fd9a0154c1c6",
+        "title": "Sources: AI server suppliers like Dell, HPE, Lenovo, and Supermicro are demanding substantially higher prices from buyers, months after contracts were signed (Financial Times)",
+        "summary": "Financial Times : Sources: AI server suppliers like Dell, HPE, Lenovo, and Supermicro are demanding substantially higher prices from buyers, months after contracts were signed — Dell, HPE, Lenovo and Supermicro demand more for equipment, with the increased costs hitting trading…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261122/p2",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-22T05:50:01Z",
+        "first_seen": "2026-11-22T06:45:14Z",
+        "importance": null,
+        "score": 3.537,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "4e21b02dd236",
+        "title": "Sources: Alice Huang associate Li Ming, whom Singapore charged with fraud in 2025, was central to smuggling restricted AI chips from Southeast Asia to China (Stu Woo/Wall Street Journal)",
+        "summary": "Stu Woo / Wall Street Journal : Sources: Alice Huang associate Li Ming, whom Singapore charged with fraud in 2025, was central to smuggling restricted AI chips from Southeast Asia to China — Defendant in case involving chip smuggling worked with Jensen Huang's romantic partner —…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261122/p1",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-22T05:45:01Z",
+        "first_seen": "2026-11-22T06:45:14Z",
+        "importance": null,
+        "score": 3.531,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "afd7b9ba0d13",
         "title": "Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches \"zero espionage\" executive girlfriends (Wired)",
@@ -1480,7 +1560,7 @@
         "published": "2026-11-22T00:10:02Z",
         "first_seen": "2026-11-22T02:40:25Z",
         "importance": null,
-        "score": 3.43,
+        "score": 3.171,
         "summary_source": "feed",
         "related": []
       },
@@ -1496,7 +1576,7 @@
         "published": "2026-11-21T20:10:02Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.176,
+        "score": 2.936,
         "summary_source": "feed",
         "related": []
       },
@@ -1512,7 +1592,7 @@
         "published": "2026-11-21T18:55:01Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.101,
+        "score": 2.866,
         "summary_source": "feed",
         "related": []
       },
@@ -1528,72 +1608,8 @@
         "published": "2026-11-21T17:55:01Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.041,
+        "score": 2.812,
         "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "456e67077a4e",
-        "title": "Rhodium: China's biggest tech companies are set to double capex to $139B in 2026 with AI lab revenue under 8% of it, a gap that may matter more than chip curbs (New York Times)",
-        "summary": "New York Times : Rhodium: China's biggest tech companies are set to double capex to $139B in 2026 with AI lab revenue under 8% of it, a gap that may matter more than chip curbs — While Anthropic and other Silicon Valley A.I. giants are raising tens of billions in capital…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261121/p7",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-21T15:10:01Z",
-        "first_seen": "2026-11-21T23:30:38Z",
-        "importance": null,
-        "score": 2.885,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "04d235919667",
-        "title": "Inkling-2-Mini in 5.4 GB Memory",
-        "summary": "",
-        "why_it_matters": "",
-        "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
-        "source": "Hacker News",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-21T18:02:19Z",
-        "first_seen": "2026-11-21T23:30:38Z",
-        "importance": null,
-        "score": 2.71,
-        "summary_source": "none",
-        "related": []
-      },
-      {
-        "id": "8456576d1c18",
-        "title": "An interview with Google DeepMind in-house philosopher Henry Shevlin on being hired to work on machine consciousness, human-AI relationships, and AGI readiness (Cristina Criddle/Financial Times)",
-        "summary": "Cristina Criddle / Financial Times : An interview with Google DeepMind in-house philosopher Henry Shevlin on being hired to work on machine consciousness, human-AI relationships, and AGI readiness — The in-house philosopher on the problem of consciousness and what it might feel…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261121/p6",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-21T11:30:01Z",
-        "first_seen": "2026-11-21T23:30:38Z",
-        "importance": null,
-        "score": 2.688,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "ea0757f94ff0",
-        "title": "Lean verification of the Riemann Hypothesis",
-        "summary": "",
-        "why_it_matters": "",
-        "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-        "source": "Hacker News",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-21T14:36:45Z",
-        "first_seen": "2026-11-21T23:30:38Z",
-        "importance": null,
-        "score": 2.537,
-        "summary_source": "none",
         "related": []
       }
     ]
@@ -1864,9 +1880,9 @@
         "sector": "Breaking",
         "source": "Hacker News",
         "url": "https://hnrss.org/frontpage?points=150",
-        "status": "ok",
-        "entries": 6,
-        "error": null
+        "status": "error",
+        "entries": 0,
+        "error": "<urlopen error timed out>"
       }
     ],
     "ai": {
@@ -1876,7 +1892,7 @@
       "errors": [
         "ANTHROPIC_API_KEY is not set"
       ],
-      "new_items": 1,
+      "new_items": 7,
       "summarised": 0
     }
   },
