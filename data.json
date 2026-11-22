@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "generated_at": "2026-11-21T23:30:38Z",
-  "last_updated": "2026-11-21 23:30 UTC",
-  "is_sunday_edition": false,
+  "generated_at": "2026-11-22T02:40:25Z",
+  "last_updated": "2026-11-22 02:40 UTC",
+  "is_sunday_edition": true,
   "priority_sectors": [
     "AI",
     "Semiconductors",
     "CyberSecurity"
   ],
   "notices": [
-    "Gemini returned 57 error(s) this run; some items may lack AI summaries.",
+    "AI summaries are unavailable this run; showing feed text instead.",
     "7 feed(s) returned no items; see Feed status at the bottom of the page."
   ],
   "top_stories": [
@@ -25,7 +25,7 @@
       "published": null,
       "first_seen": "2026-11-21T23:30:38Z",
       "importance": null,
-      "score": 4.0,
+      "score": 3.764,
       "summary_source": "feed",
       "related": []
     },
@@ -41,7 +41,7 @@
       "published": null,
       "first_seen": "2026-11-21T23:30:38Z",
       "importance": null,
-      "score": 4.0,
+      "score": 3.764,
       "summary_source": "feed",
       "related": []
     },
@@ -57,7 +57,7 @@
       "published": "2026-11-21T22:59:58Z",
       "first_seen": "2026-11-21T23:30:38Z",
       "importance": null,
-      "score": 3.961,
+      "score": 3.727,
       "summary_source": "feed",
       "related": []
     },
@@ -73,7 +73,7 @@
       "published": "2026-11-21T22:25:35Z",
       "first_seen": "2026-11-21T23:30:38Z",
       "importance": null,
-      "score": 3.917,
+      "score": 3.686,
       "summary_source": "feed",
       "related": []
     },
@@ -89,7 +89,7 @@
       "published": "2026-11-21T21:34:39Z",
       "first_seen": "2026-11-21T23:30:38Z",
       "importance": null,
-      "score": 3.854,
+      "score": 3.626,
       "summary_source": "feed",
       "related": []
     }
@@ -108,7 +108,7 @@
         "published": "2026-11-20T00:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.602,
+        "score": 1.508,
         "summary_source": "none",
         "related": []
       },
@@ -124,7 +124,7 @@
         "published": "2026-11-20T00:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.602,
+        "score": 1.508,
         "summary_source": "none",
         "related": []
       },
@@ -140,7 +140,7 @@
         "published": "2026-11-18T19:54:56Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.933,
+        "score": 0.878,
         "summary_source": "none",
         "related": []
       },
@@ -156,7 +156,7 @@
         "published": "2026-11-18T18:53:43Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.915,
+        "score": 0.861,
         "summary_source": "none",
         "related": []
       }
@@ -174,7 +174,7 @@
         "published": "2026-11-20T22:23:32Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.466,
+        "score": 2.32,
         "summary_source": "feed",
         "related": []
       },
@@ -190,7 +190,7 @@
         "published": "2026-11-20T15:37:26Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.165,
+        "score": 2.037,
         "summary_source": "feed",
         "related": []
       },
@@ -206,7 +206,7 @@
         "published": "2026-11-20T09:43:53Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.933,
+        "score": 1.818,
         "summary_source": "feed",
         "related": []
       },
@@ -222,7 +222,7 @@
         "published": "2026-11-20T08:01:14Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.87,
+        "score": 1.76,
         "summary_source": "feed",
         "related": []
       },
@@ -238,7 +238,7 @@
         "published": "2026-11-20T07:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.834,
+        "score": 1.725,
         "summary_source": "feed",
         "related": []
       },
@@ -254,7 +254,7 @@
         "published": "2026-11-19T08:06:18Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.18,
+        "score": 1.11,
         "summary_source": "feed",
         "related": []
       },
@@ -270,7 +270,7 @@
         "published": "2026-11-19T08:05:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.18,
+        "score": 1.11,
         "summary_source": "feed",
         "related": []
       },
@@ -286,7 +286,7 @@
         "published": "2026-11-19T08:03:18Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.179,
+        "score": 1.109,
         "summary_source": "feed",
         "related": []
       }
@@ -304,7 +304,7 @@
         "published": "2026-11-21T08:14:48Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.981,
+        "score": 2.805,
         "summary_source": "feed",
         "related": []
       },
@@ -320,7 +320,7 @@
         "published": "2026-11-21T08:10:01Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.977,
+        "score": 2.801,
         "summary_source": "feed",
         "related": []
       },
@@ -336,7 +336,7 @@
         "published": "2026-11-21T08:00:26Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.968,
+        "score": 2.792,
         "summary_source": "feed",
         "related": []
       },
@@ -352,7 +352,7 @@
         "published": "2026-11-21T07:36:27Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.945,
+        "score": 2.771,
         "summary_source": "feed",
         "related": []
       }
@@ -370,7 +370,7 @@
         "published": "2026-11-21T22:59:58Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.961,
+        "score": 3.727,
         "summary_source": "feed",
         "related": []
       },
@@ -386,7 +386,7 @@
         "published": "2026-11-21T18:01:58Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.6,
+        "score": 3.387,
         "summary_source": "feed",
         "related": []
       },
@@ -402,7 +402,7 @@
         "published": "2026-11-21T15:17:27Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.414,
+        "score": 3.213,
         "summary_source": "feed",
         "related": []
       },
@@ -418,7 +418,7 @@
         "published": "2026-11-21T14:26:04Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.359,
+        "score": 3.16,
         "summary_source": "feed",
         "related": []
       },
@@ -434,7 +434,7 @@
         "published": "2026-11-21T00:36:39Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.574,
+        "score": 2.422,
         "summary_source": "feed",
         "related": []
       },
@@ -450,7 +450,7 @@
         "published": "2026-11-20T22:04:12Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.451,
+        "score": 2.306,
         "summary_source": "feed",
         "related": []
       },
@@ -466,7 +466,7 @@
         "published": "2026-11-20T12:04:46Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.022,
+        "score": 1.903,
         "summary_source": "feed",
         "related": []
       },
@@ -482,7 +482,7 @@
         "published": "2026-11-18T12:05:35Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.803,
+        "score": 0.755,
         "summary_source": "feed",
         "related": []
       }
@@ -500,7 +500,7 @@
         "published": "2026-11-19T17:25:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.412,
+        "score": 1.328,
         "summary_source": "feed",
         "related": []
       },
@@ -516,7 +516,7 @@
         "published": "2026-11-19T15:38:18Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.364,
+        "score": 1.284,
         "summary_source": "feed",
         "related": []
       },
@@ -532,7 +532,7 @@
         "published": "2026-11-18T22:02:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.972,
+        "score": 0.915,
         "summary_source": "feed",
         "related": []
       },
@@ -548,7 +548,7 @@
         "published": "2026-11-18T20:31:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.944,
+        "score": 0.888,
         "summary_source": "feed",
         "related": []
       }
@@ -566,7 +566,7 @@
         "published": "2026-11-21T21:34:39Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.854,
+        "score": 3.626,
         "summary_source": "feed",
         "related": []
       },
@@ -582,7 +582,7 @@
         "published": "2026-11-21T19:38:50Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.713,
+        "score": 3.494,
         "summary_source": "feed",
         "related": []
       },
@@ -598,7 +598,7 @@
         "published": "2026-11-21T16:49:13Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.517,
+        "score": 3.309,
         "summary_source": "feed",
         "related": []
       },
@@ -614,7 +614,7 @@
         "published": "2026-11-21T14:27:15Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.36,
+        "score": 3.161,
         "summary_source": "feed",
         "related": []
       },
@@ -630,7 +630,7 @@
         "published": "2026-11-20T11:03:46Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.983,
+        "score": 1.866,
         "summary_source": "feed",
         "related": []
       },
@@ -646,7 +646,7 @@
         "published": "2026-11-18T16:02:59Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.866,
+        "score": 0.815,
         "summary_source": "feed",
         "related": []
       },
@@ -662,7 +662,7 @@
         "published": "2026-11-16T11:04:27Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.312,
+        "score": 0.294,
         "summary_source": "none",
         "related": []
       }
@@ -680,7 +680,7 @@
         "published": "2026-11-20T12:53:38Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.054,
+        "score": 1.933,
         "summary_source": "feed",
         "related": []
       },
@@ -696,7 +696,7 @@
         "published": "2026-11-20T12:01:59Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.02,
+        "score": 1.901,
         "summary_source": "feed",
         "related": []
       },
@@ -712,7 +712,7 @@
         "published": "2026-11-20T11:55:25Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.016,
+        "score": 1.897,
         "summary_source": "feed",
         "related": []
       },
@@ -728,7 +728,7 @@
         "published": "2026-11-20T11:34:56Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.003,
+        "score": 1.884,
         "summary_source": "feed",
         "related": []
       },
@@ -744,7 +744,7 @@
         "published": "2026-11-17T05:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.441,
+        "score": 0.415,
         "summary_source": "feed",
         "related": []
       }
@@ -762,7 +762,7 @@
         "published": "2026-11-20T16:46:43Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.214,
+        "score": 2.083,
         "summary_source": "feed",
         "related": []
       },
@@ -778,7 +778,7 @@
         "published": "2026-11-20T16:24:06Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.198,
+        "score": 2.068,
         "summary_source": "feed",
         "related": []
       },
@@ -794,7 +794,7 @@
         "published": "2026-11-20T15:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.139,
+        "score": 2.013,
         "summary_source": "feed",
         "related": []
       },
@@ -810,7 +810,7 @@
         "published": "2026-11-19T15:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.347,
+        "score": 1.268,
         "summary_source": "feed",
         "related": []
       }
@@ -828,7 +828,7 @@
         "published": null,
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 4.0,
+        "score": 3.764,
         "summary_source": "feed",
         "related": []
       },
@@ -844,7 +844,7 @@
         "published": null,
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 4.0,
+        "score": 3.764,
         "summary_source": "feed",
         "related": []
       },
@@ -860,7 +860,7 @@
         "published": null,
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 4.0,
+        "score": 3.764,
         "summary_source": "feed",
         "related": []
       },
@@ -876,7 +876,7 @@
         "published": null,
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 4.0,
+        "score": 3.764,
         "summary_source": "feed",
         "related": []
       },
@@ -892,7 +892,7 @@
         "published": "2026-11-21T12:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.205,
+        "score": 3.015,
         "summary_source": "feed",
         "related": []
       },
@@ -908,7 +908,7 @@
         "published": "2026-11-21T09:30:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.054,
+        "score": 2.874,
         "summary_source": "feed",
         "related": []
       },
@@ -924,7 +924,7 @@
         "published": "2026-11-20T23:43:53Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.531,
+        "score": 2.381,
         "summary_source": "feed",
         "related": []
       },
@@ -940,7 +940,7 @@
         "published": "2026-11-20T21:19:27Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.416,
+        "score": 2.273,
         "summary_source": "feed",
         "related": []
       }
@@ -958,7 +958,7 @@
         "published": "2026-11-20T14:06:42Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.103,
+        "score": 1.978,
         "summary_source": "feed",
         "related": []
       },
@@ -974,7 +974,7 @@
         "published": "2026-11-20T13:22:14Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.073,
+        "score": 1.95,
         "summary_source": "feed",
         "related": []
       },
@@ -990,7 +990,7 @@
         "published": "2026-11-20T13:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.058,
+        "score": 1.937,
         "summary_source": "feed",
         "related": []
       },
@@ -1006,7 +1006,7 @@
         "published": "2026-11-20T08:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.869,
+        "score": 1.759,
         "summary_source": "feed",
         "related": []
       }
@@ -1024,7 +1024,7 @@
         "published": "2026-11-21T22:25:35Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.917,
+        "score": 3.686,
         "summary_source": "feed",
         "related": []
       },
@@ -1040,7 +1040,7 @@
         "published": "2026-11-21T00:55:45Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.59,
+        "score": 2.437,
         "summary_source": "feed",
         "related": []
       },
@@ -1056,7 +1056,7 @@
         "published": "2026-11-20T17:30:03Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.245,
+        "score": 2.112,
         "summary_source": "feed",
         "related": []
       },
@@ -1072,7 +1072,7 @@
         "published": "2026-11-20T17:04:28Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.226,
+        "score": 2.095,
         "summary_source": "feed",
         "related": []
       },
@@ -1088,7 +1088,7 @@
         "published": "2026-11-20T03:06:28Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.701,
+        "score": 1.601,
         "summary_source": "feed",
         "related": []
       },
@@ -1104,7 +1104,7 @@
         "published": "2026-11-16T14:00:02Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.33,
+        "score": 0.311,
         "summary_source": "feed",
         "related": []
       },
@@ -1120,7 +1120,7 @@
         "published": "2026-11-16T10:00:01Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.306,
+        "score": 0.288,
         "summary_source": "feed",
         "related": []
       },
@@ -1136,7 +1136,7 @@
         "published": "2026-11-15T14:00:02Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.208,
+        "score": 0.196,
         "summary_source": "feed",
         "related": []
       }
@@ -1154,7 +1154,7 @@
         "published": "2026-11-20T21:52:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.442,
+        "score": 2.298,
         "summary_source": "feed",
         "related": []
       },
@@ -1170,7 +1170,7 @@
         "published": "2026-11-19T23:30:50Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.588,
+        "score": 1.494,
         "summary_source": "feed",
         "related": []
       },
@@ -1186,7 +1186,7 @@
         "published": "2026-11-18T19:52:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.932,
+        "score": 0.877,
         "summary_source": "feed",
         "related": []
       },
@@ -1202,7 +1202,7 @@
         "published": "2026-11-18T15:10:53Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.852,
+        "score": 0.801,
         "summary_source": "feed",
         "related": []
       }
@@ -1220,7 +1220,7 @@
         "published": "2026-11-20T20:15:54Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.367,
+        "score": 2.227,
         "summary_source": "feed",
         "related": []
       },
@@ -1236,7 +1236,7 @@
         "published": "2026-11-20T12:00:25Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.019,
+        "score": 1.9,
         "summary_source": "feed",
         "related": []
       },
@@ -1252,7 +1252,7 @@
         "published": "2026-11-20T12:00:01Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.019,
+        "score": 1.9,
         "summary_source": "feed",
         "related": []
       },
@@ -1268,7 +1268,7 @@
         "published": "2026-11-20T00:26:03Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.616,
+        "score": 1.52,
         "summary_source": "feed",
         "related": []
       },
@@ -1284,7 +1284,7 @@
         "published": "2026-11-19T12:00:45Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.272,
+        "score": 1.197,
         "summary_source": "feed",
         "related": []
       },
@@ -1300,7 +1300,7 @@
         "published": "2026-11-18T21:36:40Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.964,
+        "score": 0.907,
         "summary_source": "feed",
         "related": []
       },
@@ -1316,7 +1316,7 @@
         "published": "2026-11-18T19:29:41Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.926,
+        "score": 0.871,
         "summary_source": "feed",
         "related": []
       },
@@ -1332,7 +1332,7 @@
         "published": "2026-11-18T00:01:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.636,
+        "score": 0.599,
         "summary_source": "feed",
         "related": []
       }
@@ -1350,7 +1350,7 @@
         "published": "2026-11-21T14:30:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.363,
+        "score": 3.164,
         "summary_source": "feed",
         "related": []
       },
@@ -1366,7 +1366,7 @@
         "published": "2026-11-21T13:30:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.299,
+        "score": 3.104,
         "summary_source": "feed",
         "related": []
       },
@@ -1382,7 +1382,7 @@
         "published": "2026-11-21T09:44:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.068,
+        "score": 2.887,
         "summary_source": "feed",
         "related": []
       },
@@ -1398,7 +1398,7 @@
         "published": "2026-11-20T18:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.266,
+        "score": 2.132,
         "summary_source": "feed",
         "related": []
       },
@@ -1414,7 +1414,7 @@
         "published": "2026-11-20T17:18:38Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.236,
+        "score": 2.104,
         "summary_source": "feed",
         "related": []
       },
@@ -1430,7 +1430,7 @@
         "published": "2026-11-20T08:40:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.893,
+        "score": 1.782,
         "summary_source": "feed",
         "related": []
       },
@@ -1446,7 +1446,7 @@
         "published": "2026-11-19T16:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.374,
+        "score": 1.293,
         "summary_source": "feed",
         "related": []
       },
@@ -1462,12 +1462,28 @@
         "published": "2026-11-19T08:40:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.193,
+        "score": 1.122,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Breaking": [
+      {
+        "id": "afd7b9ba0d13",
+        "title": "Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches \"zero espionage\" executive girlfriends (Wired)",
+        "summary": "Wired : Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches “zero espionage” executive girlfriends — The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers.",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261121/p11",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-22T00:10:02Z",
+        "first_seen": "2026-11-22T02:40:25Z",
+        "importance": null,
+        "score": 3.43,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "fe948a4f5b6b",
         "title": "Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under \"ZDR\" policies, and saw \"privacy\" often broken, keys stolen (Dan Goodin/Ars Technica)",
@@ -1480,7 +1496,7 @@
         "published": "2026-11-21T20:10:02Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.376,
+        "score": 3.176,
         "summary_source": "feed",
         "related": []
       },
@@ -1496,7 +1512,7 @@
         "published": "2026-11-21T18:55:01Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.295,
+        "score": 3.101,
         "summary_source": "feed",
         "related": []
       },
@@ -1512,7 +1528,7 @@
         "published": "2026-11-21T17:55:01Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.232,
+        "score": 3.041,
         "summary_source": "feed",
         "related": []
       },
@@ -1528,7 +1544,7 @@
         "published": "2026-11-21T15:10:01Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 3.066,
+        "score": 2.885,
         "summary_source": "feed",
         "related": []
       },
@@ -1544,7 +1560,7 @@
         "published": "2026-11-21T18:02:19Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.88,
+        "score": 2.71,
         "summary_source": "none",
         "related": []
       },
@@ -1560,7 +1576,7 @@
         "published": "2026-11-21T11:30:01Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.857,
+        "score": 2.688,
         "summary_source": "feed",
         "related": []
       },
@@ -1576,24 +1592,8 @@
         "published": "2026-11-21T14:36:45Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.696,
+        "score": 2.537,
         "summary_source": "none",
-        "related": []
-      },
-      {
-        "id": "1c8497607162",
-        "title": "How quantum computers built from laser-trapped atoms may correct qubit errors more easily than supercooled chips, speeding the race to a usable machine (Cade Metz/New York Times)",
-        "summary": "Cade Metz / New York Times : How quantum computers built from laser-trapped atoms may correct qubit errors more easily than supercooled chips, speeding the race to a usable machine — Optical tools in a quantum computer at Harvard University.Lucy Lu for The New York Times — For…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261121/p5",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-21T07:30:00Z",
-        "first_seen": "2026-11-21T23:30:38Z",
-        "importance": null,
-        "score": 2.645,
-        "summary_source": "feed",
         "related": []
       }
     ]
@@ -1870,17 +1870,13 @@
       }
     ],
     "ai": {
-      "model": "gemini-2.5-flash",
-      "available": true,
+      "model": "claude-haiku-5-5",
+      "available": false,
       "calls": 0,
       "errors": [
-        "ClientError: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://aistudio.goog",
-        "ClientError: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://aistudio.goog",
-        "ClientError: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://aistudio.goog",
-        "ClientError: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://aistudio.goog",
-        "ClientError: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.8-flash for the latest features and improvements. We recommend you to use the Interactions API (https://aistudio.goog"
+        "ANTHROPIC_API_KEY is not set"
       ],
-      "new_items": 101,
+      "new_items": 1,
       "summarised": 0
     }
   }

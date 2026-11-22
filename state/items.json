@@ -1,4 +1,5 @@
 {
+  "provider": "anthropic",
   "items": {
     "AI:fd3293d27134": {
       "id": "fd3293d27134",
@@ -12,11 +13,11 @@
       "sector": "AI",
       "published": "2026-11-20T00:00:00Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "none",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": ""
     },
     "AI:2c98eea1badd": {
@@ -31,11 +32,11 @@
       "sector": "AI",
       "published": "2026-11-20T00:00:00Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "none",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": ""
     },
     "AI:dc9ad2ef18a9": {
@@ -50,11 +51,11 @@
       "sector": "AI",
       "published": "2026-11-18T19:54:56Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "none",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": ""
     },
     "AI:2b4e18ae10ec": {
@@ -69,11 +70,11 @@
       "sector": "AI",
       "published": "2026-11-18T18:53:43Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "none",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": ""
     },
     "Semiconductors:cb890b75c905": {
@@ -88,11 +89,11 @@
       "sector": "Semiconductors",
       "published": "2026-11-20T08:01:14Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Intel's first 18A-P external customer; Siemens buys Breker; backside clock distribution; Microsoft taps EMIB; export controls tighten around China; Nvidia expands packaging capacity; SC26 brings new HPC HW; JEDEC previews DDR6; Europe pushes ahead with €33B in chip projects."
     },
     "Semiconductors:74840edf0025": {
@@ -107,11 +108,11 @@
       "sector": "Semiconductors",
       "published": "2026-11-19T08:06:18Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Determining not only whether a device meets specification, but how far it is from the boundary, helps inform product robustness and future design decisions."
     },
     "Semiconductors:ba39d0bbe4cb": {
@@ -126,11 +127,11 @@
       "sector": "Semiconductors",
       "published": "2026-11-19T08:05:17Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Moving voltage regulators closer to processors can reduce power loss, but adds challenges for advanced packaging, thermal management, and system-level design."
     },
     "Semiconductors:518a16920104": {
@@ -145,11 +146,11 @@
       "sector": "Semiconductors",
       "published": "2026-11-19T08:03:18Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Model process variation, detect multiple failure modes, and evaluate solutions with less wafer experimentation."
     },
     "Semiconductors:5ea0811bb853": {
@@ -164,11 +165,11 @@
       "sector": "Semiconductors",
       "published": "2026-11-20T22:23:32Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Playground Global is searching CEA laboratories for technologies that could create new markets—but global capital complicates European sovereignty."
     },
     "Semiconductors:a0fb307306fc": {
@@ -183,11 +184,11 @@
       "sector": "Semiconductors",
       "published": "2026-11-20T15:37:26Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Enterprise security outfit Palo Alto Networks snaps up a startup with a platform for post-training and inference of open-weight AI models."
     },
     "Semiconductors:7b674d79e350": {
@@ -202,11 +203,11 @@
       "sector": "Semiconductors",
       "published": "2026-11-20T09:43:53Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "From Nvidia’s CUDA to Anthropic's Claude Code, developer adoption can drive enterprise sales, but hardware startups show how difficult conversion can be."
     },
     "Semiconductors:70beeafb663d": {
@@ -221,11 +222,11 @@
       "sector": "Semiconductors",
       "published": "2026-11-20T07:00:00Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Explore Geehy’s G32R502 1kW bidirectional energy storage inverter reference design, featuring digital control, high efficiency, and UPS functionality."
     },
     "Quantum:2cab16e0b965": {
@@ -240,11 +241,11 @@
       "sector": "Quantum",
       "published": "2026-11-21T08:14:48Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Sorbonne Université and Qubit Pharmaceuticals developed VULCAN, a hybrid quantum-classical framework for quantum chemistry that overcomes limitations of ADAPT-VQE. VULCAN achieves chemical accuracy with significantly fewer quantum resources by employing techniques like dynamic Lie-algebraic operator pool generation, state-overlap circuit compression, and adaptive-subspace projection. Benchmarks show VULCAN outperforms batched ADAPT-VQE in terms of measurement cost and ability to reach chemical accuracy on complex molecules."
     },
     "Quantum:d3ef89c20500": {
@@ -259,11 +260,11 @@
       "sector": "Quantum",
       "published": "2026-11-21T08:10:01Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Researchers from Qubit Pharmaceuticals and Sorbonne Université have developed a new method for quantum chemistry, introducing a polynomial-scaling algebraic framework to construct and verify Minimal Complete Pools (MCPs) for variational quantum eigensolvers (VQE). This approach significantly reduces computational overhead, as demonstrated by GPU-accelerated benchmarks on the Jean Zay supercomputer. The team has open-sourced their C++ and CUDA routines for MCP verification on GitHub."
     },
     "Quantum:12e7e4713e23": {
@@ -278,11 +279,11 @@
       "sector": "Quantum",
       "published": "2026-11-21T08:00:26Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Researchers from Qubit Pharmaceuticals, Sorbonne Université, and Q-CTRL successfully demonstrated 3D protein hydration-site prediction on IBM Heron quantum processors, utilizing up to 123 qubits to identify optimal water placements in drug-target proteins. Their quantum approach outperformed classical methods in certain scenarios, finding lower-energy solutions and achieving higher optimal sampling probabilities. This research paves the way for practical computer-aided drug discovery, with projections indicating utility with approximately 900 qubits."
     },
     "Quantum:cc8c69bc5525": {
@@ -297,11 +298,11 @@
       "sector": "Quantum",
       "published": "2026-11-21T07:36:27Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Researchers developed a polynomial-time Monte Carlo method for benchmarking fault-tolerant non-Clifford quantum circuits, which are essential for universal quantum computation. This method efficiently simulates complex circuits and evaluates logical fidelity by backpropagating Pauli faults and reducing errors to Clifford operators. They demonstrated its effectiveness on circuits up to 256 physical qubits and various magic-state factory designs, finding that a shared ancilla block significantly improves efficiency."
     },
     "CyberSecurity:9717a399c766": {
@@ -316,11 +317,11 @@
       "sector": "CyberSecurity",
       "published": "2026-11-21T00:36:39Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the company was simply paying the attackers for a decryption key and charging victims a markup for work that was never performed."
     },
     "CyberSecurity:2def40a826b0": {
@@ -335,11 +336,11 @@
       "sector": "CyberSecurity",
       "published": "2026-11-18T02:52:04Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize user experiences and test out new features. Experts say the incident, which saw data-stealing malicious software silently injected into sites like the BBC, CNN, Equifax, Ledger and Zoom, was exacerbated by the reality that few popular websites enforce strict rules on the sources of third-party content."
     },
     "CyberSecurity:7af040343434": {
@@ -354,11 +355,11 @@
       "sector": "CyberSecurity",
       "published": "2026-11-21T22:59:58Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters."
     },
     "CyberSecurity:308bcee98657": {
@@ -373,11 +374,11 @@
       "sector": "CyberSecurity",
       "published": "2026-11-21T18:01:58Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information."
     },
     "CyberSecurity:efe5ec769211": {
@@ -392,11 +393,11 @@
       "sector": "CyberSecurity",
       "published": "2026-11-21T15:17:27Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's disruptions."
     },
     "CyberSecurity:cb311d2305bf": {
@@ -411,11 +412,11 @@
       "sector": "CyberSecurity",
       "published": "2026-11-21T14:26:04Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state, and federal law enforcement agencies."
     },
     "CyberSecurity:a81cae02ea64": {
@@ -430,11 +431,11 @@
       "sector": "CyberSecurity",
       "published": "2026-11-20T22:04:12Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "This is the story of the largest squid ever filmed, in December 2006 near Japan’s Ogasawara Islands. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy."
     },
     "CyberSecurity:e94600e618f1": {
@@ -449,11 +450,11 @@
       "sector": "CyberSecurity",
       "published": "2026-11-20T12:04:46Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Researchers used CT scanning technology to recover the code and open a 400-year-old cryptex padlock. You can buy a USB-drive cryptex ."
     },
     "CyberSecurity:e99c0f13ddc9": {
@@ -468,11 +469,11 @@
       "sector": "CyberSecurity",
       "published": "2026-11-18T12:05:35Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Interesting : U.S. intelligence agencies have recently reached a “low confidence” assessment that Iran was responsible for the attacks in France, according to three U.S. officials who spoke on the condition of anonymity to discuss sensitive intelligence. A “low confidence” assessment generally means that there is some intelligence that points in a certain direction but is fragmented, and that the assessment could change as more information is collected. The agencies’ judgment on the French incidents linked those attacks to Iran generally and not to a specific group such as the Revolutionary Guards, two of the officials said. They added that Iran was also seen as probably responsible for other similar attacks around Europe, but that those investigations were in their early stages..."
     },
     "CyberSecurity:5d3b35858f34": {
@@ -487,11 +488,11 @@
       "sector": "CyberSecurity",
       "published": "2026-11-17T12:05:43Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "This seems like a good thing: Google Deepmind researchers used agentic AI to mathematically prove, or “formally verify,” a number of the Signal protocol’s key cryptographic guarantees­a landmark development for the widely used cryptography and AI itself. Conducted as a sort of proof-of-concept project in just four weeks, the work is significant in two ways. It serves as further independent validation of the cryptography that protects massive quantities of the world’s communications on platforms like the Signal app, Google Messages, and WhatsApp. And it demonstrates Google DeepMind’s formal verification capabilities using a new AI framework called AlphaProof Code..."
     },
     "Space:14a1086d53b1": {
@@ -506,11 +507,11 @@
       "sector": "Space",
       "published": "2026-11-19T17:25:17Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "In this episode of Space Minds, SpaceNews’ Mike Gruss speaks with Jan Smolders, the chief commercial officer at Space Inventor. During a conversation at Space Tech Expo Europe, they discuss"
     },
     "Space:c54e0c8404d6": {
@@ -525,11 +526,11 @@
       "sector": "Space",
       "published": "2026-11-19T15:38:18Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "In this episode of Space Minds, SpaceNews’ Mike Gruss speaks with Jean-François Morizur, the co-founder and CEO of Cailabs, at Space Tech Expo Europe. Morizur discusses the misconceptions with laser"
     },
     "Space:eaae5316d0fb": {
@@ -544,11 +545,11 @@
       "sector": "Space",
       "published": "2026-11-18T22:02:00Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "– Collaboration to assess next-generation ultralight solar cells for space-based computing infrastructure – Partnership brings together Korean space energy technology and French orbital infrastructure expertise Bremen, Germany – Flexell Space,"
     },
     "Space:fbca81e4fd87": {
@@ -563,11 +564,11 @@
       "sector": "Space",
       "published": "2026-11-18T20:31:51Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "MERRITT ISLAND, FL, November 18, 2026 — All Points Logistics has announced a partnership with Expeditors International of Washington, Inc. (NYSE: EXPD) to serve as the exclusive logistics provider for"
     },
     "Renewables:2123fc4f72ea": {
@@ -582,11 +583,11 @@
       "sector": "Renewables",
       "published": "2026-11-21T21:34:39Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Editor’s note: In my opinion, a person should not be using Tesla FSD to drive somewhere if they aren’t capable of driving the trip fully themselves. Fritz makes the argument here that it is easier to supervise FSD and that is why someone with a handicap can use it when ... [continued]"
     },
     "Renewables:42aae02599ed": {
@@ -601,11 +602,11 @@
       "sector": "Renewables",
       "published": "2026-11-21T19:38:50Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "High gas prices and a never-ending wave of new BEVs have allowed October to reach 68% EV market share, a new record! This record achievement is thanks to a significant ICE (internal combustion engine) crash. The overall market dropped 27% year over year (YoY), to around 1.6 million sales. Plugins ... [continued]"
     },
     "Renewables:254fe7fc40c2": {
@@ -620,11 +621,11 @@
       "sector": "Renewables",
       "published": "2026-11-21T16:49:13Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Industrial buyers’ price ceilings challenge Europe’s modelled €5.70/kg hydrogen costs. Heat, ammonia and iron compete with other production routes."
     },
     "Renewables:cb410f3e92b2": {
@@ -639,11 +640,11 @@
       "sector": "Renewables",
       "published": "2026-11-21T14:27:15Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Earlier this week, Jackery announced a strategic partnership with Brooklyn-based consumer energy aggregator Every Electric to offer the first plug-in Virtual Power Plant (VPP). The program starts with New York City apartment residents. I went to the RE+ in Las Vegas to meet with leaders from Jackery and Every Electric ... [continued]"
     },
     "Renewables:8b1c93387b6e": {
@@ -658,11 +659,11 @@
       "sector": "Renewables",
       "published": "2026-11-20T11:03:46Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "A conversation with Charley Daitch and JD Lambert of Rowan."
     },
     "Renewables:ef9c9bc20d92": {
@@ -677,11 +678,11 @@
       "sector": "Renewables",
       "published": "2026-11-18T16:02:59Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "A conversation with Lisa Hansmann of Foundry-Logic."
     },
     "Renewables:33afaedc1089": {
@@ -696,11 +697,11 @@
       "sector": "Renewables",
       "published": "2026-11-16T11:04:27Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "none",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Open to all free & paid subscribers."
     },
     "Energy:8a552afd9030": {
@@ -715,11 +716,11 @@
       "sector": "Energy",
       "published": "2026-11-17T05:00:00Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Russia, Saudi Arabia and COP31 co-president Australia are the largest exporters of carbon dioxide (CO2) emissions in history, reveals Carbon"
     },
     "Energy:54f012e53574": {
@@ -734,11 +735,11 @@
       "sector": "Energy",
       "published": "2026-11-20T12:53:38Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Sodium-ion (Na-ion) is continuing to gain traction as a legitimate \"major chemistry\" — with CATL, BYD, and GM all committing to it — some developers, within and outside the US Na-ion space have argued that greater policy support should be directed toward advancing the technology."
     },
     "Energy:3f9f1f6a6bf4": {
@@ -753,11 +754,11 @@
       "sector": "Energy",
       "published": "2026-11-20T12:01:59Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Energy transition expert Chris Nelder looks at which countries are leading the way in the geopolitical race for clean energy supremacy."
     },
     "Energy:e515d0d13a19": {
@@ -772,11 +773,11 @@
       "sector": "Energy",
       "published": "2026-11-20T11:55:25Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Large-scale BESS projects in Germany have been progressed towards construction by Elements Green, Voltwise, EnBW, Green Flexibility, Flower and Dispatch totalling over 4GWh of capacity."
     },
     "Energy:145c96721f2d": {
@@ -791,11 +792,11 @@
       "sector": "Energy",
       "published": "2026-11-20T11:34:56Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Another BESS Industry Buzz, looking at what people are discussing in the industry plus some of the most notable quotes from the RE+ trade show, which concluded yesterday."
     },
     "MedTech:12573e2c4755": {
@@ -810,11 +811,11 @@
       "sector": "MedTech",
       "published": "2026-11-20T16:46:43Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "The company is targeting Food and Drug Administration clearance next year for an autonomous orthopedic robot."
     },
     "MedTech:ea100e6f148e": {
@@ -829,11 +830,11 @@
       "sector": "MedTech",
       "published": "2026-11-20T16:24:06Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "The commercial agreement with Memorial Hermann-Texas Medical Center comes in the same week that rival Medtronic revealed expanded FDA clearance for its Hugo robot in general surgical procedures."
     },
     "MedTech:d5c6fc853c33": {
@@ -848,11 +849,11 @@
       "sector": "MedTech",
       "published": "2026-11-20T15:00:00Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "The balloon-expandable system could complement Abbott’s existing self-expanding Navitor device."
     },
     "MedTech:ee45bcf4b147": {
@@ -867,11 +868,11 @@
       "sector": "MedTech",
       "published": "2026-11-19T15:00:00Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Analysts hailed Cunningham’s experience as a boost to GeneDx as the company tries to enter new markets and maintain its leadership in a competitive sector."
     },
     "Biotech:d9a8eb0a57c6": {
@@ -886,11 +887,11 @@
       "sector": "Biotech",
       "published": "2026-11-21T12:00:00Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "STAT readers weigh in on shortening medical school, fixing pediatric emergency care, and more."
     },
     "Biotech:94b87a20d528": {
@@ -905,11 +906,11 @@
       "sector": "Biotech",
       "published": "2026-11-21T09:30:00Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Kennedy and MAHA say they aren’t anti-vaccine. They can prove it by promoting the MMR vaccine, writes Brinda Adhikari."
     },
     "Biotech:b59ddc25afce": {
@@ -924,11 +925,11 @@
       "sector": "Biotech",
       "published": "2026-11-20T23:43:53Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "The FDA said it had rejected a cell therapy intended for patients with Duchenne muscular dystrophy developed by Capricor Therapeutics."
     },
     "Biotech:a92e5567a222": {
@@ -943,11 +944,11 @@
       "sector": "Biotech",
       "published": "2026-11-20T21:19:27Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "A graduate student who is a scientific researcher at Princeton was detained by ICE while traveling home after presenting at a neuroscience conference."
     },
     "Biotech:56cf0c2c4945": {
@@ -962,11 +963,11 @@
       "sector": "Biotech",
       "published": null,
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Merck & Co.’s sacituzumab tirumotecan has improved overall survival in a phase 3 cancer trial, delivering a second pivotal global victory for the TROP2-directed antibody-drug conjugate."
     },
     "Biotech:359f4ada0e1f": {
@@ -981,11 +982,11 @@
       "sector": "Biotech",
       "published": null,
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "The field of micro- and nanoplastics has drawn a lot of interest in recent years as concerns grow about the impact of contamination in the environment. These tiny plastic particles are created when plastic breaks down and are usually so small that they are invisible to the naked eye."
     },
     "Biotech:a1a72d29634f": {
@@ -1000,11 +1001,11 @@
       "sector": "Biotech",
       "published": null,
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "The FDA is taking a little extra time to review Belite Bio’s application for its treatment for a rare genetic eye condition, pushing the expected action date back by three months into May next year."
     },
     "Biotech:af6e4fce5f37": {
@@ -1019,11 +1020,11 @@
       "sector": "Biotech",
       "published": null,
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "As the grand hotels and cosy cafes filled with biopharma executives and investors for London Life Sciences Week, the weather was as temperamental as any other English November."
     },
     "Telecommunications:bef8f6e7e91b": {
@@ -1038,11 +1039,11 @@
       "sector": "Telecommunications",
       "published": "2026-11-20T14:06:42Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "The FCC has banned Chinese carriers from gaining direct access to US phone numbers over national security concerns and to crack down on scam robocalls."
     },
     "Telecommunications:e73b0ad6c113": {
@@ -1057,11 +1058,11 @@
       "sector": "Telecommunications",
       "published": "2026-11-20T13:22:14Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Also in today's EMEA regional roundup: Connect Fibre half-done in Derbyshire; Orange wants to make connectivity safer for kids; BBC benefits from YouTube exposure."
     },
     "Telecommunications:1ab3ac2315e8": {
@@ -1076,11 +1077,11 @@
       "sector": "Telecommunications",
       "published": "2026-11-20T13:00:00Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "This week in broadband builds: WOW makes $50 million investment in Columbus, Georgia; Spectrum's rural reach grows in Kentucky, Michigan, Tennessee; GoNetspeed kicks off in Newport, Rhode Island – and more."
     },
     "Telecommunications:bdeb7b5c765b": {
@@ -1095,11 +1096,11 @@
       "sector": "Telecommunications",
       "published": "2026-11-20T08:00:00Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Walt Anderson's latest startup Avealto is on a mission to build stratospheric airships for remote connectivity, and it aims to be far cheaper than satellite."
     },
     "Robotics:879bc7819129": {
@@ -1114,11 +1115,11 @@
       "sector": "Robotics",
       "published": "2026-11-21T22:25:35Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Manufacturers looking to deploy autonomous robots must close gaps in industrial data collection, interoperability, and quality feedback to enable reliable decision-making and improve production efficiency."
     },
     "Robotics:a086e532581d": {
@@ -1133,11 +1134,11 @@
       "sector": "Robotics",
       "published": "2026-11-21T00:55:45Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Globally, the Hugo surgical system is on track to surpass 50,000 cumulative procedures by the end of Medtronic's fiscal year."
     },
     "Robotics:940d67ae3761": {
@@ -1152,11 +1153,11 @@
       "sector": "Robotics",
       "published": "2026-11-20T17:04:28Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "MassRobotics plans to open the marine-focused facility in early 2028, with programming starting throughout 2027."
     },
     "Robotics:e17ca1e84ac3": {
@@ -1171,11 +1172,11 @@
       "sector": "Robotics",
       "published": "2026-11-20T03:06:28Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "One of robotics' most influential advocates is gone. Can the industry sustain its momentum without him?"
     },
     "Robotics:ff5dd01c4eb2": {
@@ -1190,11 +1191,11 @@
       "sector": "Robotics",
       "published": "2026-11-20T17:30:03Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Humanoids 2026 : 6–9 December 2026, SANTA CLARA, CA Enjoy today’s videos! Drones navigating cluttered spaces often encounter openings narrower than their bodies. We present a design method that jointly optimizes a quadrotor’s geometry and how its two side arms bend on contact. The resulting prototype folds from 31.3 cm to 14.1 cm wide on contact and flies through a 15 cm opening. [ Paper ] via [ Autonomous Robots Lab ] Thanks, Kostas! TeCoBots are soft, snake-like robots that can work alone and can also grab onto each other to form chains, loops and branches, building a new body for each task. A single robot can inch like a worm, roll across gravel and grass, climb inside a pipe and lift a 2.5-liter water bottle. The claw it uses to grab objects is the same one it uses to grab another robot, so linking up needs no extra docking hardware. Linked together, the robots do things none can do alone. [ TeCoBots ] Thanks, Mahmud! AHEADance is a huma"
     },
     "Robotics:a9a078544735": {
@@ -1209,11 +1210,11 @@
       "sector": "Robotics",
       "published": "2026-11-16T14:00:02Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "I am practicing brain surgery on a patient lying 6 meters away, out of my sight and reach. I press a foot pedal, activating the controller in my hand, and carefully steer a thin flexible tube called a catheter up through the patient’s blood vessels. I head for what I believe to be the brain, tracking my progress on the live X-ray feed. As I imagine finding a blood clot, David Bell , the surgeon seated to my right, helpfully reminds me that every minute a stroke goes untreated, millions of brain cells suffocate, swell, and die . The patient under the X-ray in Bell’s office is not flesh and blood, but a plastic container holding long branches of silicone tubing. The controller I hold comes from an Xbox. But the surgical robot is real. The Remedy N1 is designed for emergency operations, including thrombectomies , the standard brain operation for acute ischemic strokes caused by blood clots. Ischemia, a restriction of blood flow, is the most common cause of stroke. “We want it to feel a bit like a video game—a bit easy,” Bell says. “But we don’t want to dehumanize it as if there’s just another ‘game over.’ ” Bell, a clinician and former cardiac-surgery trainee from Australia, cofounded"
     },
     "Robotics:ebe40c7a81d7": {
@@ -1228,11 +1229,11 @@
       "sector": "Robotics",
       "published": "2026-11-16T10:00:01Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "This article is brought to you by VicOne . VicOne identified an initial set of 28 zero-day findings in less than two days using AI-assisted research across software and tools supporting the Physical AI ecosystem. These include projects developed or maintained by Google, NVIDIA, and Meta, among others. Based on initial validation, all 28 findings are classified as zero-day vulnerabilities. The count may change following vendor and vulnerability-authority review, and some findings do not yet have CVE tracking numbers. Many of these tools help teams train, simulate, test, and operate robots. Weaknesses in them could influence the models teams build, the test results they trust, and the instructions sent to robots. These findings create two demands for robotics teams: responding as AI helps uncover weaknesses faster , and assessing how each one could affect robot safety and operations . What AI changes about vulnerability discovery Vulnerability discovery involves examining code, tracing how systems communicate, and testing whether a suspected weakness can actually be exploited. AI can accelerate parts of this work, helping researchers analyze more software in less time. Attackers coul"
     },
     "Robotics:d31fcae21b1c": {
@@ -1247,11 +1248,11 @@
       "sector": "Robotics",
       "published": "2026-11-15T14:00:02Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Skydio’s drones have always been magical. From MIT research and early prototypes to what I would argue is still the most advanced consumer drone ever made , this is a company that makes very cool stuff. Sadly, Skydio no longer makes cool stuff for consumers , instead focusing on drone platforms for public safety, inspection, and other things that, on a good day, don’t affect me personally. Even so, a new drone from Skydio is worth paying attention to, especially when it’s as weird as this one—the F10 Lightrunner is a fixed-wing camera drone designed for autonomous deployment and high-speed flight, all while looking so lopsided that it’s surprising that it can actually fly. The benefits of asymmetrical aircraft There’s a short rabbit hole you can go down if you start looking for other examples of asymmetrical aircraft. In the 1990s, legendary aircraft designer Burt Rutan and his company Scaled Composites built some decidedly odd airplanes, including the Model 202 Boomerang . But perhaps the most famous asymmetrical aircraft was the Blohm & Voss BV 141 , a World War II-era reconnaissance plane that featured an engine in the middle alongside a crew compartment alarmingly offset out on"
     },
     "Policy:8d361c0b0b7d": {
@@ -1266,11 +1267,11 @@
       "sector": "Policy",
       "published": "2026-11-20T21:52:51Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "In June 2026, the surveillance authority Section 702 of FISA expired absent a consensus among lawmakers over the terms of its reauthorization . Now, with the program set to truly turn off within the next few months, surveillance hawks and national security maximalists are rushing to renew this secretive power by shoving it into a must-pass bill, like a continuing resolution to fund the government or the National Defense Authorization Act (NDAA) or an end of year, rushed, funding bill to prevent a shutdown. This would be both undemocratic and suppress any real chance at reform. In an effort to prevent that, EFF has singed into a letter with over 25 civil liberties organizations, including the ACLU, Color of Change, and the Brennan Center, to urge Congress not to allow such a significant and dangerous program to be tacked onto a must-pass bill. The letter says: “The NDAA is among the most important bills Congress considers each year. It should not be used as a vehicle to circumvent or to cut short this long-running bipartisan debate over Americans’ civil liberties and constitutional rights, nor to force lawmakers to choose between supporting our national defense and ending warrantles"
     },
     "Policy:f2b3114de537": {
@@ -1285,11 +1286,11 @@
       "sector": "Policy",
       "published": "2026-11-19T23:30:50Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "It's been a tough couple of weeks for anyone trying to use email , fly , spend money , use an Apple device *, or do signals intelligence . Technical service outages are nothing new, but why do so many big ones seem to be happening all at once? Are hackers, AI, and international conflicts to blame? And what can we do about it? Since most service interruptions don't make the news, it's hard to get a baseline on how often we see them happen normally. But after a major incident like the Microsoft cloud outage on November 12 , any smaller disruption is more likely to become a story as part of a pattern instead of an isolated incident. We would have heard plenty about the Air Traffic Control problems anyway, but the November 18 disruption to the PlayStation Network might have gotten less attention. There might appear to be a spike or an upward trend in outages, but we can't easily verify that, and the increased coverage will tend to make it seem more significant and interconnected than it necessarily is regardless. One boring reason we might see an uptick in problems right now is the date on the calendar. With Thanksgiving travel, Black Friday, Cyber Monday, Giving Tuesday, and Surveilla"
     },
     "Policy:ea0cd6b18305": {
@@ -1304,11 +1305,11 @@
       "sector": "Policy",
       "published": "2026-11-18T19:52:17Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Outages happen, but we deserve a resilient internet where no one outage at one company can put people at risk and disrupt the global economy. We can only get there by addressing an over-reliance on a few cloud monopolists through effective antitrust laws and interoperability requirements. Service outages, like we’ve seen recently at Microsoft , Apple *, banks , courts , airlines , and elsewhere, can be more than an annoying hurdle. Losing a vital service due to an error can cause the same impacts as a government-ordered internet shutdown—people losing access to vital information and lines of communication. As usual, the greatest harms are faced by people on the margins globally. There’s not much hope in companies out-nerding these issues either. Technical errors will always exist, whether it’s a bug , negligence from an administrator, or a malicious attack. The problem is an over-reliance on any one company or system when these inevitable outages occur. It’s a matter of public safety and economic stability that policymakers mitigate the impact of these disruptions before they occur. In order to do so, we must ensure antitrust prevents providers of key technical systems from becomin"
     },
     "Policy:030382c787b7": {
@@ -1323,11 +1324,11 @@
       "sector": "Policy",
       "published": "2026-11-18T15:10:53Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "In the new comic \"Surveillance Isn't Safety\"—available for free today— cartoonist Bryn Adams explores the growing movement against mass surveillance through their involvement in the community fight against Flock Safety in Cleveland, Ohio. It's a personal journey that will resonate widely with residents in hundreds of cities where communities are drawing the line against automated license plate readers (ALPRs). Jump to the Comic Or download the PDF Published in collaboration between EFF and Crucial Comix , Bryn's comic captures the authenticity of the grassroot backlash against the surveillance industry—undercutting Flock founder Garrett Langley's latest dubious defense that public opposition of his company's product isn't real. At the International Association of Chiefs of Police conference this fall, Langley accused the anti-surveillance activism of being driven by Russian bots and as being \"inorganic.\" He pointed to the fact that many local groups were using similar language in their protest signs as supposed proof, when in reality, shared slogans are one of the hallmarks of a social movement. This was all misdirection from the grim realities that Flock and other ALPR systems fac"
     },
     "Funding & M&A:9fe25fd12ea4": {
@@ -1342,11 +1343,11 @@
       "sector": "Funding & M&A",
       "published": "2026-11-20T00:26:03Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust."
     },
     "Funding & M&A:10645119a0ec": {
@@ -1361,11 +1362,11 @@
       "sector": "Funding & M&A",
       "published": "2026-11-18T21:36:40Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Toyota is looking beyond the automotive industry as it places bigger bets on robotics, physical AI, energy, aerospace, and other emerging technologies. Through its venture arm, Woven Capital, the automaker is investing in startups that could help shape what the company looks like decades from now. But as startup valuations climb and competition for promising"
     },
     "Funding & M&A:40af025dc034": {
@@ -1380,11 +1381,11 @@
       "sector": "Funding & M&A",
       "published": "2026-11-18T19:29:41Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents."
     },
     "Funding & M&A:e0ecced80c62": {
@@ -1399,11 +1400,11 @@
       "sector": "Funding & M&A",
       "published": "2026-11-18T00:01:00Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report."
     },
     "Funding & M&A:6ed28f6346c3": {
@@ -1418,11 +1419,11 @@
       "sector": "Funding & M&A",
       "published": "2026-11-20T20:15:54Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "U.S. startups continued to secure sizable rounds, led by brain-computer interface company Science securing a fresh $400 million."
     },
     "Funding & M&A:a50fa4c3558d": {
@@ -1437,11 +1438,11 @@
       "sector": "Funding & M&A",
       "published": "2026-11-20T12:00:25Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "What if solar farms could keep generating electricity after sunset with a little help from mirrors orbiting Earth? Or researchers could send an experiment into space for less than the price of a car? Our latest roundup also includes a company bringing AI to the old-school business of garbage hauling, another rethinking how factories are programmed, and a consumer brand betting that better breathing could become a big business."
     },
     "Funding & M&A:3cb4358628f9": {
@@ -1456,11 +1457,11 @@
       "sector": "Funding & M&A",
       "published": "2026-11-20T12:00:01Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "The AI buildout’s growing reliance on debt echoes the telecom bubble, raising the risk that infrastructure spending will outpace the revenue needed to meet fixed repayment obligations. According to guest author David Spreng of Runway Growth Capital, even if AI fulfills its technological promise, borrowers’ survival will depend on realistic demand forecasts and debt tied to dependable cash flows, with missed timelines potentially forcing restructurings and bankruptcies."
     },
     "Funding & M&A:e41c84e98a9b": {
@@ -1475,11 +1476,11 @@
       "sector": "Funding & M&A",
       "published": "2026-11-19T12:00:45Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "The $2.6 trillion blue economy is creating startup opportunities in maritime automation, clean energy and logistics, with blue tech funding nearing $10 billion through Q3 2026, driven largely by major defense deals. Alberto Onetti, chairman of Mind the Bridge, writes that ports are emerging as hubs for testing and scaling these technologies, but realizing their potential requires coordination among port authorities, startups, investors and policymakers."
     },
     "Developer Tools:d3c90de9ad10": {
@@ -1494,11 +1495,11 @@
       "sector": "Developer Tools",
       "published": "2026-11-19T16:00:00Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion."
     },
     "Developer Tools:7c1b75317014": {
@@ -1513,11 +1514,11 @@
       "sector": "Developer Tools",
       "published": "2026-11-17T18:29:29Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half."
     },
     "Developer Tools:7b8b07c64f54": {
@@ -1532,11 +1533,11 @@
       "sector": "Developer Tools",
       "published": "2026-11-17T18:20:40Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud."
     },
     "Developer Tools:0ba5c06cad14": {
@@ -1551,11 +1552,11 @@
       "sector": "Developer Tools",
       "published": "2026-11-21T14:30:00Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Grafana 13.3 introduces shared variables across dashboards and adds Notebooks to record investigations. Both features are in public preview and require feature toggles for self-managed installations. By Mark Silvester"
     },
     "Developer Tools:7899b49ec418": {
@@ -1570,11 +1571,11 @@
       "sector": "Developer Tools",
       "published": "2026-11-21T13:30:00Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "At QCon San Francisco 2026, Scott Behrens, Principal Security Engineer at Netflix, presented how staff-plus engineers can define and align a company-wide technical strategy. By Daniel Dominguez"
     },
     "Developer Tools:c47e1f3bd3ce": {
@@ -1589,11 +1590,11 @@
       "sector": "Developer Tools",
       "published": "2026-11-21T09:44:00Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Google recently detailed how three interacting bugs across Google Kubernetes Engine (GKE), Private Service Connect, and the Linux kernel caused intermittent Kubernetes API connectivity failures, blocking around 800 developers from deploying to production. By Renato Losio"
     },
     "Developer Tools:f9314324aba6": {
@@ -1608,11 +1609,11 @@
       "sector": "Developer Tools",
       "published": "2026-11-20T18:00:00Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Meta developed Triton Low-Level Extensions (TLX), designed to bridge the gap between high-level GPU programming abstractions and the low-level execution control required to fully exploit modern GPU architectures. By Sergio De Simone"
     },
     "Developer Tools:edacfcc727e9": {
@@ -1627,11 +1628,11 @@
       "sector": "Developer Tools",
       "published": "2026-11-20T17:18:38Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Go from vibe coding to generating clean, maintainable code"
     },
     "Developer Tools:579bee11ef7f": {
@@ -1646,11 +1647,11 @@
       "sector": "Developer Tools",
       "published": "2026-11-20T08:40:00Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Ryan sits down with Alex Spinelli, Senior Vice President of AI and Developer Platforms at Arm, for a conversation about bringing ML capabilities to edge devices, adapting software tools to meet the unique demands of autonomous agents, and the critical importance of prioritizing functional safety as artificial intelligence transitions into the physical world of robotics."
     },
     "Developer Tools:941c34f32c5b": {
@@ -1665,11 +1666,11 @@
       "sector": "Developer Tools",
       "published": "2026-11-19T08:40:00Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Every engineering org has rolled out AI coding tools by now, but far fewer have actually seen the outcomes they were hoping for."
     },
     "Developer Tools:b5a2f5f0c286": {
@@ -1684,11 +1685,11 @@
       "sector": "Developer Tools",
       "published": "2026-11-17T08:40:00Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 1.0,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Ryan chats with John Romero, creator of the WAD file and the video game Doom, about the self-modifying code and blitting techniques that made Wolfenstein run so fast on early PCs, the mod-friendly architecture that turned Doom into a cultural phenomenon, and why the raw creative problem-solving of Quake proves that human ideas will always beat AI coding agents."
     },
     "Breaking:fe948a4f5b6b": {
@@ -1703,11 +1704,11 @@
       "sector": "Breaking",
       "published": "2026-11-21T20:10:02Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 0.9,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Dan Goodin / Ars Technica : Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under “ZDR” policies, and saw “privacy” often broken, keys stolen — Researchers planted 2 million digital tripwires in requests sent through a sprawling network of AI services"
     },
     "Breaking:1d7e68992e84": {
@@ -1722,11 +1723,11 @@
       "sector": "Breaking",
       "published": "2026-11-21T18:55:01Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 0.9,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Financial Times : Investigation: Alice Huang had ties to gaming firms, alleged Prince Group figures and hundreds of shell companies in a network moving Nvidia chips to China — Chinese executive in romantic relationship with former Nvidia CEO Jensen Huang had connections to the lucrative trade moving chips to China"
     },
     "Breaking:01fbfb30d701": {
@@ -1741,11 +1742,11 @@
       "sector": "Breaking",
       "published": "2026-11-21T17:55:01Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 0.9,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Financial Times : Sources: Amazon is nearing a $7.5B deal to buy AI startup Decart; talks are at an advanced stage and a deal could come together as soon as next week — Acquisition would help AWS compete with Nvidia in race for computing power — Amazon is nearing a $7.5bn deal to buy start-up Decart"
     },
     "Breaking:456e67077a4e": {
@@ -1760,11 +1761,11 @@
       "sector": "Breaking",
       "published": "2026-11-21T15:10:01Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 0.9,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "New York Times : Rhodium: China's biggest tech companies are set to double capex to $139B in 2026 with AI lab revenue under 8% of it, a gap that may matter more than chip curbs — While Anthropic and other Silicon Valley A.I. giants are raising tens of billions in capital, Chinese rivals are struggling to keep pace financially."
     },
     "Breaking:8456576d1c18": {
@@ -1779,11 +1780,11 @@
       "sector": "Breaking",
       "published": "2026-11-21T11:30:01Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 0.9,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Cristina Criddle / Financial Times : An interview with Google DeepMind in-house philosopher Henry Shevlin on being hired to work on machine consciousness, human-AI relationships, and AGI readiness — The in-house philosopher on the problem of consciousness and what it might feel like to be an AI agent"
     },
     "Breaking:1c8497607162": {
@@ -1802,7 +1803,7 @@
       "importance": null,
       "weight": 0.9,
       "summary_source": "feed",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": "Cade Metz / New York Times : How quantum computers built from laser-trapped atoms may correct qubit errors more easily than supercooled chips, speeding the race to a usable machine — Optical tools in a quantum computer at Harvard University.Lucy Lu for The New York Times — For almost a decade, a Google lab in Santa Barbara"
     },
     "Breaking:04d235919667": {
@@ -1817,11 +1818,11 @@
       "sector": "Breaking",
       "published": "2026-11-21T18:02:19Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 0.8,
       "summary_source": "none",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": ""
     },
     "Breaking:ea0757f94ff0": {
@@ -1836,11 +1837,11 @@
       "sector": "Breaking",
       "published": "2026-11-21T14:36:45Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 0.8,
       "summary_source": "none",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": ""
     },
     "Breaking:fa975fa4bb86": {
@@ -1855,11 +1856,11 @@
       "sector": "Breaking",
       "published": "2026-11-21T13:23:14Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 0.8,
       "summary_source": "none",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": ""
     },
     "Breaking:cd2e9be622bc": {
@@ -1874,11 +1875,11 @@
       "sector": "Breaking",
       "published": "2026-11-21T10:36:32Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 0.8,
       "summary_source": "none",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": ""
     },
     "Breaking:51b739d7e2d8": {
@@ -1893,11 +1894,11 @@
       "sector": "Breaking",
       "published": "2026-11-21T08:32:58Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 0.8,
       "summary_source": "none",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": ""
     },
     "Breaking:ca9094c1bd2d": {
@@ -1912,12 +1913,31 @@
       "sector": "Breaking",
       "published": "2026-11-20T23:18:32Z",
       "first_seen": "2026-11-21T23:30:38Z",
-      "last_seen": "2026-11-21T23:30:38Z",
+      "last_seen": "2026-11-22T02:40:25Z",
       "importance": null,
       "weight": 0.8,
       "summary_source": "none",
-      "ai_attempts": 1,
+      "ai_attempts": 0,
       "text": ""
+    },
+    "Breaking:afd7b9ba0d13": {
+      "id": "afd7b9ba0d13",
+      "key": "Breaking:afd7b9ba0d13",
+      "title": "Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches \"zero espionage\" executive girlfriends (Wired)",
+      "summary": "Wired : Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches “zero espionage” executive girlfriends — The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers.",
+      "why_it_matters": "",
+      "link": "https://www.techmeme.com/261121/p11",
+      "source": "Techmeme",
+      "type": "community",
+      "sector": "Breaking",
+      "published": "2026-11-22T00:10:02Z",
+      "first_seen": "2026-11-22T02:40:25Z",
+      "last_seen": "2026-11-22T02:40:25Z",
+      "importance": null,
+      "weight": 0.9,
+      "summary_source": "feed",
+      "ai_attempts": 0,
+      "text": "Wired : Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches “zero espionage” executive girlfriends — The Jensen Huang scandal is the latest fuel for dating anxieties among newly rich and powerful tech workers."
     }
   }
 }
