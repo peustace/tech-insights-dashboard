@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "generated_at": "2026-11-22T22:30:33Z",
-  "last_updated": "2026-11-22 22:30 UTC",
-  "is_sunday_edition": true,
+  "generated_at": "2026-11-23T02:44:14Z",
+  "last_updated": "2026-11-23 02:44 UTC",
+  "is_sunday_edition": false,
   "priority_sectors": [
     "AI",
     "Semiconductors",
@@ -13,6 +13,54 @@
     "7 feed(s) returned no items; see Feed status at the bottom of the page."
   ],
   "top_stories": [
+    {
+      "id": "6dd1e763eb91",
+      "title": "Stellantis CEO More Bullish on EVs than Stellantis CEOs of Old, But Sings Same Boring Song",
+      "summary": "Stellantis has never been a bastion of EV enthusiasm and progress. Back in the day (about 10 years ago), Sergio Marchionne was a very openly, blatantly anti-EV CEO.",
+      "why_it_matters": "",
+      "link": "https://cleantechnica.com/2026/11/22/stellantis-ceo-more-bullish-on-evs-than-stellantis-ceos-of-old-but-sings-same-boring-song/",
+      "source": "CleanTechnica",
+      "type": "news",
+      "sector": "Renewables",
+      "published": "2026-11-23T01:28:49Z",
+      "first_seen": "2026-11-23T02:44:14Z",
+      "importance": null,
+      "score": 3.904,
+      "summary_source": "feed",
+      "related": []
+    },
+    {
+      "id": "27678cf8f838",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "why_it_matters": "",
+      "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "source": "TechCrunch Venture",
+      "type": "news",
+      "sector": "Funding & M&A",
+      "published": "2026-11-23T01:25:53Z",
+      "first_seen": "2026-11-23T02:44:14Z",
+      "importance": null,
+      "score": 3.901,
+      "summary_source": "feed",
+      "related": []
+    },
+    {
+      "id": "062c58224772",
+      "title": "QCon San Francisco 2026: The Harness Is the New Operating System",
+      "summary": "At QCon San Francisco 2026, Mad Labs founder and CEO Manju Rajashekhar opened the conference arguing that the harness around an AI model, rather than the model itself, decides what an agent can do and how safely it does it.",
+      "why_it_matters": "",
+      "link": "https://www.infoq.com/news/2026/11/harness-new-operating-system/",
+      "source": "InfoQ",
+      "type": "news",
+      "sector": "Developer Tools",
+      "published": "2026-11-22T22:44:00Z",
+      "first_seen": "2026-11-23T02:44:14Z",
+      "importance": null,
+      "score": 3.703,
+      "summary_source": "feed",
+      "related": []
+    },
     {
       "id": "cd23c8e430ad",
       "title": "RMI’s Hydrogen Research Is Getting Better. Its Investment Advice Still Falls Short.",
@@ -25,71 +73,23 @@
       "published": "2026-11-22T21:13:20Z",
       "first_seen": "2026-11-22T22:30:33Z",
       "importance": null,
-      "score": 3.902,
+      "score": 3.597,
       "summary_source": "feed",
       "related": []
     },
     {
-      "id": "12fca71d2e71",
-      "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
-      "summary": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse shells giving remote access to infected devices.",
+      "id": "35e27e64fb24",
+      "title": "TPG and Corpay agree to acquire and take private BILL Holdings, whose cloud-based software lets SMBs automate financial operations, in a deal valued at ~$6B (Pritam Biswas/Reuters)",
+      "summary": "Pritam Biswas / Reuters : TPG and Corpay agree to acquire and take private BILL Holdings, whose cloud-based software lets SMBs automate financial operations, in a deal valued at ~$6B — Fintech firm BILL Holdings (BILL.N) said on Thursday it will be acquired by private equity…",
       "why_it_matters": "",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
-      "source": "BleepingComputer",
-      "type": "news",
-      "sector": "CyberSecurity",
-      "published": "2026-11-22T18:45:37Z",
-      "first_seen": "2026-11-22T22:30:33Z",
-      "importance": null,
-      "score": 3.721,
-      "summary_source": "feed",
-      "related": []
-    },
-    {
-      "id": "706a791f14a2",
-      "title": "The Insurance Affordability Crisis: Risks, Resilience, and Solutions",
-      "summary": "NRDC resources on insurance affordability, market availability, climate risk, resilience investments, and strategies to protect homeowners, businesses, and communities.",
-      "why_it_matters": "",
-      "link": "https://cleantechnica.com/2026/11/22/the-insurance-affordability-crisis-risks-resilience-and-solutions/",
-      "source": "CleanTechnica",
-      "type": "news",
-      "sector": "Renewables",
-      "published": "2026-11-22T17:03:31Z",
-      "first_seen": "2026-11-22T18:28:26Z",
-      "importance": null,
-      "score": 3.601,
-      "summary_source": "feed",
-      "related": []
-    },
-    {
-      "id": "e91a69ce5d2e",
-      "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
-      "summary": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes.",
-      "why_it_matters": "",
-      "link": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
-      "source": "BleepingComputer",
-      "type": "news",
-      "sector": "CyberSecurity",
-      "published": "2026-11-22T15:43:04Z",
-      "first_seen": "2026-11-22T18:28:26Z",
-      "importance": null,
-      "score": 3.51,
-      "summary_source": "feed",
-      "related": []
-    },
-    {
-      "id": "a3c608363d98",
-      "title": "After FAA, Microsoft, and bank outages, DNI Jay Clayton says Americans should prepare for \"bumps in the road\" as systems are upgraded to adapt to the AI age (Garrett Downs/CNBC)",
-      "summary": "Garrett Downs / CNBC : After FAA, Microsoft, and bank outages, DNI Jay Clayton says Americans should prepare for “bumps in the road” as systems are upgraded to adapt to the AI age — Director of National Intelligence Jay Clayton warned Americans to prepare for “bumps in the road”",
-      "why_it_matters": "",
-      "link": "https://www.techmeme.com/261122/p11",
+      "link": "https://www.techmeme.com/261122/p17",
       "source": "Techmeme",
       "type": "community",
       "sector": "Breaking",
-      "published": "2026-11-22T20:35:00Z",
-      "first_seen": "2026-11-22T22:30:33Z",
+      "published": "2026-11-23T02:35:00Z",
+      "first_seen": "2026-11-23T02:44:14Z",
       "importance": null,
-      "score": 3.469,
+      "score": 3.589,
       "summary_source": "feed",
       "related": []
     }
@@ -108,7 +108,7 @@
         "published": "2026-11-20T00:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.029,
+        "score": 0.949,
         "summary_source": "none",
         "related": []
       },
@@ -124,7 +124,7 @@
         "published": "2026-11-20T00:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.029,
+        "score": 0.949,
         "summary_source": "none",
         "related": []
       },
@@ -140,7 +140,7 @@
         "published": "2026-11-18T19:54:56Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.599,
+        "score": 0.552,
         "summary_source": "none",
         "related": []
       },
@@ -156,7 +156,7 @@
         "published": "2026-11-18T18:53:43Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.588,
+        "score": 0.542,
         "summary_source": "none",
         "related": []
       },
@@ -172,7 +172,7 @@
         "published": "2026-11-16T14:01:15Z",
         "first_seen": "2026-11-22T10:35:22Z",
         "importance": null,
-        "score": 0.212,
+        "score": 0.196,
         "summary_source": "none",
         "related": []
       }
@@ -190,7 +190,7 @@
         "published": "2026-11-20T22:23:32Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.584,
+        "score": 1.46,
         "summary_source": "feed",
         "related": []
       },
@@ -206,7 +206,7 @@
         "published": "2026-11-20T15:37:26Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.39,
+        "score": 1.282,
         "summary_source": "feed",
         "related": []
       },
@@ -222,7 +222,7 @@
         "published": "2026-11-20T09:43:53Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.241,
+        "score": 1.144,
         "summary_source": "feed",
         "related": []
       },
@@ -238,7 +238,7 @@
         "published": "2026-11-20T08:01:14Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.201,
+        "score": 1.107,
         "summary_source": "feed",
         "related": []
       },
@@ -254,7 +254,7 @@
         "published": "2026-11-20T07:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.178,
+        "score": 1.086,
         "summary_source": "feed",
         "related": []
       },
@@ -270,7 +270,7 @@
         "published": "2026-11-19T08:06:18Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.758,
+        "score": 0.699,
         "summary_source": "feed",
         "related": []
       },
@@ -286,7 +286,7 @@
         "published": "2026-11-19T08:05:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.758,
+        "score": 0.698,
         "summary_source": "feed",
         "related": []
       },
@@ -302,7 +302,7 @@
         "published": "2026-11-19T08:03:18Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.757,
+        "score": 0.698,
         "summary_source": "feed",
         "related": []
       }
@@ -320,7 +320,7 @@
         "published": "2026-11-21T08:14:48Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.915,
+        "score": 1.765,
         "summary_source": "feed",
         "related": []
       },
@@ -336,7 +336,7 @@
         "published": "2026-11-21T08:10:01Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.912,
+        "score": 1.762,
         "summary_source": "feed",
         "related": []
       },
@@ -352,7 +352,7 @@
         "published": "2026-11-21T08:00:26Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.906,
+        "score": 1.757,
         "summary_source": "feed",
         "related": []
       },
@@ -368,7 +368,7 @@
         "published": "2026-11-21T07:36:27Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.891,
+        "score": 1.743,
         "summary_source": "feed",
         "related": []
       }
@@ -386,7 +386,7 @@
         "published": "2026-11-22T18:45:37Z",
         "first_seen": "2026-11-22T22:30:33Z",
         "importance": null,
-        "score": 3.721,
+        "score": 3.43,
         "summary_source": "feed",
         "related": []
       },
@@ -402,7 +402,7 @@
         "published": "2026-11-22T15:43:04Z",
         "first_seen": "2026-11-22T18:28:26Z",
         "importance": null,
-        "score": 3.51,
+        "score": 3.235,
         "summary_source": "feed",
         "related": []
       },
@@ -418,7 +418,7 @@
         "published": "2026-11-22T15:15:25Z",
         "first_seen": "2026-11-22T18:28:26Z",
         "importance": null,
-        "score": 3.479,
+        "score": 3.207,
         "summary_source": "feed",
         "related": []
       },
@@ -434,7 +434,7 @@
         "published": "2026-11-21T22:59:58Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.544,
+        "score": 2.345,
         "summary_source": "feed",
         "related": []
       },
@@ -450,7 +450,7 @@
         "published": "2026-11-21T18:01:58Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.312,
+        "score": 2.131,
         "summary_source": "feed",
         "related": []
       },
@@ -466,7 +466,7 @@
         "published": "2026-11-21T15:17:27Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.193,
+        "score": 2.021,
         "summary_source": "feed",
         "related": []
       },
@@ -482,7 +482,7 @@
         "published": "2026-11-21T14:26:04Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.157,
+        "score": 1.988,
         "summary_source": "feed",
         "related": []
       },
@@ -498,7 +498,7 @@
         "published": "2026-11-21T00:36:39Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.653,
+        "score": 1.524,
         "summary_source": "feed",
         "related": []
       }
@@ -516,7 +516,7 @@
         "published": "2026-11-19T17:25:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.907,
+        "score": 0.836,
         "summary_source": "feed",
         "related": []
       },
@@ -532,7 +532,7 @@
         "published": "2026-11-19T15:38:18Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.876,
+        "score": 0.808,
         "summary_source": "feed",
         "related": []
       },
@@ -548,7 +548,7 @@
         "published": "2026-11-18T22:02:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.624,
+        "score": 0.575,
         "summary_source": "feed",
         "related": []
       },
@@ -564,12 +564,28 @@
         "published": "2026-11-18T20:31:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.606,
+        "score": 0.559,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Renewables": [
+      {
+        "id": "6dd1e763eb91",
+        "title": "Stellantis CEO More Bullish on EVs than Stellantis CEOs of Old, But Sings Same Boring Song",
+        "summary": "Stellantis has never been a bastion of EV enthusiasm and progress. Back in the day (about 10 years ago), Sergio Marchionne was a very openly, blatantly anti-EV CEO.",
+        "why_it_matters": "",
+        "link": "https://cleantechnica.com/2026/11/22/stellantis-ceo-more-bullish-on-evs-than-stellantis-ceos-of-old-but-sings-same-boring-song/",
+        "source": "CleanTechnica",
+        "type": "news",
+        "sector": "Renewables",
+        "published": "2026-11-23T01:28:49Z",
+        "first_seen": "2026-11-23T02:44:14Z",
+        "importance": null,
+        "score": 3.904,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "cd23c8e430ad",
         "title": "RMI’s Hydrogen Research Is Getting Better. Its Investment Advice Still Falls Short.",
@@ -582,7 +598,7 @@
         "published": "2026-11-22T21:13:20Z",
         "first_seen": "2026-11-22T22:30:33Z",
         "importance": null,
-        "score": 3.902,
+        "score": 3.597,
         "summary_source": "feed",
         "related": []
       },
@@ -598,7 +614,7 @@
         "published": "2026-11-22T17:03:31Z",
         "first_seen": "2026-11-22T18:28:26Z",
         "importance": null,
-        "score": 3.601,
+        "score": 3.32,
         "summary_source": "feed",
         "related": []
       },
@@ -614,7 +630,7 @@
         "published": "2026-11-22T15:20:11Z",
         "first_seen": "2026-11-22T18:28:26Z",
         "importance": null,
-        "score": 3.484,
+        "score": 3.212,
         "summary_source": "feed",
         "related": []
       },
@@ -630,7 +646,7 @@
         "published": "2026-11-22T04:49:26Z",
         "first_seen": "2026-11-22T06:45:14Z",
         "importance": null,
-        "score": 2.846,
+        "score": 2.623,
         "summary_source": "feed",
         "related": []
       },
@@ -646,7 +662,7 @@
         "published": "2026-11-21T21:34:39Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.475,
+        "score": 2.282,
         "summary_source": "feed",
         "related": []
       },
@@ -662,7 +678,7 @@
         "published": "2026-11-21T19:38:50Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.385,
+        "score": 2.198,
         "summary_source": "feed",
         "related": []
       },
@@ -678,23 +694,7 @@
         "published": "2026-11-21T16:49:13Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.258,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "cb410f3e92b2",
-        "title": "Jackery & Every Electric Transform Urban Energy Storage With Plug-In VPP",
-        "summary": "Earlier this week, Jackery announced a strategic partnership with Brooklyn-based consumer energy aggregator Every Electric to offer the first plug-in Virtual Power Plant (VPP). The program starts with New York City apartment residents.",
-        "why_it_matters": "",
-        "link": "https://cleantechnica.com/2026/11/21/jackery-every-electric-transform-urban-energy-storage-with-plug-in-vpp/",
-        "source": "CleanTechnica",
-        "type": "news",
-        "sector": "Renewables",
-        "published": "2026-11-21T14:27:15Z",
-        "first_seen": "2026-11-21T23:30:38Z",
-        "importance": null,
-        "score": 2.158,
+        "score": 2.082,
         "summary_source": "feed",
         "related": []
       }
@@ -712,7 +712,7 @@
         "published": "2026-11-20T12:53:38Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.319,
+        "score": 1.216,
         "summary_source": "feed",
         "related": []
       },
@@ -728,7 +728,7 @@
         "published": "2026-11-20T12:01:59Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.297,
+        "score": 1.196,
         "summary_source": "feed",
         "related": []
       },
@@ -744,7 +744,7 @@
         "published": "2026-11-20T11:55:25Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.295,
+        "score": 1.193,
         "summary_source": "feed",
         "related": []
       },
@@ -760,7 +760,7 @@
         "published": "2026-11-20T11:34:56Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.286,
+        "score": 1.186,
         "summary_source": "feed",
         "related": []
       },
@@ -776,7 +776,7 @@
         "published": "2026-11-17T05:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.283,
+        "score": 0.261,
         "summary_source": "feed",
         "related": []
       }
@@ -794,7 +794,7 @@
         "published": "2026-11-20T16:46:43Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.422,
+        "score": 1.31,
         "summary_source": "feed",
         "related": []
       },
@@ -810,7 +810,7 @@
         "published": "2026-11-20T16:24:06Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.411,
+        "score": 1.301,
         "summary_source": "feed",
         "related": []
       },
@@ -826,7 +826,7 @@
         "published": "2026-11-20T15:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.374,
+        "score": 1.266,
         "summary_source": "feed",
         "related": []
       },
@@ -842,7 +842,7 @@
         "published": "2026-11-19T15:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.865,
+        "score": 0.798,
         "summary_source": "feed",
         "related": []
       }
@@ -860,7 +860,7 @@
         "published": null,
         "first_seen": "2026-11-22T14:37:40Z",
         "importance": null,
-        "score": 3.437,
+        "score": 3.168,
         "summary_source": "feed",
         "related": []
       },
@@ -876,7 +876,7 @@
         "published": null,
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.569,
+        "score": 2.368,
         "summary_source": "feed",
         "related": []
       },
@@ -892,7 +892,7 @@
         "published": null,
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.569,
+        "score": 2.368,
         "summary_source": "feed",
         "related": []
       },
@@ -908,7 +908,7 @@
         "published": null,
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.569,
+        "score": 2.368,
         "summary_source": "feed",
         "related": []
       },
@@ -924,7 +924,7 @@
         "published": null,
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.569,
+        "score": 2.368,
         "summary_source": "feed",
         "related": []
       },
@@ -940,7 +940,7 @@
         "published": "2026-11-21T12:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.058,
+        "score": 1.897,
         "summary_source": "feed",
         "related": []
       },
@@ -956,7 +956,7 @@
         "published": "2026-11-21T09:30:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.962,
+        "score": 1.808,
         "summary_source": "feed",
         "related": []
       },
@@ -972,7 +972,7 @@
         "published": "2026-11-20T23:43:53Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.625,
+        "score": 1.498,
         "summary_source": "feed",
         "related": []
       }
@@ -990,7 +990,7 @@
         "published": "2026-11-20T14:06:42Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.35,
+        "score": 1.245,
         "summary_source": "feed",
         "related": []
       },
@@ -1006,7 +1006,7 @@
         "published": "2026-11-20T13:22:14Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.331,
+        "score": 1.227,
         "summary_source": "feed",
         "related": []
       },
@@ -1022,7 +1022,7 @@
         "published": "2026-11-20T13:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.322,
+        "score": 1.218,
         "summary_source": "feed",
         "related": []
       },
@@ -1038,7 +1038,7 @@
         "published": "2026-11-20T08:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.2,
+        "score": 1.107,
         "summary_source": "feed",
         "related": []
       }
@@ -1056,7 +1056,7 @@
         "published": "2026-11-21T22:25:35Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.516,
+        "score": 2.319,
         "summary_source": "feed",
         "related": []
       },
@@ -1072,7 +1072,7 @@
         "published": "2026-11-21T00:55:45Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.663,
+        "score": 1.533,
         "summary_source": "feed",
         "related": []
       },
@@ -1088,7 +1088,7 @@
         "published": "2026-11-20T17:30:03Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.441,
+        "score": 1.329,
         "summary_source": "feed",
         "related": []
       },
@@ -1104,7 +1104,7 @@
         "published": "2026-11-20T17:04:28Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.43,
+        "score": 1.318,
         "summary_source": "feed",
         "related": []
       },
@@ -1120,7 +1120,7 @@
         "published": "2026-11-20T03:06:28Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.093,
+        "score": 1.007,
         "summary_source": "feed",
         "related": []
       },
@@ -1136,7 +1136,7 @@
         "published": "2026-11-16T14:00:02Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.212,
+        "score": 0.196,
         "summary_source": "feed",
         "related": []
       },
@@ -1152,7 +1152,7 @@
         "published": "2026-11-16T10:00:01Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.196,
+        "score": 0.181,
         "summary_source": "feed",
         "related": []
       },
@@ -1168,7 +1168,7 @@
         "published": "2026-11-15T14:00:02Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.134,
+        "score": 0.123,
         "summary_source": "feed",
         "related": []
       }
@@ -1186,7 +1186,7 @@
         "published": "2026-11-20T21:52:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.568,
+        "score": 1.446,
         "summary_source": "feed",
         "related": []
       },
@@ -1202,7 +1202,7 @@
         "published": "2026-11-19T23:30:50Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.02,
+        "score": 0.94,
         "summary_source": "feed",
         "related": []
       },
@@ -1218,7 +1218,7 @@
         "published": "2026-11-18T19:52:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.599,
+        "score": 0.552,
         "summary_source": "feed",
         "related": []
       },
@@ -1234,12 +1234,28 @@
         "published": "2026-11-18T15:10:53Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.547,
+        "score": 0.504,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Funding & M&A": [
+      {
+        "id": "27678cf8f838",
+        "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+        "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+        "why_it_matters": "",
+        "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+        "source": "TechCrunch Venture",
+        "type": "news",
+        "sector": "Funding & M&A",
+        "published": "2026-11-23T01:25:53Z",
+        "first_seen": "2026-11-23T02:44:14Z",
+        "importance": null,
+        "score": 3.901,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "6ed28f6346c3",
         "title": "The Week’s 10 Biggest Funding Rounds: $400M For Neurotech Leads, Followed By Big Deals For AI, Fintech, Biotech And More",
@@ -1252,7 +1268,7 @@
         "published": "2026-11-20T20:15:54Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.52,
+        "score": 1.401,
         "summary_source": "feed",
         "related": []
       },
@@ -1268,7 +1284,7 @@
         "published": "2026-11-20T12:00:25Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.297,
+        "score": 1.195,
         "summary_source": "feed",
         "related": []
       },
@@ -1284,7 +1300,7 @@
         "published": "2026-11-20T12:00:01Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.297,
+        "score": 1.195,
         "summary_source": "feed",
         "related": []
       },
@@ -1300,7 +1316,7 @@
         "published": "2026-11-20T00:26:03Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.038,
+        "score": 0.957,
         "summary_source": "feed",
         "related": []
       },
@@ -1316,7 +1332,7 @@
         "published": "2026-11-19T12:00:45Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.817,
+        "score": 0.753,
         "summary_source": "feed",
         "related": []
       },
@@ -1332,7 +1348,7 @@
         "published": "2026-11-18T21:36:40Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.619,
+        "score": 0.571,
         "summary_source": "feed",
         "related": []
       },
@@ -1348,28 +1364,28 @@
         "published": "2026-11-18T19:29:41Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.594,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "e0ecced80c62",
-        "title": "Stripe backer Atomico calls for Europe to own its success stories",
-        "summary": "Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report.",
-        "why_it_matters": "",
-        "link": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
-        "source": "TechCrunch Venture",
-        "type": "news",
-        "sector": "Funding & M&A",
-        "published": "2026-11-18T00:01:00Z",
-        "first_seen": "2026-11-21T23:30:38Z",
-        "importance": null,
-        "score": 0.409,
+        "score": 0.548,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Developer Tools": [
+      {
+        "id": "062c58224772",
+        "title": "QCon San Francisco 2026: The Harness Is the New Operating System",
+        "summary": "At QCon San Francisco 2026, Mad Labs founder and CEO Manju Rajashekhar opened the conference arguing that the harness around an AI model, rather than the model itself, decides what an agent can do and how safely it does it.",
+        "why_it_matters": "",
+        "link": "https://www.infoq.com/news/2026/11/harness-new-operating-system/",
+        "source": "InfoQ",
+        "type": "news",
+        "sector": "Developer Tools",
+        "published": "2026-11-22T22:44:00Z",
+        "first_seen": "2026-11-23T02:44:14Z",
+        "importance": null,
+        "score": 3.703,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "3f1b64d8b27d",
         "title": "PostgreSQL 19 Released with Online Table Repacking and Query Planning Controls",
@@ -1382,7 +1398,7 @@
         "published": "2026-11-22T12:54:00Z",
         "first_seen": "2026-11-22T14:37:40Z",
         "importance": null,
-        "score": 3.324,
+        "score": 3.064,
         "summary_source": "feed",
         "related": []
       },
@@ -1398,7 +1414,7 @@
         "published": "2026-11-22T11:00:00Z",
         "first_seen": "2026-11-22T14:37:40Z",
         "importance": null,
-        "score": 3.205,
+        "score": 2.954,
         "summary_source": "feed",
         "related": []
       },
@@ -1414,7 +1430,7 @@
         "published": "2026-11-22T06:30:00Z",
         "first_seen": "2026-11-22T06:45:14Z",
         "importance": null,
-        "score": 2.939,
+        "score": 2.709,
         "summary_source": "feed",
         "related": []
       },
@@ -1430,7 +1446,7 @@
         "published": "2026-11-22T06:27:00Z",
         "first_seen": "2026-11-22T06:45:14Z",
         "importance": null,
-        "score": 2.936,
+        "score": 2.707,
         "summary_source": "feed",
         "related": []
       },
@@ -1446,7 +1462,7 @@
         "published": "2026-11-21T14:30:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.16,
+        "score": 1.991,
         "summary_source": "feed",
         "related": []
       },
@@ -1462,7 +1478,7 @@
         "published": "2026-11-21T13:30:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.119,
+        "score": 1.953,
         "summary_source": "feed",
         "related": []
       },
@@ -1478,28 +1494,108 @@
         "published": "2026-11-21T09:44:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.97,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "f9314324aba6",
-        "title": "Meta TLX, a Native GPU Compiler Extension Supporting Advanced Hardware Capabilities",
-        "summary": "Meta developed Triton Low-Level Extensions (TLX), designed to bridge the gap between high-level GPU programming abstractions and the low-level execution control required to fully exploit modern GPU architectures. By Sergio De Simone",
-        "why_it_matters": "",
-        "link": "https://www.infoq.com/news/2026/11/meta-triton-tlx-gpu-compiler/",
-        "source": "InfoQ",
-        "type": "news",
-        "sector": "Developer Tools",
-        "published": "2026-11-20T18:00:00Z",
-        "first_seen": "2026-11-21T23:30:38Z",
-        "importance": null,
-        "score": 1.455,
+        "score": 1.816,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Breaking": [
+      {
+        "id": "35e27e64fb24",
+        "title": "TPG and Corpay agree to acquire and take private BILL Holdings, whose cloud-based software lets SMBs automate financial operations, in a deal valued at ~$6B (Pritam Biswas/Reuters)",
+        "summary": "Pritam Biswas / Reuters : TPG and Corpay agree to acquire and take private BILL Holdings, whose cloud-based software lets SMBs automate financial operations, in a deal valued at ~$6B — Fintech firm BILL Holdings (BILL.N) said on Thursday it will be acquired by private equity…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261122/p17",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-23T02:35:00Z",
+        "first_seen": "2026-11-23T02:44:14Z",
+        "importance": null,
+        "score": 3.589,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "e99a704fddf5",
+        "title": "GPT-6.2 Astra vs. Claude Fable 5.2 hands-on: nearly tied on three custom accounting, coding, and data tasks, but Fable used far more tokens and cost 5x+ as much (Jessica Wachtel/The New Stack)",
+        "summary": "Jessica Wachtel / The New Stack : GPT-6.2 Astra vs. Claude Fable 5.2 hands-on: nearly tied on three custom accounting, coding, and data tasks, but Fable used far more tokens and cost 5x+ as much — When I compared Anthropic's Fable 5.2 vs.",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261122/p16",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-23T01:45:00Z",
+        "first_seen": "2026-11-23T02:44:14Z",
+        "importance": null,
+        "score": 3.532,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "276b6e014fdb",
+        "title": "Sources: Jay Clayton, director of national intelligence and AI czar, will also be acting national cyber director pending Kirsten A. Davies' Senate confirmation (Axios)",
+        "summary": "Axios : Sources: Jay Clayton, director of national intelligence and AI czar, will also be acting national cyber director pending Kirsten A.",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261122/p15",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-23T00:55:00Z",
+        "first_seen": "2026-11-23T02:44:14Z",
+        "importance": null,
+        "score": 3.476,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "3bf2924c3012",
+        "title": "A profile of siblings Dario and Daniela Amodei; while at OpenAI, Dario suggested immersive videogames might ease political strife from AI-induced joblessness (Wall Street Journal)",
+        "summary": "Wall Street Journal : A profile of siblings Dario and Daniela Amodei; while at OpenAI, Dario suggested immersive videogames might ease political strife from AI-induced joblessness — Dario and Daniela Amodei were on top of the biggest IPO ever Thursday-and a market rout one day…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261122/p14",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-23T00:45:01Z",
+        "first_seen": "2026-11-23T02:44:14Z",
+        "importance": null,
+        "score": 3.465,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "9d7a5aa2951f",
+        "title": "Sources: Alice Huang was in touch with an officer of China's spy agency MSS from spring 2025 until this fall; her business partner Kang Wei also worked with MSS (New York Times)",
+        "summary": "New York Times : Sources: Alice Huang was in touch with an officer of China's spy agency MSS from spring 2025 until this fall; her business partner Kang Wei also worked with MSS — U.S. intelligence is said to show that the woman at the heart of the A.I. chip scandal was in touch…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261122/p13",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-23T00:30:02Z",
+        "first_seen": "2026-11-23T02:44:14Z",
+        "importance": null,
+        "score": 3.448,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "b162730ada7c",
+        "title": "How Dario Amodei built Anthropic's tightly knit culture with essays, Slack memos, and \"Vision Quest\" talks, as Anthropic seeds his ideas with opinion-makers (Nitasha Tiku/Washington Post)",
+        "summary": "Nitasha Tiku / Washington Post : How Dario Amodei built Anthropic's tightly knit culture with essays, Slack memos, and “Vision Quest” talks, as Anthropic seeds his ideas with opinion-makers — Anthropic is worth more than $1 trillion.",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261122/p12",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-22T23:20:08Z",
+        "first_seen": "2026-11-23T02:44:14Z",
+        "importance": null,
+        "score": 3.372,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "a3c608363d98",
         "title": "After FAA, Microsoft, and bank outages, DNI Jay Clayton says Americans should prepare for \"bumps in the road\" as systems are upgraded to adapt to the AI age (Garrett Downs/CNBC)",
@@ -1512,7 +1608,7 @@
         "published": "2026-11-22T20:35:00Z",
         "first_seen": "2026-11-22T22:30:33Z",
         "importance": null,
-        "score": 3.469,
+        "score": 3.198,
         "summary_source": "feed",
         "related": []
       },
@@ -1528,103 +1624,7 @@
         "published": "2026-11-22T19:50:01Z",
         "first_seen": "2026-11-22T22:30:33Z",
         "importance": null,
-        "score": 3.419,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "096cdc888433",
-        "title": "OpenAI shares its models' perplexity, or how well they predict data, and proposes pacing limits on such metrics, citing a possible 2027 \"avalanche\" of advances (Jakub Pachocki/OpenAI)",
-        "summary": "Jakub Pachocki / OpenAI : OpenAI shares its models' perplexity, or how well they predict data, and proposes pacing limits on such metrics, citing a possible 2027 “avalanche” of advances — - Difficulty of comparison across labs. … - Detachment from actionable evaluations. … - Not…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261122/p9",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-22T18:25:01Z",
-        "first_seen": "2026-11-22T18:28:26Z",
-        "importance": null,
-        "score": 3.327,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "4ced4760c55c",
-        "title": "Sources: amid leak fears, Anthropic limited some IPO banks to four-person teams, used a view-logging file platform, and sought six-month bans on advising rivals (Reuters)",
-        "summary": "Reuters : Sources: amid leak fears, Anthropic limited some IPO banks to four-person teams, used a view-logging file platform, and sought six-month bans on advising rivals — For the second time this year, Wall Street bankers and lawyers took home a massive paycheck from a…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261122/p8",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-22T17:15:01Z",
-        "first_seen": "2026-11-22T18:28:26Z",
-        "importance": null,
-        "score": 3.253,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "4978b578a285",
-        "title": "Jony Ive, ex-OpenAI product designer Joey Flynn, and others on Silicon Valley's obsession with \"taste\" as a moat against AI slop and whether AI can learn it (Jonah Weiner/New York Times)",
-        "summary": "Jonah Weiner / New York Times : Jony Ive, ex-OpenAI product designer Joey Flynn, and others on Silicon Valley's obsession with “taste” as a moat against AI slop and whether AI can learn it — To move through A.I.-era San Francisco as a relatively normal person is to confront the…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261122/p7",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-22T15:00:34Z",
-        "first_seen": "2026-11-22T18:28:26Z",
-        "importance": null,
-        "score": 3.116,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "55be2de96f3b",
-        "title": "What Happened to Silicon Valley?",
-        "summary": "",
-        "why_it_matters": "",
-        "link": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
-        "source": "Hacker News",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-22T19:20:15Z",
-        "first_seen": "2026-11-22T22:30:33Z",
-        "importance": null,
-        "score": 3.01,
-        "summary_source": "none",
-        "related": []
-      },
-      {
-        "id": "615a40cadbde",
-        "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-        "summary": "",
-        "why_it_matters": "",
-        "link": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-        "source": "Hacker News",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-22T19:10:34Z",
-        "first_seen": "2026-11-22T22:30:33Z",
-        "importance": null,
-        "score": 3.001,
-        "summary_source": "none",
-        "related": []
-      },
-      {
-        "id": "b9e734c1bc1a",
-        "title": "Experts say AI has made planning cyberattacks on industrial equipment faster by helping attackers read manuals and research past accidents more quickly (Tom Wilson/Financial Times)",
-        "summary": "Tom Wilson / Financial Times : Experts say AI has made planning cyberattacks on industrial equipment faster by helping attackers read manuals and research past accidents more quickly — The freezer war is just a start. The year is 2027.",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261122/p6",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-22T11:01:10Z",
-        "first_seen": "2026-11-22T14:37:40Z",
-        "importance": null,
-        "score": 2.886,
+        "score": 3.152,
         "summary_source": "feed",
         "related": []
       }
@@ -1648,9 +1648,9 @@
         "sector": "AI",
         "source": "Import AI",
         "url": "https://importai.substack.com/feed",
-        "status": "ok",
-        "entries": 1,
-        "error": null
+        "status": "error",
+        "entries": 0,
+        "error": "HTTP 403"
       },
       {
         "sector": "AI",
@@ -1784,9 +1784,9 @@
         "sector": "Biotech",
         "source": "Fierce Biotech",
         "url": "https://www.fiercebiotech.com/rss/xml",
-        "status": "error",
-        "entries": 0,
-        "error": "HTTP 403"
+        "status": "ok",
+        "entries": 4,
+        "error": null
       },
       {
         "sector": "Telecommunications",
@@ -1908,7 +1908,7 @@
       "errors": [
         "ANTHROPIC_API_KEY is not set"
       ],
-      "new_items": 8,
+      "new_items": 12,
       "summarised": 0
     }
   }
