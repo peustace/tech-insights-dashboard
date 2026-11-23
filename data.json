@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "generated_at": "2026-11-23T02:44:14Z",
-  "last_updated": "2026-11-23 02:44 UTC",
+  "generated_at": "2026-11-23T06:58:55Z",
+  "last_updated": "2026-11-23 06:58 UTC",
   "is_sunday_edition": false,
   "priority_sectors": [
     "AI",
@@ -10,9 +10,25 @@
   ],
   "notices": [
     "AI summaries are unavailable this run; showing feed text instead.",
-    "7 feed(s) returned no items; see Feed status at the bottom of the page."
+    "3 feed(s) returned no items; see Feed status at the bottom of the page."
   ],
   "top_stories": [
+    {
+      "id": "fd8346c7cd75",
+      "title": "LDV eDeliver 5 — A Chinese Bargain?",
+      "summary": "A bargain electric van from China — the LDV eDeliver 5. “The tide is changing; people are more on board with Chinese cars and electric vehicles” in Australia. And it has 50% more cargo space than the Korean competition (6.6 cubic metres).",
+      "why_it_matters": "",
+      "link": "https://cleantechnica.com/2026/11/22/ldv-edeliver-5-a-chinese-bargain/",
+      "source": "CleanTechnica",
+      "type": "news",
+      "sector": "Renewables",
+      "published": "2026-11-23T04:20:14Z",
+      "first_seen": "2026-11-23T06:58:55Z",
+      "importance": null,
+      "score": 3.801,
+      "summary_source": "feed",
+      "related": []
+    },
     {
       "id": "6dd1e763eb91",
       "title": "Stellantis CEO More Bullish on EVs than Stellantis CEOs of Old, But Sings Same Boring Song",
@@ -25,7 +41,7 @@
       "published": "2026-11-23T01:28:49Z",
       "first_seen": "2026-11-23T02:44:14Z",
       "importance": null,
-      "score": 3.904,
+      "score": 3.598,
       "summary_source": "feed",
       "related": []
     },
@@ -41,61 +57,93 @@
       "published": "2026-11-23T01:25:53Z",
       "first_seen": "2026-11-23T02:44:14Z",
       "importance": null,
-      "score": 3.901,
+      "score": 3.595,
       "summary_source": "feed",
       "related": []
     },
     {
-      "id": "062c58224772",
-      "title": "QCon San Francisco 2026: The Harness Is the New Operating System",
-      "summary": "At QCon San Francisco 2026, Mad Labs founder and CEO Manju Rajashekhar opened the conference arguing that the harness around an AI model, rather than the model itself, decides what an agent can do and how safely it does it.",
+      "id": "b47f5293ae15",
+      "title": "Compute Desk, which is building capital markets infrastructure to price, trade, hedge, and clear compute, raised a $45M seed round led by Lightspeed (Lucinda Shen/Axios)",
+      "summary": "Lucinda Shen / Axios : Compute Desk, which is building capital markets infrastructure to price, trade, hedge, and clear compute, raised a $45M seed round led by Lightspeed — Compute Desk, a startup aiming to make compute an asset that can be traded and hedged, raised $45 million…",
       "why_it_matters": "",
-      "link": "https://www.infoq.com/news/2026/11/harness-new-operating-system/",
-      "source": "InfoQ",
-      "type": "news",
-      "sector": "Developer Tools",
-      "published": "2026-11-22T22:44:00Z",
-      "first_seen": "2026-11-23T02:44:14Z",
-      "importance": null,
-      "score": 3.703,
-      "summary_source": "feed",
-      "related": []
-    },
-    {
-      "id": "cd23c8e430ad",
-      "title": "RMI’s Hydrogen Research Is Getting Better. Its Investment Advice Still Falls Short.",
-      "summary": "RMI's hydrogen research increasingly favors batteries and narrower demand, but its investment recommendations still promote subsidies and infrastructure.",
-      "why_it_matters": "",
-      "link": "https://cleantechnica.com/2026/11/22/rmis-hydrogen-research-is-getting-better-its-investment-advice-still-falls-short/",
-      "source": "CleanTechnica",
-      "type": "news",
-      "sector": "Renewables",
-      "published": "2026-11-22T21:13:20Z",
-      "first_seen": "2026-11-22T22:30:33Z",
-      "importance": null,
-      "score": 3.597,
-      "summary_source": "feed",
-      "related": []
-    },
-    {
-      "id": "35e27e64fb24",
-      "title": "TPG and Corpay agree to acquire and take private BILL Holdings, whose cloud-based software lets SMBs automate financial operations, in a deal valued at ~$6B (Pritam Biswas/Reuters)",
-      "summary": "Pritam Biswas / Reuters : TPG and Corpay agree to acquire and take private BILL Holdings, whose cloud-based software lets SMBs automate financial operations, in a deal valued at ~$6B — Fintech firm BILL Holdings (BILL.N) said on Thursday it will be acquired by private equity…",
-      "why_it_matters": "",
-      "link": "https://www.techmeme.com/261122/p17",
+      "link": "https://www.techmeme.com/261123/p3",
       "source": "Techmeme",
       "type": "community",
       "sector": "Breaking",
-      "published": "2026-11-23T02:35:00Z",
-      "first_seen": "2026-11-23T02:44:14Z",
+      "published": "2026-11-23T06:40:01Z",
+      "first_seen": "2026-11-23T06:58:55Z",
       "importance": null,
-      "score": 3.589,
+      "score": 3.578,
+      "summary_source": "feed",
+      "related": []
+    },
+    {
+      "id": "6f9abcd210e2",
+      "title": "New US chip export rules threaten SEA's data center boom, risking incomplete and abandoned projects and forcing neoclouds to replace their Chinese customers (Bloomberg)",
+      "summary": "Bloomberg : New US chip export rules threaten SEA's data center boom, risking incomplete and abandoned projects and forcing neoclouds to replace their Chinese customers — Washington's new rulebook spells trouble for a multibillion dollar cloud business helping to power the…",
+      "why_it_matters": "",
+      "link": "https://www.techmeme.com/261123/p2",
+      "source": "Techmeme",
+      "type": "community",
+      "sector": "Breaking",
+      "published": "2026-11-23T06:02:06Z",
+      "first_seen": "2026-11-23T06:58:55Z",
+      "importance": null,
+      "score": 3.535,
       "summary_source": "feed",
       "related": []
     }
   ],
   "sectors": {
     "AI": [
+      {
+        "id": "a320002a9775",
+        "title": "Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams",
+        "summary": "Generative AI has improved individual productivity, but whether adding a plurality of AI partners helps or hurts remains open.",
+        "why_it_matters": "",
+        "link": "https://arxiv.org/abs/2611.26663",
+        "source": "arXiv cs.AI",
+        "type": "paper",
+        "sector": "AI",
+        "published": "2026-11-23T05:00:00Z",
+        "first_seen": "2026-11-23T06:58:55Z",
+        "importance": null,
+        "score": 2.31,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "bf25ff593ad6",
+        "title": "Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation",
+        "summary": "Synthesizing relational training data such as knowledge graphs with a large language model typically emits structured objects one at a time, which keeps each object valid but leaves the relationships between them ungrounded.",
+        "why_it_matters": "",
+        "link": "https://arxiv.org/abs/2611.26717",
+        "source": "arXiv cs.AI",
+        "type": "paper",
+        "sector": "AI",
+        "published": "2026-11-23T05:00:00Z",
+        "first_seen": "2026-11-23T06:58:55Z",
+        "importance": null,
+        "score": 2.31,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "efb6744bbe6f",
+        "title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
+        "summary": "To autonomously execute multi-step tasks, enterprise agents must reliably interact with tools, call APIs, or query databases, making tool-calling a fundamental capability of AI models.",
+        "why_it_matters": "",
+        "link": "https://arxiv.org/abs/2611.26722",
+        "source": "arXiv cs.AI",
+        "type": "paper",
+        "sector": "AI",
+        "published": "2026-11-23T05:00:00Z",
+        "first_seen": "2026-11-23T06:58:55Z",
+        "importance": null,
+        "score": 2.31,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "fd3293d27134",
         "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
@@ -108,7 +156,7 @@
         "published": "2026-11-20T00:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.949,
+        "score": 0.874,
         "summary_source": "none",
         "related": []
       },
@@ -124,7 +172,7 @@
         "published": "2026-11-20T00:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.949,
+        "score": 0.874,
         "summary_source": "none",
         "related": []
       },
@@ -140,7 +188,7 @@
         "published": "2026-11-18T19:54:56Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.552,
+        "score": 0.509,
         "summary_source": "none",
         "related": []
       },
@@ -156,7 +204,7 @@
         "published": "2026-11-18T18:53:43Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.542,
+        "score": 0.499,
         "summary_source": "none",
         "related": []
       },
@@ -172,7 +220,7 @@
         "published": "2026-11-16T14:01:15Z",
         "first_seen": "2026-11-22T10:35:22Z",
         "importance": null,
-        "score": 0.196,
+        "score": 0.18,
         "summary_source": "none",
         "related": []
       }
@@ -190,7 +238,7 @@
         "published": "2026-11-20T22:23:32Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.46,
+        "score": 1.345,
         "summary_source": "feed",
         "related": []
       },
@@ -206,7 +254,7 @@
         "published": "2026-11-20T15:37:26Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.282,
+        "score": 1.181,
         "summary_source": "feed",
         "related": []
       },
@@ -222,7 +270,7 @@
         "published": "2026-11-20T09:43:53Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.144,
+        "score": 1.054,
         "summary_source": "feed",
         "related": []
       },
@@ -238,7 +286,7 @@
         "published": "2026-11-20T08:01:14Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.107,
+        "score": 1.02,
         "summary_source": "feed",
         "related": []
       },
@@ -254,7 +302,7 @@
         "published": "2026-11-20T07:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.086,
+        "score": 1.0,
         "summary_source": "feed",
         "related": []
       },
@@ -270,7 +318,7 @@
         "published": "2026-11-19T08:06:18Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.699,
+        "score": 0.644,
         "summary_source": "feed",
         "related": []
       },
@@ -286,7 +334,7 @@
         "published": "2026-11-19T08:05:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.698,
+        "score": 0.644,
         "summary_source": "feed",
         "related": []
       },
@@ -302,12 +350,60 @@
         "published": "2026-11-19T08:03:18Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.698,
+        "score": 0.643,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Quantum": [
+      {
+        "id": "158a1ef496ed",
+        "title": "Thermalization and quantum chaos in a pure gauge discrete non-Abelian lattice gauge theory",
+        "summary": "Gauge theories constitute the basis of our microscopic description of fundamental physical laws, and they are a cornerstone of contemporary scientific research.",
+        "why_it_matters": "",
+        "link": "https://arxiv.org/abs/2611.26695",
+        "source": "arXiv quant-ph",
+        "type": "paper",
+        "sector": "Quantum",
+        "published": "2026-11-23T05:00:00Z",
+        "first_seen": "2026-11-23T06:58:55Z",
+        "importance": null,
+        "score": 2.31,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "e3f6064b25d8",
+        "title": "Certification of non-stabilizerness in multi-qubit systems via worst-case random access codes",
+        "summary": "Recent works have proposed semi-device-independent frameworks to certify non-stabilizerness, but the complexity of the stabilizer polytope makes these methods infeasible beyond a few qubits.",
+        "why_it_matters": "",
+        "link": "https://arxiv.org/abs/2611.26705",
+        "source": "arXiv quant-ph",
+        "type": "paper",
+        "sector": "Quantum",
+        "published": "2026-11-23T05:00:00Z",
+        "first_seen": "2026-11-23T06:58:55Z",
+        "importance": null,
+        "score": 2.31,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "8836e4b95686",
+        "title": "Improved Digitization Bounds for U(1) Lattice Gauge Theory via Semiclassical Analysis",
+        "summary": "Simulating lattice gauge theories on a digital quantum computer or using tensor network methods requires a finite-dimensional approximation of the gauge field, a process often called digitization.",
+        "why_it_matters": "",
+        "link": "https://arxiv.org/abs/2611.26720",
+        "source": "arXiv quant-ph",
+        "type": "paper",
+        "sector": "Quantum",
+        "published": "2026-11-23T05:00:00Z",
+        "first_seen": "2026-11-23T06:58:55Z",
+        "importance": null,
+        "score": 2.31,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "2cab16e0b965",
         "title": "Sorbonne Université and Qubit Pharmaceuticals Introduce VULCAN Hybrid Framework for Scalable Quantum Chemistry",
@@ -320,7 +416,7 @@
         "published": "2026-11-21T08:14:48Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.765,
+        "score": 1.627,
         "summary_source": "feed",
         "related": []
       },
@@ -336,7 +432,7 @@
         "published": "2026-11-21T08:10:01Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.762,
+        "score": 1.624,
         "summary_source": "feed",
         "related": []
       },
@@ -352,7 +448,7 @@
         "published": "2026-11-21T08:00:26Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.757,
+        "score": 1.619,
         "summary_source": "feed",
         "related": []
       },
@@ -368,7 +464,7 @@
         "published": "2026-11-21T07:36:27Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.743,
+        "score": 1.607,
         "summary_source": "feed",
         "related": []
       }
@@ -386,7 +482,7 @@
         "published": "2026-11-22T18:45:37Z",
         "first_seen": "2026-11-22T22:30:33Z",
         "importance": null,
-        "score": 3.43,
+        "score": 3.161,
         "summary_source": "feed",
         "related": []
       },
@@ -402,7 +498,7 @@
         "published": "2026-11-22T15:43:04Z",
         "first_seen": "2026-11-22T18:28:26Z",
         "importance": null,
-        "score": 3.235,
+        "score": 2.981,
         "summary_source": "feed",
         "related": []
       },
@@ -418,7 +514,7 @@
         "published": "2026-11-22T15:15:25Z",
         "first_seen": "2026-11-22T18:28:26Z",
         "importance": null,
-        "score": 3.207,
+        "score": 2.955,
         "summary_source": "feed",
         "related": []
       },
@@ -434,7 +530,7 @@
         "published": "2026-11-21T22:59:58Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.345,
+        "score": 2.161,
         "summary_source": "feed",
         "related": []
       },
@@ -450,7 +546,7 @@
         "published": "2026-11-21T18:01:58Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.131,
+        "score": 1.964,
         "summary_source": "feed",
         "related": []
       },
@@ -466,7 +562,7 @@
         "published": "2026-11-21T15:17:27Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.021,
+        "score": 1.863,
         "summary_source": "feed",
         "related": []
       },
@@ -482,7 +578,7 @@
         "published": "2026-11-21T14:26:04Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.988,
+        "score": 1.832,
         "summary_source": "feed",
         "related": []
       },
@@ -498,7 +594,7 @@
         "published": "2026-11-21T00:36:39Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.524,
+        "score": 1.404,
         "summary_source": "feed",
         "related": []
       }
@@ -516,7 +612,7 @@
         "published": "2026-11-19T17:25:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.836,
+        "score": 0.77,
         "summary_source": "feed",
         "related": []
       },
@@ -532,7 +628,7 @@
         "published": "2026-11-19T15:38:18Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.808,
+        "score": 0.744,
         "summary_source": "feed",
         "related": []
       },
@@ -548,7 +644,7 @@
         "published": "2026-11-18T22:02:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.575,
+        "score": 0.53,
         "summary_source": "feed",
         "related": []
       },
@@ -564,12 +660,28 @@
         "published": "2026-11-18T20:31:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.559,
+        "score": 0.515,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Renewables": [
+      {
+        "id": "fd8346c7cd75",
+        "title": "LDV eDeliver 5 — A Chinese Bargain?",
+        "summary": "A bargain electric van from China — the LDV eDeliver 5. “The tide is changing; people are more on board with Chinese cars and electric vehicles” in Australia. And it has 50% more cargo space than the Korean competition (6.6 cubic metres).",
+        "why_it_matters": "",
+        "link": "https://cleantechnica.com/2026/11/22/ldv-edeliver-5-a-chinese-bargain/",
+        "source": "CleanTechnica",
+        "type": "news",
+        "sector": "Renewables",
+        "published": "2026-11-23T04:20:14Z",
+        "first_seen": "2026-11-23T06:58:55Z",
+        "importance": null,
+        "score": 3.801,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "6dd1e763eb91",
         "title": "Stellantis CEO More Bullish on EVs than Stellantis CEOs of Old, But Sings Same Boring Song",
@@ -582,7 +694,7 @@
         "published": "2026-11-23T01:28:49Z",
         "first_seen": "2026-11-23T02:44:14Z",
         "importance": null,
-        "score": 3.904,
+        "score": 3.598,
         "summary_source": "feed",
         "related": []
       },
@@ -598,7 +710,7 @@
         "published": "2026-11-22T21:13:20Z",
         "first_seen": "2026-11-22T22:30:33Z",
         "importance": null,
-        "score": 3.597,
+        "score": 3.315,
         "summary_source": "feed",
         "related": []
       },
@@ -614,7 +726,7 @@
         "published": "2026-11-22T17:03:31Z",
         "first_seen": "2026-11-22T18:28:26Z",
         "importance": null,
-        "score": 3.32,
+        "score": 3.059,
         "summary_source": "feed",
         "related": []
       },
@@ -630,7 +742,7 @@
         "published": "2026-11-22T15:20:11Z",
         "first_seen": "2026-11-22T18:28:26Z",
         "importance": null,
-        "score": 3.212,
+        "score": 2.96,
         "summary_source": "feed",
         "related": []
       },
@@ -646,7 +758,7 @@
         "published": "2026-11-22T04:49:26Z",
         "first_seen": "2026-11-22T06:45:14Z",
         "importance": null,
-        "score": 2.623,
+        "score": 2.417,
         "summary_source": "feed",
         "related": []
       },
@@ -662,7 +774,7 @@
         "published": "2026-11-21T21:34:39Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.282,
+        "score": 2.102,
         "summary_source": "feed",
         "related": []
       },
@@ -678,23 +790,7 @@
         "published": "2026-11-21T19:38:50Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.198,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "254fe7fc40c2",
-        "title": "Europe’s Modelled €5.70/kg Hydrogen Faces Industrial Buyers Who Can Afford Far Less",
-        "summary": "Industrial buyers’ price ceilings challenge Europe’s modelled €5.70/kg hydrogen costs. Heat, ammonia and iron compete with other production routes.",
-        "why_it_matters": "",
-        "link": "https://cleantechnica.com/2026/11/21/europe-hydrogen-cost-industrial-buyers-price-ceilings/",
-        "source": "CleanTechnica",
-        "type": "news",
-        "sector": "Renewables",
-        "published": "2026-11-21T16:49:13Z",
-        "first_seen": "2026-11-21T23:30:38Z",
-        "importance": null,
-        "score": 2.082,
+        "score": 2.026,
         "summary_source": "feed",
         "related": []
       }
@@ -712,7 +808,7 @@
         "published": "2026-11-20T12:53:38Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.216,
+        "score": 1.121,
         "summary_source": "feed",
         "related": []
       },
@@ -728,7 +824,7 @@
         "published": "2026-11-20T12:01:59Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.196,
+        "score": 1.102,
         "summary_source": "feed",
         "related": []
       },
@@ -744,7 +840,7 @@
         "published": "2026-11-20T11:55:25Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.193,
+        "score": 1.1,
         "summary_source": "feed",
         "related": []
       },
@@ -760,7 +856,7 @@
         "published": "2026-11-20T11:34:56Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.186,
+        "score": 1.093,
         "summary_source": "feed",
         "related": []
       },
@@ -776,7 +872,7 @@
         "published": "2026-11-17T05:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.261,
+        "score": 0.241,
         "summary_source": "feed",
         "related": []
       }
@@ -794,7 +890,7 @@
         "published": "2026-11-20T16:46:43Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.31,
+        "score": 1.208,
         "summary_source": "feed",
         "related": []
       },
@@ -810,7 +906,7 @@
         "published": "2026-11-20T16:24:06Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.301,
+        "score": 1.199,
         "summary_source": "feed",
         "related": []
       },
@@ -826,7 +922,7 @@
         "published": "2026-11-20T15:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.266,
+        "score": 1.167,
         "summary_source": "feed",
         "related": []
       },
@@ -842,7 +938,7 @@
         "published": "2026-11-19T15:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.798,
+        "score": 0.735,
         "summary_source": "feed",
         "related": []
       }
@@ -860,7 +956,7 @@
         "published": null,
         "first_seen": "2026-11-22T14:37:40Z",
         "importance": null,
-        "score": 3.168,
+        "score": 2.919,
         "summary_source": "feed",
         "related": []
       },
@@ -876,7 +972,7 @@
         "published": null,
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.368,
+        "score": 2.182,
         "summary_source": "feed",
         "related": []
       },
@@ -892,7 +988,7 @@
         "published": null,
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.368,
+        "score": 2.182,
         "summary_source": "feed",
         "related": []
       },
@@ -908,7 +1004,7 @@
         "published": null,
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.368,
+        "score": 2.182,
         "summary_source": "feed",
         "related": []
       },
@@ -924,7 +1020,7 @@
         "published": null,
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.368,
+        "score": 2.182,
         "summary_source": "feed",
         "related": []
       },
@@ -940,7 +1036,7 @@
         "published": "2026-11-21T12:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.897,
+        "score": 1.748,
         "summary_source": "feed",
         "related": []
       },
@@ -956,7 +1052,7 @@
         "published": "2026-11-21T09:30:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.808,
+        "score": 1.666,
         "summary_source": "feed",
         "related": []
       },
@@ -972,12 +1068,44 @@
         "published": "2026-11-20T23:43:53Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.498,
+        "score": 1.381,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Telecommunications": [
+      {
+        "id": "5e777eb1b934",
+        "title": "Path-Aware Fusion of Infrastructure RF Sensing and Robot Perception in a Live Robotic Digital Twin",
+        "summary": "Mobile robots in industrial workspaces must react to people that their onboard sensors cannot yet observe.",
+        "why_it_matters": "",
+        "link": "https://arxiv.org/abs/2611.27497",
+        "source": "arXiv cs.NI",
+        "type": "paper",
+        "sector": "Telecommunications",
+        "published": "2026-11-23T05:00:00Z",
+        "first_seen": "2026-11-23T06:58:55Z",
+        "importance": null,
+        "score": 1.925,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "cb1986e4a37c",
+        "title": "TITAN: DRL-Based Dynamic Scheduling and Resource Allocation for Tactile Internet",
+        "summary": "Tactile Internet (TI) applications require ultra-reliable, low-latency tactile communication alongside video traffic. However, tactile Quality of Service (QoS) requirements vary with the interaction context, making fixed resource allocation inefficient.",
+        "why_it_matters": "",
+        "link": "https://arxiv.org/abs/2611.27560",
+        "source": "arXiv cs.NI",
+        "type": "paper",
+        "sector": "Telecommunications",
+        "published": "2026-11-23T05:00:00Z",
+        "first_seen": "2026-11-23T06:58:55Z",
+        "importance": null,
+        "score": 1.925,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "bef8f6e7e91b",
         "title": "FCC tightens grip on Chinese telcos, blocks direct access to US phone numbers",
@@ -990,7 +1118,7 @@
         "published": "2026-11-20T14:06:42Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.245,
+        "score": 1.147,
         "summary_source": "feed",
         "related": []
       },
@@ -1006,7 +1134,7 @@
         "published": "2026-11-20T13:22:14Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.227,
+        "score": 1.131,
         "summary_source": "feed",
         "related": []
       },
@@ -1022,7 +1150,7 @@
         "published": "2026-11-20T13:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.218,
+        "score": 1.123,
         "summary_source": "feed",
         "related": []
       },
@@ -1038,7 +1166,7 @@
         "published": "2026-11-20T08:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.107,
+        "score": 1.02,
         "summary_source": "feed",
         "related": []
       }
@@ -1056,7 +1184,39 @@
         "published": "2026-11-21T22:25:35Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 2.319,
+        "score": 2.137,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "6d7b070d647d",
+        "title": "One Behavior, Out of Order: Deterministic Execution and Parallel Simulation of ROS 2 Applications",
+        "summary": "System-level simulation is widely used to validate robotic applications before hardware deployment.",
+        "why_it_matters": "",
+        "link": "https://arxiv.org/abs/2611.26676",
+        "source": "arXiv cs.RO",
+        "type": "paper",
+        "sector": "Robotics",
+        "published": "2026-11-23T05:00:00Z",
+        "first_seen": "2026-11-23T06:58:55Z",
+        "importance": null,
+        "score": 1.925,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "eb2d77fe34e3",
+        "title": "Latent Space Planning with Sequential Monte Carlo",
+        "summary": "Planning with learned world models amounts to finding action sequences whose predicted rollouts reach a goal. Sampling-based planners often struggle at longer horizons, while gradient-based methods can become trapped in local minima.",
+        "why_it_matters": "",
+        "link": "https://arxiv.org/abs/2611.26706",
+        "source": "arXiv cs.RO",
+        "type": "paper",
+        "sector": "Robotics",
+        "published": "2026-11-23T05:00:00Z",
+        "first_seen": "2026-11-23T06:58:55Z",
+        "importance": null,
+        "score": 1.925,
         "summary_source": "feed",
         "related": []
       },
@@ -1072,7 +1232,7 @@
         "published": "2026-11-21T00:55:45Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.533,
+        "score": 1.413,
         "summary_source": "feed",
         "related": []
       },
@@ -1088,7 +1248,7 @@
         "published": "2026-11-20T17:30:03Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.329,
+        "score": 1.224,
         "summary_source": "feed",
         "related": []
       },
@@ -1104,7 +1264,7 @@
         "published": "2026-11-20T17:04:28Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.318,
+        "score": 1.214,
         "summary_source": "feed",
         "related": []
       },
@@ -1120,7 +1280,7 @@
         "published": "2026-11-20T03:06:28Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.007,
+        "score": 0.928,
         "summary_source": "feed",
         "related": []
       },
@@ -1136,39 +1296,7 @@
         "published": "2026-11-16T14:00:02Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.196,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "ebe40c7a81d7",
-        "title": "28 Zero-Day Findings in Under Two Days. Is Robotics Security Keeping Pace?",
-        "summary": "This article is brought to you by VicOne . VicOne identified an initial set of 28 zero-day findings in less than two days using AI-assisted research across software and tools supporting the Physical AI ecosystem.",
-        "why_it_matters": "",
-        "link": "https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security",
-        "source": "IEEE Spectrum Robotics",
-        "type": "news",
-        "sector": "Robotics",
-        "published": "2026-11-16T10:00:01Z",
-        "first_seen": "2026-11-21T23:30:38Z",
-        "importance": null,
-        "score": 0.181,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "d31fcae21b1c",
-        "title": "Why Skydio Built a Lopsided Drone",
-        "summary": "Skydio’s drones have always been magical. From MIT research and early prototypes to what I would argue is still the most advanced consumer drone ever made , this is a company that makes very cool stuff.",
-        "why_it_matters": "",
-        "link": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
-        "source": "IEEE Spectrum Robotics",
-        "type": "news",
-        "sector": "Robotics",
-        "published": "2026-11-15T14:00:02Z",
-        "first_seen": "2026-11-21T23:30:38Z",
-        "importance": null,
-        "score": 0.123,
+        "score": 0.18,
         "summary_source": "feed",
         "related": []
       }
@@ -1186,7 +1314,7 @@
         "published": "2026-11-20T21:52:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.446,
+        "score": 1.332,
         "summary_source": "feed",
         "related": []
       },
@@ -1202,7 +1330,7 @@
         "published": "2026-11-19T23:30:50Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.94,
+        "score": 0.866,
         "summary_source": "feed",
         "related": []
       },
@@ -1218,7 +1346,7 @@
         "published": "2026-11-18T19:52:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.552,
+        "score": 0.509,
         "summary_source": "feed",
         "related": []
       },
@@ -1234,7 +1362,7 @@
         "published": "2026-11-18T15:10:53Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.504,
+        "score": 0.465,
         "summary_source": "feed",
         "related": []
       }
@@ -1252,7 +1380,7 @@
         "published": "2026-11-23T01:25:53Z",
         "first_seen": "2026-11-23T02:44:14Z",
         "importance": null,
-        "score": 3.901,
+        "score": 3.595,
         "summary_source": "feed",
         "related": []
       },
@@ -1268,7 +1396,7 @@
         "published": "2026-11-20T20:15:54Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.401,
+        "score": 1.291,
         "summary_source": "feed",
         "related": []
       },
@@ -1284,7 +1412,7 @@
         "published": "2026-11-20T12:00:25Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.195,
+        "score": 1.102,
         "summary_source": "feed",
         "related": []
       },
@@ -1300,7 +1428,7 @@
         "published": "2026-11-20T12:00:01Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.195,
+        "score": 1.101,
         "summary_source": "feed",
         "related": []
       },
@@ -1316,7 +1444,7 @@
         "published": "2026-11-20T00:26:03Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.957,
+        "score": 0.882,
         "summary_source": "feed",
         "related": []
       },
@@ -1332,7 +1460,7 @@
         "published": "2026-11-19T12:00:45Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.753,
+        "score": 0.694,
         "summary_source": "feed",
         "related": []
       },
@@ -1348,7 +1476,7 @@
         "published": "2026-11-18T21:36:40Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.571,
+        "score": 0.526,
         "summary_source": "feed",
         "related": []
       },
@@ -1364,7 +1492,7 @@
         "published": "2026-11-18T19:29:41Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.548,
+        "score": 0.505,
         "summary_source": "feed",
         "related": []
       }
@@ -1382,7 +1510,7 @@
         "published": "2026-11-22T22:44:00Z",
         "first_seen": "2026-11-23T02:44:14Z",
         "importance": null,
-        "score": 3.703,
+        "score": 3.413,
         "summary_source": "feed",
         "related": []
       },
@@ -1398,7 +1526,7 @@
         "published": "2026-11-22T12:54:00Z",
         "first_seen": "2026-11-22T14:37:40Z",
         "importance": null,
-        "score": 3.064,
+        "score": 2.824,
         "summary_source": "feed",
         "related": []
       },
@@ -1414,7 +1542,7 @@
         "published": "2026-11-22T11:00:00Z",
         "first_seen": "2026-11-22T14:37:40Z",
         "importance": null,
-        "score": 2.954,
+        "score": 2.723,
         "summary_source": "feed",
         "related": []
       },
@@ -1430,7 +1558,7 @@
         "published": "2026-11-22T06:30:00Z",
         "first_seen": "2026-11-22T06:45:14Z",
         "importance": null,
-        "score": 2.709,
+        "score": 2.497,
         "summary_source": "feed",
         "related": []
       },
@@ -1446,7 +1574,7 @@
         "published": "2026-11-22T06:27:00Z",
         "first_seen": "2026-11-22T06:45:14Z",
         "importance": null,
-        "score": 2.707,
+        "score": 2.494,
         "summary_source": "feed",
         "related": []
       },
@@ -1462,7 +1590,7 @@
         "published": "2026-11-21T14:30:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.991,
+        "score": 1.835,
         "summary_source": "feed",
         "related": []
       },
@@ -1478,7 +1606,7 @@
         "published": "2026-11-21T13:30:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.953,
+        "score": 1.8,
         "summary_source": "feed",
         "related": []
       },
@@ -1494,12 +1622,108 @@
         "published": "2026-11-21T09:44:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.816,
+        "score": 1.674,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Breaking": [
+      {
+        "id": "b47f5293ae15",
+        "title": "Compute Desk, which is building capital markets infrastructure to price, trade, hedge, and clear compute, raised a $45M seed round led by Lightspeed (Lucinda Shen/Axios)",
+        "summary": "Lucinda Shen / Axios : Compute Desk, which is building capital markets infrastructure to price, trade, hedge, and clear compute, raised a $45M seed round led by Lightspeed — Compute Desk, a startup aiming to make compute an asset that can be traded and hedged, raised $45 million…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261123/p3",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-23T06:40:01Z",
+        "first_seen": "2026-11-23T06:58:55Z",
+        "importance": null,
+        "score": 3.578,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "6f9abcd210e2",
+        "title": "New US chip export rules threaten SEA's data center boom, risking incomplete and abandoned projects and forcing neoclouds to replace their Chinese customers (Bloomberg)",
+        "summary": "Bloomberg : New US chip export rules threaten SEA's data center boom, risking incomplete and abandoned projects and forcing neoclouds to replace their Chinese customers — Washington's new rulebook spells trouble for a multibillion dollar cloud business helping to power the…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261123/p2",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-23T06:02:06Z",
+        "first_seen": "2026-11-23T06:58:55Z",
+        "importance": null,
+        "score": 3.535,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "790e219d53ee",
+        "title": "London-based Alecto, which uses AI and legal experts to help consumers understand UK property law, raised $20M in seed funding led by Insight Partners (Kyt Dotson/SiliconANGLE)",
+        "summary": "Kyt Dotson / SiliconANGLE : London-based Alecto, which uses AI and legal experts to help consumers understand UK property law, raised $20M in seed funding led by Insight Partners — Alecto Conveyancing Ltd., a London-based artificial intelligence-native law firm, today announced…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261123/p1",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-23T05:30:01Z",
+        "first_seen": "2026-11-23T06:58:55Z",
+        "importance": null,
+        "score": 3.499,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "e2000861a75f",
+        "title": "South Korean PE firm MBK Partners agrees to take Japan's Wacom private, in a deal valuing the digital pen tech company at ~$860M, with Samsung participating (Kim Woo-young/CHOSUNBIZ)",
+        "summary": "Kim Woo-young / CHOSUNBIZ : South Korean PE firm MBK Partners agrees to take Japan's Wacom private, in a deal valuing the digital pen tech company at ~$860M, with Samsung participating — Private equity firm MBK Partners will acquire Wacom, a Japanese company that supplies core…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261122/p20",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-23T04:40:00Z",
+        "first_seen": "2026-11-23T06:58:55Z",
+        "importance": null,
+        "score": 3.443,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "738cfd0ccd63",
+        "title": "Alexandr Wang says the Riemann Hypothesis proof shows AI will surpass humans in every field, including AI research, and calls for AI safety and alignment (Alexandr Wang/@alexandr_wang)",
+        "summary": "Alexandr Wang / @alexandr_wang : Alexandr Wang says the Riemann Hypothesis proof shows AI will surpass humans in every field, including AI research, and calls for AI safety and alignment — Superintelligence is Arriving",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261122/p19",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-23T04:00:14Z",
+        "first_seen": "2026-11-23T06:58:55Z",
+        "importance": null,
+        "score": 3.399,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "ec8c575c8972",
+        "title": "Arva AI, which builds AI agents for banks' financial-crime compliance teams and counts Wise as a customer, raised a $20M Series A led by Arthur Ventures (Ryan Lawler/Axios)",
+        "summary": "Ryan Lawler / Axios : Arva AI, which builds AI agents for banks' financial-crime compliance teams and counts Wise as a customer, raised a $20M Series A led by Arthur Ventures — Arva AI, which builds AI agents for banks' financial-crime compliance teams, has raised $20 million in…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261122/p18",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-23T03:25:01Z",
+        "first_seen": "2026-11-23T06:58:55Z",
+        "importance": null,
+        "score": 3.361,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "35e27e64fb24",
         "title": "TPG and Corpay agree to acquire and take private BILL Holdings, whose cloud-based software lets SMBs automate financial operations, in a deal valued at ~$6B (Pritam Biswas/Reuters)",
@@ -1512,7 +1736,7 @@
         "published": "2026-11-23T02:35:00Z",
         "first_seen": "2026-11-23T02:44:14Z",
         "importance": null,
-        "score": 3.589,
+        "score": 3.308,
         "summary_source": "feed",
         "related": []
       },
@@ -1528,103 +1752,7 @@
         "published": "2026-11-23T01:45:00Z",
         "first_seen": "2026-11-23T02:44:14Z",
         "importance": null,
-        "score": 3.532,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "276b6e014fdb",
-        "title": "Sources: Jay Clayton, director of national intelligence and AI czar, will also be acting national cyber director pending Kirsten A. Davies' Senate confirmation (Axios)",
-        "summary": "Axios : Sources: Jay Clayton, director of national intelligence and AI czar, will also be acting national cyber director pending Kirsten A.",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261122/p15",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-23T00:55:00Z",
-        "first_seen": "2026-11-23T02:44:14Z",
-        "importance": null,
-        "score": 3.476,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "3bf2924c3012",
-        "title": "A profile of siblings Dario and Daniela Amodei; while at OpenAI, Dario suggested immersive videogames might ease political strife from AI-induced joblessness (Wall Street Journal)",
-        "summary": "Wall Street Journal : A profile of siblings Dario and Daniela Amodei; while at OpenAI, Dario suggested immersive videogames might ease political strife from AI-induced joblessness — Dario and Daniela Amodei were on top of the biggest IPO ever Thursday-and a market rout one day…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261122/p14",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-23T00:45:01Z",
-        "first_seen": "2026-11-23T02:44:14Z",
-        "importance": null,
-        "score": 3.465,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "9d7a5aa2951f",
-        "title": "Sources: Alice Huang was in touch with an officer of China's spy agency MSS from spring 2025 until this fall; her business partner Kang Wei also worked with MSS (New York Times)",
-        "summary": "New York Times : Sources: Alice Huang was in touch with an officer of China's spy agency MSS from spring 2025 until this fall; her business partner Kang Wei also worked with MSS — U.S. intelligence is said to show that the woman at the heart of the A.I. chip scandal was in touch…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261122/p13",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-23T00:30:02Z",
-        "first_seen": "2026-11-23T02:44:14Z",
-        "importance": null,
-        "score": 3.448,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "b162730ada7c",
-        "title": "How Dario Amodei built Anthropic's tightly knit culture with essays, Slack memos, and \"Vision Quest\" talks, as Anthropic seeds his ideas with opinion-makers (Nitasha Tiku/Washington Post)",
-        "summary": "Nitasha Tiku / Washington Post : How Dario Amodei built Anthropic's tightly knit culture with essays, Slack memos, and “Vision Quest” talks, as Anthropic seeds his ideas with opinion-makers — Anthropic is worth more than $1 trillion.",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261122/p12",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-22T23:20:08Z",
-        "first_seen": "2026-11-23T02:44:14Z",
-        "importance": null,
-        "score": 3.372,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "a3c608363d98",
-        "title": "After FAA, Microsoft, and bank outages, DNI Jay Clayton says Americans should prepare for \"bumps in the road\" as systems are upgraded to adapt to the AI age (Garrett Downs/CNBC)",
-        "summary": "Garrett Downs / CNBC : After FAA, Microsoft, and bank outages, DNI Jay Clayton says Americans should prepare for “bumps in the road” as systems are upgraded to adapt to the AI age — Director of National Intelligence Jay Clayton warned Americans to prepare for “bumps in the road”",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261122/p11",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-22T20:35:00Z",
-        "first_seen": "2026-11-22T22:30:33Z",
-        "importance": null,
-        "score": 3.198,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "19a4b88f9334",
-        "title": "A week after urging an Nvidia shake-up, Scott Bessent says Jensen Huang's return should depend on probes of its China chip sales and presses Nvidia for answers (Alan Rappeport/New York Times)",
-        "summary": "Alan Rappeport / New York Times : A week after urging an Nvidia shake-up, Scott Bessent says Jensen Huang's return should depend on probes of its China chip sales and presses Nvidia for answers — The treasury secretary said on CBS that it was too soon to say if Jensen Huang…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261122/p10",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-22T19:50:01Z",
-        "first_seen": "2026-11-22T22:30:33Z",
-        "importance": null,
-        "score": 3.152,
+        "score": 3.255,
         "summary_source": "feed",
         "related": []
       }
@@ -1656,8 +1784,8 @@
         "sector": "AI",
         "source": "arXiv cs.AI",
         "url": "https://rss.arxiv.org/rss/cs.AI",
-        "status": "empty",
-        "entries": 0,
+        "status": "ok",
+        "entries": 3,
         "error": null
       },
       {
@@ -1688,8 +1816,8 @@
         "sector": "Quantum",
         "source": "arXiv quant-ph",
         "url": "https://rss.arxiv.org/rss/quant-ph",
-        "status": "empty",
-        "entries": 0,
+        "status": "ok",
+        "entries": 3,
         "error": null
       },
       {
@@ -1800,8 +1928,8 @@
         "sector": "Telecommunications",
         "source": "arXiv cs.NI",
         "url": "https://rss.arxiv.org/rss/cs.NI",
-        "status": "empty",
-        "entries": 0,
+        "status": "ok",
+        "entries": 2,
         "error": null
       },
       {
@@ -1824,8 +1952,8 @@
         "sector": "Robotics",
         "source": "arXiv cs.RO",
         "url": "https://rss.arxiv.org/rss/cs.RO",
-        "status": "empty",
-        "entries": 0,
+        "status": "ok",
+        "entries": 2,
         "error": null
       },
       {
@@ -1908,7 +2036,7 @@
       "errors": [
         "ANTHROPIC_API_KEY is not set"
       ],
-      "new_items": 12,
+      "new_items": 19,
       "summarised": 0
     }
   }
