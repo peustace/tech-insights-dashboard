@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "generated_at": "2026-11-23T22:38:36Z",
-  "last_updated": "2026-11-23 22:38 UTC",
+  "generated_at": "2026-11-24T02:44:21Z",
+  "last_updated": "2026-11-24 02:44 UTC",
   "is_sunday_edition": false,
   "priority_sectors": [
     "AI",
@@ -14,6 +14,54 @@
   ],
   "top_stories": [
     {
+      "id": "200aff004bd8",
+      "title": "Solar Industry Supports BAAJA While Environmental Orgs Oppose It",
+      "summary": "The Bipartisan American Affordability and Jobs Act (BAAJA) is an interesting piece of legislation. It is getting a ton of support from the solar sector, but it is heavily opposed by environmental organizations.",
+      "why_it_matters": "",
+      "link": "https://cleantechnica.com/2026/11/23/solar-industry-supports-baaja-while-environmental-orgs-oppose-it/",
+      "source": "CleanTechnica",
+      "type": "news",
+      "sector": "Renewables",
+      "published": "2026-11-24T01:50:33Z",
+      "first_seen": "2026-11-24T02:44:21Z",
+      "importance": null,
+      "score": 3.932,
+      "summary_source": "feed",
+      "related": []
+    },
+    {
+      "id": "74f522f08cbb",
+      "title": "STAT+: Medicare estimates $9.2 billion in savings from third round of negotiated drug prices",
+      "summary": "The Trump administration said that the federal government will save $9.2 billion on drugs purchased through Medicare next year as a result of price negotiations.",
+      "why_it_matters": "",
+      "link": "https://www.statnews.com/2026/11/23/medicare-drug-price-negotiations-announcement-third-round/",
+      "source": "STAT",
+      "type": "news",
+      "sector": "Biotech",
+      "published": "2026-11-24T00:19:48Z",
+      "first_seen": "2026-11-24T02:44:21Z",
+      "importance": null,
+      "score": 3.819,
+      "summary_source": "feed",
+      "related": []
+    },
+    {
+      "id": "d3455ea0e8d3",
+      "title": "Japan’s expanding BESS market and its uncertain progress",
+      "summary": "As Japan’s battery storage market expands, BloombergNEF's Umer Sadiq discusses its nuances and uncertainties with ESN Premium.",
+      "why_it_matters": "",
+      "link": "https://www.energy-storage.news/japans-expanding-bess-market-and-its-uncertain-progress/",
+      "source": "Energy-Storage.news",
+      "type": "news",
+      "sector": "Energy",
+      "published": "2026-11-24T00:04:52Z",
+      "first_seen": "2026-11-24T02:44:21Z",
+      "importance": null,
+      "score": 3.8,
+      "summary_source": "feed",
+      "related": []
+    },
+    {
       "id": "9f6e51ea106a",
       "title": "House panel pushes to reverse 'hollowing out' of US biotech amid China's rise",
       "summary": "The U.S. House Select Committee on China has published a report detailing policy recommendations to “reverse the hollowing out of the U.S. drug innovation industry.”",
@@ -25,7 +73,7 @@
       "published": null,
       "first_seen": "2026-11-23T22:38:36Z",
       "importance": null,
-      "score": 4.0,
+      "score": 3.697,
       "summary_source": "feed",
       "related": []
     },
@@ -41,55 +89,7 @@
       "published": "2026-11-23T21:35:38Z",
       "first_seen": "2026-11-23T22:38:36Z",
       "importance": null,
-      "score": 3.92,
-      "summary_source": "feed",
-      "related": []
-    },
-    {
-      "id": "2d0e2184eef7",
-      "title": "E-Beam Stitching Errors Increase Loss In SOI Waveguides (AMO GmbH, RWTH Aachen)",
-      "summary": "Researchers at AMO GmbH and RWTH Aachen University published “The Impact of Field Stitching on Optical Losses in SOI Waveguides Fabricated via Electron Beam Lithography.” Abstract “Electron-beam lithography (EBL) is widely used for prototyping photonic integrated circuits (PICs)…",
-      "why_it_matters": "",
-      "link": "https://semiengineering.com/e-beam-stitching-errors-increase-loss-in-soi-waveguides-amo-gmbh-rwth-aachen/",
-      "source": "SemiEngineering",
-      "type": "news",
-      "sector": "Semiconductors",
-      "published": "2026-11-23T21:34:45Z",
-      "first_seen": "2026-11-23T22:38:36Z",
-      "importance": null,
-      "score": 3.919,
-      "summary_source": "feed",
-      "related": []
-    },
-    {
-      "id": "d91eafaf1f69",
-      "title": "STAT+: Limb-girdle muscular dystrophy gets its first FDA-approved drug, from BridgeBio",
-      "summary": "A type of muscular dystrophy that was long ignored has its first drug — and it could earn BridgeBio a billion dollars a year.",
-      "why_it_matters": "",
-      "link": "https://www.statnews.com/2026/11/23/fda-approves-bridgebio-lgmd-drug-welgemda/",
-      "source": "STAT",
-      "type": "news",
-      "sector": "Biotech",
-      "published": "2026-11-23T21:23:42Z",
-      "first_seen": "2026-11-23T22:38:36Z",
-      "importance": null,
-      "score": 3.905,
-      "summary_source": "feed",
-      "related": []
-    },
-    {
-      "id": "0c5d6cbc2016",
-      "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
-      "summary": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data.",
-      "why_it_matters": "",
-      "link": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
-      "source": "BleepingComputer",
-      "type": "news",
-      "sector": "CyberSecurity",
-      "published": "2026-11-23T20:54:51Z",
-      "first_seen": "2026-11-23T22:38:36Z",
-      "importance": null,
-      "score": 3.869,
+      "score": 3.623,
       "summary_source": "feed",
       "related": []
     }
@@ -108,7 +108,7 @@
         "published": "2026-11-23T17:20:37Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.612,
+        "score": 3.338,
         "summary_source": "none",
         "related": []
       },
@@ -124,7 +124,7 @@
         "published": "2026-11-23T00:00:00Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 2.587,
+        "score": 2.39,
         "summary_source": "none",
         "related": []
       },
@@ -140,7 +140,7 @@
         "published": "2026-11-23T05:00:00Z",
         "first_seen": "2026-11-23T06:58:55Z",
         "importance": null,
-        "score": 1.709,
+        "score": 1.579,
         "summary_source": "feed",
         "related": []
       },
@@ -156,7 +156,7 @@
         "published": "2026-11-23T05:00:00Z",
         "first_seen": "2026-11-23T06:58:55Z",
         "importance": null,
-        "score": 1.709,
+        "score": 1.579,
         "summary_source": "feed",
         "related": []
       },
@@ -172,7 +172,7 @@
         "published": "2026-11-23T05:00:00Z",
         "first_seen": "2026-11-23T06:58:55Z",
         "importance": null,
-        "score": 1.709,
+        "score": 1.579,
         "summary_source": "feed",
         "related": []
       },
@@ -188,7 +188,7 @@
         "published": "2026-11-20T00:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.647,
+        "score": 0.598,
         "summary_source": "none",
         "related": []
       },
@@ -204,7 +204,7 @@
         "published": "2026-11-20T00:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.647,
+        "score": 0.598,
         "summary_source": "none",
         "related": []
       },
@@ -220,7 +220,7 @@
         "published": "2026-11-18T19:54:56Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.377,
+        "score": 0.348,
         "summary_source": "none",
         "related": []
       }
@@ -238,7 +238,7 @@
         "published": "2026-11-23T21:35:38Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 3.92,
+        "score": 3.623,
         "summary_source": "feed",
         "related": []
       },
@@ -254,7 +254,7 @@
         "published": "2026-11-23T21:34:45Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 3.919,
+        "score": 3.622,
         "summary_source": "feed",
         "related": []
       },
@@ -270,7 +270,7 @@
         "published": "2026-11-23T21:19:13Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 3.899,
+        "score": 3.604,
         "summary_source": "feed",
         "related": []
       },
@@ -286,7 +286,7 @@
         "published": "2026-11-23T18:17:02Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.678,
+        "score": 3.399,
         "summary_source": "feed",
         "related": []
       },
@@ -302,7 +302,7 @@
         "published": "2026-11-23T16:08:35Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.529,
+        "score": 3.262,
         "summary_source": "feed",
         "related": []
       },
@@ -318,7 +318,7 @@
         "published": "2026-11-23T15:00:00Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.453,
+        "score": 3.191,
         "summary_source": "feed",
         "related": []
       },
@@ -334,7 +334,7 @@
         "published": "2026-11-23T08:30:00Z",
         "first_seen": "2026-11-23T10:51:07Z",
         "importance": null,
-        "score": 3.046,
+        "score": 2.815,
         "summary_source": "feed",
         "related": []
       },
@@ -350,7 +350,7 @@
         "published": "2026-11-23T08:01:13Z",
         "first_seen": "2026-11-23T10:51:07Z",
         "importance": null,
-        "score": 3.018,
+        "score": 2.79,
         "summary_source": "feed",
         "related": []
       }
@@ -368,7 +368,7 @@
         "published": "2026-11-23T05:00:00Z",
         "first_seen": "2026-11-23T06:58:55Z",
         "importance": null,
-        "score": 1.709,
+        "score": 1.579,
         "summary_source": "feed",
         "related": []
       },
@@ -384,7 +384,7 @@
         "published": "2026-11-23T05:00:00Z",
         "first_seen": "2026-11-23T06:58:55Z",
         "importance": null,
-        "score": 1.709,
+        "score": 1.579,
         "summary_source": "feed",
         "related": []
       },
@@ -400,7 +400,7 @@
         "published": "2026-11-23T05:00:00Z",
         "first_seen": "2026-11-23T06:58:55Z",
         "importance": null,
-        "score": 1.709,
+        "score": 1.579,
         "summary_source": "feed",
         "related": []
       },
@@ -416,7 +416,7 @@
         "published": "2026-11-21T08:14:48Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.203,
+        "score": 1.112,
         "summary_source": "feed",
         "related": []
       },
@@ -432,7 +432,7 @@
         "published": "2026-11-21T08:10:01Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.201,
+        "score": 1.11,
         "summary_source": "feed",
         "related": []
       },
@@ -448,7 +448,7 @@
         "published": "2026-11-21T08:00:26Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.198,
+        "score": 1.107,
         "summary_source": "feed",
         "related": []
       },
@@ -464,7 +464,7 @@
         "published": "2026-11-21T07:36:27Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.188,
+        "score": 1.098,
         "summary_source": "feed",
         "related": []
       }
@@ -482,7 +482,7 @@
         "published": "2026-11-23T20:54:51Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 3.869,
+        "score": 3.576,
         "summary_source": "feed",
         "related": []
       },
@@ -498,7 +498,7 @@
         "published": "2026-11-23T20:00:20Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 3.802,
+        "score": 3.514,
         "summary_source": "feed",
         "related": []
       },
@@ -514,7 +514,7 @@
         "published": "2026-11-23T19:42:20Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 3.78,
+        "score": 3.493,
         "summary_source": "feed",
         "related": []
       },
@@ -530,7 +530,7 @@
         "published": "2026-11-23T18:38:40Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.704,
+        "score": 3.423,
         "summary_source": "feed",
         "related": []
       },
@@ -546,7 +546,7 @@
         "published": "2026-11-23T16:50:01Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.577,
+        "score": 3.305,
         "summary_source": "feed",
         "related": []
       },
@@ -562,7 +562,7 @@
         "published": "2026-11-23T15:00:10Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.453,
+        "score": 3.191,
         "summary_source": "feed",
         "related": []
       },
@@ -578,7 +578,7 @@
         "published": "2026-11-23T13:28:45Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 3.353,
+        "score": 3.099,
         "summary_source": "feed",
         "related": []
       },
@@ -594,7 +594,7 @@
         "published": "2026-11-23T12:02:23Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 3.261,
+        "score": 3.014,
         "summary_source": "feed",
         "related": []
       }
@@ -612,7 +612,7 @@
         "published": "2026-11-19T17:25:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.57,
+        "score": 0.527,
         "summary_source": "feed",
         "related": []
       },
@@ -628,7 +628,7 @@
         "published": "2026-11-19T15:38:18Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.55,
+        "score": 0.509,
         "summary_source": "feed",
         "related": []
       },
@@ -644,7 +644,7 @@
         "published": "2026-11-18T22:02:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.392,
+        "score": 0.362,
         "summary_source": "feed",
         "related": []
       },
@@ -660,12 +660,28 @@
         "published": "2026-11-18T20:31:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.381,
+        "score": 0.352,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Renewables": [
+      {
+        "id": "200aff004bd8",
+        "title": "Solar Industry Supports BAAJA While Environmental Orgs Oppose It",
+        "summary": "The Bipartisan American Affordability and Jobs Act (BAAJA) is an interesting piece of legislation. It is getting a ton of support from the solar sector, but it is heavily opposed by environmental organizations.",
+        "why_it_matters": "",
+        "link": "https://cleantechnica.com/2026/11/23/solar-industry-supports-baaja-while-environmental-orgs-oppose-it/",
+        "source": "CleanTechnica",
+        "type": "news",
+        "sector": "Renewables",
+        "published": "2026-11-24T01:50:33Z",
+        "first_seen": "2026-11-24T02:44:21Z",
+        "importance": null,
+        "score": 3.932,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "c5acb834b5b2",
         "title": "The European Competitiveness Fund, the Backbone of a Modern European Investment Policy",
@@ -678,7 +694,7 @@
         "published": "2026-11-23T20:16:10Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 3.821,
+        "score": 3.532,
         "summary_source": "feed",
         "related": []
       },
@@ -694,7 +710,7 @@
         "published": "2026-11-23T20:05:11Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 3.808,
+        "score": 3.519,
         "summary_source": "feed",
         "related": []
       },
@@ -710,7 +726,7 @@
         "published": "2026-11-23T18:43:25Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 3.709,
+        "score": 3.428,
         "summary_source": "feed",
         "related": []
       },
@@ -726,7 +742,7 @@
         "published": "2026-11-23T17:44:59Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.64,
+        "score": 3.364,
         "summary_source": "feed",
         "related": []
       },
@@ -742,7 +758,7 @@
         "published": "2026-11-23T16:58:38Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.587,
+        "score": 3.315,
         "summary_source": "feed",
         "related": []
       },
@@ -758,7 +774,7 @@
         "published": "2026-11-23T16:51:05Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.578,
+        "score": 3.307,
         "summary_source": "feed",
         "related": []
       },
@@ -774,28 +790,28 @@
         "published": "2026-11-23T13:54:07Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 3.38,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "e7c17fdaf472",
-        "title": "Three Green Hydrogen Projects Slip Through The Trump Chopper",
-        "summary": "The startup Plug Power is among the green hydrogen stakeholders carving out more space for renewable energy in the US market, despite last year's sharp U-turn in federal energy policy.",
-        "why_it_matters": "",
-        "link": "https://cleantechnica.com/2026/11/23/green-hydrogen-us-energy-policy-plug-power-powercell/",
-        "source": "CleanTechnica",
-        "type": "news",
-        "sector": "Renewables",
-        "published": "2026-11-23T13:37:39Z",
-        "first_seen": "2026-11-23T14:49:36Z",
-        "importance": null,
-        "score": 3.363,
+        "score": 3.124,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Energy": [
+      {
+        "id": "d3455ea0e8d3",
+        "title": "Japan’s expanding BESS market and its uncertain progress",
+        "summary": "As Japan’s battery storage market expands, BloombergNEF's Umer Sadiq discusses its nuances and uncertainties with ESN Premium.",
+        "why_it_matters": "",
+        "link": "https://www.energy-storage.news/japans-expanding-bess-market-and-its-uncertain-progress/",
+        "source": "Energy-Storage.news",
+        "type": "news",
+        "sector": "Energy",
+        "published": "2026-11-24T00:04:52Z",
+        "first_seen": "2026-11-24T02:44:21Z",
+        "importance": null,
+        "score": 3.8,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "c5ce574c4108",
         "title": "COP31: Key outcomes agreed at the UN climate talks in Antalya",
@@ -808,7 +824,7 @@
         "published": "2026-11-23T16:15:51Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.538,
+        "score": 3.269,
         "summary_source": "feed",
         "related": []
       },
@@ -824,7 +840,7 @@
         "published": "2026-11-23T14:00:55Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 3.388,
+        "score": 3.131,
         "summary_source": "feed",
         "related": []
       },
@@ -840,7 +856,7 @@
         "published": "2026-11-23T11:39:45Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 3.238,
+        "score": 2.992,
         "summary_source": "feed",
         "related": []
       },
@@ -856,7 +872,7 @@
         "published": "2026-11-23T09:07:38Z",
         "first_seen": "2026-11-23T10:51:07Z",
         "importance": null,
-        "score": 3.083,
+        "score": 2.85,
         "summary_source": "feed",
         "related": []
       },
@@ -872,7 +888,7 @@
         "published": "2026-11-20T12:53:38Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.829,
+        "score": 0.766,
         "summary_source": "feed",
         "related": []
       },
@@ -888,7 +904,7 @@
         "published": "2026-11-20T12:01:59Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.815,
+        "score": 0.753,
         "summary_source": "feed",
         "related": []
       },
@@ -904,23 +920,7 @@
         "published": "2026-11-20T11:55:25Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.814,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "145c96721f2d",
-        "title": "BESS Industry Buzz: RE+, EU-made premiums, European revenue variability",
-        "summary": "Another BESS Industry Buzz, looking at what people are discussing in the industry plus some of the most notable quotes from the RE+ trade show, which concluded yesterday.",
-        "why_it_matters": "",
-        "link": "https://www.energy-storage.news/bess-industry-buzz-re-eu-made-premiums-european-revenue-variability/",
-        "source": "Energy-Storage.news",
-        "type": "news",
-        "sector": "Energy",
-        "published": "2026-11-20T11:34:56Z",
-        "first_seen": "2026-11-21T23:30:38Z",
-        "importance": null,
-        "score": 0.808,
+        "score": 0.752,
         "summary_source": "feed",
         "related": []
       }
@@ -938,7 +938,7 @@
         "published": "2026-11-23T16:28:15Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.552,
+        "score": 3.282,
         "summary_source": "feed",
         "related": []
       },
@@ -954,7 +954,7 @@
         "published": "2026-11-23T15:00:00Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.453,
+        "score": 3.191,
         "summary_source": "feed",
         "related": []
       },
@@ -970,7 +970,7 @@
         "published": "2026-11-20T16:46:43Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.893,
+        "score": 0.825,
         "summary_source": "feed",
         "related": []
       },
@@ -986,7 +986,7 @@
         "published": "2026-11-20T16:24:06Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.887,
+        "score": 0.82,
         "summary_source": "feed",
         "related": []
       },
@@ -1002,7 +1002,7 @@
         "published": "2026-11-20T15:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.863,
+        "score": 0.798,
         "summary_source": "feed",
         "related": []
       },
@@ -1018,12 +1018,28 @@
         "published": "2026-11-19T15:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.544,
+        "score": 0.503,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Biotech": [
+      {
+        "id": "74f522f08cbb",
+        "title": "STAT+: Medicare estimates $9.2 billion in savings from third round of negotiated drug prices",
+        "summary": "The Trump administration said that the federal government will save $9.2 billion on drugs purchased through Medicare next year as a result of price negotiations.",
+        "why_it_matters": "",
+        "link": "https://www.statnews.com/2026/11/23/medicare-drug-price-negotiations-announcement-third-round/",
+        "source": "STAT",
+        "type": "news",
+        "sector": "Biotech",
+        "published": "2026-11-24T00:19:48Z",
+        "first_seen": "2026-11-24T02:44:21Z",
+        "importance": null,
+        "score": 3.819,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "9f6e51ea106a",
         "title": "House panel pushes to reverse 'hollowing out' of US biotech amid China's rise",
@@ -1036,7 +1052,7 @@
         "published": null,
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 4.0,
+        "score": 3.697,
         "summary_source": "feed",
         "related": []
       },
@@ -1052,7 +1068,7 @@
         "published": "2026-11-23T21:23:42Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 3.905,
+        "score": 3.609,
         "summary_source": "feed",
         "related": []
       },
@@ -1068,7 +1084,7 @@
         "published": null,
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.707,
+        "score": 3.426,
         "summary_source": "feed",
         "related": []
       },
@@ -1084,7 +1100,7 @@
         "published": null,
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.707,
+        "score": 3.426,
         "summary_source": "feed",
         "related": []
       },
@@ -1100,7 +1116,7 @@
         "published": null,
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.707,
+        "score": 3.426,
         "summary_source": "feed",
         "related": []
       },
@@ -1116,7 +1132,7 @@
         "published": null,
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 3.441,
+        "score": 3.18,
         "summary_source": "feed",
         "related": []
       },
@@ -1132,23 +1148,7 @@
         "published": "2026-11-23T14:43:21Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 3.434,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "81fc1d551f3e",
-        "title": "STAT+: Pharmalittle: We’re reading about Capricor’s Duchenne drug, Lilly’s 15th acquisition of 2026, and more",
-        "summary": "The FDA again rejected a hotly debated experimental Duchenne muscular dystrophy drug from Capricor Therapeutics",
-        "why_it_matters": "",
-        "link": "https://www.statnews.com/pharmalot/2026/11/23/fda-rejects-capricor-duchenne-drug-lilly-acquires-loqus23-therapeutics/",
-        "source": "STAT",
-        "type": "news",
-        "sector": "Biotech",
-        "published": "2026-11-23T14:38:08Z",
-        "first_seen": "2026-11-23T14:49:36Z",
-        "importance": null,
-        "score": 3.428,
+        "score": 3.174,
         "summary_source": "feed",
         "related": []
       }
@@ -1166,7 +1166,7 @@
         "published": "2026-11-23T20:25:32Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 3.833,
+        "score": 3.542,
         "summary_source": "feed",
         "related": []
       },
@@ -1182,7 +1182,7 @@
         "published": "2026-11-23T17:13:00Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.603,
+        "score": 3.33,
         "summary_source": "feed",
         "related": []
       },
@@ -1198,7 +1198,7 @@
         "published": "2026-11-23T14:54:27Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.446,
+        "score": 3.185,
         "summary_source": "feed",
         "related": []
       },
@@ -1214,7 +1214,7 @@
         "published": "2026-11-23T14:00:00Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 3.387,
+        "score": 3.13,
         "summary_source": "feed",
         "related": []
       },
@@ -1230,7 +1230,7 @@
         "published": "2026-11-23T12:16:57Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 3.277,
+        "score": 3.028,
         "summary_source": "feed",
         "related": []
       },
@@ -1246,7 +1246,7 @@
         "published": "2026-11-23T10:30:24Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 3.166,
+        "score": 2.926,
         "summary_source": "feed",
         "related": []
       },
@@ -1262,7 +1262,7 @@
         "published": "2026-11-23T08:30:00Z",
         "first_seen": "2026-11-23T10:51:07Z",
         "importance": null,
-        "score": 3.046,
+        "score": 2.815,
         "summary_source": "feed",
         "related": []
       },
@@ -1278,7 +1278,7 @@
         "published": "2026-11-23T05:00:00Z",
         "first_seen": "2026-11-23T06:58:55Z",
         "importance": null,
-        "score": 1.424,
+        "score": 1.316,
         "summary_source": "feed",
         "related": []
       }
@@ -1296,7 +1296,7 @@
         "published": "2026-11-23T20:29:55Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 3.838,
+        "score": 3.547,
         "summary_source": "feed",
         "related": []
       },
@@ -1312,7 +1312,7 @@
         "published": "2026-11-23T15:16:26Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.471,
+        "score": 3.208,
         "summary_source": "feed",
         "related": []
       },
@@ -1328,7 +1328,7 @@
         "published": "2026-11-23T14:20:46Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 3.409,
+        "score": 3.151,
         "summary_source": "feed",
         "related": []
       },
@@ -1344,7 +1344,7 @@
         "published": "2026-11-21T22:25:35Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.581,
+        "score": 1.461,
         "summary_source": "feed",
         "related": []
       },
@@ -1360,7 +1360,7 @@
         "published": "2026-11-23T05:00:00Z",
         "first_seen": "2026-11-23T06:58:55Z",
         "importance": null,
-        "score": 1.424,
+        "score": 1.316,
         "summary_source": "feed",
         "related": []
       },
@@ -1376,7 +1376,7 @@
         "published": "2026-11-23T05:00:00Z",
         "first_seen": "2026-11-23T06:58:55Z",
         "importance": null,
-        "score": 1.424,
+        "score": 1.316,
         "summary_source": "feed",
         "related": []
       },
@@ -1392,7 +1392,7 @@
         "published": "2026-11-21T00:55:45Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.045,
+        "score": 0.966,
         "summary_source": "feed",
         "related": []
       },
@@ -1408,7 +1408,7 @@
         "published": "2026-11-20T17:30:03Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.906,
+        "score": 0.837,
         "summary_source": "feed",
         "related": []
       }
@@ -1426,7 +1426,7 @@
         "published": "2026-11-20T21:52:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.985,
+        "score": 0.911,
         "summary_source": "feed",
         "related": []
       },
@@ -1442,7 +1442,7 @@
         "published": "2026-11-19T23:30:50Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.641,
+        "score": 0.592,
         "summary_source": "feed",
         "related": []
       },
@@ -1458,7 +1458,7 @@
         "published": "2026-11-18T19:52:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.376,
+        "score": 0.348,
         "summary_source": "feed",
         "related": []
       },
@@ -1474,7 +1474,7 @@
         "published": "2026-11-18T15:10:53Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.344,
+        "score": 0.318,
         "summary_source": "feed",
         "related": []
       }
@@ -1492,7 +1492,7 @@
         "published": "2026-11-23T12:00:19Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 3.259,
+        "score": 3.012,
         "summary_source": "feed",
         "related": []
       },
@@ -1508,7 +1508,7 @@
         "published": "2026-11-23T01:25:53Z",
         "first_seen": "2026-11-23T02:44:14Z",
         "importance": null,
-        "score": 2.659,
+        "score": 2.457,
         "summary_source": "feed",
         "related": []
       },
@@ -1524,7 +1524,7 @@
         "published": "2026-11-20T20:15:54Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.955,
+        "score": 0.883,
         "summary_source": "feed",
         "related": []
       },
@@ -1540,7 +1540,7 @@
         "published": "2026-11-20T12:00:25Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.815,
+        "score": 0.753,
         "summary_source": "feed",
         "related": []
       },
@@ -1556,7 +1556,7 @@
         "published": "2026-11-20T12:00:01Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.815,
+        "score": 0.753,
         "summary_source": "feed",
         "related": []
       },
@@ -1572,7 +1572,7 @@
         "published": "2026-11-20T00:26:03Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.652,
+        "score": 0.603,
         "summary_source": "feed",
         "related": []
       },
@@ -1588,7 +1588,7 @@
         "published": "2026-11-19T12:00:45Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.513,
+        "score": 0.474,
         "summary_source": "feed",
         "related": []
       },
@@ -1604,7 +1604,7 @@
         "published": "2026-11-18T21:36:40Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.389,
+        "score": 0.36,
         "summary_source": "feed",
         "related": []
       }
@@ -1622,7 +1622,7 @@
         "published": "2026-11-23T20:00:00Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 3.802,
+        "score": 3.513,
         "summary_source": "feed",
         "related": []
       },
@@ -1638,7 +1638,7 @@
         "published": "2026-11-23T18:00:00Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.658,
+        "score": 3.381,
         "summary_source": "feed",
         "related": []
       },
@@ -1654,7 +1654,7 @@
         "published": "2026-11-23T15:30:00Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.486,
+        "score": 3.222,
         "summary_source": "feed",
         "related": []
       },
@@ -1670,7 +1670,7 @@
         "published": "2026-11-23T15:30:00Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.486,
+        "score": 3.222,
         "summary_source": "feed",
         "related": []
       },
@@ -1686,7 +1686,7 @@
         "published": "2026-11-23T14:58:00Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.45,
+        "score": 3.189,
         "summary_source": "feed",
         "related": []
       },
@@ -1702,7 +1702,7 @@
         "published": "2026-11-23T14:33:00Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 3.423,
+        "score": 3.163,
         "summary_source": "feed",
         "related": []
       },
@@ -1718,7 +1718,7 @@
         "published": "2026-11-23T12:17:00Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 3.277,
+        "score": 3.028,
         "summary_source": "feed",
         "related": []
       },
@@ -1734,12 +1734,108 @@
         "published": "2026-11-23T11:00:00Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 3.197,
+        "score": 2.954,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Breaking": [
+      {
+        "id": "daa4c835534a",
+        "title": "Filing: ex-OpenAI engineer Abdulrahman Alfozan recorded a meeting with foreign government reps and photographed a confidential term sheet with another company (Emmy Martin/New York Times)",
+        "summary": "Emmy Martin / New York Times : Filing: ex-OpenAI engineer Abdulrahman Alfozan recorded a meeting with foreign government reps and photographed a confidential term sheet with another company — A court filing said the engineer captured meetings on customers, A.I. safety and a…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261123/p50",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-24T02:35:01Z",
+        "first_seen": "2026-11-24T02:44:21Z",
+        "importance": null,
+        "score": 3.589,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "99cfa92c2f30",
+        "title": "US prosecutors say the ex-OpenAI engineer charged with bugging an exec conference room had dozens of OpenAI meeting recordings, many on possible trade secrets (Madlin Mekelburg/Bloomberg)",
+        "summary": "Madlin Mekelburg / Bloomberg : US prosecutors say the ex-OpenAI engineer charged with bugging an exec conference room had dozens of OpenAI meeting recordings, many on possible trade secrets — US prosecutors say the former engineer at OpenAI charged with bugging an office…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261123/p49",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-24T02:10:02Z",
+        "first_seen": "2026-11-24T02:44:21Z",
+        "importance": null,
+        "score": 3.561,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "0fd4bb81284d",
+        "title": "Sources: the US is investigating Iran's possible role in cyberattacks on up to 50 energy tankers via a Fortinet router flaw; Russia is also a possible culprit (Wall Street Journal)",
+        "summary": "Wall Street Journal : Sources: the US is investigating Iran's possible role in cyberattacks on up to 50 energy tankers via a Fortinet router flaw; Russia is also a possible culprit — As many as 50 ships carrying oil and other explosive substances are believed to have been…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261123/p48",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-24T01:40:00Z",
+        "first_seen": "2026-11-24T02:44:21Z",
+        "importance": null,
+        "score": 3.526,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "1f221d48843c",
+        "title": "Kalshi pauses operations in Utah, where it has 177K+ users, citing a federal court loss over a state gambling law; Kalshi also faces criminal charges in Utah (Alixel Cabrera/Utah News Dispatch)",
+        "summary": "Alixel Cabrera / Utah News Dispatch : Kalshi pauses operations in Utah, where it has 177K+ users, citing a federal court loss over a state gambling law; Kalshi also faces criminal charges in Utah — Amid multiple legal disputes between Utah leaders and Kalshi, the prediction…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261123/p47",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-24T00:55:00Z",
+        "first_seen": "2026-11-24T02:44:21Z",
+        "importance": null,
+        "score": 3.476,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "f6a5303985eb",
+        "title": "Supertake, which uses AI agents to turn users' market predictions into investment portfolios via Coinbase and Robinhood, raised a $20M seed led by Adjacent (Sarah Perez/TechCrunch)",
+        "summary": "Sarah Perez / TechCrunch : Supertake, which uses AI agents to turn users' market predictions into investment portfolios via Coinbase and Robinhood, raised a $20M seed led by Adjacent — AI investing startup Supertake has an interesting premise: what if your “takes” on the market…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261123/p46",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-24T00:25:01Z",
+        "first_seen": "2026-11-24T02:44:21Z",
+        "importance": null,
+        "score": 3.443,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "488a09d5d330",
+        "title": "Australia-based Myriota, which provides low-cost, low-power satellite connectivity for industrial IoT, raised roughly $40M in the first close of its Series C (Rhiannon Hoyle/Wall Street Journal)",
+        "summary": "Rhiannon Hoyle / Wall Street Journal : Australia-based Myriota, which provides low-cost, low-power satellite connectivity for industrial IoT, raised roughly $40M in the first close of its Series C — Myriota raises roughly $40 million in a first close of a Series C round to hire…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261123/p45",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-23T23:25:01Z",
+        "first_seen": "2026-11-24T02:44:21Z",
+        "importance": null,
+        "score": 3.377,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "e0f68d438040",
         "title": "Tech stocks rally as Jensen Huang returns as Nvidia CEO; the Nasdaq 100 jumped 7%, a Magnificent Seven basket rose 8%, CoreWeave 22%, Tesla 11%, and AMD 7% (Jess Menton/Bloomberg)",
@@ -1752,7 +1848,7 @@
         "published": "2026-11-23T21:40:00Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 3.533,
+        "score": 3.265,
         "summary_source": "feed",
         "related": []
       },
@@ -1768,109 +1864,101 @@
         "published": "2026-11-23T21:25:00Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 3.516,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "7c95fa8c04c4",
-        "title": "Sources: the Commerce Department added Megaspeed to its entity list on Monday, barring US companies from selling chips to the company without a license (Ashley Gold/Semafor)",
-        "summary": "Ashley Gold / Semafor : Sources: the Commerce Department added Megaspeed to its entity list on Monday, barring US companies from selling chips to the company without a license — The Trump administration on Monday added the company at the heart of the Nvidia scandal, Megaspeed…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261123/p40",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-23T20:10:11Z",
-        "first_seen": "2026-11-23T22:38:36Z",
-        "importance": null,
-        "score": 3.433,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "48f681d44261",
-        "title": "Sources: Trump pushed Nvidia to reinstate Jensen Huang after allies argued he was \"too big to fail\" for the US economy and a victim of \"deep state\" maneuvering (Axios)",
-        "summary": "Axios : Sources: Trump pushed Nvidia to reinstate Jensen Huang after allies argued he was “too big to fail” for the US economy and a victim of “deep state” maneuvering — President Trump pushed Nvidia to reinstate Jensen Huang as CEO after allies argued he was “too big to fail”",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261123/p39",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-23T20:01:33Z",
-        "first_seen": "2026-11-23T22:38:36Z",
-        "importance": null,
-        "score": 3.423,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "43b63941c238",
-        "title": "Sources: Trump and JD Vance were convinced Jensen Huang alone protected American-made open-weight AI models (Reuters)",
-        "summary": "Reuters : Sources: Trump and JD Vance were convinced Jensen Huang alone protected American-made open-weight AI models — US President Donald Trump and Vice President JD Vance personally intervened in Nvidia's (NVDA.O) decision to reinstate CEO Jensen Huang over the weekend…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261123/p38",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-23T19:30:02Z",
-        "first_seen": "2026-11-23T22:38:36Z",
-        "importance": null,
-        "score": 3.389,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "5d71d2c83e48",
-        "title": "Jensen Huang returned to Nvidia's headquarters to cheers from employees and said \"I'm gonna be a better CEO the second time around\" (Geoff Weiss/Business Insider)",
-        "summary": "Geoff Weiss / Business Insider : Jensen Huang returned to Nvidia's headquarters to cheers from employees and said “I'm gonna be a better CEO the second time around” — Jensen Huang returned to Nvidia's Santa Clara headquarters Monday to cheers from employees, less than two weeks…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261123/p37",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-23T19:05:01Z",
-        "first_seen": "2026-11-23T22:38:36Z",
-        "importance": null,
-        "score": 3.362,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "1ab062d5ecdf",
-        "title": "AWS CEO Matt Garman says AI safety can't rely on an \"emergency brake\" and that the same engineering discipline behind decades of secure systems applies to AI (Matt Garman/About Amazon)",
-        "summary": "Matt Garman / About Amazon : AWS CEO Matt Garman says AI safety can't rely on an “emergency brake” and that the same engineering discipline behind decades of secure systems applies to AI — Most of the practical tools to build trustworthy AI systems already exist, and the…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261123/p35",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-23T18:25:01Z",
-        "first_seen": "2026-11-23T18:41:58Z",
-        "importance": null,
-        "score": 3.319,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "e1cab6e4a3ad",
-        "title": "Hacking gang CyberLeek claims it released all files for the Xbox build of GTA VI, including an executable program that could help modders port the game to PC (Michael Kan/PCMag)",
-        "summary": "Michael Kan / PCMag : Hacking gang CyberLeek claims it released all files for the Xbox build of GTA VI, including an executable program that could help modders port the game to PC — The CyberLeek hacking gang claims to have released a key executable program that promises to help…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261123/p34",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-23T18:10:01Z",
-        "first_seen": "2026-11-23T18:41:58Z",
-        "importance": null,
-        "score": 3.303,
+        "score": 3.249,
         "summary_source": "feed",
         "related": []
       }
     ]
   },
-  "emerging": [],
+  "emerging": [
+    {
+      "term": "government",
+      "sources": 3,
+      "sectors": 3,
+      "ids": [
+        "74f522f08cbb",
+        "e327976bf744",
+        "daa4c835534a"
+      ],
+      "score": 5.62
+    },
+    {
+      "term": "amid",
+      "sources": 4,
+      "sectors": 4,
+      "ids": [
+        "9f6e51ea106a",
+        "bd69eb2b257b",
+        "e327976bf744"
+      ],
+      "score": 5.14
+    },
+    {
+      "term": "board",
+      "sources": 4,
+      "sectors": 4,
+      "ids": [
+        "68d88da4cff0",
+        "bd69eb2b257b",
+        "e327976bf744"
+      ],
+      "score": 5.14
+    },
+    {
+      "term": "reinstates jensen",
+      "sources": 3,
+      "sectors": 3,
+      "ids": [
+        "68d88da4cff0",
+        "bd69eb2b257b",
+        "e327976bf744"
+      ],
+      "score": 4.69
+    },
+    {
+      "term": "amid multiple",
+      "sources": 2,
+      "sectors": 2,
+      "ids": [
+        "bd69eb2b257b",
+        "1f221d48843c"
+      ],
+      "score": 3.75
+    },
+    {
+      "term": "architecture",
+      "sources": 3,
+      "sectors": 3,
+      "ids": [
+        "33c45e022796",
+        "0737545e5275",
+        "3748a1e33e0c"
+      ],
+      "score": 3.75
+    },
+    {
+      "term": "gets",
+      "sources": 3,
+      "sectors": 3,
+      "ids": [
+        "d2352fbb399d",
+        "d91eafaf1f69",
+        "0737545e5275"
+      ],
+      "score": 3.75
+    },
+    {
+      "term": "month",
+      "sources": 3,
+      "sectors": 3,
+      "ids": [
+        "0c7a481a76a8",
+        "690e5967776c",
+        "ae0352ad78f0"
+      ],
+      "score": 3.75
+    }
+  ],
   "stock_watch": [],
   "stock_watch_generated_at": null,
   "weekly_recap": null,
@@ -2148,7 +2236,7 @@
       "errors": [
         "ANTHROPIC_API_KEY is not set"
       ],
-      "new_items": 24,
+      "new_items": 12,
       "summarised": 0
     }
   }
