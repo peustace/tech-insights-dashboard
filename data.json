@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "generated_at": "2026-11-24T14:47:20Z",
-  "last_updated": "2026-11-24 14:47 UTC",
+  "generated_at": "2026-11-24T18:41:14Z",
+  "last_updated": "2026-11-24 18:41 UTC",
   "is_sunday_edition": false,
   "priority_sectors": [
     "AI",
@@ -14,88 +14,104 @@
   ],
   "top_stories": [
     {
-      "id": "0fb72091f107",
-      "title": "DiaMedica shares signs that drug extends pregnancy in fetal growth restriction trial",
-      "summary": "DiaMedica Therapeutics has shared phase 2 results in severe early-onset fetal growth restriction, reporting that most participants with known delivery dates remained pregnant longer than expected.",
+      "id": "6dc049a9d05f",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
       "why_it_matters": "",
-      "link": "https://www.fiercebiotech.com/biotech/diamedica-shares-signs-drug-extends-pregnancy-fetal-growth-restriction-trial",
-      "source": "Fierce Biotech",
+      "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "source": "TechCrunch Venture",
       "type": "news",
-      "sector": "Biotech",
-      "published": null,
-      "first_seen": "2026-11-24T14:47:20Z",
+      "sector": "Funding & M&A",
+      "published": "2026-11-24T18:30:42Z",
+      "first_seen": "2026-11-24T18:41:14Z",
       "importance": null,
-      "score": 4.0,
+      "score": 3.986,
       "summary_source": "feed",
       "related": []
     },
     {
-      "id": "7aabeeef5571",
-      "title": "Why Iambic’s CEO believes preclinical cancer therapy could be ‘holy grail’ for CDK inhibitors",
-      "summary": "Fresh off a $150 million IPO, Iambic Therapeutics has unveiled preclinical data for a potential challenger in one of oncology's most competitive drug classes: cyclin-dependent kinases.",
+      "id": "f841378f6650",
+      "title": "Robotics Summit 2027 opens call for speakers",
+      "summary": "The Robotics Summit & Expo returns to Boston June 2-3, 2027 with deepened coverage, an expanded expo floor, and more.",
       "why_it_matters": "",
-      "link": "https://www.fiercebiotech.com/research/iambic-ceo-says-they-have-holy-grail-cdk-inhibitors-cancer-therapies",
-      "source": "Fierce Biotech",
+      "link": "https://www.therobotreport.com/robotics-summit-2027-opens-call-for-speakers/",
+      "source": "The Robot Report",
       "type": "news",
-      "sector": "Biotech",
-      "published": null,
-      "first_seen": "2026-11-24T14:47:20Z",
-      "importance": null,
-      "score": 4.0,
-      "summary_source": "feed",
-      "related": []
-    },
-    {
-      "id": "5e0905f3a43d",
-      "title": "McDonald's Japan data breach exposes customer location information",
-      "summary": "McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app.",
-      "why_it_matters": "",
-      "link": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
-      "source": "BleepingComputer",
-      "type": "news",
-      "sector": "CyberSecurity",
-      "published": "2026-11-24T14:09:37Z",
-      "first_seen": "2026-11-24T14:47:20Z",
+      "sector": "Robotics",
+      "published": "2026-11-24T18:03:37Z",
+      "first_seen": "2026-11-24T18:41:14Z",
       "importance": null,
       "score": 3.952,
       "summary_source": "feed",
       "related": []
     },
     {
-      "id": "a3a065f09681",
-      "title": "AT&T calls HFC 'old-fashioned' as legal slugfest with Spectrum continues",
-      "summary": "AT&T is labeling Charter's HFC network 'old-fashioned copper' in its latest court filing, part of an escalating legal battle over cable's use of 'fiber-powered' marketing that AT&T claims misleads broadband customers.",
+      "id": "247249876411",
+      "title": "Radware discloses breach exposing customer cloud access keys",
+      "summary": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left exposed online.",
       "why_it_matters": "",
-      "link": "https://www.lightreading.com/broadband/at-t-calls-hfc-old-fashioned-as-legal-slugfest-with-spectrum-continues",
-      "source": "Light Reading",
+      "link": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
+      "source": "BleepingComputer",
       "type": "news",
-      "sector": "Telecommunications",
-      "published": "2026-11-24T14:00:00Z",
-      "first_seen": "2026-11-24T14:47:20Z",
+      "sector": "CyberSecurity",
+      "published": "2026-11-24T17:49:05Z",
+      "first_seen": "2026-11-24T18:41:14Z",
       "importance": null,
-      "score": 3.94,
+      "score": 3.934,
       "summary_source": "feed",
       "related": []
     },
     {
-      "id": "c570a3ca687c",
-      "title": "Eurobites: BICS, Airtel Africa upgrade roaming partnership",
-      "summary": "Also in today's EMEA regional roundup: Free offers live translation for voice calls; ICO warns Meta over Muse; O2 fires up 5G standalone on Merseyside.",
+      "id": "38ab2cf103bf",
+      "title": "90 New Vehicle Models Were Just Introduced in Colombia’s Largest Automotive Exhibition. 55 Were Electric.",
+      "summary": "The last two weeks, the future was on display in Bogota’s Automobile Hall.",
       "why_it_matters": "",
-      "link": "https://www.lightreading.com/operations/eurobites-bics-airtel-africa-upgrade-roaming-partnership",
-      "source": "Light Reading",
+      "link": "https://cleantechnica.com/2026/11/24/90-new-vehicle-models-were-just-introduced-in-colombias-largest-automotive-exhibition-55-were-electric/",
+      "source": "CleanTechnica",
       "type": "news",
-      "sector": "Telecommunications",
-      "published": "2026-11-24T13:49:16Z",
-      "first_seen": "2026-11-24T14:47:20Z",
+      "sector": "Renewables",
+      "published": "2026-11-24T17:19:11Z",
+      "first_seen": "2026-11-24T18:41:14Z",
       "importance": null,
-      "score": 3.926,
+      "score": 3.896,
+      "summary_source": "feed",
+      "related": []
+    },
+    {
+      "id": "1dd1dfedca31",
+      "title": "CB Live: Carbon Brief journalists discuss key COP31 outcomes",
+      "summary": "Following the close of COP31 in Antalya, Turkey, Carbon Brief’s journalists answered a range of questions in a CB Live",
+      "why_it_matters": "",
+      "link": "https://www.carbonbrief.org/cb-live-carbon-brief-journalists-discuss-key-cop31-outcomes",
+      "source": "Carbon Brief",
+      "type": "news",
+      "sector": "Energy",
+      "published": "2026-11-24T17:06:20Z",
+      "first_seen": "2026-11-24T18:41:14Z",
+      "importance": null,
+      "score": 3.88,
       "summary_source": "feed",
       "related": []
     }
   ],
   "sectors": {
     "AI": [
+      {
+        "id": "10189c0d6481",
+        "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+        "summary": "",
+        "why_it_matters": "",
+        "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+        "source": "Hugging Face",
+        "type": "news",
+        "sector": "AI",
+        "published": "2026-11-24T16:34:13Z",
+        "first_seen": "2026-11-24T18:41:14Z",
+        "importance": null,
+        "score": 3.84,
+        "summary_source": "none",
+        "related": []
+      },
       {
         "id": "fc4fd294448e",
         "title": "RoboTrack: Point tracking for real-world robotic manipulation",
@@ -108,7 +124,7 @@
         "published": "2026-11-23T17:20:37Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 2.647,
+        "score": 2.455,
         "summary_source": "none",
         "related": []
       },
@@ -124,7 +140,7 @@
         "published": "2026-11-24T05:00:00Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 1.988,
+        "score": 1.844,
         "summary_source": "feed",
         "related": []
       },
@@ -140,7 +156,7 @@
         "published": "2026-11-24T05:00:00Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 1.988,
+        "score": 1.844,
         "summary_source": "feed",
         "related": []
       },
@@ -156,7 +172,7 @@
         "published": "2026-11-24T05:00:00Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 1.988,
+        "score": 1.844,
         "summary_source": "feed",
         "related": []
       },
@@ -172,7 +188,7 @@
         "published": "2026-11-23T00:00:00Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 1.895,
+        "score": 1.758,
         "summary_source": "none",
         "related": []
       },
@@ -188,7 +204,7 @@
         "published": "2026-11-23T05:00:00Z",
         "first_seen": "2026-11-23T06:58:55Z",
         "importance": null,
-        "score": 1.252,
+        "score": 1.162,
         "summary_source": "feed",
         "related": []
       },
@@ -204,28 +220,28 @@
         "published": "2026-11-23T05:00:00Z",
         "first_seen": "2026-11-23T06:58:55Z",
         "importance": null,
-        "score": 1.252,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "efb6744bbe6f",
-        "title": "TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator",
-        "summary": "To autonomously execute multi-step tasks, enterprise agents must reliably interact with tools, call APIs, or query databases, making tool-calling a fundamental capability of AI models.",
-        "why_it_matters": "",
-        "link": "https://arxiv.org/abs/2611.26722",
-        "source": "arXiv cs.AI",
-        "type": "paper",
-        "sector": "AI",
-        "published": "2026-11-23T05:00:00Z",
-        "first_seen": "2026-11-23T06:58:55Z",
-        "importance": null,
-        "score": 1.252,
+        "score": 1.162,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Semiconductors": [
+      {
+        "id": "2b31c2a80eb9",
+        "title": "From Precision to Autonomous Agriculture: The Role of Edge AI and Robotics",
+        "summary": "Edge AI and robotics bring greater precision and autonomy to agricultural machinery, from targeted spraying to harvesting.",
+        "why_it_matters": "",
+        "link": "https://www.eetimes.com/from-precision-to-autonomous-agriculture-the-role-of-edge-ai-and-robotics/",
+        "source": "EE Times",
+        "type": "news",
+        "sector": "Semiconductors",
+        "published": "2026-11-24T16:16:56Z",
+        "first_seen": "2026-11-24T18:41:14Z",
+        "importance": null,
+        "score": 3.819,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "7bf5303604e3",
         "title": "Vehicle-to-Grid: Great Idea or Unrealistic Dream?",
@@ -238,7 +254,7 @@
         "published": "2026-11-24T08:40:49Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 3.556,
+        "score": 3.299,
         "summary_source": "feed",
         "related": []
       },
@@ -254,7 +270,7 @@
         "published": "2026-11-24T08:11:47Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 3.523,
+        "score": 3.268,
         "summary_source": "feed",
         "related": []
       },
@@ -270,7 +286,7 @@
         "published": "2026-11-24T08:11:34Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 3.523,
+        "score": 3.268,
         "summary_source": "feed",
         "related": []
       },
@@ -286,7 +302,7 @@
         "published": "2026-11-24T08:11:31Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 3.523,
+        "score": 3.268,
         "summary_source": "feed",
         "related": []
       },
@@ -302,7 +318,7 @@
         "published": "2026-11-24T08:08:01Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 3.519,
+        "score": 3.264,
         "summary_source": "feed",
         "related": []
       },
@@ -318,7 +334,7 @@
         "published": "2026-11-24T07:41:37Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 3.489,
+        "score": 3.237,
         "summary_source": "feed",
         "related": []
       },
@@ -334,23 +350,7 @@
         "published": "2026-11-23T21:35:38Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 2.873,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "2d0e2184eef7",
-        "title": "E-Beam Stitching Errors Increase Loss In SOI Waveguides (AMO GmbH, RWTH Aachen)",
-        "summary": "Researchers at AMO GmbH and RWTH Aachen University published “The Impact of Field Stitching on Optical Losses in SOI Waveguides Fabricated via Electron Beam Lithography.” Abstract “Electron-beam lithography (EBL) is widely used for prototyping photonic integrated circuits (PICs)…",
-        "why_it_matters": "",
-        "link": "https://semiengineering.com/e-beam-stitching-errors-increase-loss-in-soi-waveguides-amo-gmbh-rwth-aachen/",
-        "source": "SemiEngineering",
-        "type": "news",
-        "sector": "Semiconductors",
-        "published": "2026-11-23T21:34:45Z",
-        "first_seen": "2026-11-23T22:38:36Z",
-        "importance": null,
-        "score": 2.872,
+        "score": 2.665,
         "summary_source": "feed",
         "related": []
       }
@@ -368,7 +368,7 @@
         "published": "2026-11-24T05:00:00Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 1.988,
+        "score": 1.844,
         "summary_source": "feed",
         "related": []
       },
@@ -384,7 +384,7 @@
         "published": "2026-11-24T05:00:00Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 1.988,
+        "score": 1.844,
         "summary_source": "feed",
         "related": []
       },
@@ -400,7 +400,7 @@
         "published": "2026-11-24T05:00:00Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 1.988,
+        "score": 1.844,
         "summary_source": "feed",
         "related": []
       },
@@ -416,7 +416,7 @@
         "published": "2026-11-23T05:00:00Z",
         "first_seen": "2026-11-23T06:58:55Z",
         "importance": null,
-        "score": 1.252,
+        "score": 1.162,
         "summary_source": "feed",
         "related": []
       },
@@ -432,7 +432,7 @@
         "published": "2026-11-23T05:00:00Z",
         "first_seen": "2026-11-23T06:58:55Z",
         "importance": null,
-        "score": 1.252,
+        "score": 1.162,
         "summary_source": "feed",
         "related": []
       },
@@ -448,7 +448,7 @@
         "published": "2026-11-23T05:00:00Z",
         "first_seen": "2026-11-23T06:58:55Z",
         "importance": null,
-        "score": 1.252,
+        "score": 1.162,
         "summary_source": "feed",
         "related": []
       },
@@ -464,7 +464,7 @@
         "published": "2026-11-21T08:14:48Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.882,
+        "score": 0.818,
         "summary_source": "feed",
         "related": []
       },
@@ -480,12 +480,76 @@
         "published": "2026-11-21T08:10:01Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.88,
+        "score": 0.817,
         "summary_source": "feed",
         "related": []
       }
     ],
     "CyberSecurity": [
+      {
+        "id": "247249876411",
+        "title": "Radware discloses breach exposing customer cloud access keys",
+        "summary": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left exposed online.",
+        "why_it_matters": "",
+        "link": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
+        "source": "BleepingComputer",
+        "type": "news",
+        "sector": "CyberSecurity",
+        "published": "2026-11-24T17:49:05Z",
+        "first_seen": "2026-11-24T18:41:14Z",
+        "importance": null,
+        "score": 3.934,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "cb343cb6917b",
+        "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
+        "summary": "The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members.",
+        "why_it_matters": "",
+        "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
+        "source": "BleepingComputer",
+        "type": "news",
+        "sector": "CyberSecurity",
+        "published": "2026-11-24T16:30:19Z",
+        "first_seen": "2026-11-24T18:41:14Z",
+        "importance": null,
+        "score": 3.835,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "323e716fff6c",
+        "title": "European Commission confirms data theft in EU Academy breach",
+        "summary": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users.",
+        "why_it_matters": "",
+        "link": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
+        "source": "BleepingComputer",
+        "type": "news",
+        "sector": "CyberSecurity",
+        "published": "2026-11-24T16:22:44Z",
+        "first_seen": "2026-11-24T18:41:14Z",
+        "importance": null,
+        "score": 3.826,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "675091b0f8ee",
+        "title": "Hackers compromise Check Point Servers in 22 organizations",
+        "summary": "Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations.",
+        "why_it_matters": "",
+        "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
+        "source": "BleepingComputer",
+        "type": "news",
+        "sector": "CyberSecurity",
+        "published": "2026-11-24T16:15:23Z",
+        "first_seen": "2026-11-24T18:41:14Z",
+        "importance": null,
+        "score": 3.817,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "5e0905f3a43d",
         "title": "McDonald's Japan data breach exposes customer location information",
@@ -498,7 +562,7 @@
         "published": "2026-11-24T14:09:37Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.952,
+        "score": 3.666,
         "summary_source": "feed",
         "related": []
       },
@@ -514,7 +578,7 @@
         "published": "2026-11-24T13:34:23Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.907,
+        "score": 3.625,
         "summary_source": "feed",
         "related": []
       },
@@ -530,7 +594,7 @@
         "published": "2026-11-24T12:06:50Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.799,
+        "score": 3.524,
         "summary_source": "feed",
         "related": []
       },
@@ -546,76 +610,28 @@
         "published": "2026-11-23T20:54:51Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 2.835,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "349f300e5521",
-        "title": "OpenRouter drops AI providers over leaked prompts and secrets",
-        "summary": "OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data.",
-        "why_it_matters": "",
-        "link": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
-        "source": "BleepingComputer",
-        "type": "news",
-        "sector": "CyberSecurity",
-        "published": "2026-11-23T20:00:20Z",
-        "first_seen": "2026-11-23T22:38:36Z",
-        "importance": null,
-        "score": 2.786,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "5ad2e5d6f4c7",
-        "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
-        "summary": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks against energy companies.",
-        "why_it_matters": "",
-        "link": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
-        "source": "BleepingComputer",
-        "type": "news",
-        "sector": "CyberSecurity",
-        "published": "2026-11-23T19:42:20Z",
-        "first_seen": "2026-11-23T22:38:36Z",
-        "importance": null,
-        "score": 2.77,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "3efe5c69c2ea",
-        "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
-        "summary": "LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs.",
-        "why_it_matters": "",
-        "link": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
-        "source": "BleepingComputer",
-        "type": "news",
-        "sector": "CyberSecurity",
-        "published": "2026-11-23T18:38:40Z",
-        "first_seen": "2026-11-23T18:41:58Z",
-        "importance": null,
-        "score": 2.714,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "4b457ecd5a95",
-        "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
-        "summary": "A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000.",
-        "why_it_matters": "",
-        "link": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
-        "source": "BleepingComputer",
-        "type": "news",
-        "sector": "CyberSecurity",
-        "published": "2026-11-23T16:50:01Z",
-        "first_seen": "2026-11-23T18:41:58Z",
-        "importance": null,
-        "score": 2.621,
+        "score": 2.63,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Space": [
+      {
+        "id": "2567f5460cd8",
+        "title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
+        "summary": "Bremen, 18 November 2026 – Simera Sense, Spacemanic, Zaitra and World from Space have signed a Memorandum of Understanding in Bremen to cooperate on a complete mission solution built around",
+        "why_it_matters": "",
+        "link": "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/",
+        "source": "SpaceNews",
+        "type": "news",
+        "sector": "Space",
+        "published": "2026-11-24T15:17:50Z",
+        "first_seen": "2026-11-24T18:41:14Z",
+        "importance": null,
+        "score": 3.747,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "14a1086d53b1",
         "title": "The sweet spot for constellation size",
@@ -628,7 +644,7 @@
         "published": "2026-11-19T17:25:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.417,
+        "score": 0.387,
         "summary_source": "feed",
         "related": []
       },
@@ -644,7 +660,7 @@
         "published": "2026-11-19T15:38:18Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.403,
+        "score": 0.374,
         "summary_source": "feed",
         "related": []
       },
@@ -660,7 +676,7 @@
         "published": "2026-11-18T22:02:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.287,
+        "score": 0.267,
         "summary_source": "feed",
         "related": []
       },
@@ -676,12 +692,28 @@
         "published": "2026-11-18T20:31:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.279,
+        "score": 0.259,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Renewables": [
+      {
+        "id": "38ab2cf103bf",
+        "title": "90 New Vehicle Models Were Just Introduced in Colombia’s Largest Automotive Exhibition. 55 Were Electric.",
+        "summary": "The last two weeks, the future was on display in Bogota’s Automobile Hall.",
+        "why_it_matters": "",
+        "link": "https://cleantechnica.com/2026/11/24/90-new-vehicle-models-were-just-introduced-in-colombias-largest-automotive-exhibition-55-were-electric/",
+        "source": "CleanTechnica",
+        "type": "news",
+        "sector": "Renewables",
+        "published": "2026-11-24T17:19:11Z",
+        "first_seen": "2026-11-24T18:41:14Z",
+        "importance": null,
+        "score": 3.896,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "0c27a832ca69",
         "title": "If You Thought The Cybertruck Was Ugly, Get A Load Of This EV On Rails",
@@ -694,7 +726,7 @@
         "published": "2026-11-24T13:12:42Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.88,
+        "score": 3.6,
         "summary_source": "feed",
         "related": []
       },
@@ -710,7 +742,7 @@
         "published": "2026-11-24T11:30:01Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.755,
+        "score": 3.483,
         "summary_source": "feed",
         "related": []
       },
@@ -726,7 +758,7 @@
         "published": "2026-11-24T01:50:33Z",
         "first_seen": "2026-11-24T02:44:21Z",
         "importance": null,
-        "score": 3.117,
+        "score": 2.892,
         "summary_source": "feed",
         "related": []
       },
@@ -742,7 +774,7 @@
         "published": "2026-11-23T20:16:10Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 2.8,
+        "score": 2.598,
         "summary_source": "feed",
         "related": []
       },
@@ -758,7 +790,7 @@
         "published": "2026-11-23T20:05:11Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 2.79,
+        "score": 2.589,
         "summary_source": "feed",
         "related": []
       },
@@ -774,7 +806,7 @@
         "published": "2026-11-23T18:43:25Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 2.718,
+        "score": 2.522,
         "summary_source": "feed",
         "related": []
       },
@@ -790,28 +822,28 @@
         "published": "2026-11-23T17:44:59Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 2.668,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "4fd75b72c352",
-        "title": "Petrostates’ Chokehold on COP31 Underscores Need for Rapid Electrification, Says T&E",
-        "summary": "COP31 climate talks break down shows that fossil fuel interests remain a major obstacle to climate action. The lack of a final text at the end of COP31 shows how far the fossil fuel industry is willing to go to keep its polluting businesses operating, says T&E.",
-        "why_it_matters": "",
-        "link": "https://cleantechnica.com/2026/11/23/petrostates-chokehold-on-cop31-underscores-need-for-rapid-electrification-says-te/",
-        "source": "CleanTechnica",
-        "type": "news",
-        "sector": "Renewables",
-        "published": "2026-11-23T16:58:38Z",
-        "first_seen": "2026-11-23T18:41:58Z",
-        "importance": null,
-        "score": 2.628,
+        "score": 2.475,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Energy": [
+      {
+        "id": "1dd1dfedca31",
+        "title": "CB Live: Carbon Brief journalists discuss key COP31 outcomes",
+        "summary": "Following the close of COP31 in Antalya, Turkey, Carbon Brief’s journalists answered a range of questions in a CB Live",
+        "why_it_matters": "",
+        "link": "https://www.carbonbrief.org/cb-live-carbon-brief-journalists-discuss-key-cop31-outcomes",
+        "source": "Carbon Brief",
+        "type": "news",
+        "sector": "Energy",
+        "published": "2026-11-24T17:06:20Z",
+        "first_seen": "2026-11-24T18:41:14Z",
+        "importance": null,
+        "score": 3.88,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "a9462cea7547",
         "title": "CMBLU highlights community participation in California long-duration non-lithium battery project for tribal and desert community resilience",
@@ -824,7 +856,7 @@
         "published": "2026-11-24T12:42:40Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.843,
+        "score": 3.565,
         "summary_source": "feed",
         "related": []
       },
@@ -840,7 +872,7 @@
         "published": "2026-11-24T12:32:18Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.83,
+        "score": 3.553,
         "summary_source": "feed",
         "related": []
       },
@@ -856,7 +888,7 @@
         "published": "2026-11-24T11:43:36Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.771,
+        "score": 3.498,
         "summary_source": "feed",
         "related": []
       },
@@ -872,7 +904,7 @@
         "published": "2026-11-24T10:26:24Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 3.679,
+        "score": 3.413,
         "summary_source": "feed",
         "related": []
       },
@@ -888,7 +920,7 @@
         "published": "2026-11-24T09:44:39Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 3.63,
+        "score": 3.367,
         "summary_source": "feed",
         "related": []
       },
@@ -904,7 +936,7 @@
         "published": "2026-11-24T09:24:23Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 3.606,
+        "score": 3.345,
         "summary_source": "feed",
         "related": []
       },
@@ -920,28 +952,60 @@
         "published": "2026-11-24T00:04:52Z",
         "first_seen": "2026-11-24T02:44:21Z",
         "importance": null,
-        "score": 3.014,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "c5ce574c4108",
-        "title": "COP31: Key outcomes agreed at the UN climate talks in Antalya",
-        "summary": "The COP31 climate talks in Antalya, Turkey, have failed to reach agreement on a “pact” that lacked clear references to",
-        "why_it_matters": "",
-        "link": "https://www.carbonbrief.org/cop31-key-outcomes-agreed-at-the-un-climate-talks-in-antalya",
-        "source": "Carbon Brief",
-        "type": "news",
-        "sector": "Energy",
-        "published": "2026-11-23T16:15:51Z",
-        "first_seen": "2026-11-23T18:41:58Z",
-        "importance": null,
-        "score": 2.592,
+        "score": 2.796,
         "summary_source": "feed",
         "related": []
       }
     ],
     "MedTech": [
+      {
+        "id": "82fb759cf87b",
+        "title": "MiniMed targets competition with upcoming diabetes devices",
+        "summary": "CEO Que Dallara said the company aims to give people a reason to switch with the launch of MiniMed’s first insulin patch pump.",
+        "why_it_matters": "",
+        "link": "https://www.medtechdive.com/news/minimed-targets-competition-with-upcoming-diabetes-devices/875637/",
+        "source": "MedTech Dive",
+        "type": "news",
+        "sector": "MedTech",
+        "published": "2026-11-24T16:28:23Z",
+        "first_seen": "2026-11-24T18:41:14Z",
+        "importance": null,
+        "score": 3.833,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "bf78c7101cd8",
+        "title": "Medtronic continues to see growth in cardiovascular business",
+        "summary": "The cardiovascular unit grew by double digits in the company’s fiscal second quarter, supported by its cardiac ablation solutions portfolio.",
+        "why_it_matters": "",
+        "link": "https://www.medtechdive.com/news/medtronic-continues-to-see-growth-in-cardiovascular-business/875613/",
+        "source": "MedTech Dive",
+        "type": "news",
+        "sector": "MedTech",
+        "published": "2026-11-24T15:35:48Z",
+        "first_seen": "2026-11-24T18:41:14Z",
+        "importance": null,
+        "score": 3.769,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "5c52a6bc65ad",
+        "title": "Heraeus pulls vascular guidewires over coating detachment risk",
+        "summary": "The quality problem could lead to release of particles that could block blood vessels.",
+        "why_it_matters": "",
+        "link": "https://www.medtechdive.com/news/heraeus-pulls-vascular-guidewires-over-coating-detachment-risk/875585/",
+        "source": "MedTech Dive",
+        "type": "news",
+        "sector": "MedTech",
+        "published": "2026-11-24T15:28:00Z",
+        "first_seen": "2026-11-24T18:41:14Z",
+        "importance": null,
+        "score": 3.759,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "690e5967776c",
         "title": "Smith + Nephew names new CFO",
@@ -954,7 +1018,7 @@
         "published": "2026-11-23T16:28:15Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 2.603,
+        "score": 2.415,
         "summary_source": "feed",
         "related": []
       },
@@ -970,7 +1034,7 @@
         "published": "2026-11-23T15:00:00Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 2.53,
+        "score": 2.347,
         "summary_source": "feed",
         "related": []
       },
@@ -986,7 +1050,7 @@
         "published": "2026-11-20T16:46:43Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.655,
+        "score": 0.607,
         "summary_source": "feed",
         "related": []
       },
@@ -1002,7 +1066,7 @@
         "published": "2026-11-20T16:24:06Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.65,
+        "score": 0.603,
         "summary_source": "feed",
         "related": []
       },
@@ -1018,23 +1082,7 @@
         "published": "2026-11-20T15:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.633,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "ee45bcf4b147",
-        "title": "GeneDx appoints Everett Cunningham as CEO",
-        "summary": "Analysts hailed Cunningham’s experience as a boost to GeneDx as the company tries to enter new markets and maintain its leadership in a competitive sector.",
-        "why_it_matters": "",
-        "link": "https://www.medtechdive.com/news/genedx-appoints-everett-cunningham-as-ceo/875157/",
-        "source": "MedTech Dive",
-        "type": "news",
-        "sector": "MedTech",
-        "published": "2026-11-19T15:00:00Z",
-        "first_seen": "2026-11-21T23:30:38Z",
-        "importance": null,
-        "score": 0.398,
+        "score": 0.587,
         "summary_source": "feed",
         "related": []
       }
@@ -1052,7 +1100,7 @@
         "published": null,
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 4.0,
+        "score": 3.711,
         "summary_source": "feed",
         "related": []
       },
@@ -1068,7 +1116,7 @@
         "published": null,
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 4.0,
+        "score": 3.711,
         "summary_source": "feed",
         "related": []
       },
@@ -1084,7 +1132,7 @@
         "published": null,
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 4.0,
+        "score": 3.711,
         "summary_source": "feed",
         "related": []
       },
@@ -1100,7 +1148,7 @@
         "published": "2026-11-24T14:27:36Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.975,
+        "score": 3.687,
         "summary_source": "feed",
         "related": []
       },
@@ -1116,7 +1164,7 @@
         "published": "2026-11-24T14:26:07Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.973,
+        "score": 3.686,
         "summary_source": "feed",
         "related": []
       },
@@ -1132,7 +1180,7 @@
         "published": "2026-11-24T14:19:30Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.964,
+        "score": 3.678,
         "summary_source": "feed",
         "related": []
       },
@@ -1148,7 +1196,7 @@
         "published": "2026-11-24T14:15:03Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.959,
+        "score": 3.673,
         "summary_source": "feed",
         "related": []
       },
@@ -1164,7 +1212,7 @@
         "published": null,
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 3.699,
+        "score": 3.431,
         "summary_source": "feed",
         "related": []
       }
@@ -1182,7 +1230,7 @@
         "published": "2026-11-24T14:00:00Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.94,
+        "score": 3.655,
         "summary_source": "feed",
         "related": []
       },
@@ -1198,7 +1246,7 @@
         "published": "2026-11-24T13:49:16Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.926,
+        "score": 3.642,
         "summary_source": "feed",
         "related": []
       },
@@ -1214,7 +1262,7 @@
         "published": "2026-11-24T13:00:00Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.865,
+        "score": 3.585,
         "summary_source": "feed",
         "related": []
       },
@@ -1230,7 +1278,7 @@
         "published": "2026-11-24T12:09:33Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.803,
+        "score": 3.528,
         "summary_source": "feed",
         "related": []
       },
@@ -1246,7 +1294,7 @@
         "published": "2026-11-24T09:06:46Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 3.586,
+        "score": 3.327,
         "summary_source": "feed",
         "related": []
       },
@@ -1262,7 +1310,7 @@
         "published": "2026-11-24T08:30:00Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 3.544,
+        "score": 3.288,
         "summary_source": "feed",
         "related": []
       },
@@ -1278,7 +1326,7 @@
         "published": "2026-11-24T08:00:00Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 3.51,
+        "score": 3.256,
         "summary_source": "feed",
         "related": []
       },
@@ -1294,12 +1342,44 @@
         "published": "2026-11-23T20:25:32Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 2.809,
+        "score": 2.606,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Robotics": [
+      {
+        "id": "f841378f6650",
+        "title": "Robotics Summit 2027 opens call for speakers",
+        "summary": "The Robotics Summit & Expo returns to Boston June 2-3, 2027 with deepened coverage, an expanded expo floor, and more.",
+        "why_it_matters": "",
+        "link": "https://www.therobotreport.com/robotics-summit-2027-opens-call-for-speakers/",
+        "source": "The Robot Report",
+        "type": "news",
+        "sector": "Robotics",
+        "published": "2026-11-24T18:03:37Z",
+        "first_seen": "2026-11-24T18:41:14Z",
+        "importance": null,
+        "score": 3.952,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "3a08b9a150e5",
+        "title": "SoftBank acquires Marc Raibert’s Robotics and AI Institute",
+        "summary": "SoftBank has completed its acquisition of the Robotics and AI Institute from Hyundai Motor Group, expanding its robotics portfolio as the research organization looks to fill 24 open positions in Massachusetts and Switzerland.",
+        "why_it_matters": "",
+        "link": "https://www.therobotreport.com/softbank-acquires-marc-raiberts-robotics-and-ai-institute/",
+        "source": "The Robot Report",
+        "type": "news",
+        "sector": "Robotics",
+        "published": "2026-11-24T14:48:57Z",
+        "first_seen": "2026-11-24T18:41:14Z",
+        "importance": null,
+        "score": 3.713,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "6fa78846c00f",
         "title": "How does Orchard AI fit into John Deere’s technology portfolio?",
@@ -1312,7 +1392,7 @@
         "published": "2026-11-23T20:29:55Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 2.813,
+        "score": 2.609,
         "summary_source": "feed",
         "related": []
       },
@@ -1328,7 +1408,7 @@
         "published": "2026-11-23T15:16:26Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 2.543,
+        "score": 2.36,
         "summary_source": "feed",
         "related": []
       },
@@ -1344,7 +1424,7 @@
         "published": "2026-11-23T14:20:46Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 2.498,
+        "score": 2.318,
         "summary_source": "feed",
         "related": []
       },
@@ -1360,7 +1440,7 @@
         "published": "2026-11-24T05:00:00Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 1.656,
+        "score": 1.537,
         "summary_source": "feed",
         "related": []
       },
@@ -1376,7 +1456,7 @@
         "published": "2026-11-24T05:00:00Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 1.656,
+        "score": 1.537,
         "summary_source": "feed",
         "related": []
       },
@@ -1392,39 +1472,7 @@
         "published": "2026-11-21T22:25:35Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.158,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "6d7b070d647d",
-        "title": "One Behavior, Out of Order: Deterministic Execution and Parallel Simulation of ROS 2 Applications",
-        "summary": "System-level simulation is widely used to validate robotic applications before hardware deployment.",
-        "why_it_matters": "",
-        "link": "https://arxiv.org/abs/2611.26676",
-        "source": "arXiv cs.RO",
-        "type": "paper",
-        "sector": "Robotics",
-        "published": "2026-11-23T05:00:00Z",
-        "first_seen": "2026-11-23T06:58:55Z",
-        "importance": null,
-        "score": 1.043,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "eb2d77fe34e3",
-        "title": "Latent Space Planning with Sequential Monte Carlo",
-        "summary": "Planning with learned world models amounts to finding action sequences whose predicted rollouts reach a goal. Sampling-based planners often struggle at longer horizons, while gradient-based methods can become trapped in local minima.",
-        "why_it_matters": "",
-        "link": "https://arxiv.org/abs/2611.26706",
-        "source": "arXiv cs.RO",
-        "type": "paper",
-        "sector": "Robotics",
-        "published": "2026-11-23T05:00:00Z",
-        "first_seen": "2026-11-23T06:58:55Z",
-        "importance": null,
-        "score": 1.043,
+        "score": 1.075,
         "summary_source": "feed",
         "related": []
       }
@@ -1442,7 +1490,7 @@
         "published": "2026-11-20T21:52:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.722,
+        "score": 0.67,
         "summary_source": "feed",
         "related": []
       },
@@ -1458,7 +1506,7 @@
         "published": "2026-11-19T23:30:50Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.469,
+        "score": 0.435,
         "summary_source": "feed",
         "related": []
       },
@@ -1474,7 +1522,7 @@
         "published": "2026-11-18T19:52:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.276,
+        "score": 0.256,
         "summary_source": "feed",
         "related": []
       },
@@ -1490,12 +1538,28 @@
         "published": "2026-11-18T15:10:53Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.252,
+        "score": 0.234,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Funding & M&A": [
+      {
+        "id": "6dc049a9d05f",
+        "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+        "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+        "why_it_matters": "",
+        "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+        "source": "TechCrunch Venture",
+        "type": "news",
+        "sector": "Funding & M&A",
+        "published": "2026-11-24T18:30:42Z",
+        "first_seen": "2026-11-24T18:41:14Z",
+        "importance": null,
+        "score": 3.986,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "2888e365a3a3",
         "title": "AI Bias In HR: Why Polished Work Gets Overrated And What to Do About It",
@@ -1508,7 +1572,7 @@
         "published": "2026-11-24T12:00:48Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.792,
+        "score": 3.518,
         "summary_source": "feed",
         "related": []
       },
@@ -1524,7 +1588,7 @@
         "published": "2026-11-24T12:00:21Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.791,
+        "score": 3.517,
         "summary_source": "feed",
         "related": []
       },
@@ -1540,7 +1604,7 @@
         "published": "2026-11-23T12:00:19Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 2.388,
+        "score": 2.216,
         "summary_source": "feed",
         "related": []
       },
@@ -1556,7 +1620,7 @@
         "published": "2026-11-23T01:25:53Z",
         "first_seen": "2026-11-23T02:44:14Z",
         "importance": null,
-        "score": 1.948,
+        "score": 1.808,
         "summary_source": "feed",
         "related": []
       },
@@ -1572,7 +1636,7 @@
         "published": "2026-11-20T20:15:54Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.7,
+        "score": 0.649,
         "summary_source": "feed",
         "related": []
       },
@@ -1588,7 +1652,7 @@
         "published": "2026-11-20T12:00:25Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.597,
+        "score": 0.554,
         "summary_source": "feed",
         "related": []
       },
@@ -1604,28 +1668,60 @@
         "published": "2026-11-20T12:00:01Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.597,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "9fe25fd12ea4",
-        "title": "Anthropic rival says companies can (mostly) skip the pricey models",
-        "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
-        "why_it_matters": "",
-        "link": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
-        "source": "TechCrunch Venture",
-        "type": "news",
-        "sector": "Funding & M&A",
-        "published": "2026-11-20T00:26:03Z",
-        "first_seen": "2026-11-21T23:30:38Z",
-        "importance": null,
-        "score": 0.478,
+        "score": 0.554,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Developer Tools": [
+      {
+        "id": "9ae04f0f556d",
+        "title": "Prompt Injection Fixes Need Regression Tests",
+        "summary": "",
+        "why_it_matters": "",
+        "link": "https://stackoverflow.blog/2026/11/24/prompt-injection-fixes-need-regression-tests/",
+        "source": "Stack Overflow Blog",
+        "type": "news",
+        "sector": "Developer Tools",
+        "published": "2026-11-24T16:24:41Z",
+        "first_seen": "2026-11-24T18:41:14Z",
+        "importance": null,
+        "score": 3.829,
+        "summary_source": "none",
+        "related": []
+      },
+      {
+        "id": "3e18d8642f30",
+        "title": "These are the gifts developers will actually want",
+        "summary": "The developer you're shopping for hasn’t shared their holiday wish list with you yet? Check out these gifts, plus our Black Friday discount all week long.",
+        "why_it_matters": "",
+        "link": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/",
+        "source": "GitHub Blog",
+        "type": "news",
+        "sector": "Developer Tools",
+        "published": "2026-11-24T16:00:00Z",
+        "first_seen": "2026-11-24T18:41:14Z",
+        "importance": null,
+        "score": 3.798,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "e4b070b357e6",
+        "title": "A Reboot Is Still a Deployment",
+        "summary": "",
+        "why_it_matters": "",
+        "link": "https://stackoverflow.blog/2026/11/24/a-reboot-is-still-a-deployment/",
+        "source": "Stack Overflow Blog",
+        "type": "news",
+        "sector": "Developer Tools",
+        "published": "2026-11-24T15:52:06Z",
+        "first_seen": "2026-11-24T18:41:14Z",
+        "importance": null,
+        "score": 3.789,
+        "summary_source": "none",
+        "related": []
+      },
       {
         "id": "8bffc34f6fcc",
         "title": "CNCF Research Shows Virtual Machines Remain Central as AI Workloads Evolve",
@@ -1638,7 +1734,7 @@
         "published": "2026-11-24T12:00:00Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.791,
+        "score": 3.517,
         "summary_source": "feed",
         "related": []
       },
@@ -1654,7 +1750,7 @@
         "published": "2026-11-24T11:55:00Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.785,
+        "score": 3.511,
         "summary_source": "feed",
         "related": []
       },
@@ -1670,7 +1766,7 @@
         "published": "2026-11-24T11:00:00Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.719,
+        "score": 3.45,
         "summary_source": "feed",
         "related": []
       },
@@ -1686,7 +1782,7 @@
         "published": "2026-11-24T09:30:00Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 3.613,
+        "score": 3.351,
         "summary_source": "feed",
         "related": []
       },
@@ -1702,60 +1798,108 @@
         "published": "2026-11-24T08:40:00Z",
         "first_seen": "2026-11-24T06:48:23Z",
         "importance": null,
-        "score": 3.555,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "309a851cb546",
-        "title": "QCon San Francisco 2026: Lessons from Building a $100M Product in Six Weeks at OpenAI",
-        "summary": "At QCon San Francisco 2026, OpenAI's Brian Yang described building the ChatGPT ads product with Codex agents and no human-written code. He outlined layered testing, sandboxes, and batched pull request reviews, and noted failure modes such as code \"slop\" and unsafe agent actions.",
-        "why_it_matters": "",
-        "link": "https://www.infoq.com/news/2026/11/qcon-sf-openai-lessons/",
-        "source": "InfoQ",
-        "type": "news",
-        "sector": "Developer Tools",
-        "published": "2026-11-24T06:32:00Z",
-        "first_seen": "2026-11-24T06:48:23Z",
-        "importance": null,
-        "score": 3.412,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "0e2e91b5729f",
-        "title": "QCon San Francisco 2026: Securing AI Agents in Production",
-        "summary": "At QCon San Francisco, Google's Amanda Walker framed AI agents as an insider-risk problem operating at machine speed, and described identity, credential and containment patterns for running them safely in production. By Mark Silvester",
-        "why_it_matters": "",
-        "link": "https://www.infoq.com/news/2026/11/qcon-ai-agent-security/",
-        "source": "InfoQ",
-        "type": "news",
-        "sector": "Developer Tools",
-        "published": "2026-11-23T20:00:00Z",
-        "first_seen": "2026-11-23T22:38:36Z",
-        "importance": null,
-        "score": 2.786,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "d911e480d7d4",
-        "title": "How LinkedIn Built a View-Agnostic Analytics System for Modern iOS UI Architectures",
-        "summary": "To address the challenge posed by modern iOS UI systems where the logical UI structure may not mirror the native UIKit hierarchy, LinkedIn engineers developed a view-agnostic analytics system build around a shared MeasurableNode contract. By Sergio De Simone",
-        "why_it_matters": "",
-        "link": "https://www.infoq.com/news/2026/11/linkedin-view-agnostic-analytics/",
-        "source": "InfoQ",
-        "type": "news",
-        "sector": "Developer Tools",
-        "published": "2026-11-23T18:00:00Z",
-        "first_seen": "2026-11-23T18:41:58Z",
-        "importance": null,
-        "score": 2.681,
+        "score": 3.298,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Breaking": [
+      {
+        "id": "6f9e7093acda",
+        "title": "Tidal will ban fully AI-generated music starting December 9 and says such content accounted for ~43% of tracks distributed to its platform over the past 90 days (Ethan Millman/The Hollywood Reporter)",
+        "summary": "Ethan Millman / The Hollywood Reporter : Tidal will ban fully AI-generated music starting December 9 and says such content accounted for ~43% of tracks distributed to its platform over the past 90 days — The service said Tuesday that more than 60 percent of new tracks uploaded…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261124/p29",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-24T18:20:03Z",
+        "first_seen": "2026-11-24T18:41:14Z",
+        "importance": null,
+        "score": 3.576,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "3c12f127fa05",
+        "title": "In the first all-hands since his return, Jensen Huang apologized for violating Nvidia's code of conduct, saying he made some \"very serious personal mistakes\" (Paresh Dave/Wired)",
+        "summary": "Paresh Dave / Wired : In the first all-hands since his return, Jensen Huang apologized for violating Nvidia's code of conduct, saying he made some “very serious personal mistakes” — The reinstated Nvidia CEO acknowledged violating the company's code of conduct and said he had…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261124/p28",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-24T18:01:27Z",
+        "first_seen": "2026-11-24T18:41:14Z",
+        "importance": null,
+        "score": 3.554,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "f998ab027b75",
+        "title": "Three xAI founding members launch Epochal to build AI agents that achieve \"superhuman prediction\"; source: co-founder Guodong Zhang personally invested $100M (Bloomberg)",
+        "summary": "Bloomberg : Three xAI founding members launch Epochal to build AI agents that achieve “superhuman prediction”; source: co-founder Guodong Zhang personally invested $100M — Three founding members of Elon Musk's artificial intelligence business, xAI, have teamed up to build a new…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261124/p27",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-24T17:25:02Z",
+        "first_seen": "2026-11-24T18:41:14Z",
+        "importance": null,
+        "score": 3.513,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "18842c717200",
+        "title": "Jensen Huang was reinstated because his failure to build a management structure fit for Nvidia's size, plus Trump's support, left Nvidia with no other options (Robert Armstrong/Financial Times)",
+        "summary": "Robert Armstrong / Financial Times : Jensen Huang was reinstated because his failure to build a management structure fit for Nvidia's size, plus Trump's support, left Nvidia with no other options — Nvidia took Huang back because his failures left the company with no other…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261124/p26",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-24T17:10:00Z",
+        "first_seen": "2026-11-24T18:41:14Z",
+        "importance": null,
+        "score": 3.496,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "2a0970d60aa0",
+        "title": "A US FTC official says Shein agreed to pay $100M to settle US claims that it misled consumers on shipping times, manipulated product reviews, and more (Jody Godoy/Reuters)",
+        "summary": "Jody Godoy / Reuters : A US FTC official says Shein agreed to pay $100M to settle US claims that it misled consumers on shipping times, manipulated product reviews, and more — Chinese fast-fashion giant Shein (0625.HK) will pay $100 million to settle US claims that it misled…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261124/p25",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-24T17:01:44Z",
+        "first_seen": "2026-11-24T18:41:14Z",
+        "importance": null,
+        "score": 3.487,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "7123b3646fbd",
+        "title": "Internal memos: Microsoft declared a \"Code Red\" drive to overhaul how it prevents and responds to major service failures after the 24-hour Microsoft 365 outage (Jaspreet Singh/Reuters)",
+        "summary": "Jaspreet Singh / Reuters : Internal memos: Microsoft declared a “Code Red” drive to overhaul how it prevents and responds to major service failures after the 24-hour Microsoft 365 outage — Microsoft has declared a “Code Red” drive to overhaul how it prevents and responds to…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261124/p24",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-24T16:35:02Z",
+        "first_seen": "2026-11-24T18:41:14Z",
+        "importance": null,
+        "score": 3.457,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "eeaf7a2eafdd",
         "title": "Anthropic falls 8%+ to ~$80, below its $83 IPO price and a sharp fall from its $111.50 IPO pop; Dario and Daniela Amodei each sold 3.37M+ shares worth $280M+ (Medha Singh/Reuters)",
@@ -1768,7 +1912,7 @@
         "published": "2026-11-24T14:45:30Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.598,
+        "score": 3.338,
         "summary_source": "feed",
         "related": []
       },
@@ -1784,109 +1928,46 @@
         "published": "2026-11-24T14:35:02Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.586,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "75b42eb61eab",
-        "title": "Zipher, which uses AI agents to handle data workload execution and resource allocation, raised $53M across seed and Series A from TLV Partners and others (Duncan Riley/SiliconANGLE)",
-        "summary": "Duncan Riley / SiliconANGLE : Zipher, which uses AI agents to handle data workload execution and resource allocation, raised $53M across seed and Series A from TLV Partners and others — Data infrastructure startup Zipher Technologies Ltd. today announced that it has raised $53…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261124/p19",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-24T13:35:01Z",
-        "first_seen": "2026-11-24T14:47:20Z",
-        "importance": null,
-        "score": 3.517,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "3b90e14d7b99",
-        "title": "The OpenClaw Foundation launches ShellBench to test 13 frontier AI models across five harnesses on 100 tasks; top AI models hit only a ~60% completion rate (Nat Rubio-Licht/The Deep View)",
-        "summary": "Nat Rubio-Licht / The Deep View : The OpenClaw Foundation launches ShellBench to test 13 frontier AI models across five harnesses on 100 tasks; top AI models hit only a ~60% completion rate — Though agents have become a massive part of the enterprise AI conversation, new…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261124/p18",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-24T13:25:01Z",
-        "first_seen": "2026-11-24T14:47:20Z",
-        "importance": null,
-        "score": 3.506,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "a1e1715031b3",
-        "title": "Uber, Nuro, and Lucid begin robotaxi testing without human safety operators across four South Bay cities ahead of a planned commercial debut in Q1 2027 (Andrew J. Hawkins/The Verge)",
-        "summary": "Andrew J.",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261124/p17",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-24T13:15:27Z",
-        "first_seen": "2026-11-24T14:47:20Z",
-        "importance": null,
-        "score": 3.495,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "3dddbe496101",
-        "title": "A profile of Levent Alpöge, the Anthropic mathematician who found a Riemann hypothesis proof with Claude and held off releasing it until after Anthropic's IPO (Wall Street Journal)",
-        "summary": "Wall Street Journal : A profile of Levent Alpöge, the Anthropic mathematician who found a Riemann hypothesis proof with Claude and held off releasing it until after Anthropic's IPO — Mathematicians tried and failed to crack the Riemann Hypothesis for 167 years.",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261124/p16",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-24T12:50:00Z",
-        "first_seen": "2026-11-24T14:47:20Z",
-        "importance": null,
-        "score": 3.467,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "75f74e98dda9",
-        "title": "Xiaomi reports Q3 revenue down 5.2% YoY to ~$16.1B, its third straight quarter of decline, and net income down 68% to ~$585M, as memory shortages weigh on sales (Bloomberg)",
-        "summary": "Bloomberg : Xiaomi reports Q3 revenue down 5.2% YoY to ~$16.1B, its third straight quarter of decline, and net income down 68% to ~$585M, as memory shortages weigh on sales — Xiaomi Corp. reported a revenue contraction for the third quarter in a row while it grapples with a…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261124/p7",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-24T10:40:03Z",
-        "first_seen": "2026-11-24T10:43:22Z",
-        "importance": null,
-        "score": 3.325,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "b15721c49cd5",
-        "title": "Sources: a Silicon Valley war room, including Travis Kalanick, Gavin Baker, Brad Gerstner, and Marc Andreessen, lobbied Trump and JD Vance to reinstate Huang (Financial Times)",
-        "summary": "Financial Times : Sources: a Silicon Valley war room, including Travis Kalanick, Gavin Baker, Brad Gerstner, and Marc Andreessen, lobbied Trump and JD Vance to reinstate Huang — Silicon Valley titans enlisted US president and JD Vance to rescue the billionaire tech boss whom…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261124/p6",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-24T10:35:02Z",
-        "first_seen": "2026-11-24T10:43:22Z",
-        "importance": null,
-        "score": 3.32,
+        "score": 3.327,
         "summary_source": "feed",
         "related": []
       }
     ]
   },
   "emerging": [
+    {
+      "term": "deployment",
+      "sources": 5,
+      "sectors": 5,
+      "ids": [
+        "09690141b595",
+        "a9462cea7547",
+        "5e081d68f803"
+      ],
+      "score": 10.5
+    },
+    {
+      "term": "shares",
+      "sources": 4,
+      "sectors": 4,
+      "ids": [
+        "6805acb6b95e",
+        "0fb72091f107",
+        "6dc049a9d05f"
+      ],
+      "score": 9.0
+    },
+    {
+      "term": "continues",
+      "sources": 3,
+      "sectors": 3,
+      "ids": [
+        "8bd5e60a4baf",
+        "bf78c7101cd8",
+        "a3a065f09681"
+      ],
+      "score": 7.5
+    },
     {
       "term": "really",
       "sources": 3,
@@ -1904,32 +1985,21 @@
       "sectors": 3,
       "ids": [
         "4ad3baa07e0c",
-        "ee1dfaabca86",
-        "75b42eb61eab"
+        "cb343cb6917b",
+        "ee1dfaabca86"
       ],
       "score": 7.5
     },
     {
-      "term": "test",
-      "sources": 3,
-      "sectors": 3,
-      "ids": [
-        "a72fbb317007",
-        "6ab92de35fe7",
-        "3b90e14d7b99"
-      ],
-      "score": 7.5
-    },
-    {
-      "term": "deployment",
+      "term": "close",
       "sources": 4,
       "sectors": 4,
       "ids": [
-        "09690141b595",
-        "a9462cea7547",
-        "5e081d68f803"
+        "1dd1dfedca31",
+        "ee1dfaabca86",
+        "879bc7819129"
       ],
-      "score": 7.2
+      "score": 6.0
     },
     {
       "term": "month",
@@ -1950,28 +2020,6 @@
         "200aff004bd8",
         "8bd5e60a4baf",
         "ee1dfaabca86"
-      ],
-      "score": 5.62
-    },
-    {
-      "term": "applications",
-      "sources": 3,
-      "sectors": 3,
-      "ids": [
-        "6d7b070d647d",
-        "2888e365a3a3",
-        "8bffc34f6fcc"
-      ],
-      "score": 5.62
-    },
-    {
-      "term": "part",
-      "sources": 3,
-      "sectors": 3,
-      "ids": [
-        "4c46dfc5f2ef",
-        "a3a065f09681",
-        "ae0352ad78f0"
       ],
       "score": 5.62
     }
@@ -2098,7 +2146,7 @@
         "source": "Carbon Brief",
         "url": "https://www.carbonbrief.org/feed/",
         "status": "ok",
-        "entries": 1,
+        "entries": 3,
         "error": null
       },
       {
@@ -2210,7 +2258,7 @@
         "source": "GitHub Blog",
         "url": "https://github.blog/feed/",
         "status": "ok",
-        "entries": 3,
+        "entries": 2,
         "error": null
       },
       {
@@ -2253,7 +2301,7 @@
       "errors": [
         "ANTHROPIC_API_KEY is not set"
       ],
-      "new_items": 34,
+      "new_items": 28,
       "summarised": 0
     }
   }
