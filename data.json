@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "generated_at": "2026-11-24T02:44:21Z",
-  "last_updated": "2026-11-24 02:44 UTC",
+  "generated_at": "2026-11-24T06:48:23Z",
+  "last_updated": "2026-11-24 06:48 UTC",
   "is_sunday_edition": false,
   "priority_sectors": [
     "AI",
@@ -10,9 +10,41 @@
   ],
   "notices": [
     "AI summaries are unavailable this run; showing feed text instead.",
-    "3 feed(s) returned no items; see Feed status at the bottom of the page."
+    "7 feed(s) returned no items; see Feed status at the bottom of the page."
   ],
   "top_stories": [
+    {
+      "id": "4dbece577db5",
+      "title": "Agent swarms need more than a message board",
+      "summary": "Agent swarms are really distributed systems problems in disguise.",
+      "why_it_matters": "",
+      "link": "https://stackoverflow.blog/2026/11/24/agent-swarms-need-more-than-a-message-board/",
+      "source": "Stack Overflow Blog",
+      "type": "news",
+      "sector": "Developer Tools",
+      "published": "2026-11-24T08:40:00Z",
+      "first_seen": "2026-11-24T06:48:23Z",
+      "importance": null,
+      "score": 4.0,
+      "summary_source": "feed",
+      "related": []
+    },
+    {
+      "id": "309a851cb546",
+      "title": "QCon San Francisco 2026: Lessons from Building a $100M Product in Six Weeks at OpenAI",
+      "summary": "At QCon San Francisco 2026, OpenAI's Brian Yang described building the ChatGPT ads product with Codex agents and no human-written code. He outlined layered testing, sandboxes, and batched pull request reviews, and noted failure modes such as code \"slop\" and unsafe agent actions.",
+      "why_it_matters": "",
+      "link": "https://www.infoq.com/news/2026/11/qcon-sf-openai-lessons/",
+      "source": "InfoQ",
+      "type": "news",
+      "sector": "Developer Tools",
+      "published": "2026-11-24T06:32:00Z",
+      "first_seen": "2026-11-24T06:48:23Z",
+      "importance": null,
+      "score": 3.979,
+      "summary_source": "feed",
+      "related": []
+    },
     {
       "id": "200aff004bd8",
       "title": "Solar Industry Supports BAAJA While Environmental Orgs Oppose It",
@@ -25,7 +57,7 @@
       "published": "2026-11-24T01:50:33Z",
       "first_seen": "2026-11-24T02:44:21Z",
       "importance": null,
-      "score": 3.932,
+      "score": 3.635,
       "summary_source": "feed",
       "related": []
     },
@@ -41,7 +73,7 @@
       "published": "2026-11-24T00:19:48Z",
       "first_seen": "2026-11-24T02:44:21Z",
       "importance": null,
-      "score": 3.819,
+      "score": 3.531,
       "summary_source": "feed",
       "related": []
     },
@@ -57,39 +89,7 @@
       "published": "2026-11-24T00:04:52Z",
       "first_seen": "2026-11-24T02:44:21Z",
       "importance": null,
-      "score": 3.8,
-      "summary_source": "feed",
-      "related": []
-    },
-    {
-      "id": "9f6e51ea106a",
-      "title": "House panel pushes to reverse 'hollowing out' of US biotech amid China's rise",
-      "summary": "The U.S. House Select Committee on China has published a report detailing policy recommendations to “reverse the hollowing out of the U.S. drug innovation industry.”",
-      "why_it_matters": "",
-      "link": "https://www.fiercebiotech.com/biotech/select-committee-china-makes-final-push-us-biotech-vs-china",
-      "source": "Fierce Biotech",
-      "type": "news",
-      "sector": "Biotech",
-      "published": null,
-      "first_seen": "2026-11-23T22:38:36Z",
-      "importance": null,
-      "score": 3.697,
-      "summary_source": "feed",
-      "related": []
-    },
-    {
-      "id": "b4fed49feca1",
-      "title": "Hybrid-Bonded 3D NAND Boosts Analog In-Memory Compute Density (IBM, Micron, U. of Patras)",
-      "summary": "Researchers at IBM Research, Micron Technology, and University of Patras published “3D-NAND-CIM: A Hybrid-Bonded 3D-NAND-Flash-based Analog In-Memory-Compute macro offering 4.8M weights/mm².” Find the technical paper here. November 2026.",
-      "why_it_matters": "",
-      "link": "https://semiengineering.com/hybrid-bonded-3d-nand-boosts-analog-in-memory-compute-density/",
-      "source": "SemiEngineering",
-      "type": "news",
-      "sector": "Semiconductors",
-      "published": "2026-11-23T21:35:38Z",
-      "first_seen": "2026-11-23T22:38:36Z",
-      "importance": null,
-      "score": 3.623,
+      "score": 3.514,
       "summary_source": "feed",
       "related": []
     }
@@ -108,7 +108,7 @@
         "published": "2026-11-23T17:20:37Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.338,
+        "score": 3.087,
         "summary_source": "none",
         "related": []
       },
@@ -124,7 +124,7 @@
         "published": "2026-11-23T00:00:00Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 2.39,
+        "score": 2.21,
         "summary_source": "none",
         "related": []
       },
@@ -140,7 +140,7 @@
         "published": "2026-11-23T05:00:00Z",
         "first_seen": "2026-11-23T06:58:55Z",
         "importance": null,
-        "score": 1.579,
+        "score": 1.46,
         "summary_source": "feed",
         "related": []
       },
@@ -156,7 +156,7 @@
         "published": "2026-11-23T05:00:00Z",
         "first_seen": "2026-11-23T06:58:55Z",
         "importance": null,
-        "score": 1.579,
+        "score": 1.46,
         "summary_source": "feed",
         "related": []
       },
@@ -172,7 +172,7 @@
         "published": "2026-11-23T05:00:00Z",
         "first_seen": "2026-11-23T06:58:55Z",
         "importance": null,
-        "score": 1.579,
+        "score": 1.46,
         "summary_source": "feed",
         "related": []
       },
@@ -188,7 +188,7 @@
         "published": "2026-11-20T00:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.598,
+        "score": 0.553,
         "summary_source": "none",
         "related": []
       },
@@ -204,7 +204,7 @@
         "published": "2026-11-20T00:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.598,
+        "score": 0.553,
         "summary_source": "none",
         "related": []
       },
@@ -220,7 +220,7 @@
         "published": "2026-11-18T19:54:56Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.348,
+        "score": 0.322,
         "summary_source": "none",
         "related": []
       }
@@ -238,7 +238,7 @@
         "published": "2026-11-23T21:35:38Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 3.623,
+        "score": 3.35,
         "summary_source": "feed",
         "related": []
       },
@@ -254,7 +254,7 @@
         "published": "2026-11-23T21:34:45Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 3.622,
+        "score": 3.349,
         "summary_source": "feed",
         "related": []
       },
@@ -270,7 +270,7 @@
         "published": "2026-11-23T21:19:13Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 3.604,
+        "score": 3.332,
         "summary_source": "feed",
         "related": []
       },
@@ -286,7 +286,7 @@
         "published": "2026-11-23T18:17:02Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.399,
+        "score": 3.143,
         "summary_source": "feed",
         "related": []
       },
@@ -302,7 +302,7 @@
         "published": "2026-11-23T16:08:35Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.262,
+        "score": 3.016,
         "summary_source": "feed",
         "related": []
       },
@@ -318,7 +318,7 @@
         "published": "2026-11-23T15:00:00Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.191,
+        "score": 2.95,
         "summary_source": "feed",
         "related": []
       },
@@ -334,7 +334,7 @@
         "published": "2026-11-23T08:30:00Z",
         "first_seen": "2026-11-23T10:51:07Z",
         "importance": null,
-        "score": 2.815,
+        "score": 2.603,
         "summary_source": "feed",
         "related": []
       },
@@ -350,7 +350,7 @@
         "published": "2026-11-23T08:01:13Z",
         "first_seen": "2026-11-23T10:51:07Z",
         "importance": null,
-        "score": 2.79,
+        "score": 2.579,
         "summary_source": "feed",
         "related": []
       }
@@ -368,7 +368,7 @@
         "published": "2026-11-23T05:00:00Z",
         "first_seen": "2026-11-23T06:58:55Z",
         "importance": null,
-        "score": 1.579,
+        "score": 1.46,
         "summary_source": "feed",
         "related": []
       },
@@ -384,7 +384,7 @@
         "published": "2026-11-23T05:00:00Z",
         "first_seen": "2026-11-23T06:58:55Z",
         "importance": null,
-        "score": 1.579,
+        "score": 1.46,
         "summary_source": "feed",
         "related": []
       },
@@ -400,7 +400,7 @@
         "published": "2026-11-23T05:00:00Z",
         "first_seen": "2026-11-23T06:58:55Z",
         "importance": null,
-        "score": 1.579,
+        "score": 1.46,
         "summary_source": "feed",
         "related": []
       },
@@ -416,7 +416,7 @@
         "published": "2026-11-21T08:14:48Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.112,
+        "score": 1.028,
         "summary_source": "feed",
         "related": []
       },
@@ -432,7 +432,7 @@
         "published": "2026-11-21T08:10:01Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.11,
+        "score": 1.027,
         "summary_source": "feed",
         "related": []
       },
@@ -448,7 +448,7 @@
         "published": "2026-11-21T08:00:26Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.107,
+        "score": 1.023,
         "summary_source": "feed",
         "related": []
       },
@@ -464,7 +464,7 @@
         "published": "2026-11-21T07:36:27Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.098,
+        "score": 1.016,
         "summary_source": "feed",
         "related": []
       }
@@ -482,7 +482,7 @@
         "published": "2026-11-23T20:54:51Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 3.576,
+        "score": 3.306,
         "summary_source": "feed",
         "related": []
       },
@@ -498,7 +498,7 @@
         "published": "2026-11-23T20:00:20Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 3.514,
+        "score": 3.249,
         "summary_source": "feed",
         "related": []
       },
@@ -514,7 +514,7 @@
         "published": "2026-11-23T19:42:20Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 3.493,
+        "score": 3.23,
         "summary_source": "feed",
         "related": []
       },
@@ -530,7 +530,7 @@
         "published": "2026-11-23T18:38:40Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.423,
+        "score": 3.165,
         "summary_source": "feed",
         "related": []
       },
@@ -546,7 +546,7 @@
         "published": "2026-11-23T16:50:01Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.305,
+        "score": 3.056,
         "summary_source": "feed",
         "related": []
       },
@@ -562,7 +562,7 @@
         "published": "2026-11-23T15:00:10Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.191,
+        "score": 2.951,
         "summary_source": "feed",
         "related": []
       },
@@ -578,7 +578,7 @@
         "published": "2026-11-23T13:28:45Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 3.099,
+        "score": 2.865,
         "summary_source": "feed",
         "related": []
       },
@@ -594,7 +594,7 @@
         "published": "2026-11-23T12:02:23Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 3.014,
+        "score": 2.787,
         "summary_source": "feed",
         "related": []
       }
@@ -612,7 +612,7 @@
         "published": "2026-11-19T17:25:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.527,
+        "score": 0.487,
         "summary_source": "feed",
         "related": []
       },
@@ -628,7 +628,7 @@
         "published": "2026-11-19T15:38:18Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.509,
+        "score": 0.47,
         "summary_source": "feed",
         "related": []
       },
@@ -644,7 +644,7 @@
         "published": "2026-11-18T22:02:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.362,
+        "score": 0.335,
         "summary_source": "feed",
         "related": []
       },
@@ -660,7 +660,7 @@
         "published": "2026-11-18T20:31:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.352,
+        "score": 0.326,
         "summary_source": "feed",
         "related": []
       }
@@ -678,7 +678,7 @@
         "published": "2026-11-24T01:50:33Z",
         "first_seen": "2026-11-24T02:44:21Z",
         "importance": null,
-        "score": 3.932,
+        "score": 3.635,
         "summary_source": "feed",
         "related": []
       },
@@ -694,7 +694,7 @@
         "published": "2026-11-23T20:16:10Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 3.532,
+        "score": 3.266,
         "summary_source": "feed",
         "related": []
       },
@@ -710,7 +710,7 @@
         "published": "2026-11-23T20:05:11Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 3.519,
+        "score": 3.254,
         "summary_source": "feed",
         "related": []
       },
@@ -726,7 +726,7 @@
         "published": "2026-11-23T18:43:25Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 3.428,
+        "score": 3.17,
         "summary_source": "feed",
         "related": []
       },
@@ -742,7 +742,7 @@
         "published": "2026-11-23T17:44:59Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.364,
+        "score": 3.111,
         "summary_source": "feed",
         "related": []
       },
@@ -758,7 +758,7 @@
         "published": "2026-11-23T16:58:38Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.315,
+        "score": 3.065,
         "summary_source": "feed",
         "related": []
       },
@@ -774,7 +774,7 @@
         "published": "2026-11-23T16:51:05Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.307,
+        "score": 3.058,
         "summary_source": "feed",
         "related": []
       },
@@ -790,7 +790,7 @@
         "published": "2026-11-23T13:54:07Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 3.124,
+        "score": 2.889,
         "summary_source": "feed",
         "related": []
       }
@@ -808,7 +808,7 @@
         "published": "2026-11-24T00:04:52Z",
         "first_seen": "2026-11-24T02:44:21Z",
         "importance": null,
-        "score": 3.8,
+        "score": 3.514,
         "summary_source": "feed",
         "related": []
       },
@@ -824,7 +824,7 @@
         "published": "2026-11-23T16:15:51Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.269,
+        "score": 3.023,
         "summary_source": "feed",
         "related": []
       },
@@ -840,7 +840,7 @@
         "published": "2026-11-23T14:00:55Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 3.131,
+        "score": 2.895,
         "summary_source": "feed",
         "related": []
       },
@@ -856,7 +856,7 @@
         "published": "2026-11-23T11:39:45Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 2.992,
+        "score": 2.767,
         "summary_source": "feed",
         "related": []
       },
@@ -872,7 +872,7 @@
         "published": "2026-11-23T09:07:38Z",
         "first_seen": "2026-11-23T10:51:07Z",
         "importance": null,
-        "score": 2.85,
+        "score": 2.635,
         "summary_source": "feed",
         "related": []
       },
@@ -888,7 +888,7 @@
         "published": "2026-11-20T12:53:38Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.766,
+        "score": 0.708,
         "summary_source": "feed",
         "related": []
       },
@@ -904,7 +904,7 @@
         "published": "2026-11-20T12:01:59Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.753,
+        "score": 0.697,
         "summary_source": "feed",
         "related": []
       },
@@ -920,7 +920,7 @@
         "published": "2026-11-20T11:55:25Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.752,
+        "score": 0.695,
         "summary_source": "feed",
         "related": []
       }
@@ -938,7 +938,7 @@
         "published": "2026-11-23T16:28:15Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.282,
+        "score": 3.035,
         "summary_source": "feed",
         "related": []
       },
@@ -954,7 +954,7 @@
         "published": "2026-11-23T15:00:00Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.191,
+        "score": 2.95,
         "summary_source": "feed",
         "related": []
       },
@@ -970,7 +970,7 @@
         "published": "2026-11-20T16:46:43Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.825,
+        "score": 0.763,
         "summary_source": "feed",
         "related": []
       },
@@ -986,7 +986,7 @@
         "published": "2026-11-20T16:24:06Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.82,
+        "score": 0.758,
         "summary_source": "feed",
         "related": []
       },
@@ -1002,7 +1002,7 @@
         "published": "2026-11-20T15:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.798,
+        "score": 0.738,
         "summary_source": "feed",
         "related": []
       },
@@ -1018,7 +1018,7 @@
         "published": "2026-11-19T15:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.503,
+        "score": 0.465,
         "summary_source": "feed",
         "related": []
       }
@@ -1036,7 +1036,7 @@
         "published": "2026-11-24T00:19:48Z",
         "first_seen": "2026-11-24T02:44:21Z",
         "importance": null,
-        "score": 3.819,
+        "score": 3.531,
         "summary_source": "feed",
         "related": []
       },
@@ -1052,7 +1052,7 @@
         "published": null,
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 3.697,
+        "score": 3.418,
         "summary_source": "feed",
         "related": []
       },
@@ -1068,7 +1068,7 @@
         "published": "2026-11-23T21:23:42Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 3.609,
+        "score": 3.337,
         "summary_source": "feed",
         "related": []
       },
@@ -1084,7 +1084,7 @@
         "published": null,
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.426,
+        "score": 3.168,
         "summary_source": "feed",
         "related": []
       },
@@ -1100,7 +1100,7 @@
         "published": null,
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.426,
+        "score": 3.168,
         "summary_source": "feed",
         "related": []
       },
@@ -1116,7 +1116,7 @@
         "published": null,
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.426,
+        "score": 3.168,
         "summary_source": "feed",
         "related": []
       },
@@ -1132,7 +1132,7 @@
         "published": null,
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 3.18,
+        "score": 2.941,
         "summary_source": "feed",
         "related": []
       },
@@ -1148,7 +1148,7 @@
         "published": "2026-11-23T14:43:21Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 3.174,
+        "score": 2.935,
         "summary_source": "feed",
         "related": []
       }
@@ -1166,7 +1166,7 @@
         "published": "2026-11-23T20:25:32Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 3.542,
+        "score": 3.275,
         "summary_source": "feed",
         "related": []
       },
@@ -1182,7 +1182,7 @@
         "published": "2026-11-23T17:13:00Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.33,
+        "score": 3.079,
         "summary_source": "feed",
         "related": []
       },
@@ -1198,7 +1198,7 @@
         "published": "2026-11-23T14:54:27Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.185,
+        "score": 2.945,
         "summary_source": "feed",
         "related": []
       },
@@ -1214,7 +1214,7 @@
         "published": "2026-11-23T14:00:00Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 3.13,
+        "score": 2.894,
         "summary_source": "feed",
         "related": []
       },
@@ -1230,7 +1230,7 @@
         "published": "2026-11-23T12:16:57Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 3.028,
+        "score": 2.8,
         "summary_source": "feed",
         "related": []
       },
@@ -1246,7 +1246,7 @@
         "published": "2026-11-23T10:30:24Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 2.926,
+        "score": 2.706,
         "summary_source": "feed",
         "related": []
       },
@@ -1262,7 +1262,7 @@
         "published": "2026-11-23T08:30:00Z",
         "first_seen": "2026-11-23T10:51:07Z",
         "importance": null,
-        "score": 2.815,
+        "score": 2.603,
         "summary_source": "feed",
         "related": []
       },
@@ -1278,7 +1278,7 @@
         "published": "2026-11-23T05:00:00Z",
         "first_seen": "2026-11-23T06:58:55Z",
         "importance": null,
-        "score": 1.316,
+        "score": 1.217,
         "summary_source": "feed",
         "related": []
       }
@@ -1296,7 +1296,7 @@
         "published": "2026-11-23T20:29:55Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 3.547,
+        "score": 3.28,
         "summary_source": "feed",
         "related": []
       },
@@ -1312,7 +1312,7 @@
         "published": "2026-11-23T15:16:26Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.208,
+        "score": 2.966,
         "summary_source": "feed",
         "related": []
       },
@@ -1328,7 +1328,7 @@
         "published": "2026-11-23T14:20:46Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 3.151,
+        "score": 2.914,
         "summary_source": "feed",
         "related": []
       },
@@ -1344,7 +1344,7 @@
         "published": "2026-11-21T22:25:35Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.461,
+        "score": 1.351,
         "summary_source": "feed",
         "related": []
       },
@@ -1360,7 +1360,7 @@
         "published": "2026-11-23T05:00:00Z",
         "first_seen": "2026-11-23T06:58:55Z",
         "importance": null,
-        "score": 1.316,
+        "score": 1.217,
         "summary_source": "feed",
         "related": []
       },
@@ -1376,7 +1376,7 @@
         "published": "2026-11-23T05:00:00Z",
         "first_seen": "2026-11-23T06:58:55Z",
         "importance": null,
-        "score": 1.316,
+        "score": 1.217,
         "summary_source": "feed",
         "related": []
       },
@@ -1392,7 +1392,7 @@
         "published": "2026-11-21T00:55:45Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.966,
+        "score": 0.893,
         "summary_source": "feed",
         "related": []
       },
@@ -1408,7 +1408,7 @@
         "published": "2026-11-20T17:30:03Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.837,
+        "score": 0.774,
         "summary_source": "feed",
         "related": []
       }
@@ -1426,7 +1426,7 @@
         "published": "2026-11-20T21:52:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.911,
+        "score": 0.842,
         "summary_source": "feed",
         "related": []
       },
@@ -1442,7 +1442,7 @@
         "published": "2026-11-19T23:30:50Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.592,
+        "score": 0.547,
         "summary_source": "feed",
         "related": []
       },
@@ -1458,7 +1458,7 @@
         "published": "2026-11-18T19:52:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.348,
+        "score": 0.322,
         "summary_source": "feed",
         "related": []
       },
@@ -1474,7 +1474,7 @@
         "published": "2026-11-18T15:10:53Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.318,
+        "score": 0.294,
         "summary_source": "feed",
         "related": []
       }
@@ -1492,7 +1492,7 @@
         "published": "2026-11-23T12:00:19Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 3.012,
+        "score": 2.785,
         "summary_source": "feed",
         "related": []
       },
@@ -1508,7 +1508,7 @@
         "published": "2026-11-23T01:25:53Z",
         "first_seen": "2026-11-23T02:44:14Z",
         "importance": null,
-        "score": 2.457,
+        "score": 2.272,
         "summary_source": "feed",
         "related": []
       },
@@ -1524,7 +1524,7 @@
         "published": "2026-11-20T20:15:54Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.883,
+        "score": 0.816,
         "summary_source": "feed",
         "related": []
       },
@@ -1540,7 +1540,7 @@
         "published": "2026-11-20T12:00:25Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.753,
+        "score": 0.696,
         "summary_source": "feed",
         "related": []
       },
@@ -1556,7 +1556,7 @@
         "published": "2026-11-20T12:00:01Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.753,
+        "score": 0.696,
         "summary_source": "feed",
         "related": []
       },
@@ -1572,7 +1572,7 @@
         "published": "2026-11-20T00:26:03Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.603,
+        "score": 0.557,
         "summary_source": "feed",
         "related": []
       },
@@ -1588,7 +1588,7 @@
         "published": "2026-11-19T12:00:45Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.474,
+        "score": 0.439,
         "summary_source": "feed",
         "related": []
       },
@@ -1604,12 +1604,44 @@
         "published": "2026-11-18T21:36:40Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.36,
+        "score": 0.332,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Developer Tools": [
+      {
+        "id": "4dbece577db5",
+        "title": "Agent swarms need more than a message board",
+        "summary": "Agent swarms are really distributed systems problems in disguise.",
+        "why_it_matters": "",
+        "link": "https://stackoverflow.blog/2026/11/24/agent-swarms-need-more-than-a-message-board/",
+        "source": "Stack Overflow Blog",
+        "type": "news",
+        "sector": "Developer Tools",
+        "published": "2026-11-24T08:40:00Z",
+        "first_seen": "2026-11-24T06:48:23Z",
+        "importance": null,
+        "score": 4.0,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "309a851cb546",
+        "title": "QCon San Francisco 2026: Lessons from Building a $100M Product in Six Weeks at OpenAI",
+        "summary": "At QCon San Francisco 2026, OpenAI's Brian Yang described building the ChatGPT ads product with Codex agents and no human-written code. He outlined layered testing, sandboxes, and batched pull request reviews, and noted failure modes such as code \"slop\" and unsafe agent actions.",
+        "why_it_matters": "",
+        "link": "https://www.infoq.com/news/2026/11/qcon-sf-openai-lessons/",
+        "source": "InfoQ",
+        "type": "news",
+        "sector": "Developer Tools",
+        "published": "2026-11-24T06:32:00Z",
+        "first_seen": "2026-11-24T06:48:23Z",
+        "importance": null,
+        "score": 3.979,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "0e2e91b5729f",
         "title": "QCon San Francisco 2026: Securing AI Agents in Production",
@@ -1622,7 +1654,7 @@
         "published": "2026-11-23T20:00:00Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 3.513,
+        "score": 3.249,
         "summary_source": "feed",
         "related": []
       },
@@ -1638,7 +1670,7 @@
         "published": "2026-11-23T18:00:00Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.381,
+        "score": 3.126,
         "summary_source": "feed",
         "related": []
       },
@@ -1654,7 +1686,7 @@
         "published": "2026-11-23T15:30:00Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.222,
+        "score": 2.979,
         "summary_source": "feed",
         "related": []
       },
@@ -1670,7 +1702,7 @@
         "published": "2026-11-23T15:30:00Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.222,
+        "score": 2.979,
         "summary_source": "feed",
         "related": []
       },
@@ -1686,7 +1718,7 @@
         "published": "2026-11-23T14:58:00Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 3.189,
+        "score": 2.949,
         "summary_source": "feed",
         "related": []
       },
@@ -1702,44 +1734,108 @@
         "published": "2026-11-23T14:33:00Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 3.163,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "1552bc75ce74",
-        "title": "Claude Code Adds Experimental Code Mode to Orchestrate Tool Calls with JavaScript",
-        "summary": "Anthropic's experimental Code Mode lets Claude Code write JavaScript that chains, parallelizes, and filters Bash, Read, and Edit calls, with changes to how auto mode and hooks review those calls. By Daniel Dominguez",
-        "why_it_matters": "",
-        "link": "https://www.infoq.com/news/2026/11/claude-code-mode/",
-        "source": "InfoQ",
-        "type": "news",
-        "sector": "Developer Tools",
-        "published": "2026-11-23T12:17:00Z",
-        "first_seen": "2026-11-23T14:49:36Z",
-        "importance": null,
-        "score": 3.028,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "d24498edd23a",
-        "title": "Podcast: Simulation Can Tell You What Your Agents are Actually Doing: A Conversation with Zhou Yu",
-        "summary": "Michael Stiefel spoke to Zhou Yu about using dynamic simulations to evaluate AI agents. One particular focus was conversational agents where actions depend on prior responses, and the non-deterministic nation of LLMs means you cannot rely on static, reference-based benchmarks.",
-        "why_it_matters": "",
-        "link": "https://www.infoq.com/podcasts/simulation-agents-actually-doing/",
-        "source": "InfoQ",
-        "type": "news",
-        "sector": "Developer Tools",
-        "published": "2026-11-23T11:00:00Z",
-        "first_seen": "2026-11-23T14:49:36Z",
-        "importance": null,
-        "score": 2.954,
+        "score": 2.925,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Breaking": [
+      {
+        "id": "b9b233098c1a",
+        "title": "PM Lawrence Wong says he doesn't want Singapore used to circumvent US chip export controls, as authorities probe Megaspeed's purchases of Nvidia chips (Philip Heijmans/Bloomberg)",
+        "summary": "Philip Heijmans / Bloomberg : PM Lawrence Wong says he doesn't want Singapore used to circumvent US chip export controls, as authorities probe Megaspeed's purchases of Nvidia chips — Prime Minister Lawrence Wong doesn't want Singapore to be used as a route for companies seeking…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261124/p1",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-24T05:05:01Z",
+        "first_seen": "2026-11-24T06:48:23Z",
+        "importance": null,
+        "score": 3.483,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "16e60e24f67e",
+        "title": "AWS debuts Strands Decider v2, a family of five open decision models based on Google's Gemma 4, ranging from 2B to 31B parameters, under the Apache 2.0 license (Frederic Lardinois/The New Stack)",
+        "summary": "Frederic Lardinois / The New Stack : AWS debuts Strands Decider v2, a family of five open decision models based on Google's Gemma 4, ranging from 2B to 31B parameters, under the Apache 2.0 license — AWS on Monday launched Strands Decider v2, a family of five open decision…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261123/p55",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-24T04:25:01Z",
+        "first_seen": "2026-11-24T06:48:23Z",
+        "importance": null,
+        "score": 3.438,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "0645c88267a9",
+        "title": "OpenAI and Cisco launch Shirudo, an open-source runtime that helps teams protect running Linux systems without a reboot while they roll out patches (Mike Wheatley/SiliconANGLE)",
+        "summary": "Mike Wheatley / SiliconANGLE : OpenAI and Cisco launch Shirudo, an open-source runtime that helps teams protect running Linux systems without a reboot while they roll out patches — Cybercriminals have gained the ability to discover vulnerabilities in software and take advantage…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261123/p54",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-24T04:15:00Z",
+        "first_seen": "2026-11-24T06:48:23Z",
+        "importance": null,
+        "score": 3.427,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "2cd976318a00",
+        "title": "Sources: a Google product manager spent years updating Maps to better serve Palestinians in the West Bank, but Google retracted key parts after Israeli pressure (Wired)",
+        "summary": "Wired : Sources: a Google product manager spent years updating Maps to better serve Palestinians in the West Bank, but Google retracted key parts after Israeli pressure — One product manager made it his mission to accurately map Israeli checkpoints in the West Bank on the…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261123/p53",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-24T04:00:14Z",
+        "first_seen": "2026-11-24T06:48:23Z",
+        "importance": null,
+        "score": 3.411,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "9681b048fbd6",
+        "title": "OpenAI rolls out a version of GPT-6.2 Sol that is \"optimized for everyday conversation\" to the Chat tab for Plus, Pro, Business, and Enterprise users (Zac Hall/9to5Mac)",
+        "summary": "Zac Hall / 9to5Mac : OpenAI rolls out a version of GPT-6.2 Sol that is “optimized for everyday conversation” to the Chat tab for Plus, Pro, Business, and Enterprise users — OpenAI is bringing GPT-6.2 Sol to the Chat tab in ChatGPT today, less than a week after the model debuted…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261123/p52",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-24T03:45:01Z",
+        "first_seen": "2026-11-24T06:48:23Z",
+        "importance": null,
+        "score": 3.394,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "3351ee761392",
+        "title": "Sources: Jensen Huang disclosed additional affairs beyond the two already reported during his Sunday meeting with Nvidia's board, but was remorseful about them (Wall Street Journal)",
+        "summary": "Wall Street Journal : Sources: Jensen Huang disclosed additional affairs beyond the two already reported during his Sunday meeting with Nvidia's board, but was remorseful about them — Trump made clear he wanted the Nvidia CEO reinstated; on Monday he touted the decision, saying…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261123/p51",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-24T03:15:00Z",
+        "first_seen": "2026-11-24T06:48:23Z",
+        "importance": null,
+        "score": 3.362,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "daa4c835534a",
         "title": "Filing: ex-OpenAI engineer Abdulrahman Alfozan recorded a meeting with foreign government reps and photographed a confidential term sheet with another company (Emmy Martin/New York Times)",
@@ -1752,7 +1848,7 @@
         "published": "2026-11-24T02:35:01Z",
         "first_seen": "2026-11-24T02:44:21Z",
         "importance": null,
-        "score": 3.589,
+        "score": 3.319,
         "summary_source": "feed",
         "related": []
       },
@@ -1768,109 +1864,24 @@
         "published": "2026-11-24T02:10:02Z",
         "first_seen": "2026-11-24T02:44:21Z",
         "importance": null,
-        "score": 3.561,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "0fd4bb81284d",
-        "title": "Sources: the US is investigating Iran's possible role in cyberattacks on up to 50 energy tankers via a Fortinet router flaw; Russia is also a possible culprit (Wall Street Journal)",
-        "summary": "Wall Street Journal : Sources: the US is investigating Iran's possible role in cyberattacks on up to 50 energy tankers via a Fortinet router flaw; Russia is also a possible culprit — As many as 50 ships carrying oil and other explosive substances are believed to have been…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261123/p48",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-24T01:40:00Z",
-        "first_seen": "2026-11-24T02:44:21Z",
-        "importance": null,
-        "score": 3.526,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "1f221d48843c",
-        "title": "Kalshi pauses operations in Utah, where it has 177K+ users, citing a federal court loss over a state gambling law; Kalshi also faces criminal charges in Utah (Alixel Cabrera/Utah News Dispatch)",
-        "summary": "Alixel Cabrera / Utah News Dispatch : Kalshi pauses operations in Utah, where it has 177K+ users, citing a federal court loss over a state gambling law; Kalshi also faces criminal charges in Utah — Amid multiple legal disputes between Utah leaders and Kalshi, the prediction…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261123/p47",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-24T00:55:00Z",
-        "first_seen": "2026-11-24T02:44:21Z",
-        "importance": null,
-        "score": 3.476,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "f6a5303985eb",
-        "title": "Supertake, which uses AI agents to turn users' market predictions into investment portfolios via Coinbase and Robinhood, raised a $20M seed led by Adjacent (Sarah Perez/TechCrunch)",
-        "summary": "Sarah Perez / TechCrunch : Supertake, which uses AI agents to turn users' market predictions into investment portfolios via Coinbase and Robinhood, raised a $20M seed led by Adjacent — AI investing startup Supertake has an interesting premise: what if your “takes” on the market…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261123/p46",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-24T00:25:01Z",
-        "first_seen": "2026-11-24T02:44:21Z",
-        "importance": null,
-        "score": 3.443,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "488a09d5d330",
-        "title": "Australia-based Myriota, which provides low-cost, low-power satellite connectivity for industrial IoT, raised roughly $40M in the first close of its Series C (Rhiannon Hoyle/Wall Street Journal)",
-        "summary": "Rhiannon Hoyle / Wall Street Journal : Australia-based Myriota, which provides low-cost, low-power satellite connectivity for industrial IoT, raised roughly $40M in the first close of its Series C — Myriota raises roughly $40 million in a first close of a Series C round to hire…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261123/p45",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-23T23:25:01Z",
-        "first_seen": "2026-11-24T02:44:21Z",
-        "importance": null,
-        "score": 3.377,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "e0f68d438040",
-        "title": "Tech stocks rally as Jensen Huang returns as Nvidia CEO; the Nasdaq 100 jumped 7%, a Magnificent Seven basket rose 8%, CoreWeave 22%, Tesla 11%, and AMD 7% (Jess Menton/Bloomberg)",
-        "summary": "Jess Menton / Bloomberg : Tech stocks rally as Jensen Huang returns as Nvidia CEO; the Nasdaq 100 jumped 7%, a Magnificent Seven basket rose 8%, CoreWeave 22%, Tesla 11%, and AMD 7% — US stocks rallied, recovering from last week's brutal technology-led selloff, as the stunning…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261123/p42",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-23T21:40:00Z",
-        "first_seen": "2026-11-23T22:38:36Z",
-        "importance": null,
-        "score": 3.265,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "c67227797cdd",
-        "title": "Anthropic unveils Claude Ship, letting Claude review, fix, and approve GitHub pull requests based on team policies, in beta for Claude Team and Enterprise tiers (Radhika Rajkumar/ZDNET)",
-        "summary": "Radhika Rajkumar / ZDNET : Anthropic unveils Claude Ship, letting Claude review, fix, and approve GitHub pull requests based on team policies, in beta for Claude Team and Enterprise tiers — Would you let a few Claude agents review and ship your code for you? — ZDNET's key…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261123/p41",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-23T21:25:00Z",
-        "first_seen": "2026-11-23T22:38:36Z",
-        "importance": null,
-        "score": 3.249,
+        "score": 3.292,
         "summary_source": "feed",
         "related": []
       }
     ]
   },
   "emerging": [
+    {
+      "term": "board",
+      "sources": 6,
+      "sectors": 6,
+      "ids": [
+        "68d88da4cff0",
+        "bd69eb2b257b",
+        "e327976bf744"
+      ],
+      "score": 10.29
+    },
     {
       "term": "government",
       "sources": 3,
@@ -1883,24 +1894,13 @@
       "score": 5.62
     },
     {
-      "term": "amid",
+      "term": "ability",
       "sources": 4,
       "sectors": 4,
       "ids": [
-        "9f6e51ea106a",
-        "bd69eb2b257b",
-        "e327976bf744"
-      ],
-      "score": 5.14
-    },
-    {
-      "term": "board",
-      "sources": 4,
-      "sectors": 4,
-      "ids": [
-        "68d88da4cff0",
-        "bd69eb2b257b",
-        "e327976bf744"
+        "33c45e022796",
+        "cbbae01a7333",
+        "6fa78846c00f"
       ],
       "score": 5.14
     },
@@ -1916,14 +1916,15 @@
       "score": 4.69
     },
     {
-      "term": "amid multiple",
-      "sources": 2,
-      "sectors": 2,
+      "term": "running",
+      "sources": 3,
+      "sectors": 3,
       "ids": [
-        "bd69eb2b257b",
-        "1f221d48843c"
+        "3006f622623c",
+        "0e2e91b5729f",
+        "0645c88267a9"
       ],
-      "score": 3.75
+      "score": 4.5
     },
     {
       "term": "architecture",
@@ -1984,8 +1985,8 @@
         "sector": "AI",
         "source": "arXiv cs.AI",
         "url": "https://rss.arxiv.org/rss/cs.AI",
-        "status": "ok",
-        "entries": 3,
+        "status": "empty",
+        "entries": 0,
         "error": null
       },
       {
@@ -2016,8 +2017,8 @@
         "sector": "Quantum",
         "source": "arXiv quant-ph",
         "url": "https://rss.arxiv.org/rss/quant-ph",
-        "status": "ok",
-        "entries": 3,
+        "status": "empty",
+        "entries": 0,
         "error": null
       },
       {
@@ -2081,7 +2082,7 @@
         "source": "Carbon Brief",
         "url": "https://www.carbonbrief.org/feed/",
         "status": "ok",
-        "entries": 2,
+        "entries": 1,
         "error": null
       },
       {
@@ -2128,8 +2129,8 @@
         "sector": "Telecommunications",
         "source": "arXiv cs.NI",
         "url": "https://rss.arxiv.org/rss/cs.NI",
-        "status": "ok",
-        "entries": 2,
+        "status": "empty",
+        "entries": 0,
         "error": null
       },
       {
@@ -2152,8 +2153,8 @@
         "sector": "Robotics",
         "source": "arXiv cs.RO",
         "url": "https://rss.arxiv.org/rss/cs.RO",
-        "status": "ok",
-        "entries": 2,
+        "status": "empty",
+        "entries": 0,
         "error": null
       },
       {
@@ -2236,7 +2237,7 @@
       "errors": [
         "ANTHROPIC_API_KEY is not set"
       ],
-      "new_items": 12,
+      "new_items": 11,
       "summarised": 0
     }
   }
