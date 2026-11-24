@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "generated_at": "2026-11-24T18:41:14Z",
-  "last_updated": "2026-11-24 18:41 UTC",
+  "generated_at": "2026-11-24T22:43:19Z",
+  "last_updated": "2026-11-24 22:43 UTC",
   "is_sunday_edition": false,
   "priority_sectors": [
     "AI",
@@ -14,82 +14,82 @@
   ],
   "top_stories": [
     {
-      "id": "6dc049a9d05f",
-      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+      "id": "54f6ce63e252",
+      "title": "New York and California Age Gating Rules Go Into Effect in the New Year",
+      "summary": "Come January 2027, everyday social media browsing in two of the country's largest states will look noticeably different. In California, AB 1709 (2026), AB 1043 (2025), and SB 976 (2024) are slated to take effect on January 1, 2027.",
       "why_it_matters": "",
-      "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-      "source": "TechCrunch Venture",
+      "link": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
+      "source": "EFF Deeplinks",
       "type": "news",
-      "sector": "Funding & M&A",
-      "published": "2026-11-24T18:30:42Z",
-      "first_seen": "2026-11-24T18:41:14Z",
+      "sector": "Policy",
+      "published": "2026-11-24T22:35:05Z",
+      "first_seen": "2026-11-24T22:43:19Z",
       "importance": null,
-      "score": 3.986,
+      "score": 3.989,
       "summary_source": "feed",
       "related": []
     },
     {
-      "id": "f841378f6650",
-      "title": "Robotics Summit 2027 opens call for speakers",
-      "summary": "The Robotics Summit & Expo returns to Boston June 2-3, 2027 with deepened coverage, an expanded expo floor, and more.",
+      "id": "4dc41d49267c",
+      "title": "Digital Outages Are Rampant All Across America. Is AI to blame?",
+      "summary": "Coincidence is not causation, and yet the urge to ascribe causative power to random events is a typically human characteristic. Take the case of the man who snaps his fingers every five minutes.",
       "why_it_matters": "",
-      "link": "https://www.therobotreport.com/robotics-summit-2027-opens-call-for-speakers/",
-      "source": "The Robot Report",
-      "type": "news",
-      "sector": "Robotics",
-      "published": "2026-11-24T18:03:37Z",
-      "first_seen": "2026-11-24T18:41:14Z",
-      "importance": null,
-      "score": 3.952,
-      "summary_source": "feed",
-      "related": []
-    },
-    {
-      "id": "247249876411",
-      "title": "Radware discloses breach exposing customer cloud access keys",
-      "summary": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left exposed online.",
-      "why_it_matters": "",
-      "link": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
-      "source": "BleepingComputer",
-      "type": "news",
-      "sector": "CyberSecurity",
-      "published": "2026-11-24T17:49:05Z",
-      "first_seen": "2026-11-24T18:41:14Z",
-      "importance": null,
-      "score": 3.934,
-      "summary_source": "feed",
-      "related": []
-    },
-    {
-      "id": "38ab2cf103bf",
-      "title": "90 New Vehicle Models Were Just Introduced in Colombia’s Largest Automotive Exhibition. 55 Were Electric.",
-      "summary": "The last two weeks, the future was on display in Bogota’s Automobile Hall.",
-      "why_it_matters": "",
-      "link": "https://cleantechnica.com/2026/11/24/90-new-vehicle-models-were-just-introduced-in-colombias-largest-automotive-exhibition-55-were-electric/",
+      "link": "https://cleantechnica.com/2026/11/24/digital-outages-are-rampant-all-across-america-is-ai-to-blame/",
       "source": "CleanTechnica",
       "type": "news",
       "sector": "Renewables",
-      "published": "2026-11-24T17:19:11Z",
-      "first_seen": "2026-11-24T18:41:14Z",
+      "published": "2026-11-24T22:25:39Z",
+      "first_seen": "2026-11-24T22:43:19Z",
       "importance": null,
-      "score": 3.896,
+      "score": 3.977,
       "summary_source": "feed",
       "related": []
     },
     {
-      "id": "1dd1dfedca31",
-      "title": "CB Live: Carbon Brief journalists discuss key COP31 outcomes",
-      "summary": "Following the close of COP31 in Antalya, Turkey, Carbon Brief’s journalists answered a range of questions in a CB Live",
+      "id": "e194c4dffc14",
+      "title": "Rackspace shuts down Spot cloud platform after security breach",
+      "summary": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data.",
       "why_it_matters": "",
-      "link": "https://www.carbonbrief.org/cb-live-carbon-brief-journalists-discuss-key-cop31-outcomes",
-      "source": "Carbon Brief",
+      "link": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
+      "source": "BleepingComputer",
       "type": "news",
-      "sector": "Energy",
-      "published": "2026-11-24T17:06:20Z",
-      "first_seen": "2026-11-24T18:41:14Z",
+      "sector": "CyberSecurity",
+      "published": "2026-11-24T21:37:30Z",
+      "first_seen": "2026-11-24T22:43:19Z",
       "importance": null,
-      "score": 3.88,
+      "score": 3.916,
+      "summary_source": "feed",
+      "related": []
+    },
+    {
+      "id": "941845755f56",
+      "title": "Rotterdam’s Methanol Expansion Is Not an Inland Shipping Fuel Strategy",
+      "summary": "Rotterdam is expanding its methanol and ethanol business for industrial customers and ocean-going ships. Its inland freight fleet needs a different energy strategy.",
+      "why_it_matters": "",
+      "link": "https://cleantechnica.com/2026/11/24/rotterdams-methanol-expansion-is-not-an-inland-shipping-fuel-strategy/",
+      "source": "CleanTechnica",
+      "type": "news",
+      "sector": "Renewables",
+      "published": "2026-11-24T20:27:51Z",
+      "first_seen": "2026-11-24T22:43:19Z",
+      "importance": null,
+      "score": 3.83,
+      "summary_source": "feed",
+      "related": []
+    },
+    {
+      "id": "f27d4e186fa0",
+      "title": "New Inception extortion gang launches large-scale vishing campaign",
+      "summary": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms.",
+      "why_it_matters": "",
+      "link": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
+      "source": "BleepingComputer",
+      "type": "news",
+      "sector": "CyberSecurity",
+      "published": "2026-11-24T20:21:20Z",
+      "first_seen": "2026-11-24T22:43:19Z",
+      "importance": null,
+      "score": 3.822,
       "summary_source": "feed",
       "related": []
     }
@@ -108,7 +108,7 @@
         "published": "2026-11-24T16:34:13Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 3.84,
+        "score": 3.553,
         "summary_source": "none",
         "related": []
       },
@@ -124,7 +124,7 @@
         "published": "2026-11-23T17:20:37Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 2.455,
+        "score": 2.272,
         "summary_source": "none",
         "related": []
       },
@@ -140,7 +140,7 @@
         "published": "2026-11-24T05:00:00Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 1.844,
+        "score": 1.706,
         "summary_source": "feed",
         "related": []
       },
@@ -156,7 +156,7 @@
         "published": "2026-11-24T05:00:00Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 1.844,
+        "score": 1.706,
         "summary_source": "feed",
         "related": []
       },
@@ -172,7 +172,7 @@
         "published": "2026-11-24T05:00:00Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 1.844,
+        "score": 1.706,
         "summary_source": "feed",
         "related": []
       },
@@ -188,7 +188,7 @@
         "published": "2026-11-23T00:00:00Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 1.758,
+        "score": 1.627,
         "summary_source": "none",
         "related": []
       },
@@ -204,7 +204,7 @@
         "published": "2026-11-23T05:00:00Z",
         "first_seen": "2026-11-23T06:58:55Z",
         "importance": null,
-        "score": 1.162,
+        "score": 1.075,
         "summary_source": "feed",
         "related": []
       },
@@ -220,7 +220,7 @@
         "published": "2026-11-23T05:00:00Z",
         "first_seen": "2026-11-23T06:58:55Z",
         "importance": null,
-        "score": 1.162,
+        "score": 1.075,
         "summary_source": "feed",
         "related": []
       }
@@ -238,7 +238,7 @@
         "published": "2026-11-24T16:16:56Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 3.819,
+        "score": 3.534,
         "summary_source": "feed",
         "related": []
       },
@@ -254,7 +254,7 @@
         "published": "2026-11-24T08:40:49Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 3.299,
+        "score": 3.052,
         "summary_source": "feed",
         "related": []
       },
@@ -270,7 +270,7 @@
         "published": "2026-11-24T08:11:47Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 3.268,
+        "score": 3.024,
         "summary_source": "feed",
         "related": []
       },
@@ -286,7 +286,7 @@
         "published": "2026-11-24T08:11:34Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 3.268,
+        "score": 3.024,
         "summary_source": "feed",
         "related": []
       },
@@ -302,7 +302,7 @@
         "published": "2026-11-24T08:11:31Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 3.268,
+        "score": 3.024,
         "summary_source": "feed",
         "related": []
       },
@@ -318,7 +318,7 @@
         "published": "2026-11-24T08:08:01Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 3.264,
+        "score": 3.02,
         "summary_source": "feed",
         "related": []
       },
@@ -334,7 +334,7 @@
         "published": "2026-11-24T07:41:37Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 3.237,
+        "score": 2.995,
         "summary_source": "feed",
         "related": []
       },
@@ -350,12 +350,76 @@
         "published": "2026-11-23T21:35:38Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 2.665,
+        "score": 2.466,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Quantum": [
+      {
+        "id": "39a882c0db74",
+        "title": "IonQ Advances Quantum-Assured Navigation and Timing with DARPA Airborne Gravimeter Award and 51-Day Maritime Clock Trial",
+        "summary": "IonQ's Vector Atomic subsidiary has made significant strides in quantum sensing for navigation and timing.",
+        "why_it_matters": "",
+        "link": "https://quantumcomputingreport.com/ionq-advances-quantum-assured-navigation-and-timing-with-darpa-airborne-gravimeter-award-and-51-day-maritime-clock-trial/",
+        "source": "Quantum Computing Report",
+        "type": "news",
+        "sector": "Quantum",
+        "published": "2026-11-24T18:02:01Z",
+        "first_seen": "2026-11-24T22:43:19Z",
+        "importance": null,
+        "score": 3.655,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "4f0170f58e60",
+        "title": "IDEMIA Secure Transactions and IonQ Validate QKD Interoperability with IDEMIA Sphere Cybersecurity Platform",
+        "summary": "IDEMIA Secure Transactions (IST) and IonQ have successfully validated the interoperability of IonQ's Quantum Key Distribution (QKD) systems with IST's IDEMIA Sphere cybersecurity portfolio.",
+        "why_it_matters": "",
+        "link": "https://quantumcomputingreport.com/idemia-secure-transactions-and-ionq-validate-qkd-interoperability-with-idemia-sphere-cybersecurity-platform/",
+        "source": "Quantum Computing Report",
+        "type": "news",
+        "sector": "Quantum",
+        "published": "2026-11-24T17:46:04Z",
+        "first_seen": "2026-11-24T22:43:19Z",
+        "importance": null,
+        "score": 3.636,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "64df09893508",
+        "title": "QNu Labs and India’s NIELIT Sign MoU to Establish Hub-and-Spoke Quantum Labs and Workforce Training",
+        "summary": "QNu Labs and India's NIELIT have partnered to establish Quantum Labs and workforce training programs. This collaboration aims to expand quantum technology education and cybersecurity through specialized curricula, hands-on training, and industry placements.",
+        "why_it_matters": "",
+        "link": "https://quantumcomputingreport.com/qnu-labs-and-indias-nielit-sign-mou-to-establish-hub-and-spoke-quantum-labs-and-workforce-training/",
+        "source": "Quantum Computing Report",
+        "type": "news",
+        "sector": "Quantum",
+        "published": "2026-11-24T17:34:20Z",
+        "first_seen": "2026-11-24T22:43:19Z",
+        "importance": null,
+        "score": 3.622,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "5cc3f7f35622",
+        "title": "Harvard, QuEra, NVIDIA, Anthropic, and Three National Labs Secure $12 Million DOE Award for AI-Driven Quantum Error Correction",
+        "summary": "A consortium including Harvard, QuEra, NVIDIA, Anthropic, and three National Labs has received a $12 million DOE award for the ASQC initiative. This project will focus on developing AI-designed quantum error correction specifically tailored for scientific computing workloads.",
+        "why_it_matters": "",
+        "link": "https://quantumcomputingreport.com/harvard-quera-nvidia-anthropic-and-three-national-labs-secure-12-million-doe-award-for-ai-driven-quantum-error-correction/",
+        "source": "Quantum Computing Report",
+        "type": "news",
+        "sector": "Quantum",
+        "published": "2026-11-24T17:27:45Z",
+        "first_seen": "2026-11-24T22:43:19Z",
+        "importance": null,
+        "score": 3.615,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "e3c893dd5261",
         "title": "State-selective dynamical freezing in driven Rydberg atom chains",
@@ -368,7 +432,7 @@
         "published": "2026-11-24T05:00:00Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 1.844,
+        "score": 1.706,
         "summary_source": "feed",
         "related": []
       },
@@ -384,7 +448,7 @@
         "published": "2026-11-24T05:00:00Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 1.844,
+        "score": 1.706,
         "summary_source": "feed",
         "related": []
       },
@@ -400,7 +464,7 @@
         "published": "2026-11-24T05:00:00Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 1.844,
+        "score": 1.706,
         "summary_source": "feed",
         "related": []
       },
@@ -416,76 +480,60 @@
         "published": "2026-11-23T05:00:00Z",
         "first_seen": "2026-11-23T06:58:55Z",
         "importance": null,
-        "score": 1.162,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "e3f6064b25d8",
-        "title": "Certification of non-stabilizerness in multi-qubit systems via worst-case random access codes",
-        "summary": "Recent works have proposed semi-device-independent frameworks to certify non-stabilizerness, but the complexity of the stabilizer polytope makes these methods infeasible beyond a few qubits.",
-        "why_it_matters": "",
-        "link": "https://arxiv.org/abs/2611.26705",
-        "source": "arXiv quant-ph",
-        "type": "paper",
-        "sector": "Quantum",
-        "published": "2026-11-23T05:00:00Z",
-        "first_seen": "2026-11-23T06:58:55Z",
-        "importance": null,
-        "score": 1.162,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "8836e4b95686",
-        "title": "Improved Digitization Bounds for U(1) Lattice Gauge Theory via Semiclassical Analysis",
-        "summary": "Simulating lattice gauge theories on a digital quantum computer or using tensor network methods requires a finite-dimensional approximation of the gauge field, a process often called digitization.",
-        "why_it_matters": "",
-        "link": "https://arxiv.org/abs/2611.26720",
-        "source": "arXiv quant-ph",
-        "type": "paper",
-        "sector": "Quantum",
-        "published": "2026-11-23T05:00:00Z",
-        "first_seen": "2026-11-23T06:58:55Z",
-        "importance": null,
-        "score": 1.162,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "2cab16e0b965",
-        "title": "Sorbonne Université and Qubit Pharmaceuticals Introduce VULCAN Hybrid Framework for Scalable Quantum Chemistry",
-        "summary": "Sorbonne Université and Qubit Pharmaceuticals developed VULCAN, a hybrid quantum-classical framework for quantum chemistry that overcomes limitations of ADAPT-VQE.",
-        "why_it_matters": "",
-        "link": "https://quantumcomputingreport.com/sorbonne-universite-and-qubit-pharmaceuticals-introduce-vulcan-hybrid-framework-for-scalable-quantum-chemistry/",
-        "source": "Quantum Computing Report",
-        "type": "news",
-        "sector": "Quantum",
-        "published": "2026-11-21T08:14:48Z",
-        "first_seen": "2026-11-21T23:30:38Z",
-        "importance": null,
-        "score": 0.818,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "d3ef89c20500",
-        "title": "Qubit Pharmaceuticals and Sorbonne Université Develop Polynomial-Time Lie Algebra Generator Pool Construction for Quantum Chemistry",
-        "summary": "Researchers from Qubit Pharmaceuticals and Sorbonne Université have developed a new method for quantum chemistry, introducing a polynomial-scaling algebraic framework to construct and verify Minimal Complete Pools (MCPs) for variational quantum eigensolvers (VQE).",
-        "why_it_matters": "",
-        "link": "https://quantumcomputingreport.com/qubit-pharmaceuticals-and-sorbonne-universite-develop-polynomial-time-lie-algebra-generator-pool-construction-for-quantum-chemistry/",
-        "source": "Quantum Computing Report",
-        "type": "news",
-        "sector": "Quantum",
-        "published": "2026-11-21T08:10:01Z",
-        "first_seen": "2026-11-21T23:30:38Z",
-        "importance": null,
-        "score": 0.817,
+        "score": 1.075,
         "summary_source": "feed",
         "related": []
       }
     ],
     "CyberSecurity": [
+      {
+        "id": "e194c4dffc14",
+        "title": "Rackspace shuts down Spot cloud platform after security breach",
+        "summary": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data.",
+        "why_it_matters": "",
+        "link": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
+        "source": "BleepingComputer",
+        "type": "news",
+        "sector": "CyberSecurity",
+        "published": "2026-11-24T21:37:30Z",
+        "first_seen": "2026-11-24T22:43:19Z",
+        "importance": null,
+        "score": 3.916,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "f27d4e186fa0",
+        "title": "New Inception extortion gang launches large-scale vishing campaign",
+        "summary": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms.",
+        "why_it_matters": "",
+        "link": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
+        "source": "BleepingComputer",
+        "type": "news",
+        "sector": "CyberSecurity",
+        "published": "2026-11-24T20:21:20Z",
+        "first_seen": "2026-11-24T22:43:19Z",
+        "importance": null,
+        "score": 3.822,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "a804136f51d4",
+        "title": "Turnitin discloses cyberattack affecting customer-facing systems",
+        "summary": "Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems.",
+        "why_it_matters": "",
+        "link": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
+        "source": "BleepingComputer",
+        "type": "news",
+        "sector": "CyberSecurity",
+        "published": "2026-11-24T18:59:52Z",
+        "first_seen": "2026-11-24T22:43:19Z",
+        "importance": null,
+        "score": 3.723,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "247249876411",
         "title": "Radware discloses breach exposing customer cloud access keys",
@@ -498,7 +546,7 @@
         "published": "2026-11-24T17:49:05Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 3.934,
+        "score": 3.64,
         "summary_source": "feed",
         "related": []
       },
@@ -514,7 +562,7 @@
         "published": "2026-11-24T16:30:19Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 3.835,
+        "score": 3.549,
         "summary_source": "feed",
         "related": []
       },
@@ -530,7 +578,7 @@
         "published": "2026-11-24T16:22:44Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 3.826,
+        "score": 3.54,
         "summary_source": "feed",
         "related": []
       },
@@ -546,7 +594,7 @@
         "published": "2026-11-24T16:15:23Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 3.817,
+        "score": 3.532,
         "summary_source": "feed",
         "related": []
       },
@@ -562,55 +610,7 @@
         "published": "2026-11-24T14:09:37Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.666,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "fefd29d42301",
-        "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
-        "summary": "OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restarting services.",
-        "why_it_matters": "",
-        "link": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
-        "source": "BleepingComputer",
-        "type": "news",
-        "sector": "CyberSecurity",
-        "published": "2026-11-24T13:34:23Z",
-        "first_seen": "2026-11-24T14:47:20Z",
-        "importance": null,
-        "score": 3.625,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "4c46dfc5f2ef",
-        "title": "We Get the Infrastructure We Pay For",
-        "summary": "This essay originally appeared as part of a round table in The Free Press entitled “Is America’s Infrastructure Under Attack?” Microsoft, the FAA, banks, United Airlines, the NSA—it’s been a really bad week in cyberspace. But, amazing as it might seem, these are not related.",
-        "why_it_matters": "",
-        "link": "https://www.schneier.com/blog/archives/2026/11/we-get-the-infrastructure-we-pay-for.html",
-        "source": "Schneier on Security",
-        "type": "news",
-        "sector": "CyberSecurity",
-        "published": "2026-11-24T12:06:50Z",
-        "first_seen": "2026-11-24T14:47:20Z",
-        "importance": null,
-        "score": 3.524,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "0c5d6cbc2016",
-        "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
-        "summary": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data.",
-        "why_it_matters": "",
-        "link": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
-        "source": "BleepingComputer",
-        "type": "news",
-        "sector": "CyberSecurity",
-        "published": "2026-11-23T20:54:51Z",
-        "first_seen": "2026-11-23T22:38:36Z",
-        "importance": null,
-        "score": 2.63,
+        "score": 3.392,
         "summary_source": "feed",
         "related": []
       }
@@ -628,7 +628,7 @@
         "published": "2026-11-24T15:17:50Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 3.747,
+        "score": 3.467,
         "summary_source": "feed",
         "related": []
       },
@@ -644,7 +644,7 @@
         "published": "2026-11-19T17:25:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.387,
+        "score": 0.358,
         "summary_source": "feed",
         "related": []
       },
@@ -660,7 +660,7 @@
         "published": "2026-11-19T15:38:18Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.374,
+        "score": 0.346,
         "summary_source": "feed",
         "related": []
       },
@@ -676,7 +676,7 @@
         "published": "2026-11-18T22:02:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.267,
+        "score": 0.247,
         "summary_source": "feed",
         "related": []
       },
@@ -692,12 +692,76 @@
         "published": "2026-11-18T20:31:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.259,
+        "score": 0.24,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Renewables": [
+      {
+        "id": "4dc41d49267c",
+        "title": "Digital Outages Are Rampant All Across America. Is AI to blame?",
+        "summary": "Coincidence is not causation, and yet the urge to ascribe causative power to random events is a typically human characteristic. Take the case of the man who snaps his fingers every five minutes.",
+        "why_it_matters": "",
+        "link": "https://cleantechnica.com/2026/11/24/digital-outages-are-rampant-all-across-america-is-ai-to-blame/",
+        "source": "CleanTechnica",
+        "type": "news",
+        "sector": "Renewables",
+        "published": "2026-11-24T22:25:39Z",
+        "first_seen": "2026-11-24T22:43:19Z",
+        "importance": null,
+        "score": 3.977,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "941845755f56",
+        "title": "Rotterdam’s Methanol Expansion Is Not an Inland Shipping Fuel Strategy",
+        "summary": "Rotterdam is expanding its methanol and ethanol business for industrial customers and ocean-going ships. Its inland freight fleet needs a different energy strategy.",
+        "why_it_matters": "",
+        "link": "https://cleantechnica.com/2026/11/24/rotterdams-methanol-expansion-is-not-an-inland-shipping-fuel-strategy/",
+        "source": "CleanTechnica",
+        "type": "news",
+        "sector": "Renewables",
+        "published": "2026-11-24T20:27:51Z",
+        "first_seen": "2026-11-24T22:43:19Z",
+        "importance": null,
+        "score": 3.83,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "754d0bc5d3a0",
+        "title": "Clean Port Coalition Urges EU To Accelerate Port Electrification",
+        "summary": "The Clean Port Coalition has written to the European Commission calling for ambitious EU rules to accelerate port electrification and shore power ahead of the AFIR review.",
+        "why_it_matters": "",
+        "link": "https://cleantechnica.com/2026/11/24/clean-port-coalition-urges-eu-to-accelerate-port-electrification/",
+        "source": "CleanTechnica",
+        "type": "news",
+        "sector": "Renewables",
+        "published": "2026-11-24T19:22:44Z",
+        "first_seen": "2026-11-24T22:43:19Z",
+        "importance": null,
+        "score": 3.751,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "df9437eb04c9",
+        "title": "Toxic Port Pollution Costs Europe €2.5bn A Year In Health & Environmental Damages — Study",
+        "summary": "New research reveals a single ship emits, on average, as much toxic sulphur at port in a year as 19,300 cars, leaving taxpayers and hospitals to pay the hidden cost of shipping pollution.",
+        "why_it_matters": "",
+        "link": "https://cleantechnica.com/2026/11/24/toxic-port-pollution-costs-europe-e2-5bn-a-year-in-health-environmental-damages-study/",
+        "source": "CleanTechnica",
+        "type": "news",
+        "sector": "Renewables",
+        "published": "2026-11-24T19:14:35Z",
+        "first_seen": "2026-11-24T22:43:19Z",
+        "importance": null,
+        "score": 3.741,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "38ab2cf103bf",
         "title": "90 New Vehicle Models Were Just Introduced in Colombia’s Largest Automotive Exhibition. 55 Were Electric.",
@@ -710,7 +774,7 @@
         "published": "2026-11-24T17:19:11Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 3.896,
+        "score": 3.605,
         "summary_source": "feed",
         "related": []
       },
@@ -726,7 +790,7 @@
         "published": "2026-11-24T13:12:42Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.6,
+        "score": 3.331,
         "summary_source": "feed",
         "related": []
       },
@@ -742,7 +806,7 @@
         "published": "2026-11-24T11:30:01Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.483,
+        "score": 3.223,
         "summary_source": "feed",
         "related": []
       },
@@ -758,71 +822,7 @@
         "published": "2026-11-24T01:50:33Z",
         "first_seen": "2026-11-24T02:44:21Z",
         "importance": null,
-        "score": 2.892,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "c5acb834b5b2",
-        "title": "The European Competitiveness Fund, the Backbone of a Modern European Investment Policy",
-        "summary": "European businesses call for a robust, well-funded European Competitiveness Fund Dear Chancellors, Prime Ministers, Presidents, Europe is losing ground in technological leadership and struggles to scale strategic technologies, while volatile energy costs and external…",
-        "why_it_matters": "",
-        "link": "https://cleantechnica.com/2026/11/23/the-european-competitiveness-fund-the-backbone-of-a-modern-european-investment-policy/",
-        "source": "CleanTechnica",
-        "type": "news",
-        "sector": "Renewables",
-        "published": "2026-11-23T20:16:10Z",
-        "first_seen": "2026-11-23T22:38:36Z",
-        "importance": null,
-        "score": 2.598,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "0c7a481a76a8",
-        "title": "COP 31 Plants A Big Wet Kiss On Failed Carbon Capture Technology",
-        "summary": "COP 31, the annual UN climate conference that took place this month, ended on a sour note after negotiators were unable to reach an agreement to include language calling for a transition away from fossil fuels in the final communiqué — language that was included two years ago at…",
-        "why_it_matters": "",
-        "link": "https://cleantechnica.com/2026/11/23/cop-31-plants-a-big-wet-kiss-on-failed-carbon-capture-technology/",
-        "source": "CleanTechnica",
-        "type": "news",
-        "sector": "Renewables",
-        "published": "2026-11-23T20:05:11Z",
-        "first_seen": "2026-11-23T22:38:36Z",
-        "importance": null,
-        "score": 2.589,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "09690141b595",
-        "title": "Adani Cement to Deploy 410 Electric Trucks, Cement & Clinker",
-        "summary": "Adani Cement to deploy 410 EV trucks by March 2027 as the 1st Phase plan for cement & clinker movement. Deployment commenced at Sanghi Plant in Gujarat.",
-        "why_it_matters": "",
-        "link": "https://cleantechnica.com/2026/11/23/adani-cement-to-deploy-410-electric-trucks-cement-clinker/",
-        "source": "CleanTechnica",
-        "type": "news",
-        "sector": "Renewables",
-        "published": "2026-11-23T18:43:25Z",
-        "first_seen": "2026-11-23T22:38:36Z",
-        "importance": null,
-        "score": 2.522,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "3006f622623c",
-        "title": "Barcelona Is Suffering From The Hydrogen Transport Death Spiral",
-        "summary": "Barcelona’s fuel shutdown exposes the financial risk of keeping hydrogen fleets running as support markets contract.",
-        "why_it_matters": "",
-        "link": "https://cleantechnica.com/2026/11/23/barcelona-is-suffering-from-the-hydrogen-transport-death-spiral/",
-        "source": "CleanTechnica",
-        "type": "news",
-        "sector": "Renewables",
-        "published": "2026-11-23T17:44:59Z",
-        "first_seen": "2026-11-23T18:41:58Z",
-        "importance": null,
-        "score": 2.475,
+        "score": 2.676,
         "summary_source": "feed",
         "related": []
       }
@@ -840,7 +840,7 @@
         "published": "2026-11-24T17:06:20Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 3.88,
+        "score": 3.59,
         "summary_source": "feed",
         "related": []
       },
@@ -856,7 +856,7 @@
         "published": "2026-11-24T12:42:40Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.565,
+        "score": 3.299,
         "summary_source": "feed",
         "related": []
       },
@@ -872,7 +872,7 @@
         "published": "2026-11-24T12:32:18Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.553,
+        "score": 3.288,
         "summary_source": "feed",
         "related": []
       },
@@ -888,7 +888,7 @@
         "published": "2026-11-24T11:43:36Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.498,
+        "score": 3.237,
         "summary_source": "feed",
         "related": []
       },
@@ -904,7 +904,7 @@
         "published": "2026-11-24T10:26:24Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 3.413,
+        "score": 3.158,
         "summary_source": "feed",
         "related": []
       },
@@ -920,7 +920,7 @@
         "published": "2026-11-24T09:44:39Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 3.367,
+        "score": 3.116,
         "summary_source": "feed",
         "related": []
       },
@@ -936,7 +936,7 @@
         "published": "2026-11-24T09:24:23Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 3.345,
+        "score": 3.095,
         "summary_source": "feed",
         "related": []
       },
@@ -952,7 +952,7 @@
         "published": "2026-11-24T00:04:52Z",
         "first_seen": "2026-11-24T02:44:21Z",
         "importance": null,
-        "score": 2.796,
+        "score": 2.587,
         "summary_source": "feed",
         "related": []
       }
@@ -970,7 +970,7 @@
         "published": "2026-11-24T16:28:23Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 3.833,
+        "score": 3.547,
         "summary_source": "feed",
         "related": []
       },
@@ -986,7 +986,7 @@
         "published": "2026-11-24T15:35:48Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 3.769,
+        "score": 3.487,
         "summary_source": "feed",
         "related": []
       },
@@ -1002,7 +1002,7 @@
         "published": "2026-11-24T15:28:00Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 3.759,
+        "score": 3.478,
         "summary_source": "feed",
         "related": []
       },
@@ -1018,7 +1018,7 @@
         "published": "2026-11-23T16:28:15Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 2.415,
+        "score": 2.234,
         "summary_source": "feed",
         "related": []
       },
@@ -1034,7 +1034,7 @@
         "published": "2026-11-23T15:00:00Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 2.347,
+        "score": 2.172,
         "summary_source": "feed",
         "related": []
       },
@@ -1050,7 +1050,7 @@
         "published": "2026-11-20T16:46:43Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.607,
+        "score": 0.562,
         "summary_source": "feed",
         "related": []
       },
@@ -1066,7 +1066,7 @@
         "published": "2026-11-20T16:24:06Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.603,
+        "score": 0.558,
         "summary_source": "feed",
         "related": []
       },
@@ -1082,12 +1082,28 @@
         "published": "2026-11-20T15:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.587,
+        "score": 0.543,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Biotech": [
+      {
+        "id": "4058b536f3e8",
+        "title": "STAT+: RFK Jr. spills his calendar into public, but leaves much to the imagination",
+        "summary": "A partially redacted calendar showing health secretary Robert F. Kennedy Jr.’s activities was made public on Tuesday.",
+        "why_it_matters": "",
+        "link": "https://www.statnews.com/2026/11/24/rfk-jr-calendar-hhs-records-rollout/",
+        "source": "STAT",
+        "type": "news",
+        "sector": "Biotech",
+        "published": "2026-11-24T19:30:29Z",
+        "first_seen": "2026-11-24T22:43:19Z",
+        "importance": null,
+        "score": 3.76,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "0fb72091f107",
         "title": "DiaMedica shares signs that drug extends pregnancy in fetal growth restriction trial",
@@ -1100,7 +1116,7 @@
         "published": null,
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.711,
+        "score": 3.433,
         "summary_source": "feed",
         "related": []
       },
@@ -1116,7 +1132,7 @@
         "published": null,
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.711,
+        "score": 3.433,
         "summary_source": "feed",
         "related": []
       },
@@ -1132,7 +1148,7 @@
         "published": null,
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.711,
+        "score": 3.433,
         "summary_source": "feed",
         "related": []
       },
@@ -1148,7 +1164,7 @@
         "published": "2026-11-24T14:27:36Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.687,
+        "score": 3.412,
         "summary_source": "feed",
         "related": []
       },
@@ -1164,7 +1180,7 @@
         "published": "2026-11-24T14:26:07Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.686,
+        "score": 3.41,
         "summary_source": "feed",
         "related": []
       },
@@ -1180,7 +1196,7 @@
         "published": "2026-11-24T14:19:30Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.678,
+        "score": 3.403,
         "summary_source": "feed",
         "related": []
       },
@@ -1196,28 +1212,28 @@
         "published": "2026-11-24T14:15:03Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.673,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "a72fbb317007",
-        "title": "FDA signs off on Siemens Healthineers next gen multiple sclerosis blood test",
-        "summary": "The FDA has given de novo marketing authorization for Siemens Healthineers’ Atellica IM Neurofilament Light Chain (NfL) assay.",
-        "why_it_matters": "",
-        "link": "https://www.fiercebiotech.com/medtech/fda-signs-siemens-healthineers-next-gen-multiple-sclerosis-blood-test",
-        "source": "Fierce Biotech",
-        "type": "news",
-        "sector": "Biotech",
-        "published": null,
-        "first_seen": "2026-11-24T10:43:22Z",
-        "importance": null,
-        "score": 3.431,
+        "score": 3.398,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Telecommunications": [
+      {
+        "id": "02abdc4debb6",
+        "title": "NTIA, SpaceX agreement 'undermines' goal of BEAD – FBA",
+        "summary": "The NTIA and SpaceX have come to an agreement that may see SpaceX serve all of its BEAD locations at no cost, but it also presents rural communities with an 'impractical choice,' says the Fiber Broadband Association.",
+        "why_it_matters": "",
+        "link": "https://www.lightreading.com/broadband/ntia-spacex-agreement-undermines-goal-of-bead-fba",
+        "source": "Light Reading",
+        "type": "news",
+        "sector": "Telecommunications",
+        "published": "2026-11-24T19:58:39Z",
+        "first_seen": "2026-11-24T22:43:19Z",
+        "importance": null,
+        "score": 3.794,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "a3a065f09681",
         "title": "AT&T calls HFC 'old-fashioned' as legal slugfest with Spectrum continues",
@@ -1230,7 +1246,7 @@
         "published": "2026-11-24T14:00:00Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.655,
+        "score": 3.382,
         "summary_source": "feed",
         "related": []
       },
@@ -1246,7 +1262,7 @@
         "published": "2026-11-24T13:49:16Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.642,
+        "score": 3.37,
         "summary_source": "feed",
         "related": []
       },
@@ -1262,7 +1278,7 @@
         "published": "2026-11-24T13:00:00Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.585,
+        "score": 3.317,
         "summary_source": "feed",
         "related": []
       },
@@ -1278,7 +1294,7 @@
         "published": "2026-11-24T12:09:33Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.528,
+        "score": 3.264,
         "summary_source": "feed",
         "related": []
       },
@@ -1294,7 +1310,7 @@
         "published": "2026-11-24T09:06:46Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 3.327,
+        "score": 3.078,
         "summary_source": "feed",
         "related": []
       },
@@ -1310,7 +1326,7 @@
         "published": "2026-11-24T08:30:00Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 3.288,
+        "score": 3.042,
         "summary_source": "feed",
         "related": []
       },
@@ -1326,23 +1342,7 @@
         "published": "2026-11-24T08:00:00Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 3.256,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "ae0352ad78f0",
-        "title": "FCC proposes to relax radio and TV ownership rules",
-        "summary": "The FCC will vote next month on a proposal to modernize local ownership rules for radio and TV broadcasters as part of the 2022 Quadrennial review. #pressrelease",
-        "why_it_matters": "",
-        "link": "https://www.lightreading.com/video-broadcast/fcc-proposes-to-relax-radio-and-tv-ownership-rules",
-        "source": "Light Reading",
-        "type": "news",
-        "sector": "Telecommunications",
-        "published": "2026-11-23T20:25:32Z",
-        "first_seen": "2026-11-23T22:38:36Z",
-        "importance": null,
-        "score": 2.606,
+        "score": 3.013,
         "summary_source": "feed",
         "related": []
       }
@@ -1360,7 +1360,7 @@
         "published": "2026-11-24T18:03:37Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 3.952,
+        "score": 3.657,
         "summary_source": "feed",
         "related": []
       },
@@ -1376,7 +1376,7 @@
         "published": "2026-11-24T14:48:57Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 3.713,
+        "score": 3.435,
         "summary_source": "feed",
         "related": []
       },
@@ -1392,7 +1392,7 @@
         "published": "2026-11-23T20:29:55Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 2.609,
+        "score": 2.414,
         "summary_source": "feed",
         "related": []
       },
@@ -1408,7 +1408,7 @@
         "published": "2026-11-23T15:16:26Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 2.36,
+        "score": 2.183,
         "summary_source": "feed",
         "related": []
       },
@@ -1424,7 +1424,7 @@
         "published": "2026-11-23T14:20:46Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 2.318,
+        "score": 2.145,
         "summary_source": "feed",
         "related": []
       },
@@ -1440,7 +1440,7 @@
         "published": "2026-11-24T05:00:00Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 1.537,
+        "score": 1.422,
         "summary_source": "feed",
         "related": []
       },
@@ -1456,7 +1456,7 @@
         "published": "2026-11-24T05:00:00Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 1.537,
+        "score": 1.422,
         "summary_source": "feed",
         "related": []
       },
@@ -1472,12 +1472,44 @@
         "published": "2026-11-21T22:25:35Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 1.075,
+        "score": 0.994,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Policy": [
+      {
+        "id": "54f6ce63e252",
+        "title": "New York and California Age Gating Rules Go Into Effect in the New Year",
+        "summary": "Come January 2027, everyday social media browsing in two of the country's largest states will look noticeably different. In California, AB 1709 (2026), AB 1043 (2025), and SB 976 (2024) are slated to take effect on January 1, 2027.",
+        "why_it_matters": "",
+        "link": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
+        "source": "EFF Deeplinks",
+        "type": "news",
+        "sector": "Policy",
+        "published": "2026-11-24T22:35:05Z",
+        "first_seen": "2026-11-24T22:43:19Z",
+        "importance": null,
+        "score": 3.989,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "764e60f5de2c",
+        "title": "Signal Moves to Block AI Agents",
+        "summary": "Signal announced an update to its mobile apps on iOS and Android that seeks to curb issues with AI agents accessing private chats. This is a useful new barrier against a problem we’ve been highlighting this year in our Encrypt It Already campaign.",
+        "why_it_matters": "",
+        "link": "https://www.eff.org/deeplinks/2026/11/signal-now-blocks-ai-agents",
+        "source": "EFF Deeplinks",
+        "type": "news",
+        "sector": "Policy",
+        "published": "2026-11-24T19:43:49Z",
+        "first_seen": "2026-11-24T22:43:19Z",
+        "importance": null,
+        "score": 3.776,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "8d361c0b0b7d",
         "title": "EFF to Congress: Mass Surveillance Is Too Important to Shove into Must-Pass Bill",
@@ -1490,7 +1522,7 @@
         "published": "2026-11-20T21:52:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.67,
+        "score": 0.62,
         "summary_source": "feed",
         "related": []
       },
@@ -1506,7 +1538,7 @@
         "published": "2026-11-19T23:30:50Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.435,
+        "score": 0.403,
         "summary_source": "feed",
         "related": []
       },
@@ -1522,7 +1554,7 @@
         "published": "2026-11-18T19:52:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.256,
+        "score": 0.237,
         "summary_source": "feed",
         "related": []
       },
@@ -1538,7 +1570,7 @@
         "published": "2026-11-18T15:10:53Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.234,
+        "score": 0.216,
         "summary_source": "feed",
         "related": []
       }
@@ -1556,7 +1588,7 @@
         "published": "2026-11-24T18:30:42Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 3.986,
+        "score": 3.689,
         "summary_source": "feed",
         "related": []
       },
@@ -1572,7 +1604,7 @@
         "published": "2026-11-24T12:00:48Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.518,
+        "score": 3.255,
         "summary_source": "feed",
         "related": []
       },
@@ -1588,7 +1620,7 @@
         "published": "2026-11-24T12:00:21Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.517,
+        "score": 3.254,
         "summary_source": "feed",
         "related": []
       },
@@ -1604,7 +1636,7 @@
         "published": "2026-11-23T12:00:19Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 2.216,
+        "score": 2.05,
         "summary_source": "feed",
         "related": []
       },
@@ -1620,7 +1652,7 @@
         "published": "2026-11-23T01:25:53Z",
         "first_seen": "2026-11-23T02:44:14Z",
         "importance": null,
-        "score": 1.808,
+        "score": 1.672,
         "summary_source": "feed",
         "related": []
       },
@@ -1636,7 +1668,7 @@
         "published": "2026-11-20T20:15:54Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.649,
+        "score": 0.601,
         "summary_source": "feed",
         "related": []
       },
@@ -1652,7 +1684,7 @@
         "published": "2026-11-20T12:00:25Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.554,
+        "score": 0.513,
         "summary_source": "feed",
         "related": []
       },
@@ -1668,12 +1700,28 @@
         "published": "2026-11-20T12:00:01Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.554,
+        "score": 0.512,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Developer Tools": [
+      {
+        "id": "ec8e0db7f630",
+        "title": "Idempotency when you don't control the other end",
+        "summary": "",
+        "why_it_matters": "",
+        "link": "https://stackoverflow.blog/2026/11/24/idempotency-when-you-don-t-control-the-other-end/",
+        "source": "Stack Overflow Blog",
+        "type": "news",
+        "sector": "Developer Tools",
+        "published": "2026-11-24T17:01:51Z",
+        "first_seen": "2026-11-24T22:43:19Z",
+        "importance": null,
+        "score": 3.585,
+        "summary_source": "none",
+        "related": []
+      },
       {
         "id": "9ae04f0f556d",
         "title": "Prompt Injection Fixes Need Regression Tests",
@@ -1686,7 +1734,7 @@
         "published": "2026-11-24T16:24:41Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 3.829,
+        "score": 3.542,
         "summary_source": "none",
         "related": []
       },
@@ -1702,7 +1750,7 @@
         "published": "2026-11-24T16:00:00Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 3.798,
+        "score": 3.514,
         "summary_source": "feed",
         "related": []
       },
@@ -1718,7 +1766,7 @@
         "published": "2026-11-24T15:52:06Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 3.789,
+        "score": 3.505,
         "summary_source": "none",
         "related": []
       },
@@ -1734,7 +1782,7 @@
         "published": "2026-11-24T12:00:00Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.517,
+        "score": 3.254,
         "summary_source": "feed",
         "related": []
       },
@@ -1750,7 +1798,7 @@
         "published": "2026-11-24T11:55:00Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.511,
+        "score": 3.249,
         "summary_source": "feed",
         "related": []
       },
@@ -1766,7 +1814,7 @@
         "published": "2026-11-24T11:00:00Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 3.45,
+        "score": 3.192,
         "summary_source": "feed",
         "related": []
       },
@@ -1782,28 +1830,108 @@
         "published": "2026-11-24T09:30:00Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 3.351,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "4dbece577db5",
-        "title": "Agent swarms need more than a message board",
-        "summary": "Agent swarms are really distributed systems problems in disguise.",
-        "why_it_matters": "",
-        "link": "https://stackoverflow.blog/2026/11/24/agent-swarms-need-more-than-a-message-board/",
-        "source": "Stack Overflow Blog",
-        "type": "news",
-        "sector": "Developer Tools",
-        "published": "2026-11-24T08:40:00Z",
-        "first_seen": "2026-11-24T06:48:23Z",
-        "importance": null,
-        "score": 3.298,
+        "score": 3.101,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Breaking": [
+      {
+        "id": "f668f2ae5123",
+        "title": "Anthropic rolls out \"Install as app\" in beta, which turns Claude artifacts into Mac and Windows apps with notifications, optional full computer access, and more (Claude)",
+        "summary": "Claude : Anthropic rolls out “Install as app” in beta, which turns Claude artifacts into Mac and Windows apps with notifications, optional full computer access, and more — Open the artifacts you use every day like any other app, and let them do more on your computer",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261124/p40",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-24T22:05:01Z",
+        "first_seen": "2026-11-24T22:43:19Z",
+        "importance": null,
+        "score": 3.556,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "0f75d7388c87",
+        "title": "Dell reports Q3 revenue up 103% YoY to $54.94B, above $49.32B est., and raises its annual revenue and profit forecasts for the third time this year (Reuters)",
+        "summary": "Reuters : Dell reports Q3 revenue up 103% YoY to $54.94B, above $49.32B est., and raises its annual revenue and profit forecasts for the third time this year — Dell Technologies (DELL.N) on Tuesday raised its annual revenue and profit forecasts for the third time this year after…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261124/p39",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-24T21:45:55Z",
+        "first_seen": "2026-11-24T22:43:19Z",
+        "importance": null,
+        "score": 3.534,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "8e3a26edfeac",
+        "title": "Anthropic details Siren, a honeypot test that tempts AI agents to escape sandboxes; its newer models fell for it 0.6%-1.6% of the time, vs. 25.8% for Mythos 5 (Will Knight/Wired)",
+        "summary": "Will Knight / Wired : Anthropic details Siren, a honeypot test that tempts AI agents to escape sandboxes; its newer models fell for it 0.6%-1.6% of the time, vs.",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261124/p38",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-24T21:35:02Z",
+        "first_seen": "2026-11-24T22:43:19Z",
+        "importance": null,
+        "score": 3.522,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "e2d0c7d78b72",
+        "title": "Docs: Grubhub is on track for ~$6.4B in GTV and a $97M EBITDA loss in 2026, reflecting heavy marketing and operating costs; Wonder says it's not pursuing a sale (Valida Pau/The Information)",
+        "summary": "Valida Pau / The Information : Docs: Grubhub is on track for ~$6.4B in GTV and a $97M EBITDA loss in 2026, reflecting heavy marketing and operating costs; Wonder says it's not pursuing a sale — Marc Lore's Wonder is not pursuing a sale of Grubhub, Wonder says, after preliminary…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261124/p37",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-24T21:30:52Z",
+        "first_seen": "2026-11-24T22:43:19Z",
+        "importance": null,
+        "score": 3.517,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "0c9134d7c859",
+        "title": "A judge orders the ex-OpenAI staffer charged with bugging an exec conference room released on $1M bond, finding prosecutors lack evidence to keep him in custody (Bloomberg)",
+        "summary": "Bloomberg : A judge orders the ex-OpenAI staffer charged with bugging an exec conference room released on $1M bond, finding prosecutors lack evidence to keep him in custody — A federal magistrate judge ordered that the OpenAI staffer charged with bugging a company office…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261124/p36",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-24T21:01:44Z",
+        "first_seen": "2026-11-24T22:43:19Z",
+        "importance": null,
+        "score": 3.485,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "824e9ec33163",
+        "title": "A US jury finds Huawei guilty of conspiracy to steal trade secrets and bank fraud but acquits it of the most severe charge of criminal racketeering conspiracy (Associated Press)",
+        "summary": "Associated Press : A US jury finds Huawei guilty of conspiracy to steal trade secrets and bank fraud but acquits it of the most severe charge of criminal racketeering conspiracy — A U.S. jury convicted Chinese tech giant Huawei Technologies on Tuesday of conspiracy to steal…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261124/p35",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-24T20:45:51Z",
+        "first_seen": "2026-11-24T22:43:19Z",
+        "importance": null,
+        "score": 3.467,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "6f9e7093acda",
         "title": "Tidal will ban fully AI-generated music starting December 9 and says such content accounted for ~43% of tracks distributed to its platform over the past 90 days (Ethan Millman/The Hollywood Reporter)",
@@ -1816,7 +1944,7 @@
         "published": "2026-11-24T18:20:03Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 3.576,
+        "score": 3.308,
         "summary_source": "feed",
         "related": []
       },
@@ -1832,131 +1960,13 @@
         "published": "2026-11-24T18:01:27Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 3.554,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "f998ab027b75",
-        "title": "Three xAI founding members launch Epochal to build AI agents that achieve \"superhuman prediction\"; source: co-founder Guodong Zhang personally invested $100M (Bloomberg)",
-        "summary": "Bloomberg : Three xAI founding members launch Epochal to build AI agents that achieve “superhuman prediction”; source: co-founder Guodong Zhang personally invested $100M — Three founding members of Elon Musk's artificial intelligence business, xAI, have teamed up to build a new…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261124/p27",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-24T17:25:02Z",
-        "first_seen": "2026-11-24T18:41:14Z",
-        "importance": null,
-        "score": 3.513,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "18842c717200",
-        "title": "Jensen Huang was reinstated because his failure to build a management structure fit for Nvidia's size, plus Trump's support, left Nvidia with no other options (Robert Armstrong/Financial Times)",
-        "summary": "Robert Armstrong / Financial Times : Jensen Huang was reinstated because his failure to build a management structure fit for Nvidia's size, plus Trump's support, left Nvidia with no other options — Nvidia took Huang back because his failures left the company with no other…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261124/p26",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-24T17:10:00Z",
-        "first_seen": "2026-11-24T18:41:14Z",
-        "importance": null,
-        "score": 3.496,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "2a0970d60aa0",
-        "title": "A US FTC official says Shein agreed to pay $100M to settle US claims that it misled consumers on shipping times, manipulated product reviews, and more (Jody Godoy/Reuters)",
-        "summary": "Jody Godoy / Reuters : A US FTC official says Shein agreed to pay $100M to settle US claims that it misled consumers on shipping times, manipulated product reviews, and more — Chinese fast-fashion giant Shein (0625.HK) will pay $100 million to settle US claims that it misled…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261124/p25",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-24T17:01:44Z",
-        "first_seen": "2026-11-24T18:41:14Z",
-        "importance": null,
-        "score": 3.487,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "7123b3646fbd",
-        "title": "Internal memos: Microsoft declared a \"Code Red\" drive to overhaul how it prevents and responds to major service failures after the 24-hour Microsoft 365 outage (Jaspreet Singh/Reuters)",
-        "summary": "Jaspreet Singh / Reuters : Internal memos: Microsoft declared a “Code Red” drive to overhaul how it prevents and responds to major service failures after the 24-hour Microsoft 365 outage — Microsoft has declared a “Code Red” drive to overhaul how it prevents and responds to…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261124/p24",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-24T16:35:02Z",
-        "first_seen": "2026-11-24T18:41:14Z",
-        "importance": null,
-        "score": 3.457,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "eeaf7a2eafdd",
-        "title": "Anthropic falls 8%+ to ~$80, below its $83 IPO price and a sharp fall from its $111.50 IPO pop; Dario and Daniela Amodei each sold 3.37M+ shares worth $280M+ (Medha Singh/Reuters)",
-        "summary": "Medha Singh / Reuters : Anthropic falls 8%+ to ~$80, below its $83 IPO price and a sharp fall from its $111.50 IPO pop; Dario and Daniela Amodei each sold 3.37M+ shares worth $280M+ — Anthropic's (ANT.O) shares slipped below their $83 initial public offering price in early…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261124/p21",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-24T14:45:30Z",
-        "first_seen": "2026-11-24T14:47:20Z",
-        "importance": null,
-        "score": 3.338,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "7b985ec33436",
-        "title": "Sources: Stripe is in discussions for an employee share tender offer that would value it above $200B, up from $159B earlier in 2026, set to close in early 2027 (Ben Glickman/Wall Street Journal)",
-        "summary": "Ben Glickman / Wall Street Journal : Sources: Stripe is in discussions for an employee share tender offer that would value it above $200B, up from $159B earlier in 2026, set to close in early 2027 — A tender offer for employees' shares would likely be completed early next year —…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261124/p20",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-24T14:35:02Z",
-        "first_seen": "2026-11-24T14:47:20Z",
-        "importance": null,
-        "score": 3.327,
+        "score": 3.289,
         "summary_source": "feed",
         "related": []
       }
     ]
   },
   "emerging": [
-    {
-      "term": "deployment",
-      "sources": 5,
-      "sectors": 5,
-      "ids": [
-        "09690141b595",
-        "a9462cea7547",
-        "5e081d68f803"
-      ],
-      "score": 10.5
-    },
-    {
-      "term": "shares",
-      "sources": 4,
-      "sectors": 4,
-      "ids": [
-        "6805acb6b95e",
-        "0fb72091f107",
-        "6dc049a9d05f"
-      ],
-      "score": 9.0
-    },
     {
       "term": "continues",
       "sources": 3,
@@ -1969,13 +1979,24 @@
       "score": 7.5
     },
     {
-      "term": "really",
+      "term": "expanding",
       "sources": 3,
       "sectors": 3,
       "ids": [
-        "0d4d2099fb64",
-        "4c46dfc5f2ef",
-        "4dbece577db5"
+        "941845755f56",
+        "d3455ea0e8d3",
+        "3a08b9a150e5"
+      ],
+      "score": 7.5
+    },
+    {
+      "term": "much",
+      "sources": 3,
+      "sectors": 3,
+      "ids": [
+        "f444ba5531ba",
+        "df9437eb04c9",
+        "4058b536f3e8"
       ],
       "score": 7.5
     },
@@ -1991,26 +2012,15 @@
       "score": 7.5
     },
     {
-      "term": "close",
+      "term": "deployment",
       "sources": 4,
       "sectors": 4,
       "ids": [
-        "1dd1dfedca31",
-        "ee1dfaabca86",
-        "879bc7819129"
+        "a9462cea7547",
+        "5e081d68f803",
+        "5ed6d9da44a4"
       ],
-      "score": 6.0
-    },
-    {
-      "term": "month",
-      "sources": 4,
-      "sectors": 4,
-      "ids": [
-        "0c7a481a76a8",
-        "2932d9786a8d",
-        "690e5967776c"
-      ],
-      "score": 6.0
+      "score": 7.2
     },
     {
       "term": "affordability",
@@ -2020,6 +2030,28 @@
         "200aff004bd8",
         "8bd5e60a4baf",
         "ee1dfaabca86"
+      ],
+      "score": 5.62
+    },
+    {
+      "term": "firms",
+      "sources": 3,
+      "sectors": 3,
+      "ids": [
+        "f27d4e186fa0",
+        "64160e52e722",
+        "d15d44b035da"
+      ],
+      "score": 5.62
+    },
+    {
+      "term": "portfolio",
+      "sources": 3,
+      "sectors": 3,
+      "ids": [
+        "4f0170f58e60",
+        "bf78c7101cd8",
+        "3a08b9a150e5"
       ],
       "score": 5.62
     }
