@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "generated_at": "2026-11-25T06:50:33Z",
-  "last_updated": "2026-11-25 06:50 UTC",
+  "generated_at": "2026-11-25T10:45:16Z",
+  "last_updated": "2026-11-25 10:45 UTC",
   "is_sunday_edition": false,
   "priority_sectors": [
     "AI",
@@ -14,88 +14,104 @@
   ],
   "top_stories": [
     {
-      "id": "1cf8bffc9dce",
-      "title": "QCon San Francisco 2026: Automating Spark Upgrades with Codex Agents at OpenAI",
-      "summary": "At QCon San Francisco 2026, Mouli Mukherjee, Engineering Manager for Data Infrastructure at OpenAI, argued that AI agents are most useful not for rebuilding a data platform, but for the open-ended operational work that is hard to turn into fixed playbooks. By Robert Krzaczyński",
+      "id": "6d3d34a4a5ce",
+      "title": "‘The potential is there’: BetterLife’s LSD cousin mirrors neuroplasticity in mice without the hallucinations",
+      "summary": "With the boom in researching psychedelics for the treatment of neurological conditions, scientists have begun to explore ways to alter these drugs to remove the hallucinogenic effects while salvaging the neuroplastic tendencies of these drugs.",
       "why_it_matters": "",
-      "link": "https://www.infoq.com/news/2026/11/openai-spark-fleet/",
-      "source": "InfoQ",
+      "link": "https://www.fiercebiotech.com/research/betterlifes-lsd-cousin-mirrors-neuroplasticity-without-hallucinations-mice",
+      "source": "Fierce Biotech",
       "type": "news",
-      "sector": "Developer Tools",
-      "published": "2026-11-25T06:20:00Z",
-      "first_seen": "2026-11-25T06:50:33Z",
+      "sector": "Biotech",
+      "published": null,
+      "first_seen": "2026-11-25T10:45:16Z",
       "importance": null,
-      "score": 3.961,
+      "score": 4.0,
       "summary_source": "feed",
       "related": []
     },
     {
-      "id": "94dbfd97c319",
-      "title": "Tesla & SpaceX Merger Nears With Big Moves From The Boards",
-      "summary": "There’s been the expectation for months, since SpaceX’s IPO at least, that Tesla and SpaceX will merge.",
+      "id": "9fd10ada3f0c",
+      "title": "Thermo Fisher Scientific nabs FDA expanded use clearance for EXENT analyser system",
+      "summary": "Thermo Fisher Scientific announced FDA clearance for expanded intended use of its EXENT Analyser with the EXENT GAM Assay.",
       "why_it_matters": "",
-      "link": "https://cleantechnica.com/2026/11/24/tesla-spacex-merger-nears-with-big-moves-from-the-boards/",
-      "source": "CleanTechnica",
+      "link": "https://www.fiercebiotech.com/medtech/thermo-fisher-scientific-nabs-fda-expanded-use-clearance-exent-analyser-system",
+      "source": "Fierce Biotech",
       "type": "news",
-      "sector": "Renewables",
-      "published": "2026-11-25T02:57:42Z",
-      "first_seen": "2026-11-25T06:50:33Z",
+      "sector": "Biotech",
+      "published": null,
+      "first_seen": "2026-11-25T10:45:16Z",
       "importance": null,
-      "score": 3.712,
+      "score": 4.0,
       "summary_source": "feed",
       "related": []
     },
     {
-      "id": "80e77b0065c5",
-      "title": "Amazon plans to start selling cars online in the UK in early 2027, expanding beyond the US, where it offers new and used cars from 35 brands in 150+ cities (Jamie Nimmo/Bloomberg)",
-      "summary": "Jamie Nimmo / Bloomberg : Amazon plans to start selling cars online in the UK in early 2027, expanding beyond the US, where it offers new and used cars from 35 brands in 150+ cities — Amazon.com Inc. will soon offer cars on its platform in the UK, joining an increasingly crowded…",
+      "id": "8c2c32cca0ba",
+      "title": "An Indic Voice Agent with CUGA",
+      "summary": "",
       "why_it_matters": "",
-      "link": "https://www.techmeme.com/261125/p4",
-      "source": "Techmeme",
-      "type": "community",
-      "sector": "Breaking",
-      "published": "2026-11-25T06:30:01Z",
-      "first_seen": "2026-11-25T06:50:33Z",
-      "importance": null,
-      "score": 3.576,
-      "summary_source": "feed",
-      "related": []
-    },
-    {
-      "id": "38f8eca03d41",
-      "title": "Changing of the Guard: Chinese Automakers Overtake Japanese in 6 More Markets",
-      "summary": "There are various opinions on the Chinese auto market, as shown recently in discussions under this article, but no matter what your opinion is on the Chinese economy and auto market, you have to recognize that Chinese automakers — driven by their electric leaders — are gaining…",
-      "why_it_matters": "",
-      "link": "https://cleantechnica.com/2026/11/24/changing-of-the-guard-chinese-automakers-overtake-japanese-in-6-more-markets/",
-      "source": "CleanTechnica",
+      "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "source": "Hugging Face",
       "type": "news",
-      "sector": "Renewables",
-      "published": "2026-11-25T00:57:50Z",
-      "first_seen": "2026-11-25T02:45:47Z",
+      "sector": "AI",
+      "published": "2026-11-25T10:22:09Z",
+      "first_seen": "2026-11-25T10:45:16Z",
       "importance": null,
-      "score": 3.572,
+      "score": 3.97,
+      "summary_source": "none",
+      "related": []
+    },
+    {
+      "id": "7765cecc931d",
+      "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
+      "summary": "The Drupal security team has confirmed that a critical vulnerability that lets attackers hijack unpatched sites has been actively exploited since at least Thursday.",
+      "why_it_matters": "",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
+      "source": "BleepingComputer",
+      "type": "news",
+      "sector": "CyberSecurity",
+      "published": "2026-11-25T10:10:20Z",
+      "first_seen": "2026-11-25T10:45:16Z",
+      "importance": null,
+      "score": 3.955,
       "summary_source": "feed",
       "related": []
     },
     {
-      "id": "19308a13b351",
-      "title": "Trump's tech allies reasserted their power in DC by lobbying the president to defy US intelligence agencies and pressure Nvidia to reinstate Jensen Huang as CEO (Financial Times)",
-      "summary": "Financial Times : Trump's tech allies reasserted their power in DC by lobbying the president to defy US intelligence agencies and pressure Nvidia to reinstate Jensen Huang as CEO — Silicon Valley elites flexed their muscles in Washington to back Nvidia boss after humbling…",
+      "id": "e613ac05297b",
+      "title": "‘A flow-through effect’: Data centre demand reaches BESS equipment supply, says Eku Energy",
+      "summary": "Elias Saba of Eku Energy spoke to ESN Premium about how data centre demand for shared equipment is affecting BESS development.",
       "why_it_matters": "",
-      "link": "https://www.techmeme.com/261125/p3",
-      "source": "Techmeme",
-      "type": "community",
-      "sector": "Breaking",
-      "published": "2026-11-25T06:05:01Z",
-      "first_seen": "2026-11-25T06:50:33Z",
+      "link": "https://www.energy-storage.news/data-centre-demand-bess-equipment-supply-eku-energy/",
+      "source": "Energy-Storage.news",
+      "type": "news",
+      "sector": "Energy",
+      "published": "2026-11-25T09:19:04Z",
+      "first_seen": "2026-11-25T10:45:16Z",
       "importance": null,
-      "score": 3.548,
+      "score": 3.891,
       "summary_source": "feed",
       "related": []
     }
   ],
   "sectors": {
     "AI": [
+      {
+        "id": "8c2c32cca0ba",
+        "title": "An Indic Voice Agent with CUGA",
+        "summary": "",
+        "why_it_matters": "",
+        "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+        "source": "Hugging Face",
+        "type": "news",
+        "sector": "AI",
+        "published": "2026-11-25T10:22:09Z",
+        "first_seen": "2026-11-25T10:45:16Z",
+        "importance": null,
+        "score": 3.97,
+        "summary_source": "none",
+        "related": []
+      },
       {
         "id": "10189c0d6481",
         "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
@@ -108,7 +124,7 @@
         "published": "2026-11-24T16:34:13Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 3.039,
+        "score": 2.818,
         "summary_source": "none",
         "related": []
       },
@@ -124,7 +140,7 @@
         "published": "2026-11-25T05:00:00Z",
         "first_seen": "2026-11-25T06:50:33Z",
         "importance": null,
-        "score": 2.316,
+        "score": 2.148,
         "summary_source": "feed",
         "related": []
       },
@@ -140,7 +156,7 @@
         "published": "2026-11-25T05:00:00Z",
         "first_seen": "2026-11-25T06:50:33Z",
         "importance": null,
-        "score": 2.316,
+        "score": 2.148,
         "summary_source": "feed",
         "related": []
       },
@@ -156,7 +172,7 @@
         "published": "2026-11-25T05:00:00Z",
         "first_seen": "2026-11-25T06:50:33Z",
         "importance": null,
-        "score": 2.316,
+        "score": 2.148,
         "summary_source": "feed",
         "related": []
       },
@@ -172,7 +188,7 @@
         "published": "2026-11-23T17:20:37Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 1.943,
+        "score": 1.802,
         "summary_source": "none",
         "related": []
       },
@@ -188,7 +204,7 @@
         "published": "2026-11-23T14:11:17Z",
         "first_seen": "2026-11-25T02:45:47Z",
         "importance": null,
-        "score": 1.829,
+        "score": 1.696,
         "summary_source": "feed",
         "related": []
       },
@@ -204,28 +220,92 @@
         "published": "2026-11-24T05:00:00Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 1.459,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "28dbdf183c8b",
-        "title": "torchtsetlin: Fast, Interpretable Tsetlin Machines for PyTorch",
-        "summary": "The Tsetlin machine learns propositional rules with teams of Tsetlin automata that are driven by reward and penalty rather than gradients, so its models are interpretable by construction and cheap to evaluate.",
-        "why_it_matters": "",
-        "link": "https://arxiv.org/abs/2611.28195",
-        "source": "arXiv cs.AI",
-        "type": "paper",
-        "sector": "AI",
-        "published": "2026-11-24T05:00:00Z",
-        "first_seen": "2026-11-24T10:43:22Z",
-        "importance": null,
-        "score": 1.459,
+        "score": 1.353,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Semiconductors": [
+      {
+        "id": "6447b59301b2",
+        "title": "Winbond Widens Edge AI Reach, Certifies NOR Flash",
+        "summary": "Winbond is pairing bandwidth and density to meet the edge’s demand for faster, safer memory without the custom-design price tag.",
+        "why_it_matters": "",
+        "link": "https://www.eetimes.com/winbond-widens-edge-ai-reach-certifies-nor-flash/",
+        "source": "EE Times",
+        "type": "news",
+        "sector": "Semiconductors",
+        "published": "2026-11-25T08:59:51Z",
+        "first_seen": "2026-11-25T10:45:16Z",
+        "importance": null,
+        "score": 3.867,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "8d8309fc0ede",
+        "title": "Southchip Showcases Automotive Power, Charging, and Load-Control Solutions at electronica Munich",
+        "summary": "Southchip presented its automotive PMICs, 240W USB charging, wireless charging, ambient lighting, and high-side drivers at electronica Munich.",
+        "why_it_matters": "",
+        "link": "https://www.eetimes.com/southchip-showcases-automotive-power-charging-and-load-control-solutions-at-electronica-munich/",
+        "source": "EE Times",
+        "type": "news",
+        "sector": "Semiconductors",
+        "published": "2026-11-25T08:32:46Z",
+        "first_seen": "2026-11-25T10:45:16Z",
+        "importance": null,
+        "score": 3.833,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "eb073ff050fa",
+        "title": "Blog Review: Nov. 25",
+        "summary": "PCIe SVC; co-packaged optics; liquid-cooled data center model; LUT-GEMM; automotive traceability.",
+        "why_it_matters": "",
+        "link": "https://semiengineering.com/blog-review-nov-25-3/",
+        "source": "SemiEngineering",
+        "type": "news",
+        "sector": "Semiconductors",
+        "published": "2026-11-25T08:01:39Z",
+        "first_seen": "2026-11-25T10:45:16Z",
+        "importance": null,
+        "score": 3.795,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "7fda4e98f5b6",
+        "title": "Chip Industry Technical Paper Roundup: Nov. 25",
+        "summary": "Hybrid-bonded 3D NAND analog IMC; defect-aware chiplet matching for HI yield; HBF latency reduction for GPU systems; backside clock meshes for BSPDN; LLM-agent verification for post-quantum HW; self-supervised CMP virtual metrology; e-beam stitching losses in SOI waveguides.",
+        "why_it_matters": "",
+        "link": "https://semiengineering.com/chip-industry-technical-paper-roundup-nov-25-2/",
+        "source": "SemiEngineering",
+        "type": "news",
+        "sector": "Semiconductors",
+        "published": "2026-11-25T08:01:01Z",
+        "first_seen": "2026-11-25T10:45:16Z",
+        "importance": null,
+        "score": 3.795,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "ddc856dc66dd",
+        "title": "From AI Platforms to Industry Innovation: How NVIDIA Connects Startups to Build an AI Ecosystem",
+        "summary": "For AI startups, the real challenge is often not building AI itself, but getting it to work reliably in the real world.",
+        "why_it_matters": "",
+        "link": "https://www.eetimes.com/from-ai-platforms-to-industry-innovation-how-nvidia-connects-startups-to-build-an-ai-ecosystem/",
+        "source": "EE Times",
+        "type": "news",
+        "sector": "Semiconductors",
+        "published": "2026-11-25T05:00:00Z",
+        "first_seen": "2026-11-25T10:45:16Z",
+        "importance": null,
+        "score": 3.58,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "2b31c2a80eb9",
         "title": "From Precision to Autonomous Agriculture: The Role of Edge AI and Robotics",
@@ -238,7 +318,7 @@
         "published": "2026-11-24T16:16:56Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 3.022,
+        "score": 2.803,
         "summary_source": "feed",
         "related": []
       },
@@ -254,7 +334,7 @@
         "published": "2026-11-24T08:40:49Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 2.611,
+        "score": 2.421,
         "summary_source": "feed",
         "related": []
       },
@@ -270,87 +350,7 @@
         "published": "2026-11-24T08:11:47Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 2.586,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "b6028b91b6b4",
-        "title": "AI Vs. High-Level Synthesis",
-        "summary": "AI promises to automate chip design from spec to implementation, but can it match HLS in productivity, verification, and quality of results?",
-        "why_it_matters": "",
-        "link": "https://semiengineering.com/ai-vs-high-level-synthesis/",
-        "source": "SemiEngineering",
-        "type": "news",
-        "sector": "Semiconductors",
-        "published": "2026-11-24T08:11:34Z",
-        "first_seen": "2026-11-24T10:43:22Z",
-        "importance": null,
-        "score": 2.586,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "6a1cb0890bcb",
-        "title": "AI Can Read The Code, But Can It Understand The Chip?",
-        "summary": "Frontier models are improving design automation, but layouts, waveforms, and other semiconductor-specific data presents challenges that general-purpose AI has yet to fully overcome.",
-        "why_it_matters": "",
-        "link": "https://semiengineering.com/ai-can-read-the-code-but-can-it-understand-the-chip/",
-        "source": "SemiEngineering",
-        "type": "news",
-        "sector": "Semiconductors",
-        "published": "2026-11-24T08:11:31Z",
-        "first_seen": "2026-11-24T10:43:22Z",
-        "importance": null,
-        "score": 2.586,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "0d4d2099fb64",
-        "title": "Hope Is Not A Strategy: What First-Silicon Success Really Takes",
-        "summary": "Most re-spins are caused by logic and functional flaws, not hard-to-predict physical effects.",
-        "why_it_matters": "",
-        "link": "https://semiengineering.com/hope-is-not-a-strategy-what-first-silicon-success-really-takes/",
-        "source": "SemiEngineering",
-        "type": "news",
-        "sector": "Semiconductors",
-        "published": "2026-11-24T08:08:01Z",
-        "first_seen": "2026-11-24T10:43:22Z",
-        "importance": null,
-        "score": 2.583,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "4ad3baa07e0c",
-        "title": "NSING Featured CRA, AI Robotics, Motor Control and Digital Energy at electronica 2026",
-        "summary": "At electronica 2026 in Munich, NSING exhibited 35 solutions built on N32‑series MCUs, N32WB BLE SoCs and NS350 TPM, covering AI robotics, motor control and digital energy, and presented its CRA compliance offerings.",
-        "why_it_matters": "",
-        "link": "https://www.eetimes.com/nsing-featured-cra-ai-robotics-motor-control-and-digital-energy-at-electronica-2026/",
-        "source": "EE Times",
-        "type": "news",
-        "sector": "Semiconductors",
-        "published": "2026-11-24T07:41:37Z",
-        "first_seen": "2026-11-24T10:43:22Z",
-        "importance": null,
-        "score": 2.561,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "b4fed49feca1",
-        "title": "Hybrid-Bonded 3D NAND Boosts Analog In-Memory Compute Density (IBM, Micron, U. of Patras)",
-        "summary": "Researchers at IBM Research, Micron Technology, and University of Patras published “3D-NAND-CIM: A Hybrid-Bonded 3D-NAND-Flash-based Analog In-Memory-Compute macro offering 4.8M weights/mm².” Find the technical paper here. November 2026.",
-        "why_it_matters": "",
-        "link": "https://semiengineering.com/hybrid-bonded-3d-nand-boosts-analog-in-memory-compute-density/",
-        "source": "SemiEngineering",
-        "type": "news",
-        "sector": "Semiconductors",
-        "published": "2026-11-23T21:35:38Z",
-        "first_seen": "2026-11-23T22:38:36Z",
-        "importance": null,
-        "score": 2.109,
+        "score": 2.399,
         "summary_source": "feed",
         "related": []
       }
@@ -368,7 +368,7 @@
         "published": "2026-11-24T23:05:25Z",
         "first_seen": "2026-11-25T02:45:47Z",
         "importance": null,
-        "score": 3.445,
+        "score": 3.195,
         "summary_source": "feed",
         "related": []
       },
@@ -384,7 +384,7 @@
         "published": "2026-11-24T18:02:01Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 3.126,
+        "score": 2.899,
         "summary_source": "feed",
         "related": []
       },
@@ -400,7 +400,7 @@
         "published": "2026-11-24T17:46:04Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 3.11,
+        "score": 2.884,
         "summary_source": "feed",
         "related": []
       },
@@ -416,7 +416,7 @@
         "published": "2026-11-24T17:34:20Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 3.098,
+        "score": 2.873,
         "summary_source": "feed",
         "related": []
       },
@@ -432,7 +432,7 @@
         "published": "2026-11-24T17:27:45Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 3.092,
+        "score": 2.867,
         "summary_source": "feed",
         "related": []
       },
@@ -448,7 +448,7 @@
         "published": "2026-11-25T05:00:00Z",
         "first_seen": "2026-11-25T06:50:33Z",
         "importance": null,
-        "score": 2.316,
+        "score": 2.148,
         "summary_source": "feed",
         "related": []
       },
@@ -464,7 +464,7 @@
         "published": "2026-11-25T05:00:00Z",
         "first_seen": "2026-11-25T06:50:33Z",
         "importance": null,
-        "score": 2.316,
+        "score": 2.148,
         "summary_source": "feed",
         "related": []
       },
@@ -480,12 +480,60 @@
         "published": "2026-11-25T05:00:00Z",
         "first_seen": "2026-11-25T06:50:33Z",
         "importance": null,
-        "score": 2.316,
+        "score": 2.148,
         "summary_source": "feed",
         "related": []
       }
     ],
     "CyberSecurity": [
+      {
+        "id": "7765cecc931d",
+        "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
+        "summary": "The Drupal security team has confirmed that a critical vulnerability that lets attackers hijack unpatched sites has been actively exploited since at least Thursday.",
+        "why_it_matters": "",
+        "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
+        "source": "BleepingComputer",
+        "type": "news",
+        "sector": "CyberSecurity",
+        "published": "2026-11-25T10:10:20Z",
+        "first_seen": "2026-11-25T10:45:16Z",
+        "importance": null,
+        "score": 3.955,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "a0220630fa0b",
+        "title": "Microsoft confirms authentication issues after November updates",
+        "summary": "Microsoft has confirmed that customers may experience authentication issues after installing November security updates that address a high-severity remote code execution vulnerability.",
+        "why_it_matters": "",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/",
+        "source": "BleepingComputer",
+        "type": "news",
+        "sector": "CyberSecurity",
+        "published": "2026-11-25T09:02:57Z",
+        "first_seen": "2026-11-25T10:45:16Z",
+        "importance": null,
+        "score": 3.871,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "78f37dfb44c9",
+        "title": "Hackers reportedly breached CIA intelligence analysis system",
+        "summary": "Unknown attackers have reportedly breached an open-source intelligence analysis system at the US Central Intelligence Agency (CIA)",
+        "why_it_matters": "",
+        "link": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
+        "source": "BleepingComputer",
+        "type": "news",
+        "sector": "CyberSecurity",
+        "published": "2026-11-25T07:45:03Z",
+        "first_seen": "2026-11-25T10:45:16Z",
+        "importance": null,
+        "score": 3.775,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "e194c4dffc14",
         "title": "Rackspace shuts down Spot cloud platform after security breach",
@@ -498,7 +546,7 @@
         "published": "2026-11-24T21:37:30Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 3.35,
+        "score": 3.106,
         "summary_source": "feed",
         "related": []
       },
@@ -514,7 +562,7 @@
         "published": "2026-11-24T20:21:20Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 3.269,
+        "score": 3.031,
         "summary_source": "feed",
         "related": []
       },
@@ -530,7 +578,7 @@
         "published": "2026-11-24T18:59:52Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 3.184,
+        "score": 2.953,
         "summary_source": "feed",
         "related": []
       },
@@ -546,7 +594,7 @@
         "published": "2026-11-24T17:49:05Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 3.113,
+        "score": 2.887,
         "summary_source": "feed",
         "related": []
       },
@@ -562,55 +610,7 @@
         "published": "2026-11-24T16:30:19Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 3.035,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "323e716fff6c",
-        "title": "European Commission confirms data theft in EU Academy breach",
-        "summary": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users.",
-        "why_it_matters": "",
-        "link": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
-        "source": "BleepingComputer",
-        "type": "news",
-        "sector": "CyberSecurity",
-        "published": "2026-11-24T16:22:44Z",
-        "first_seen": "2026-11-24T18:41:14Z",
-        "importance": null,
-        "score": 3.028,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "675091b0f8ee",
-        "title": "Hackers compromise Check Point Servers in 22 organizations",
-        "summary": "Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations.",
-        "why_it_matters": "",
-        "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
-        "source": "BleepingComputer",
-        "type": "news",
-        "sector": "CyberSecurity",
-        "published": "2026-11-24T16:15:23Z",
-        "first_seen": "2026-11-24T18:41:14Z",
-        "importance": null,
-        "score": 3.021,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "5e0905f3a43d",
-        "title": "McDonald's Japan data breach exposes customer location information",
-        "summary": "McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app.",
-        "why_it_matters": "",
-        "link": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
-        "source": "BleepingComputer",
-        "type": "news",
-        "sector": "CyberSecurity",
-        "published": "2026-11-24T14:09:37Z",
-        "first_seen": "2026-11-24T14:47:20Z",
-        "importance": null,
-        "score": 2.901,
+        "score": 2.815,
         "summary_source": "feed",
         "related": []
       }
@@ -628,7 +628,7 @@
         "published": "2026-11-24T15:17:50Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 2.965,
+        "score": 2.75,
         "summary_source": "feed",
         "related": []
       },
@@ -644,7 +644,7 @@
         "published": "2026-11-19T17:25:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.306,
+        "score": 0.284,
         "summary_source": "feed",
         "related": []
       },
@@ -660,7 +660,7 @@
         "published": "2026-11-19T15:38:18Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.296,
+        "score": 0.275,
         "summary_source": "feed",
         "related": []
       },
@@ -676,7 +676,7 @@
         "published": "2026-11-18T22:02:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.211,
+        "score": 0.196,
         "summary_source": "feed",
         "related": []
       },
@@ -692,7 +692,7 @@
         "published": "2026-11-18T20:31:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.205,
+        "score": 0.19,
         "summary_source": "feed",
         "related": []
       }
@@ -710,7 +710,7 @@
         "published": "2026-11-25T02:57:42Z",
         "first_seen": "2026-11-25T06:50:33Z",
         "importance": null,
-        "score": 3.712,
+        "score": 3.443,
         "summary_source": "feed",
         "related": []
       },
@@ -726,7 +726,7 @@
         "published": "2026-11-25T00:57:50Z",
         "first_seen": "2026-11-25T02:45:47Z",
         "importance": null,
-        "score": 3.572,
+        "score": 3.313,
         "summary_source": "feed",
         "related": []
       },
@@ -742,7 +742,7 @@
         "published": "2026-11-24T23:59:39Z",
         "first_seen": "2026-11-25T02:45:47Z",
         "importance": null,
-        "score": 3.506,
+        "score": 3.251,
         "summary_source": "feed",
         "related": []
       },
@@ -758,7 +758,7 @@
         "published": "2026-11-24T22:25:39Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 3.402,
+        "score": 3.155,
         "summary_source": "feed",
         "related": []
       },
@@ -774,7 +774,7 @@
         "published": "2026-11-24T20:27:51Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 3.275,
+        "score": 3.038,
         "summary_source": "feed",
         "related": []
       },
@@ -790,7 +790,7 @@
         "published": "2026-11-24T19:22:44Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 3.208,
+        "score": 2.975,
         "summary_source": "feed",
         "related": []
       },
@@ -806,7 +806,7 @@
         "published": "2026-11-24T19:14:35Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 3.199,
+        "score": 2.967,
         "summary_source": "feed",
         "related": []
       },
@@ -822,12 +822,28 @@
         "published": "2026-11-24T17:19:11Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 3.083,
+        "score": 2.859,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Energy": [
+      {
+        "id": "e613ac05297b",
+        "title": "‘A flow-through effect’: Data centre demand reaches BESS equipment supply, says Eku Energy",
+        "summary": "Elias Saba of Eku Energy spoke to ESN Premium about how data centre demand for shared equipment is affecting BESS development.",
+        "why_it_matters": "",
+        "link": "https://www.energy-storage.news/data-centre-demand-bess-equipment-supply-eku-energy/",
+        "source": "Energy-Storage.news",
+        "type": "news",
+        "sector": "Energy",
+        "published": "2026-11-25T09:19:04Z",
+        "first_seen": "2026-11-25T10:45:16Z",
+        "importance": null,
+        "score": 3.891,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "1dd1dfedca31",
         "title": "CB Live: Carbon Brief journalists discuss key COP31 outcomes",
@@ -840,7 +856,7 @@
         "published": "2026-11-24T17:06:20Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 3.07,
+        "score": 2.848,
         "summary_source": "feed",
         "related": []
       },
@@ -856,7 +872,7 @@
         "published": "2026-11-24T12:42:40Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 2.821,
+        "score": 2.617,
         "summary_source": "feed",
         "related": []
       },
@@ -872,7 +888,7 @@
         "published": "2026-11-24T12:32:18Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 2.812,
+        "score": 2.608,
         "summary_source": "feed",
         "related": []
       },
@@ -888,7 +904,7 @@
         "published": "2026-11-24T11:43:36Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 2.768,
+        "score": 2.567,
         "summary_source": "feed",
         "related": []
       },
@@ -904,7 +920,7 @@
         "published": "2026-11-24T10:26:24Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 2.701,
+        "score": 2.505,
         "summary_source": "feed",
         "related": []
       },
@@ -920,7 +936,7 @@
         "published": "2026-11-24T09:44:39Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 2.665,
+        "score": 2.471,
         "summary_source": "feed",
         "related": []
       },
@@ -936,23 +952,7 @@
         "published": "2026-11-24T09:24:23Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 2.647,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "d3455ea0e8d3",
-        "title": "Japan’s expanding BESS market and its uncertain progress",
-        "summary": "As Japan’s battery storage market expands, BloombergNEF's Umer Sadiq discusses its nuances and uncertainties with ESN Premium.",
-        "why_it_matters": "",
-        "link": "https://www.energy-storage.news/japans-expanding-bess-market-and-its-uncertain-progress/",
-        "source": "Energy-Storage.news",
-        "type": "news",
-        "sector": "Energy",
-        "published": "2026-11-24T00:04:52Z",
-        "first_seen": "2026-11-24T02:44:21Z",
-        "importance": null,
-        "score": 2.212,
+        "score": 2.455,
         "summary_source": "feed",
         "related": []
       }
@@ -970,7 +970,7 @@
         "published": "2026-11-24T16:28:23Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 3.033,
+        "score": 2.813,
         "summary_source": "feed",
         "related": []
       },
@@ -986,7 +986,7 @@
         "published": "2026-11-24T15:35:48Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 2.982,
+        "score": 2.766,
         "summary_source": "feed",
         "related": []
       },
@@ -1002,7 +1002,7 @@
         "published": "2026-11-24T15:28:00Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 2.975,
+        "score": 2.759,
         "summary_source": "feed",
         "related": []
       },
@@ -1018,7 +1018,7 @@
         "published": "2026-11-23T16:28:15Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 1.911,
+        "score": 1.772,
         "summary_source": "feed",
         "related": []
       },
@@ -1034,7 +1034,7 @@
         "published": "2026-11-23T15:00:00Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 1.857,
+        "score": 1.723,
         "summary_source": "feed",
         "related": []
       },
@@ -1050,7 +1050,7 @@
         "published": "2026-11-20T16:46:43Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.481,
+        "score": 0.446,
         "summary_source": "feed",
         "related": []
       },
@@ -1066,7 +1066,7 @@
         "published": "2026-11-20T16:24:06Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.477,
+        "score": 0.442,
         "summary_source": "feed",
         "related": []
       },
@@ -1082,12 +1082,92 @@
         "published": "2026-11-20T15:00:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.464,
+        "score": 0.431,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Biotech": [
+      {
+        "id": "6d3d34a4a5ce",
+        "title": "‘The potential is there’: BetterLife’s LSD cousin mirrors neuroplasticity in mice without the hallucinations",
+        "summary": "With the boom in researching psychedelics for the treatment of neurological conditions, scientists have begun to explore ways to alter these drugs to remove the hallucinogenic effects while salvaging the neuroplastic tendencies of these drugs.",
+        "why_it_matters": "",
+        "link": "https://www.fiercebiotech.com/research/betterlifes-lsd-cousin-mirrors-neuroplasticity-without-hallucinations-mice",
+        "source": "Fierce Biotech",
+        "type": "news",
+        "sector": "Biotech",
+        "published": null,
+        "first_seen": "2026-11-25T10:45:16Z",
+        "importance": null,
+        "score": 4.0,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "9fd10ada3f0c",
+        "title": "Thermo Fisher Scientific nabs FDA expanded use clearance for EXENT analyser system",
+        "summary": "Thermo Fisher Scientific announced FDA clearance for expanded intended use of its EXENT Analyser with the EXENT GAM Assay.",
+        "why_it_matters": "",
+        "link": "https://www.fiercebiotech.com/medtech/thermo-fisher-scientific-nabs-fda-expanded-use-clearance-exent-analyser-system",
+        "source": "Fierce Biotech",
+        "type": "news",
+        "sector": "Biotech",
+        "published": null,
+        "first_seen": "2026-11-25T10:45:16Z",
+        "importance": null,
+        "score": 4.0,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "e6a8398e5951",
+        "title": "ARM CEO reflects on ‘wild 12 months’ pushing back on FDA’s shifting gene therapy stance",
+        "summary": "When Fierce first met up with Tim Hunt back in November 2025, the CEO of the Alliance for Regenerative Medicine (ARM)—which represents over 400 members, including biotechs—was optimistic that cell and gene therapies were high on the government’s agenda.",
+        "why_it_matters": "",
+        "link": "https://www.fiercebiotech.com/biotech/arm-ceo-reflects-wild-12-months-navigating-fdas-shifting-gene-therapy-stance",
+        "source": "Fierce Biotech",
+        "type": "news",
+        "sector": "Biotech",
+        "published": null,
+        "first_seen": "2026-11-25T10:45:16Z",
+        "importance": null,
+        "score": 4.0,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "05badcef7aa0",
+        "title": "Opinion: Washington and Beijing are building walls around biotechnology. That’s the wrong approach",
+        "summary": "“Data show that the U.S.-China contest in biotechnology is not one race but several,” writes Michael S. Kinch.",
+        "why_it_matters": "",
+        "link": "https://www.statnews.com/2026/11/25/us-china-biotech-race-policy-data/",
+        "source": "STAT",
+        "type": "news",
+        "sector": "Biotech",
+        "published": "2026-11-25T09:30:00Z",
+        "first_seen": "2026-11-25T10:45:16Z",
+        "importance": null,
+        "score": 3.905,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "361d6e996093",
+        "title": "Despite stalling in court, Trump restrictions on foreign students have had a chilling effect on enrollment",
+        "summary": "New data show a clear drop in the enrollment of international graduate students, a key piece of the U.S. biomedical workforce.",
+        "why_it_matters": "",
+        "link": "https://www.statnews.com/2026/11/25/foreign-students-us-biomedical-science-enrollment-drop-trump/",
+        "source": "STAT",
+        "type": "news",
+        "sector": "Biotech",
+        "published": "2026-11-25T09:30:00Z",
+        "first_seen": "2026-11-25T10:45:16Z",
+        "importance": null,
+        "score": 3.905,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "4058b536f3e8",
         "title": "STAT+: RFK Jr. spills his calendar into public, but leaves much to the imagination",
@@ -1100,7 +1180,7 @@
         "published": "2026-11-24T19:30:29Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 3.216,
+        "score": 2.982,
         "summary_source": "feed",
         "related": []
       },
@@ -1116,7 +1196,7 @@
         "published": null,
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 2.936,
+        "score": 2.723,
         "summary_source": "feed",
         "related": []
       },
@@ -1132,92 +1212,28 @@
         "published": null,
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 2.936,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "f29712a36df3",
-        "title": "‘We’ve been a quiet company’: Why viral biotech Vyriad attracts Big Pharmas despite low profile",
-        "summary": "Vyriad's leadership may describe the biotech as a “very quiet company” when compared to some of its more buzzy peers, but the drug developer's partnerships speak for themselves.",
-        "why_it_matters": "",
-        "link": "https://www.fiercebiotech.com/biotech/vyriad-tells-fierce-how-it-manages-quietly-attract-big-pharmas",
-        "source": "Fierce Biotech",
-        "type": "news",
-        "sector": "Biotech",
-        "published": null,
-        "first_seen": "2026-11-24T14:47:20Z",
-        "importance": null,
-        "score": 2.936,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "ede3e2859697",
-        "title": "STAT+: Pharmalittle: We’re reading about Sanofi buying Insmed, Roche touting its breast cancer pill, and more",
-        "summary": "Sanofi is buying the biotech Insmed for $41 billion, the largest biopharma acquisition in years and one that will give the French firm two new approved drugs",
-        "why_it_matters": "",
-        "link": "https://www.statnews.com/pharmalot/2026/11/24/sanofi-buying-insmed-roche-breast-cancer-pill/",
-        "source": "STAT",
-        "type": "news",
-        "sector": "Biotech",
-        "published": "2026-11-24T14:27:36Z",
-        "first_seen": "2026-11-24T14:47:20Z",
-        "importance": null,
-        "score": 2.918,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "1b7eb9ed579b",
-        "title": "STAT+: Roche’s potential breast cancer blockbuster drug wins second FDA nod",
-        "summary": "Roche's breast cancer pill has picked up its second FDA clearance in a week, this time in early-stage breast cancer for use after surgery.",
-        "why_it_matters": "",
-        "link": "https://www.statnews.com/2026/11/24/biotech-news-roche-potential-breast-cancer-blockbluster-drug-wins-second-fda-nod/",
-        "source": "STAT",
-        "type": "news",
-        "sector": "Biotech",
-        "published": "2026-11-24T14:26:07Z",
-        "first_seen": "2026-11-24T14:47:20Z",
-        "importance": null,
-        "score": 2.917,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "af1a5f16fa4c",
-        "title": "STAT+: Alaskan hospitals use AI to improve stroke care, peptides go mainstream, and RSNA 2026",
-        "summary": "In this edition of STAT Health Tech: Alaskan hospitals using AI to improve stroke care, a look ahead at RSNA 2026, and peptides go mainstream.",
-        "why_it_matters": "",
-        "link": "https://www.statnews.com/2026/11/24/alaskan-hospitals-using-ai-rsna-2026-peptides-health-tech/",
-        "source": "STAT",
-        "type": "news",
-        "sector": "Biotech",
-        "published": "2026-11-24T14:19:30Z",
-        "first_seen": "2026-11-24T14:47:20Z",
-        "importance": null,
-        "score": 2.91,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "71de67ae65dc",
-        "title": "Menopause hormone therapy med popularity increases 141% compared to previous years",
-        "summary": "In June 2026, 4.9M menopause hormone therapy medications were dispensed to cisgender women in the U.S. between the ages of 40 and 74.",
-        "why_it_matters": "",
-        "link": "https://www.statnews.com/2026/11/24/health-news-menopause-hormone-therapy-med-popularity-increases-141-percent/",
-        "source": "STAT",
-        "type": "news",
-        "sector": "Biotech",
-        "published": "2026-11-24T14:15:03Z",
-        "first_seen": "2026-11-24T14:47:20Z",
-        "importance": null,
-        "score": 2.906,
+        "score": 2.723,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Telecommunications": [
+      {
+        "id": "8eacd1b09dd0",
+        "title": "Orange taking Nokia plus Nvidia 'very seriously' for RAN tender",
+        "summary": "Orange's Laurent Leboucher has not yet seen GPUs offer advantages over custom silicon, but he says there are reasons that might change.",
+        "why_it_matters": "",
+        "link": "https://www.lightreading.com/5g/orange-taking-nokia-plus-nvidia-very-seriously-for-ran-tender",
+        "source": "Light Reading",
+        "type": "news",
+        "sector": "Telecommunications",
+        "published": "2026-11-25T08:30:00Z",
+        "first_seen": "2026-11-25T10:45:16Z",
+        "importance": null,
+        "score": 3.83,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "02abdc4debb6",
         "title": "NTIA, SpaceX agreement 'undermines' goal of BEAD – FBA",
@@ -1230,7 +1246,7 @@
         "published": "2026-11-24T19:58:39Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 3.245,
+        "score": 3.009,
         "summary_source": "feed",
         "related": []
       },
@@ -1246,7 +1262,7 @@
         "published": "2026-11-24T14:00:00Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 2.892,
+        "score": 2.682,
         "summary_source": "feed",
         "related": []
       },
@@ -1262,7 +1278,7 @@
         "published": "2026-11-24T13:49:16Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 2.882,
+        "score": 2.673,
         "summary_source": "feed",
         "related": []
       },
@@ -1278,7 +1294,7 @@
         "published": "2026-11-24T13:00:00Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 2.837,
+        "score": 2.631,
         "summary_source": "feed",
         "related": []
       },
@@ -1294,7 +1310,7 @@
         "published": "2026-11-24T12:09:33Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 2.791,
+        "score": 2.589,
         "summary_source": "feed",
         "related": []
       },
@@ -1310,7 +1326,7 @@
         "published": "2026-11-24T09:06:46Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 2.632,
+        "score": 2.441,
         "summary_source": "feed",
         "related": []
       },
@@ -1326,23 +1342,7 @@
         "published": "2026-11-24T08:30:00Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 2.602,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "6ab92de35fe7",
-        "title": "T-Mobile pushes ahead with AI-RAN toward 6G",
-        "summary": "T-Mobile plans to share a new AI-RAN development before end of the year as it continues to test Nvidia's GPUs with Nokia and AI in the RAN from Ericsson.",
-        "why_it_matters": "",
-        "link": "https://www.lightreading.com/ai-machine-learning/t-mobile-pushes-ahead-with-ai-ran-toward-6g",
-        "source": "Light Reading",
-        "type": "news",
-        "sector": "Telecommunications",
-        "published": "2026-11-24T08:00:00Z",
-        "first_seen": "2026-11-24T10:43:22Z",
-        "importance": null,
-        "score": 2.577,
+        "score": 2.413,
         "summary_source": "feed",
         "related": []
       }
@@ -1360,7 +1360,7 @@
         "published": "2026-11-24T18:03:37Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 3.127,
+        "score": 2.9,
         "summary_source": "feed",
         "related": []
       },
@@ -1376,7 +1376,7 @@
         "published": "2026-11-24T14:48:57Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 2.938,
+        "score": 2.725,
         "summary_source": "feed",
         "related": []
       },
@@ -1392,7 +1392,7 @@
         "published": "2026-11-23T20:29:55Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 2.065,
+        "score": 1.915,
         "summary_source": "feed",
         "related": []
       },
@@ -1408,7 +1408,7 @@
         "published": "2026-11-25T05:00:00Z",
         "first_seen": "2026-11-25T06:50:33Z",
         "importance": null,
-        "score": 1.93,
+        "score": 1.79,
         "summary_source": "feed",
         "related": []
       },
@@ -1424,7 +1424,7 @@
         "published": "2026-11-25T05:00:00Z",
         "first_seen": "2026-11-25T06:50:33Z",
         "importance": null,
-        "score": 1.93,
+        "score": 1.79,
         "summary_source": "feed",
         "related": []
       },
@@ -1440,7 +1440,7 @@
         "published": "2026-11-23T15:16:26Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 1.867,
+        "score": 1.732,
         "summary_source": "feed",
         "related": []
       },
@@ -1456,7 +1456,7 @@
         "published": "2026-11-23T14:20:46Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 1.834,
+        "score": 1.701,
         "summary_source": "feed",
         "related": []
       },
@@ -1472,7 +1472,7 @@
         "published": "2026-11-24T05:00:00Z",
         "first_seen": "2026-11-24T10:43:22Z",
         "importance": null,
-        "score": 1.216,
+        "score": 1.128,
         "summary_source": "feed",
         "related": []
       }
@@ -1490,7 +1490,7 @@
         "published": "2026-11-24T22:35:05Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 3.412,
+        "score": 3.164,
         "summary_source": "feed",
         "related": []
       },
@@ -1506,7 +1506,7 @@
         "published": "2026-11-24T19:43:49Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 3.23,
+        "score": 2.995,
         "summary_source": "feed",
         "related": []
       },
@@ -1522,7 +1522,7 @@
         "published": "2026-11-20T21:52:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.53,
+        "score": 0.492,
         "summary_source": "feed",
         "related": []
       },
@@ -1538,7 +1538,7 @@
         "published": "2026-11-19T23:30:50Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.345,
+        "score": 0.32,
         "summary_source": "feed",
         "related": []
       },
@@ -1554,7 +1554,7 @@
         "published": "2026-11-18T19:52:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.202,
+        "score": 0.188,
         "summary_source": "feed",
         "related": []
       },
@@ -1570,7 +1570,7 @@
         "published": "2026-11-18T15:10:53Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.185,
+        "score": 0.172,
         "summary_source": "feed",
         "related": []
       }
@@ -1588,7 +1588,7 @@
         "published": "2026-11-24T18:30:42Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 3.155,
+        "score": 2.926,
         "summary_source": "feed",
         "related": []
       },
@@ -1604,7 +1604,7 @@
         "published": "2026-11-24T12:00:48Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 2.784,
+        "score": 2.582,
         "summary_source": "feed",
         "related": []
       },
@@ -1620,7 +1620,7 @@
         "published": "2026-11-24T12:00:21Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 2.783,
+        "score": 2.581,
         "summary_source": "feed",
         "related": []
       },
@@ -1636,7 +1636,7 @@
         "published": "2026-11-23T12:00:19Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 1.753,
+        "score": 1.626,
         "summary_source": "feed",
         "related": []
       },
@@ -1652,7 +1652,7 @@
         "published": "2026-11-23T01:25:53Z",
         "first_seen": "2026-11-23T02:44:14Z",
         "importance": null,
-        "score": 1.43,
+        "score": 1.327,
         "summary_source": "feed",
         "related": []
       },
@@ -1668,7 +1668,7 @@
         "published": "2026-11-20T20:15:54Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.514,
+        "score": 0.477,
         "summary_source": "feed",
         "related": []
       },
@@ -1684,7 +1684,7 @@
         "published": "2026-11-20T12:00:25Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.438,
+        "score": 0.407,
         "summary_source": "feed",
         "related": []
       },
@@ -1700,12 +1700,44 @@
         "published": "2026-11-20T12:00:01Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.438,
+        "score": 0.406,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Developer Tools": [
+      {
+        "id": "db6e8c3a2d52",
+        "title": "Rust 1.100 Ships the Never Type After Ten Years and Five Failed Attempts",
+        "summary": "Rust 1.100.0, released 12 November 2026, stabilises the never type (!) after ten years of work and makes Infallible an alias for it. The release also stabilises the core of the allocator API, adds DropGuard, and gives Cargo an opt-in dependency cooldown setting.",
+        "why_it_matters": "",
+        "link": "https://www.infoq.com/news/2026/11/rust-1-100-never-types/",
+        "source": "InfoQ",
+        "type": "news",
+        "sector": "Developer Tools",
+        "published": "2026-11-25T07:29:00Z",
+        "first_seen": "2026-11-25T10:45:16Z",
+        "importance": null,
+        "score": 3.756,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "0005b49c403a",
+        "title": "AWS Lambda Doubles Its Timeout to 30 Minutes After Eight Years at 15",
+        "summary": "AWS has raised the maximum timeout of on-demand Lambda Event Functions from 15 to 30 minutes in all commercial regions, with no opt-in and no new pricing. The limit had stood since 2018.",
+        "why_it_matters": "",
+        "link": "https://www.infoq.com/news/2026/11/aws-lambda-30-minute-timeout/",
+        "source": "InfoQ",
+        "type": "news",
+        "sector": "Developer Tools",
+        "published": "2026-11-25T07:02:00Z",
+        "first_seen": "2026-11-25T10:45:16Z",
+        "importance": null,
+        "score": 3.723,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "1cf8bffc9dce",
         "title": "QCon San Francisco 2026: Automating Spark Upgrades with Codex Agents at OpenAI",
@@ -1718,7 +1750,7 @@
         "published": "2026-11-25T06:20:00Z",
         "first_seen": "2026-11-25T06:50:33Z",
         "importance": null,
-        "score": 3.961,
+        "score": 3.674,
         "summary_source": "feed",
         "related": []
       },
@@ -1734,7 +1766,7 @@
         "published": "2026-11-24T17:01:51Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 3.066,
+        "score": 2.844,
         "summary_source": "none",
         "related": []
       },
@@ -1750,7 +1782,7 @@
         "published": "2026-11-24T16:24:41Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 3.03,
+        "score": 2.81,
         "summary_source": "none",
         "related": []
       },
@@ -1766,7 +1798,7 @@
         "published": "2026-11-24T16:00:00Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 3.006,
+        "score": 2.788,
         "summary_source": "feed",
         "related": []
       },
@@ -1782,7 +1814,7 @@
         "published": "2026-11-24T15:52:06Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 2.998,
+        "score": 2.781,
         "summary_source": "none",
         "related": []
       },
@@ -1798,44 +1830,108 @@
         "published": "2026-11-24T12:00:00Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 2.783,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "87243318e6c3",
-        "title": "OpenAI Scales Git for Coding Agents with Pando",
-        "summary": "OpenAI has detailed Pando, a new backend that scales Git for concurrent coding-agent workloads without replacing familiar Git workflows.",
-        "why_it_matters": "",
-        "link": "https://www.infoq.com/news/2026/11/openai-git-pando/",
-        "source": "InfoQ",
-        "type": "news",
-        "sector": "Developer Tools",
-        "published": "2026-11-24T11:55:00Z",
-        "first_seen": "2026-11-24T14:47:20Z",
-        "importance": null,
-        "score": 2.778,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "80da6e66f2ff",
-        "title": "Presentation: Inferencing for Enterprises",
-        "summary": "Dio Rettori discusses the operational realities of enterprise AI inference.",
-        "why_it_matters": "",
-        "link": "https://www.infoq.com/presentations/enterprise-ai-inference-architecture-costs/",
-        "source": "InfoQ",
-        "type": "news",
-        "sector": "Developer Tools",
-        "published": "2026-11-24T11:00:00Z",
-        "first_seen": "2026-11-24T14:47:20Z",
-        "importance": null,
-        "score": 2.73,
+        "score": 2.581,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Breaking": [
+      {
+        "id": "6e3a86110e13",
+        "title": "Sources: Meta and Amazon are discussing a potential deal to connect Muse to Amazon, ending Amazon's block; any deal would require a sign-off from both CEOs (Sebastian Herrera/Fortune)",
+        "summary": "Sebastian Herrera / Fortune : Sources: Meta and Amazon are discussing a potential deal to connect Muse to Amazon, ending Amazon's block; any deal would require a sign-off from both CEOs — Amazon and Meta Platforms are in ongoing discussions over a potential deal to connect…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261125/p13",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-25T10:15:01Z",
+        "first_seen": "2026-11-25T10:45:16Z",
+        "importance": null,
+        "score": 3.565,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "96d9957633f8",
+        "title": "Australia passes the Digital Duty of Care Act, an online safety law that exposes Big Tech to multibillion-dollar fines for failing to prevent foreseeable harms (Rod McGuirk/Associated Press)",
+        "summary": "Rod McGuirk / Associated Press : Australia passes the Digital Duty of Care Act, an online safety law that exposes Big Tech to multibillion-dollar fines for failing to prevent foreseeable harms — Australia's Parliament on Wednesday passed online safety laws that could expose tech…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261125/p12",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-25T10:05:02Z",
+        "first_seen": "2026-11-25T10:45:16Z",
+        "importance": null,
+        "score": 3.554,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "a282e15a9c61",
+        "title": "Walmart says Kalyan Krishnamurthy, CEO of Walmart-owned Flipkart, India's largest online retailer, plans to leave on December 4 and names its CTO as interim CEO (Sankalp Phartiyal/Bloomberg)",
+        "summary": "Sankalp Phartiyal / Bloomberg : Walmart says Kalyan Krishnamurthy, CEO of Walmart-owned Flipkart, India's largest online retailer, plans to leave on December 4 and names its CTO as interim CEO — Flipkart Chief Executive Officer Kalyan Krishnamurthy, a key architect of the…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261125/p11",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-25T09:40:02Z",
+        "first_seen": "2026-11-25T10:45:16Z",
+        "importance": null,
+        "score": 3.525,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "51a3fed46ffc",
+        "title": "VW's ID. Era 5S sedan, built in China for China with VW's most advanced automated-driving system, reflects China's rise as a source of cutting-edge auto tech (Bloomberg)",
+        "summary": "Bloomberg : VW's ID.",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261125/p10",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-25T07:35:01Z",
+        "first_seen": "2026-11-25T10:45:16Z",
+        "importance": null,
+        "score": 3.387,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "5e231feb5a1c",
+        "title": "Chinese EDA software provider Phlexing says it has been collaborating with Huawei since 2019 to develop a suite of EDA tools based on Huawei's Tau Scaling Law (Nikkei Asia)",
+        "summary": "Nikkei Asia : Chinese EDA software provider Phlexing says it has been collaborating with Huawei since 2019 to develop a suite of EDA tools based on Huawei's Tau Scaling Law — TAIPEI — China's Huawei Technologies and a local partner say they have overcome a U.S. crackdown on its…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261125/p9",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-25T07:25:01Z",
+        "first_seen": "2026-11-25T10:45:16Z",
+        "importance": null,
+        "score": 3.376,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "5d0e1f478e81",
+        "title": "EU officials say the EC is pressing Pornhub, Stripchat, XNXX, and XVideos to introduce tougher age checks as it develops a bloc-wide age verification app (Barbara Moens/Financial Times)",
+        "summary": "Barbara Moens / Financial Times : EU officials say the EC is pressing Pornhub, Stripchat, XNXX, and XVideos to introduce tougher age checks as it develops a bloc-wide age verification app — Adult websites seek to make deal with European Commission to minimise looming fines —…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261125/p8",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-25T07:20:02Z",
+        "first_seen": "2026-11-25T10:45:16Z",
+        "importance": null,
+        "score": 3.371,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "80e77b0065c5",
         "title": "Amazon plans to start selling cars online in the UK in early 2027, expanding beyond the US, where it offers new and used cars from 35 brands in 150+ cities (Jamie Nimmo/Bloomberg)",
@@ -1848,7 +1944,7 @@
         "published": "2026-11-25T06:30:01Z",
         "first_seen": "2026-11-25T06:50:33Z",
         "importance": null,
-        "score": 3.576,
+        "score": 3.317,
         "summary_source": "feed",
         "related": []
       },
@@ -1864,103 +1960,7 @@
         "published": "2026-11-25T06:05:01Z",
         "first_seen": "2026-11-25T06:50:33Z",
         "importance": null,
-        "score": 3.548,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "1a11144b60fc",
-        "title": "NJ-based AidenAI, which helps enterprises integrate AI into apps, data infrastructure, and business workflows, raised a $32M Series A led by A91 Partners (Anne Florentyna/Inc42)",
-        "summary": "Anne Florentyna / Inc42 : NJ-based AidenAI, which helps enterprises integrate AI into apps, data infrastructure, and business workflows, raised a $32M Series A led by A91 Partners — Enterprise AI startup AidenAI has raised $32 Mn (₹297.1 Cr) in a Series A funding round led by…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261125/p2",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-25T05:50:13Z",
-        "first_seen": "2026-11-25T06:50:33Z",
-        "importance": null,
-        "score": 3.531,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "6d95999dad30",
-        "title": "Sources: the EU plans to mobilize up to €50B for its Sovereign Tech Equity Fund to make long-term, high-risk bets on European AI and quantum computing companies (Barbara Moens/Financial Times)",
-        "summary": "Barbara Moens / Financial Times : Sources: the EU plans to mobilize up to €50B for its Sovereign Tech Equity Fund to make long-term, high-risk bets on European AI and quantum computing companies — Brussels plans to take stakes in AI and quantum computing companies to try to…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261125/p1",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-25T05:40:03Z",
-        "first_seen": "2026-11-25T06:50:33Z",
-        "importance": null,
-        "score": 3.519,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "4074c3bcd297",
-        "title": "Sources: Muse boosts Meta's ad business by prompting Instagram users to organize saved posts in Muse, reducing shopping friction and increasing advertisers' ROI (Julia Boorstin/CNBC)",
-        "summary": "Julia Boorstin / CNBC : Sources: Muse boosts Meta's ad business by prompting Instagram users to organize saved posts in Muse, reducing shopping friction and increasing advertisers' ROI — Meta's ad-free Muse personal artificial intelligence agent is already helping the social…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261124/p53",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-25T04:30:00Z",
-        "first_seen": "2026-11-25T06:50:33Z",
-        "importance": null,
-        "score": 3.441,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "818e2d43fffc",
-        "title": "Sources: US intelligence officials told congressional aides Alice Huang wasn't directed by China's MSS on Jensen Huang affair, but may have passed intel to MSS (New York Times)",
-        "summary": "New York Times : Sources: US intelligence officials told congressional aides Alice Huang wasn't directed by China's MSS on Jensen Huang affair, but may have passed intel to MSS — After President Trump said Jensen Huang was not a security threat, U.S. intelligence agencies told…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261124/p52",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-25T04:15:01Z",
-        "first_seen": "2026-11-25T06:50:33Z",
-        "importance": null,
-        "score": 3.425,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "ee88ac61f277",
-        "title": "HP reports Q4 revenue up 9.3% YoY to $16B, above $15.3B est., gives \"prudent\" fiscal 2027 guidance above estimates, and says AI PCs reached ~60% of shipments (Dina Bass/Bloomberg)",
-        "summary": "Dina Bass / Bloomberg : HP reports Q4 revenue up 9.3% YoY to $16B, above $15.3B est., gives “prudent” fiscal 2027 guidance above estimates, and says AI PCs reached ~60% of shipments — HP Inc. gave a profit forecast for the current year that will likely exceed analysts' estimates",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261124/p50",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-25T02:30:02Z",
-        "first_seen": "2026-11-25T02:45:47Z",
-        "importance": null,
-        "score": 3.311,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "eeba1ea8f911",
-        "title": "A history professor says GPT-6.2 Astra solved a historical mystery in 22 minutes by identifying the creator of an anonymous 1808 sketchbook held at Yale (Mark Humphries/Generative History)",
-        "summary": "Mark Humphries / Generative History : A history professor says GPT-6.2 Astra solved a historical mystery in 22 minutes by identifying the creator of an anonymous 1808 sketchbook held at Yale — There's a growing sense in the AI community that we're approaching an intelligence…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261124/p49",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-25T02:00:01Z",
-        "first_seen": "2026-11-25T02:45:47Z",
-        "importance": null,
-        "score": 3.28,
+        "score": 3.29,
         "summary_source": "feed",
         "related": []
       }
@@ -1968,26 +1968,81 @@
   },
   "emerging": [
     {
-      "term": "expanding",
+      "term": "since",
       "sources": 4,
       "sectors": 4,
       "ids": [
-        "941845755f56",
-        "d3455ea0e8d3",
-        "3a08b9a150e5"
+        "7765cecc931d",
+        "94dbfd97c319",
+        "0005b49c403a"
       ],
-      "score": 6.86
+      "score": 8.0
     },
     {
-      "term": "series",
+      "term": "building",
+      "sources": 3,
+      "sectors": 3,
+      "ids": [
+        "ddc856dc66dd",
+        "05badcef7aa0",
+        "e31bb1e971f8"
+      ],
+      "score": 7.5
+    },
+    {
+      "term": "effect",
+      "sources": 3,
+      "sectors": 3,
+      "ids": [
+        "e613ac05297b",
+        "361d6e996093",
+        "54f6ce63e252"
+      ],
+      "score": 6.0
+    },
+    {
+      "term": "work",
       "sources": 4,
       "sectors": 4,
       "ids": [
-        "4ad3baa07e0c",
-        "cb343cb6917b",
-        "ee1dfaabca86"
+        "ddc856dc66dd",
+        "56a1224630ed",
+        "2888e365a3a3"
       ],
-      "score": 6.86
+      "score": 6.0
+    },
+    {
+      "term": "demand",
+      "sources": 3,
+      "sectors": 3,
+      "ids": [
+        "6447b59301b2",
+        "e613ac05297b",
+        "8bffc34f6fcc"
+      ],
+      "score": 5.0
+    },
+    {
+      "term": "discussions",
+      "sources": 3,
+      "sectors": 3,
+      "ids": [
+        "38f8eca03d41",
+        "e327976bf744",
+        "6e3a86110e13"
+      ],
+      "score": 5.0
+    },
+    {
+      "term": "five",
+      "sources": 3,
+      "sectors": 3,
+      "ids": [
+        "4777e9bf4b2e",
+        "4dc41d49267c",
+        "db6e8c3a2d52"
+      ],
+      "score": 5.0
     },
     {
       "term": "human",
@@ -1999,61 +2054,6 @@
         "7d6d5395529b"
       ],
       "score": 5.0
-    },
-    {
-      "term": "take",
-      "sources": 3,
-      "sectors": 3,
-      "ids": [
-        "4dc41d49267c",
-        "54f6ce63e252",
-        "6d95999dad30"
-      ],
-      "score": 5.0
-    },
-    {
-      "term": "moves",
-      "sources": 3,
-      "sectors": 3,
-      "ids": [
-        "94dbfd97c319",
-        "6805acb6b95e",
-        "764e60f5de2c"
-      ],
-      "score": 4.29
-    },
-    {
-      "term": "much",
-      "sources": 3,
-      "sectors": 3,
-      "ids": [
-        "f444ba5531ba",
-        "df9437eb04c9",
-        "4058b536f3e8"
-      ],
-      "score": 4.29
-    },
-    {
-      "term": "pressure",
-      "sources": 3,
-      "sectors": 3,
-      "ids": [
-        "e327976bf744",
-        "6dc049a9d05f",
-        "19308a13b351"
-      ],
-      "score": 4.29
-    },
-    {
-      "term": "social",
-      "sources": 3,
-      "sectors": 3,
-      "ids": [
-        "e31bb1e971f8",
-        "54f6ce63e252",
-        "4074c3bcd297"
-      ],
-      "score": 4.29
     }
   ],
   "stock_watch": [],
@@ -2333,7 +2333,7 @@
       "errors": [
         "ANTHROPIC_API_KEY is not set"
       ],
-      "new_items": 21,
+      "new_items": 27,
       "summarised": 0
     }
   },
