@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "generated_at": "2026-11-25T18:35:53Z",
-  "last_updated": "2026-11-25 18:35 UTC",
+  "generated_at": "2026-11-25T22:41:18Z",
+  "last_updated": "2026-11-25 22:41 UTC",
   "is_sunday_edition": false,
   "priority_sectors": [
     "AI",
@@ -14,88 +14,104 @@
   ],
   "top_stories": [
     {
-      "id": "dbf54ba40443",
-      "title": "Bayer becomes latest Big Pharma to head to Hansoh in $3.3B deal for phase 1 ADC",
-      "summary": "Bayer has become the latest drug giant to turn to Hansoh Pharma for its antibody-drug conjugate expertise.",
+      "id": "198e36a9a73b",
+      "title": "New Trump Tariffs — Nice",
+      "summary": "Following an election in which voters responded in historic fashion to rising prices — due mostly to Trump’s tariffs and Trump’s war on Iran — President Donald Trump has decided to jack up prices even further by launching a series of new tariffs.",
       "why_it_matters": "",
-      "link": "https://www.fiercebiotech.com/biotech/bayer-becomes-latest-big-pharma-head-hansoh-33b-deal-phase-1-adc",
-      "source": "Fierce Biotech",
+      "link": "https://cleantechnica.com/2026/11/25/new-trump-tariffs-nice/",
+      "source": "CleanTechnica",
       "type": "news",
-      "sector": "Biotech",
-      "published": null,
-      "first_seen": "2026-11-25T18:35:53Z",
+      "sector": "Renewables",
+      "published": "2026-11-25T22:27:02Z",
+      "first_seen": "2026-11-25T22:41:18Z",
       "importance": null,
-      "score": 4.0,
+      "score": 3.982,
       "summary_source": "feed",
       "related": []
     },
     {
-      "id": "889165313c19",
-      "title": "Schrödinger signs €22M biologics collab with sequencing automation outfit Enpicom",
-      "summary": "Computational discovery biotech Schrödinger has finalized a collaboration with sequencing automation company Enpicom in an all-cash deal worth €22 million.",
+      "id": "a2d94c5b8b57",
+      "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+      "summary": "Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet.",
       "why_it_matters": "",
-      "link": "https://www.fiercebiotech.com/biotech/schrodinger-forms-ties-sequencing-automation-outfit-enpicom-eur22m",
-      "source": "Fierce Biotech",
+      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
+      "source": "BleepingComputer",
       "type": "news",
-      "sector": "Biotech",
-      "published": null,
-      "first_seen": "2026-11-25T18:35:53Z",
+      "sector": "CyberSecurity",
+      "published": "2026-11-25T22:05:09Z",
+      "first_seen": "2026-11-25T22:41:18Z",
       "importance": null,
-      "score": 4.0,
+      "score": 3.954,
       "summary_source": "feed",
       "related": []
     },
     {
-      "id": "11ba0c1f723b",
-      "title": "🎩 Tech Monopolies Make Outages Worse | EFFector 38.21",
-      "summary": "Service outages, like the ones we've seen take down everything from airlines to email, seem to be coming faster than ever.",
+      "id": "9b1e9b7e390d",
+      "title": "Infineon CoolSET™ SiP Enables Efficient, ‘First-Time-Right’ Auxiliary Power Designs",
+      "summary": "Auxiliary supply is indispensable, and designers need to facilitate high-efficiency solutions across a wide range of loads, in a limited PCB area, and deliver first-time-right designs.",
       "why_it_matters": "",
-      "link": "https://www.eff.org/deeplinks/2026/11/tech-monopolies-make-outages-worse-effector-3820",
-      "source": "EFF Deeplinks",
-      "type": "news",
-      "sector": "Policy",
-      "published": "2026-11-25T18:26:19Z",
-      "first_seen": "2026-11-25T18:35:53Z",
-      "importance": null,
-      "score": 3.988,
-      "summary_source": "feed",
-      "related": []
-    },
-    {
-      "id": "8b5a8bd0500a",
-      "title": "Turning Optical Telemetry into Cluster Reliability: Integrating Link Health Data into Monitoring and Ticketing",
-      "summary": "Explore how integrating optical link health data into monitoring and ticketing can help teams improve cluster reliability.",
-      "why_it_matters": "",
-      "link": "https://www.eetimes.com/turning-optical-telemetry-into-cluster-reliability-integrating-link-health-data-into-monitoring-and-ticketing/",
+      "link": "https://www.eetimes.com/infineon-coolset-sip-enables-efficient-first-time-right-auxiliary-power-designs/",
       "source": "EE Times",
       "type": "news",
       "sector": "Semiconductors",
-      "published": "2026-11-25T18:00:22Z",
-      "first_seen": "2026-11-25T18:35:53Z",
+      "published": "2026-11-25T22:02:21Z",
+      "first_seen": "2026-11-25T22:41:18Z",
       "importance": null,
-      "score": 3.955,
+      "score": 3.95,
       "summary_source": "feed",
       "related": []
     },
     {
-      "id": "3bac58693462",
-      "title": "AI Makes Formal Verification Practical",
-      "summary": "AI model startup Harmonic is expanding into formal verification for software and hardware.",
+      "id": "379ef4cd5141",
+      "title": "1Password customer data stolen after employee GitHub account breach",
+      "summary": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data.",
       "why_it_matters": "",
-      "link": "https://www.eetimes.com/ai-makes-formal-verification-practical/",
-      "source": "EE Times",
+      "link": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
+      "source": "BleepingComputer",
       "type": "news",
-      "sector": "Semiconductors",
-      "published": "2026-11-25T17:34:58Z",
-      "first_seen": "2026-11-25T18:35:53Z",
+      "sector": "CyberSecurity",
+      "published": "2026-11-25T21:33:33Z",
+      "first_seen": "2026-11-25T22:41:18Z",
       "importance": null,
-      "score": 3.923,
+      "score": 3.914,
+      "summary_source": "feed",
+      "related": []
+    },
+    {
+      "id": "e180e0972a0b",
+      "title": "Why Medicare’s 2027 physician pay changes worry some specialists",
+      "summary": "Cuts to Medicare physician payment rates for certain same-day services could impact some specialists more than others.",
+      "why_it_matters": "",
+      "link": "https://www.statnews.com/2026/11/25/medicare-physician-fee-schedule-change-worry-some-specialists/",
+      "source": "STAT",
+      "type": "news",
+      "sector": "Biotech",
+      "published": "2026-11-25T21:28:53Z",
+      "first_seen": "2026-11-25T22:41:18Z",
+      "importance": null,
+      "score": 3.908,
       "summary_source": "feed",
       "related": []
     }
   ],
   "sectors": {
     "AI": [
+      {
+        "id": "44bb7dafaf41",
+        "title": "Where scientists draw the line on AI agents",
+        "summary": "",
+        "why_it_matters": "",
+        "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+        "source": "Hugging Face",
+        "type": "news",
+        "sector": "AI",
+        "published": "2026-11-25T18:52:55Z",
+        "first_seen": "2026-11-25T22:41:18Z",
+        "importance": null,
+        "score": 3.717,
+        "summary_source": "none",
+        "related": []
+      },
       {
         "id": "8c2c32cca0ba",
         "title": "An Indic Voice Agent with CUGA",
@@ -108,7 +124,7 @@
         "published": "2026-11-25T10:22:09Z",
         "first_seen": "2026-11-25T10:45:16Z",
         "importance": null,
-        "score": 3.414,
+        "score": 3.155,
         "summary_source": "none",
         "related": []
       },
@@ -124,7 +140,7 @@
         "published": "2026-11-25T00:00:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.796,
+        "score": 2.584,
         "summary_source": "none",
         "related": []
       },
@@ -140,7 +156,7 @@
         "published": "2026-11-24T16:34:13Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 2.423,
+        "score": 2.24,
         "summary_source": "none",
         "related": []
       },
@@ -156,7 +172,7 @@
         "published": "2026-11-25T05:00:00Z",
         "first_seen": "2026-11-25T06:50:33Z",
         "importance": null,
-        "score": 1.847,
+        "score": 1.707,
         "summary_source": "feed",
         "related": []
       },
@@ -172,7 +188,7 @@
         "published": "2026-11-25T05:00:00Z",
         "first_seen": "2026-11-25T06:50:33Z",
         "importance": null,
-        "score": 1.847,
+        "score": 1.707,
         "summary_source": "feed",
         "related": []
       },
@@ -188,7 +204,7 @@
         "published": "2026-11-25T05:00:00Z",
         "first_seen": "2026-11-25T06:50:33Z",
         "importance": null,
-        "score": 1.847,
+        "score": 1.707,
         "summary_source": "feed",
         "related": []
       },
@@ -204,28 +220,44 @@
         "published": "2026-11-23T17:20:37Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 1.55,
+        "score": 1.432,
         "summary_source": "none",
-        "related": []
-      },
-      {
-        "id": "c6ea9b54f4d2",
-        "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
-        "summary": "Could the scientific method be emergent?",
-        "why_it_matters": "",
-        "link": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks",
-        "source": "Import AI",
-        "type": "news",
-        "sector": "AI",
-        "published": "2026-11-23T14:11:17Z",
-        "first_seen": "2026-11-25T02:45:47Z",
-        "importance": null,
-        "score": 1.458,
-        "summary_source": "feed",
         "related": []
       }
     ],
     "Semiconductors": [
+      {
+        "id": "9b1e9b7e390d",
+        "title": "Infineon CoolSET™ SiP Enables Efficient, ‘First-Time-Right’ Auxiliary Power Designs",
+        "summary": "Auxiliary supply is indispensable, and designers need to facilitate high-efficiency solutions across a wide range of loads, in a limited PCB area, and deliver first-time-right designs.",
+        "why_it_matters": "",
+        "link": "https://www.eetimes.com/infineon-coolset-sip-enables-efficient-first-time-right-auxiliary-power-designs/",
+        "source": "EE Times",
+        "type": "news",
+        "sector": "Semiconductors",
+        "published": "2026-11-25T22:02:21Z",
+        "first_seen": "2026-11-25T22:41:18Z",
+        "importance": null,
+        "score": 3.95,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "43ebfc7a73ce",
+        "title": "MCRPS Power Supply for Enterprise Data Centers",
+        "summary": "The 5.6 kW MCRPS reference design from Infineon provides a viable solution for next-generation common redundant PSUs in enterprise servers.",
+        "why_it_matters": "",
+        "link": "https://www.eetimes.com/mcrps-power-supply-for-enterprise-data-centers/",
+        "source": "EE Times",
+        "type": "news",
+        "sector": "Semiconductors",
+        "published": "2026-11-25T20:36:47Z",
+        "first_seen": "2026-11-25T22:41:18Z",
+        "importance": null,
+        "score": 3.843,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "8b5a8bd0500a",
         "title": "Turning Optical Telemetry into Cluster Reliability: Integrating Link Health Data into Monitoring and Ticketing",
@@ -238,7 +270,7 @@
         "published": "2026-11-25T18:00:22Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 3.955,
+        "score": 3.655,
         "summary_source": "feed",
         "related": []
       },
@@ -254,7 +286,7 @@
         "published": "2026-11-25T17:34:58Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 3.923,
+        "score": 3.625,
         "summary_source": "feed",
         "related": []
       },
@@ -270,7 +302,7 @@
         "published": "2026-11-25T14:00:00Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 3.661,
+        "score": 3.384,
         "summary_source": "feed",
         "related": []
       },
@@ -286,7 +318,7 @@
         "published": "2026-11-25T14:00:00Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 3.661,
+        "score": 3.384,
         "summary_source": "feed",
         "related": []
       },
@@ -302,7 +334,7 @@
         "published": "2026-11-25T08:59:51Z",
         "first_seen": "2026-11-25T10:45:16Z",
         "importance": null,
-        "score": 3.325,
+        "score": 3.073,
         "summary_source": "feed",
         "related": []
       },
@@ -318,39 +350,7 @@
         "published": "2026-11-25T08:32:46Z",
         "first_seen": "2026-11-25T10:45:16Z",
         "importance": null,
-        "score": 3.296,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "eb073ff050fa",
-        "title": "Blog Review: Nov. 25",
-        "summary": "PCIe SVC; co-packaged optics; liquid-cooled data center model; LUT-GEMM; automotive traceability.",
-        "why_it_matters": "",
-        "link": "https://semiengineering.com/blog-review-nov-25-3/",
-        "source": "SemiEngineering",
-        "type": "news",
-        "sector": "Semiconductors",
-        "published": "2026-11-25T08:01:39Z",
-        "first_seen": "2026-11-25T10:45:16Z",
-        "importance": null,
-        "score": 3.263,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "7fda4e98f5b6",
-        "title": "Chip Industry Technical Paper Roundup: Nov. 25",
-        "summary": "Hybrid-bonded 3D NAND analog IMC; defect-aware chiplet matching for HI yield; HBF latency reduction for GPU systems; backside clock meshes for BSPDN; LLM-agent verification for post-quantum HW; self-supervised CMP virtual metrology; e-beam stitching losses in SOI waveguides.",
-        "why_it_matters": "",
-        "link": "https://semiengineering.com/chip-industry-technical-paper-roundup-nov-25-2/",
-        "source": "SemiEngineering",
-        "type": "news",
-        "sector": "Semiconductors",
-        "published": "2026-11-25T08:01:01Z",
-        "first_seen": "2026-11-25T10:45:16Z",
-        "importance": null,
-        "score": 3.263,
+        "score": 3.047,
         "summary_source": "feed",
         "related": []
       }
@@ -368,7 +368,7 @@
         "published": "2026-11-24T23:05:25Z",
         "first_seen": "2026-11-25T02:45:47Z",
         "importance": null,
-        "score": 2.747,
+        "score": 2.539,
         "summary_source": "feed",
         "related": []
       },
@@ -384,7 +384,7 @@
         "published": "2026-11-24T18:02:01Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 2.493,
+        "score": 2.304,
         "summary_source": "feed",
         "related": []
       },
@@ -400,7 +400,7 @@
         "published": "2026-11-24T17:46:04Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 2.48,
+        "score": 2.292,
         "summary_source": "feed",
         "related": []
       },
@@ -416,7 +416,7 @@
         "published": "2026-11-24T17:34:20Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 2.471,
+        "score": 2.283,
         "summary_source": "feed",
         "related": []
       },
@@ -432,7 +432,7 @@
         "published": "2026-11-24T17:27:45Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 2.465,
+        "score": 2.279,
         "summary_source": "feed",
         "related": []
       },
@@ -448,7 +448,7 @@
         "published": "2026-11-25T05:00:00Z",
         "first_seen": "2026-11-25T06:50:33Z",
         "importance": null,
-        "score": 1.847,
+        "score": 1.707,
         "summary_source": "feed",
         "related": []
       },
@@ -464,7 +464,7 @@
         "published": "2026-11-25T05:00:00Z",
         "first_seen": "2026-11-25T06:50:33Z",
         "importance": null,
-        "score": 1.847,
+        "score": 1.707,
         "summary_source": "feed",
         "related": []
       },
@@ -480,12 +480,60 @@
         "published": "2026-11-25T05:00:00Z",
         "first_seen": "2026-11-25T06:50:33Z",
         "importance": null,
-        "score": 1.847,
+        "score": 1.707,
         "summary_source": "feed",
         "related": []
       }
     ],
     "CyberSecurity": [
+      {
+        "id": "a2d94c5b8b57",
+        "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+        "summary": "Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet.",
+        "why_it_matters": "",
+        "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
+        "source": "BleepingComputer",
+        "type": "news",
+        "sector": "CyberSecurity",
+        "published": "2026-11-25T22:05:09Z",
+        "first_seen": "2026-11-25T22:41:18Z",
+        "importance": null,
+        "score": 3.954,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "379ef4cd5141",
+        "title": "1Password customer data stolen after employee GitHub account breach",
+        "summary": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data.",
+        "why_it_matters": "",
+        "link": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
+        "source": "BleepingComputer",
+        "type": "news",
+        "sector": "CyberSecurity",
+        "published": "2026-11-25T21:33:33Z",
+        "first_seen": "2026-11-25T22:41:18Z",
+        "importance": null,
+        "score": 3.914,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "ae39e9b1225c",
+        "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+        "summary": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector.",
+        "why_it_matters": "",
+        "link": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
+        "source": "BleepingComputer",
+        "type": "news",
+        "sector": "CyberSecurity",
+        "published": "2026-11-25T19:39:31Z",
+        "first_seen": "2026-11-25T22:41:18Z",
+        "importance": null,
+        "score": 3.773,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "8f8a46983c0a",
         "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
@@ -498,7 +546,7 @@
         "published": "2026-11-25T16:13:40Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 3.822,
+        "score": 3.532,
         "summary_source": "feed",
         "related": []
       },
@@ -514,7 +562,7 @@
         "published": "2026-11-25T15:00:10Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 3.732,
+        "score": 3.45,
         "summary_source": "feed",
         "related": []
       },
@@ -530,7 +578,7 @@
         "published": "2026-11-25T15:00:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 3.732,
+        "score": 3.45,
         "summary_source": "feed",
         "related": []
       },
@@ -546,7 +594,7 @@
         "published": "2026-11-25T12:07:21Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 3.531,
+        "score": 3.264,
         "summary_source": "feed",
         "related": []
       },
@@ -562,55 +610,7 @@
         "published": "2026-11-25T11:16:32Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 3.474,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "7765cecc931d",
-        "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
-        "summary": "The Drupal security team has confirmed that a critical vulnerability that lets attackers hijack unpatched sites has been actively exploited since at least Thursday.",
-        "why_it_matters": "",
-        "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
-        "source": "BleepingComputer",
-        "type": "news",
-        "sector": "CyberSecurity",
-        "published": "2026-11-25T10:10:20Z",
-        "first_seen": "2026-11-25T10:45:16Z",
-        "importance": null,
-        "score": 3.401,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "a0220630fa0b",
-        "title": "Microsoft confirms authentication issues after November updates",
-        "summary": "Microsoft has confirmed that customers may experience authentication issues after installing November security updates that address a high-severity remote code execution vulnerability.",
-        "why_it_matters": "",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/",
-        "source": "BleepingComputer",
-        "type": "news",
-        "sector": "CyberSecurity",
-        "published": "2026-11-25T09:02:57Z",
-        "first_seen": "2026-11-25T10:45:16Z",
-        "importance": null,
-        "score": 3.328,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "78f37dfb44c9",
-        "title": "Hackers reportedly breached CIA intelligence analysis system",
-        "summary": "Unknown attackers have reportedly breached an open-source intelligence analysis system at the US Central Intelligence Agency (CIA)",
-        "why_it_matters": "",
-        "link": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
-        "source": "BleepingComputer",
-        "type": "news",
-        "sector": "CyberSecurity",
-        "published": "2026-11-25T07:45:03Z",
-        "first_seen": "2026-11-25T10:45:16Z",
-        "importance": null,
-        "score": 3.246,
+        "score": 3.211,
         "summary_source": "feed",
         "related": []
       }
@@ -628,7 +628,7 @@
         "published": "2026-11-24T15:17:50Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 2.365,
+        "score": 2.186,
         "summary_source": "feed",
         "related": []
       },
@@ -644,7 +644,7 @@
         "published": "2026-11-19T17:25:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.244,
+        "score": 0.226,
         "summary_source": "feed",
         "related": []
       },
@@ -660,7 +660,7 @@
         "published": "2026-11-19T15:38:18Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.236,
+        "score": 0.218,
         "summary_source": "feed",
         "related": []
       },
@@ -676,7 +676,7 @@
         "published": "2026-11-18T22:02:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.168,
+        "score": 0.156,
         "summary_source": "feed",
         "related": []
       },
@@ -692,12 +692,60 @@
         "published": "2026-11-18T20:31:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.163,
+        "score": 0.151,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Renewables": [
+      {
+        "id": "198e36a9a73b",
+        "title": "New Trump Tariffs — Nice",
+        "summary": "Following an election in which voters responded in historic fashion to rising prices — due mostly to Trump’s tariffs and Trump’s war on Iran — President Donald Trump has decided to jack up prices even further by launching a series of new tariffs.",
+        "why_it_matters": "",
+        "link": "https://cleantechnica.com/2026/11/25/new-trump-tariffs-nice/",
+        "source": "CleanTechnica",
+        "type": "news",
+        "sector": "Renewables",
+        "published": "2026-11-25T22:27:02Z",
+        "first_seen": "2026-11-25T22:41:18Z",
+        "importance": null,
+        "score": 3.982,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "fcbfa024d0ff",
+        "title": "Joint Letter on the Revision of the CO₂ Emission Standards for Cars & Vans",
+        "summary": "Counting combustion vehicles as clean would blur the market signal and bring back the very uncertainty that carmakers, suppliers, and investors cannot afford. Manufacturers could meet their targets without selling a single electric car.",
+        "why_it_matters": "",
+        "link": "https://cleantechnica.com/2026/11/25/joint-letter-on-the-revision-of-the-co%e2%82%82-emission-standards-for-cars-vans/",
+        "source": "CleanTechnica",
+        "type": "news",
+        "sector": "Renewables",
+        "published": "2026-11-25T20:11:12Z",
+        "first_seen": "2026-11-25T22:41:18Z",
+        "importance": null,
+        "score": 3.812,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "e02e8b3bff4c",
+        "title": "Hyundai IONIQ 3 Crowned Small Car of the Year at the TopGear.com Awards 2027",
+        "summary": "IONIQ 3 receives recognition from one of the UK’s leading automotive publications shortly after its market launch Top Gear’s editorial team praises IONIQ 3 for its value for money, clever packaging, distinctive design, boot space and driving manners The award follows INSTER’s…",
+        "why_it_matters": "",
+        "link": "https://cleantechnica.com/2026/11/25/hyundai-ioniq-3-crowned-small-car-of-the-year-at-the-topgear-com-awards-2027/",
+        "source": "CleanTechnica",
+        "type": "news",
+        "sector": "Renewables",
+        "published": "2026-11-25T18:48:18Z",
+        "first_seen": "2026-11-25T22:41:18Z",
+        "importance": null,
+        "score": 3.712,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "7aceccd10629",
         "title": "Europe’s Inland Shipping Models Underprice Green Fuels. Market Prices Favor Battery Swapping.",
@@ -710,7 +758,7 @@
         "published": "2026-11-25T17:33:56Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 3.921,
+        "score": 3.624,
         "summary_source": "feed",
         "related": []
       },
@@ -726,7 +774,7 @@
         "published": "2026-11-25T17:26:14Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 3.912,
+        "score": 3.615,
         "summary_source": "feed",
         "related": []
       },
@@ -742,7 +790,7 @@
         "published": "2026-11-25T14:17:51Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 3.682,
+        "score": 3.403,
         "summary_source": "feed",
         "related": []
       },
@@ -758,7 +806,7 @@
         "published": "2026-11-25T13:58:09Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 3.659,
+        "score": 3.382,
         "summary_source": "feed",
         "related": []
       },
@@ -774,55 +822,7 @@
         "published": "2026-11-25T02:57:42Z",
         "first_seen": "2026-11-25T06:50:33Z",
         "importance": null,
-        "score": 2.96,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "38f8eca03d41",
-        "title": "Changing of the Guard: Chinese Automakers Overtake Japanese in 6 More Markets",
-        "summary": "There are various opinions on the Chinese auto market, as shown recently in discussions under this article, but no matter what your opinion is on the Chinese economy and auto market, you have to recognize that Chinese automakers — driven by their electric leaders — are gaining…",
-        "why_it_matters": "",
-        "link": "https://cleantechnica.com/2026/11/24/changing-of-the-guard-chinese-automakers-overtake-japanese-in-6-more-markets/",
-        "source": "CleanTechnica",
-        "type": "news",
-        "sector": "Renewables",
-        "published": "2026-11-25T00:57:50Z",
-        "first_seen": "2026-11-25T02:45:47Z",
-        "importance": null,
-        "score": 2.848,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "4e5e6e072f95",
-        "title": "The True Cost of In-Port Emissions",
-        "summary": "How current shore power rules cost hundreds of millions every year in health and climate damages. Air pollution and climate emissions from ships at berth impose a heavy and unaddressed burden on European port communities and local economies.",
-        "why_it_matters": "",
-        "link": "https://cleantechnica.com/2026/11/24/the-true-cost-of-in-port-emissions/",
-        "source": "CleanTechnica",
-        "type": "news",
-        "sector": "Renewables",
-        "published": "2026-11-24T23:59:39Z",
-        "first_seen": "2026-11-25T02:45:47Z",
-        "importance": null,
-        "score": 2.796,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "4dc41d49267c",
-        "title": "Digital Outages Are Rampant All Across America. Is AI to blame?",
-        "summary": "Coincidence is not causation, and yet the urge to ascribe causative power to random events is a typically human characteristic. Take the case of the man who snaps his fingers every five minutes.",
-        "why_it_matters": "",
-        "link": "https://cleantechnica.com/2026/11/24/digital-outages-are-rampant-all-across-america-is-ai-to-blame/",
-        "source": "CleanTechnica",
-        "type": "news",
-        "sector": "Renewables",
-        "published": "2026-11-24T22:25:39Z",
-        "first_seen": "2026-11-24T22:43:19Z",
-        "importance": null,
-        "score": 2.713,
+        "score": 2.736,
         "summary_source": "feed",
         "related": []
       }
@@ -840,7 +840,7 @@
         "published": "2026-11-25T16:09:13Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 3.816,
+        "score": 3.527,
         "summary_source": "feed",
         "related": []
       },
@@ -856,7 +856,7 @@
         "published": "2026-11-25T14:36:37Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 3.704,
+        "score": 3.424,
         "summary_source": "feed",
         "related": []
       },
@@ -872,7 +872,7 @@
         "published": "2026-11-25T14:13:13Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 3.677,
+        "score": 3.398,
         "summary_source": "feed",
         "related": []
       },
@@ -888,7 +888,7 @@
         "published": "2026-11-25T13:12:33Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 3.606,
+        "score": 3.333,
         "summary_source": "feed",
         "related": []
       },
@@ -904,7 +904,7 @@
         "published": "2026-11-25T12:42:38Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 3.571,
+        "score": 3.301,
         "summary_source": "feed",
         "related": []
       },
@@ -920,7 +920,7 @@
         "published": "2026-11-25T09:19:04Z",
         "first_seen": "2026-11-25T10:45:16Z",
         "importance": null,
-        "score": 3.345,
+        "score": 3.092,
         "summary_source": "feed",
         "related": []
       },
@@ -936,7 +936,7 @@
         "published": "2026-11-24T17:06:20Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 2.448,
+        "score": 2.263,
         "summary_source": "feed",
         "related": []
       },
@@ -952,7 +952,7 @@
         "published": "2026-11-24T12:42:40Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 2.25,
+        "score": 2.079,
         "summary_source": "feed",
         "related": []
       }
@@ -970,7 +970,7 @@
         "published": "2026-11-25T14:53:24Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 3.724,
+        "score": 3.442,
         "summary_source": "feed",
         "related": []
       },
@@ -986,7 +986,7 @@
         "published": "2026-11-25T14:00:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 3.661,
+        "score": 3.384,
         "summary_source": "feed",
         "related": []
       },
@@ -1002,7 +1002,7 @@
         "published": "2026-11-24T16:28:23Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 2.419,
+        "score": 2.236,
         "summary_source": "feed",
         "related": []
       },
@@ -1018,7 +1018,7 @@
         "published": "2026-11-24T15:35:48Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 2.378,
+        "score": 2.198,
         "summary_source": "feed",
         "related": []
       },
@@ -1034,7 +1034,7 @@
         "published": "2026-11-24T15:28:00Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 2.372,
+        "score": 2.193,
         "summary_source": "feed",
         "related": []
       },
@@ -1050,7 +1050,7 @@
         "published": "2026-11-23T16:28:15Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 1.524,
+        "score": 1.408,
         "summary_source": "feed",
         "related": []
       },
@@ -1066,7 +1066,7 @@
         "published": "2026-11-23T15:00:00Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 1.481,
+        "score": 1.369,
         "summary_source": "feed",
         "related": []
       },
@@ -1082,12 +1082,44 @@
         "published": "2026-11-20T16:46:43Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.383,
+        "score": 0.354,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Biotech": [
+      {
+        "id": "e180e0972a0b",
+        "title": "Why Medicare’s 2027 physician pay changes worry some specialists",
+        "summary": "Cuts to Medicare physician payment rates for certain same-day services could impact some specialists more than others.",
+        "why_it_matters": "",
+        "link": "https://www.statnews.com/2026/11/25/medicare-physician-fee-schedule-change-worry-some-specialists/",
+        "source": "STAT",
+        "type": "news",
+        "sector": "Biotech",
+        "published": "2026-11-25T21:28:53Z",
+        "first_seen": "2026-11-25T22:41:18Z",
+        "importance": null,
+        "score": 3.908,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "e6817d552b7d",
+        "title": "STAT+: FDA approves Cogent’s drug for rare stomach cancer",
+        "summary": "Cogent Biosciences won FDA clearance for its stomach cancer treatment, in combination with a much older drug from Pfizer called Sutent.",
+        "why_it_matters": "",
+        "link": "https://www.statnews.com/2026/11/25/biotech-news-fda-approves-cogents-drug-for-rare-stomach-cancer/",
+        "source": "STAT",
+        "type": "news",
+        "sector": "Biotech",
+        "published": "2026-11-25T20:44:15Z",
+        "first_seen": "2026-11-25T22:41:18Z",
+        "importance": null,
+        "score": 3.853,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "dbf54ba40443",
         "title": "Bayer becomes latest Big Pharma to head to Hansoh in $3.3B deal for phase 1 ADC",
@@ -1100,7 +1132,7 @@
         "published": null,
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 4.0,
+        "score": 3.697,
         "summary_source": "feed",
         "related": []
       },
@@ -1116,7 +1148,7 @@
         "published": null,
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 4.0,
+        "score": 3.697,
         "summary_source": "feed",
         "related": []
       },
@@ -1132,7 +1164,7 @@
         "published": null,
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 3.721,
+        "score": 3.439,
         "summary_source": "feed",
         "related": []
       },
@@ -1148,7 +1180,7 @@
         "published": null,
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 3.721,
+        "score": 3.439,
         "summary_source": "feed",
         "related": []
       },
@@ -1164,7 +1196,7 @@
         "published": "2026-11-25T13:55:58Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 3.656,
+        "score": 3.379,
         "summary_source": "feed",
         "related": []
       },
@@ -1180,44 +1212,28 @@
         "published": "2026-11-25T13:03:56Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 3.596,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "6d3d34a4a5ce",
-        "title": "‘The potential is there’: BetterLife’s LSD cousin mirrors neuroplasticity in mice without the hallucinations",
-        "summary": "With the boom in researching psychedelics for the treatment of neurological conditions, scientists have begun to explore ways to alter these drugs to remove the hallucinogenic effects while salvaging the neuroplastic tendencies of these drugs.",
-        "why_it_matters": "",
-        "link": "https://www.fiercebiotech.com/research/betterlifes-lsd-cousin-mirrors-neuroplasticity-without-hallucinations-mice",
-        "source": "Fierce Biotech",
-        "type": "news",
-        "sector": "Biotech",
-        "published": null,
-        "first_seen": "2026-11-25T10:45:16Z",
-        "importance": null,
-        "score": 3.439,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "9fd10ada3f0c",
-        "title": "Thermo Fisher Scientific nabs FDA expanded use clearance for EXENT analyser system",
-        "summary": "Thermo Fisher Scientific announced FDA clearance for expanded intended use of its EXENT Analyser with the EXENT GAM Assay.",
-        "why_it_matters": "",
-        "link": "https://www.fiercebiotech.com/medtech/thermo-fisher-scientific-nabs-fda-expanded-use-clearance-exent-analyser-system",
-        "source": "Fierce Biotech",
-        "type": "news",
-        "sector": "Biotech",
-        "published": null,
-        "first_seen": "2026-11-25T10:45:16Z",
-        "importance": null,
-        "score": 3.439,
+        "score": 3.323,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Telecommunications": [
+      {
+        "id": "56f59ae57daf",
+        "title": "SpaceX OK'd to deploy up to 1M AI satellites, complete constellation by 2040",
+        "summary": "The FCC has authorized SpaceX's plan to deploy up to 1 million 'Starmind' AI satellites, with deployment milestones running through 2040. The constellation aims tap into power, space and cooling not readily available on Earth.",
+        "why_it_matters": "",
+        "link": "https://www.lightreading.com/satellite/spacex-ok-d-to-deploy-up-to-1m-ai-satellites-complete-constellation-by-2040",
+        "source": "Light Reading",
+        "type": "news",
+        "sector": "Telecommunications",
+        "published": "2026-11-25T18:58:25Z",
+        "first_seen": "2026-11-25T22:41:18Z",
+        "importance": null,
+        "score": 3.724,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "ffc52adabd49",
         "title": "FCC greenlights SpaceX plan to deploy up to 1M AI satellites",
@@ -1230,7 +1246,7 @@
         "published": "2026-11-25T16:58:07Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 3.876,
+        "score": 3.583,
         "summary_source": "feed",
         "related": []
       },
@@ -1246,7 +1262,7 @@
         "published": "2026-11-25T15:00:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 3.732,
+        "score": 3.45,
         "summary_source": "feed",
         "related": []
       },
@@ -1262,7 +1278,7 @@
         "published": "2026-11-25T14:00:00Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 3.661,
+        "score": 3.384,
         "summary_source": "feed",
         "related": []
       },
@@ -1278,7 +1294,7 @@
         "published": "2026-11-25T12:55:29Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 3.586,
+        "score": 3.314,
         "summary_source": "feed",
         "related": []
       },
@@ -1294,7 +1310,7 @@
         "published": "2026-11-25T11:14:49Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 3.472,
+        "score": 3.209,
         "summary_source": "feed",
         "related": []
       },
@@ -1310,7 +1326,7 @@
         "published": "2026-11-25T08:30:00Z",
         "first_seen": "2026-11-25T10:45:16Z",
         "importance": null,
-        "score": 3.293,
+        "score": 3.044,
         "summary_source": "feed",
         "related": []
       },
@@ -1326,28 +1342,28 @@
         "published": "2026-11-24T19:58:39Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 2.588,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "a3a065f09681",
-        "title": "AT&T calls HFC 'old-fashioned' as legal slugfest with Spectrum continues",
-        "summary": "AT&T is labeling Charter's HFC network 'old-fashioned copper' in its latest court filing, part of an escalating legal battle over cable's use of 'fiber-powered' marketing that AT&T claims misleads broadband customers.",
-        "why_it_matters": "",
-        "link": "https://www.lightreading.com/broadband/at-t-calls-hfc-old-fashioned-as-legal-slugfest-with-spectrum-continues",
-        "source": "Light Reading",
-        "type": "news",
-        "sector": "Telecommunications",
-        "published": "2026-11-24T14:00:00Z",
-        "first_seen": "2026-11-24T14:47:20Z",
-        "importance": null,
-        "score": 2.306,
+        "score": 2.392,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Robotics": [
+      {
+        "id": "218eeae16c17",
+        "title": "How Vention is cutting factory programming from weeks to minutes",
+        "summary": "Etienne Lacroix explains why AI deployment—not just better models—will define the future of industrial automation.",
+        "why_it_matters": "",
+        "link": "https://www.therobotreport.com/how-vention-is-cutting-factory-programming-from-weeks-to-minutes/",
+        "source": "The Robot Report",
+        "type": "news",
+        "sector": "Robotics",
+        "published": "2026-11-25T18:24:42Z",
+        "first_seen": "2026-11-25T22:41:18Z",
+        "importance": null,
+        "score": 3.684,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "2939245102eb",
         "title": "FCC should focus on robot security, not country of origin",
@@ -1360,7 +1376,7 @@
         "published": "2026-11-25T17:00:07Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 3.879,
+        "score": 3.585,
         "summary_source": "feed",
         "related": []
       },
@@ -1376,7 +1392,7 @@
         "published": "2026-11-25T15:00:03Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 3.732,
+        "score": 3.45,
         "summary_source": "feed",
         "related": []
       },
@@ -1392,7 +1408,7 @@
         "published": "2026-11-24T18:03:37Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 2.494,
+        "score": 2.305,
         "summary_source": "feed",
         "related": []
       },
@@ -1408,7 +1424,7 @@
         "published": "2026-11-24T14:48:57Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 2.343,
+        "score": 2.165,
         "summary_source": "feed",
         "related": []
       },
@@ -1424,7 +1440,7 @@
         "published": "2026-11-23T20:29:55Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 1.647,
+        "score": 1.522,
         "summary_source": "feed",
         "related": []
       },
@@ -1440,7 +1456,7 @@
         "published": "2026-11-25T05:00:00Z",
         "first_seen": "2026-11-25T06:50:33Z",
         "importance": null,
-        "score": 1.539,
+        "score": 1.423,
         "summary_source": "feed",
         "related": []
       },
@@ -1456,23 +1472,7 @@
         "published": "2026-11-25T05:00:00Z",
         "first_seen": "2026-11-25T06:50:33Z",
         "importance": null,
-        "score": 1.539,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "af572237bc0b",
-        "title": "Special Report: Engineering Focus on Motion Control",
-        "summary": "The Robot Report looks at recent advances in automation for manufacturing, from improvements in technologies and use cases to the potential of humanoids and AI.",
-        "why_it_matters": "",
-        "link": "https://www.therobotreport.com/special-report-engineering-focus-on-motion-control/",
-        "source": "The Robot Report",
-        "type": "news",
-        "sector": "Robotics",
-        "published": "2026-11-23T15:16:26Z",
-        "first_seen": "2026-11-23T18:41:58Z",
-        "importance": null,
-        "score": 1.489,
+        "score": 1.423,
         "summary_source": "feed",
         "related": []
       }
@@ -1490,7 +1490,7 @@
         "published": "2026-11-25T18:26:19Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 3.988,
+        "score": 3.686,
         "summary_source": "feed",
         "related": []
       },
@@ -1506,7 +1506,7 @@
         "published": "2026-11-24T22:35:05Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 2.721,
+        "score": 2.515,
         "summary_source": "feed",
         "related": []
       },
@@ -1522,7 +1522,7 @@
         "published": "2026-11-24T19:43:49Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 2.575,
+        "score": 2.38,
         "summary_source": "feed",
         "related": []
       },
@@ -1538,7 +1538,7 @@
         "published": "2026-11-20T21:52:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.423,
+        "score": 0.391,
         "summary_source": "feed",
         "related": []
       },
@@ -1554,7 +1554,7 @@
         "published": "2026-11-19T23:30:50Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.275,
+        "score": 0.254,
         "summary_source": "feed",
         "related": []
       },
@@ -1570,7 +1570,7 @@
         "published": "2026-11-18T19:52:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.161,
+        "score": 0.149,
         "summary_source": "feed",
         "related": []
       },
@@ -1586,7 +1586,7 @@
         "published": "2026-11-18T15:10:53Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.147,
+        "score": 0.136,
         "summary_source": "feed",
         "related": []
       }
@@ -1604,7 +1604,7 @@
         "published": "2026-11-25T12:00:49Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 3.524,
+        "score": 3.257,
         "summary_source": "feed",
         "related": []
       },
@@ -1620,7 +1620,7 @@
         "published": "2026-11-25T12:00:09Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 3.523,
+        "score": 3.256,
         "summary_source": "feed",
         "related": []
       },
@@ -1636,7 +1636,7 @@
         "published": "2026-11-24T18:30:42Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 2.516,
+        "score": 2.325,
         "summary_source": "feed",
         "related": []
       },
@@ -1652,7 +1652,7 @@
         "published": "2026-11-24T12:00:48Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 2.22,
+        "score": 2.052,
         "summary_source": "feed",
         "related": []
       },
@@ -1668,7 +1668,7 @@
         "published": "2026-11-24T12:00:21Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 2.219,
+        "score": 2.051,
         "summary_source": "feed",
         "related": []
       },
@@ -1684,7 +1684,7 @@
         "published": "2026-11-23T12:00:19Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 1.398,
+        "score": 1.292,
         "summary_source": "feed",
         "related": []
       },
@@ -1700,7 +1700,7 @@
         "published": "2026-11-23T01:25:53Z",
         "first_seen": "2026-11-23T02:44:14Z",
         "importance": null,
-        "score": 1.141,
+        "score": 1.054,
         "summary_source": "feed",
         "related": []
       },
@@ -1716,7 +1716,7 @@
         "published": "2026-11-20T20:15:54Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.41,
+        "score": 0.379,
         "summary_source": "feed",
         "related": []
       }
@@ -1734,7 +1734,7 @@
         "published": "2026-11-25T17:00:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 3.879,
+        "score": 3.585,
         "summary_source": "feed",
         "related": []
       },
@@ -1750,7 +1750,7 @@
         "published": "2026-11-25T16:00:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 3.805,
+        "score": 3.517,
         "summary_source": "feed",
         "related": []
       },
@@ -1766,7 +1766,7 @@
         "published": "2026-11-25T15:59:41Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 3.804,
+        "score": 3.516,
         "summary_source": "none",
         "related": []
       },
@@ -1782,7 +1782,7 @@
         "published": "2026-11-25T15:29:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 3.767,
+        "score": 3.482,
         "summary_source": "feed",
         "related": []
       },
@@ -1798,7 +1798,7 @@
         "published": "2026-11-25T15:00:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 3.732,
+        "score": 3.45,
         "summary_source": "feed",
         "related": []
       },
@@ -1814,7 +1814,7 @@
         "published": "2026-11-25T14:44:00Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 3.713,
+        "score": 3.432,
         "summary_source": "feed",
         "related": []
       },
@@ -1830,7 +1830,7 @@
         "published": "2026-11-25T13:57:00Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 3.658,
+        "score": 3.381,
         "summary_source": "feed",
         "related": []
       },
@@ -1846,12 +1846,108 @@
         "published": "2026-11-25T11:00:00Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 3.456,
+        "score": 3.194,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Breaking": [
+      {
+        "id": "a963d7a7388b",
+        "title": "Sources: US chip curbs stall billions in data center loans tied to ByteDance, Alibaba, and Tencent, with some lenders delaying a $6.6B Bridge Data Centres loan (Bloomberg)",
+        "summary": "Bloomberg : Sources: US chip curbs stall billions in data center loans tied to ByteDance, Alibaba, and Tencent, with some lenders delaying a $6.6B Bridge Data Centres loan — Lenders have hit the brakes on billions of dollars in loans tied to Chinese firms ByteDance, Alibaba and…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261125/p38",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-25T22:05:01Z",
+        "first_seen": "2026-11-25T22:41:18Z",
+        "importance": null,
+        "score": 3.558,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "b734a04e14c9",
+        "title": "NY Gov. Kathy Hochul signs a bill banning AI chatbot toys for five years, starting in February; California Gov. Gavin Newsom signed a four-year ban in September (NBC News)",
+        "summary": "NBC News : NY Gov. Kathy Hochul signs a bill banning AI chatbot toys for five years, starting in February; California Gov.",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261125/p37",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-25T21:30:02Z",
+        "first_seen": "2026-11-25T22:41:18Z",
+        "importance": null,
+        "score": 3.519,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "f8ca4a2884c7",
+        "title": "Nvidia agrees to pay $290M to settle a 2018 class action lawsuit alleging it misled shareholders about how much crypto mining fueled its GPU sales (Mike Scarcella/Reuters)",
+        "summary": "Mike Scarcella / Reuters : Nvidia agrees to pay $290M to settle a 2018 class action lawsuit alleging it misled shareholders about how much crypto mining fueled its GPU sales — Nvidia (NVDA.O) has agreed to pay $290 million to settle a long-running investor lawsuit alleging the…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261125/p36",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-25T21:15:01Z",
+        "first_seen": "2026-11-25T22:41:18Z",
+        "importance": null,
+        "score": 3.502,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "dce392db4613",
+        "title": "Sources: the DOJ didn't formally investigate Jensen Huang before his reinstatement; AG Todd Blanche cleared him based on probes into Super Micro and Megaspeed (Reuters)",
+        "summary": "Reuters : Sources: the DOJ didn't formally investigate Jensen Huang before his reinstatement; AG Todd Blanche cleared him based on probes into Super Micro and Megaspeed — The US Justice Department did not conduct a formal investigation into Jensen Huang before US President…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261125/p35",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-25T21:01:00Z",
+        "first_seen": "2026-11-25T22:41:18Z",
+        "importance": null,
+        "score": 3.486,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "c5c294fad766",
+        "title": "WhatsApp starts letting users schedule messages from 10 minutes to 14 days in advance, in group and individual chats; messages are sent even if the phone is off (Ivan Mehta/TechCrunch)",
+        "summary": "Ivan Mehta / TechCrunch : WhatsApp starts letting users schedule messages from 10 minutes to 14 days in advance, in group and individual chats; messages are sent even if the phone is off — WhatsApp on Wednesday started rolling out a much-sought-after feature: the ability to…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261125/p34",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-25T20:50:02Z",
+        "first_seen": "2026-11-25T22:41:18Z",
+        "importance": null,
+        "score": 3.474,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "5f34e49e2615",
+        "title": "Sources: a16z is in talks to raise ~$20B across its next set of funds; its last set, announced in January at $15B+, later grew to $20B+ with three add-ons (Lucinda Shen/Axios)",
+        "summary": "Lucinda Shen / Axios : Sources: a16z is in talks to raise ~$20B across its next set of funds; its last set, announced in January at $15B+, later grew to $20B+ with three add-ons — Venture capital firm Andreessen Horowitz is in talks to raise about $20 billion across its next set…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261125/p33",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-25T20:30:00Z",
+        "first_seen": "2026-11-25T22:41:18Z",
+        "importance": null,
+        "score": 3.451,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "c42b491df91f",
         "title": "Sources: an unusually high volume of Nvidia GPUs, including thousands of B300s, hit the market after the US curbed Chinese companies' remote access to AI chips (Kai Nicol-Schwarz/CNBC)",
@@ -1864,7 +1960,7 @@
         "published": "2026-11-25T18:25:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 3.587,
+        "score": 3.316,
         "summary_source": "feed",
         "related": []
       },
@@ -1880,103 +1976,7 @@
         "published": "2026-11-25T17:45:02Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 3.542,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "94a2b945ebf3",
-        "title": "The US FCC authorizes SpaceX to deploy its \"Starmind\" constellation of 1M satellites for data centers in space (David Shepardson/Reuters)",
-        "summary": "David Shepardson / Reuters : The US FCC authorizes SpaceX to deploy its “Starmind” constellation of 1M satellites for data centers in space — The Federal Communications Commission on Wednesday said it was authorizing Elon Musk's SpaceX (SPCX.O) to deploy 1 million satellites for…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261125/p27",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-25T17:25:01Z",
-        "first_seen": "2026-11-25T18:35:53Z",
-        "importance": null,
-        "score": 3.519,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "7dce2d9da947",
-        "title": "Anthropic details migrating its Messages API, the primary way customers access Claude, from Python to Rust, and using the Python service to verify the migration (Anthropic)",
-        "summary": "Anthropic : Anthropic details migrating its Messages API, the primary way customers access Claude, from Python to Rust, and using the Python service to verify the migration — Sudoku is a classic example.",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261125/p26",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-25T17:05:04Z",
-        "first_seen": "2026-11-25T18:35:53Z",
-        "importance": null,
-        "score": 3.497,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "4620d33b4502",
-        "title": "Sources: US officials told Congressional staffers that there is no evidence MSS directed Alice Huang to spy on Jensen Huang and the affair may have been amorous (Wall Street Journal)",
-        "summary": "Wall Street Journal : Sources: US officials told Congressional staffers that there is no evidence MSS directed Alice Huang to spy on Jensen Huang and the affair may have been amorous — The classified discussion happened just one day after the Trump administration helped…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261125/p25",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-25T15:55:01Z",
-        "first_seen": "2026-11-25T18:35:53Z",
-        "importance": null,
-        "score": 3.419,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "1806f1e65e20",
-        "title": "US tech stocks fall, pushing the Nasdaq 100 down 4%+, as the AI trade continues to unwind; Nvidia and Anthropic fall 9%+, Broadcom drops 7%, and Micron 11% (Financial Times)",
-        "summary": "Financial Times : US tech stocks fall, pushing the Nasdaq 100 down 4%+, as the AI trade continues to unwind; Nvidia and Anthropic fall 9%+, Broadcom drops 7%, and Micron 11% — Tech-heavy Nasdaq 100 falls more than 4% as weeks-long slide continues — A Wall Street sell-off…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261125/p24",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-25T15:10:01Z",
-        "first_seen": "2026-11-25T18:35:53Z",
-        "importance": null,
-        "score": 3.37,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "89e7a3ade745",
-        "title": "Source: President Trump is scheduled to lead a December 4 groundbreaking ceremony for TSMC's Phoenix plant expansion, deepening his chip sector involvement (Bloomberg)",
-        "summary": "Bloomberg : Source: President Trump is scheduled to lead a December 4 groundbreaking ceremony for TSMC's Phoenix plant expansion, deepening his chip sector involvement — President Donald Trump will headline the groundbreaking on a major new semiconductor manufacturing project in…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261125/p23",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-25T14:05:01Z",
-        "first_seen": "2026-11-25T14:50:49Z",
-        "importance": null,
-        "score": 3.3,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "9ac7ba5e5e20",
-        "title": "Tether and Circle freezing $2B+ in crypto after Binance's $6.3B hack shows their centralized control and a shift from Circle's reliance on slow court orders (Bloomberg)",
-        "summary": "Bloomberg : Tether and Circle freezing $2B+ in crypto after Binance's $6.3B hack shows their centralized control and a shift from Circle's reliance on slow court orders — As North Korean cyberthieves were funneling billions out of Binance last month, the world's largest crypto…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261125/p22",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-25T13:35:02Z",
-        "first_seen": "2026-11-25T14:50:49Z",
-        "importance": null,
-        "score": 3.269,
+        "score": 3.273,
         "summary_source": "feed",
         "related": []
       }
@@ -1995,24 +1995,13 @@
       "score": 10.5
     },
     {
-      "term": "changing",
+      "term": "supply",
       "sources": 3,
       "sectors": 3,
       "ids": [
-        "38f8eca03d41",
-        "51b9a6164e73",
-        "e31bb1e971f8"
-      ],
-      "score": 7.5
-    },
-    {
-      "term": "migration",
-      "sources": 3,
-      "sectors": 3,
-      "ids": [
-        "a4cba2c07cd5",
-        "8c9fb7dde123",
-        "7dce2d9da947"
+        "9b1e9b7e390d",
+        "43ebfc7a73ce",
+        "771318f9f9e2"
       ],
       "score": 7.5
     },
@@ -2028,26 +2017,48 @@
       "score": 6.0
     },
     {
-      "term": "issues",
-      "sources": 3,
-      "sectors": 3,
+      "term": "following",
+      "sources": 5,
+      "sectors": 4,
       "ids": [
-        "a0220630fa0b",
-        "b67fffc1fe4d",
-        "764e60f5de2c"
+        "d0b61ae4dc9d",
+        "198e36a9a73b",
+        "8ffb88a3e665"
       ],
       "score": 6.0
     },
     {
-      "term": "down",
-      "sources": 4,
-      "sectors": 4,
+      "term": "provides",
+      "sources": 3,
+      "sectors": 3,
       "ids": [
-        "b609633f56a0",
-        "b97506fd2fc6",
-        "11ba0c1f723b"
+        "43ebfc7a73ce",
+        "f6e3fc96ee8f",
+        "377350f6c786"
       ],
-      "score": 5.33
+      "score": 6.0
+    },
+    {
+      "term": "california",
+      "sources": 3,
+      "sectors": 3,
+      "ids": [
+        "a9462cea7547",
+        "54f6ce63e252",
+        "b734a04e14c9"
+      ],
+      "score": 5.0
+    },
+    {
+      "term": "even",
+      "sources": 3,
+      "sectors": 3,
+      "ids": [
+        "198e36a9a73b",
+        "a347a1b81e41",
+        "c5c294fad766"
+      ],
+      "score": 5.0
     },
     {
       "term": "media",
@@ -2057,17 +2068,6 @@
         "912b4d793154",
         "54f6ce63e252",
         "377350f6c786"
-      ],
-      "score": 5.0
-    },
-    {
-      "term": "reporting",
-      "sources": 3,
-      "sectors": 3,
-      "ids": [
-        "310fbb4be8f8",
-        "b67fffc1fe4d",
-        "8c9fb7dde123"
       ],
       "score": 5.0
     }
@@ -2170,7 +2170,7 @@
         "source": "SpaceNews",
         "url": "https://spacenews.com/feed/",
         "status": "ok",
-        "entries": 4,
+        "entries": 3,
         "error": null
       },
       {
@@ -2290,7 +2290,7 @@
         "source": "TechCrunch Venture",
         "url": "https://techcrunch.com/category/venture/feed/",
         "status": "ok",
-        "entries": 4,
+        "entries": 3,
         "error": null
       },
       {
@@ -2349,7 +2349,7 @@
       "errors": [
         "ANTHROPIC_API_KEY is not set"
       ],
-      "new_items": 35,
+      "new_items": 21,
       "summarised": 0
     }
   },
