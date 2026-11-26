@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "generated_at": "2026-11-26T18:40:13Z",
-  "last_updated": "2026-11-26 18:40 UTC",
+  "generated_at": "2026-11-26T22:41:37Z",
+  "last_updated": "2026-11-26 22:41 UTC",
   "is_sunday_edition": false,
   "priority_sectors": [
     "AI",
@@ -14,6 +14,54 @@
   ],
   "top_stories": [
     {
+      "id": "39e8c1c6d317",
+      "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
+      "summary": "OpenAI confirmed that it fixed a 'bug' that incorrectly discounted GPT-6.2 usage, which means you'll now hit GPT usage limits 40% faster than before.",
+      "why_it_matters": "",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
+      "source": "BleepingComputer",
+      "type": "news",
+      "sector": "CyberSecurity",
+      "published": "2026-11-26T21:06:22Z",
+      "first_seen": "2026-11-26T22:41:37Z",
+      "importance": null,
+      "score": 3.88,
+      "summary_source": "feed",
+      "related": []
+    },
+    {
+      "id": "933c3c7b195e",
+      "title": "Happy Thanksgiving From Guangzhou, Visiting XPENG",
+      "summary": "While many in the US are celebrating Thanksgiving, I am seeing some of the most advanced technology and most impressive EVs in the world. XPENG offered to bring me to see AI day and Auto Guangzhou.",
+      "why_it_matters": "",
+      "link": "https://cleantechnica.com/2026/11/26/happy-thanksgiving-from-guangzhou-visiting-xpeng/",
+      "source": "CleanTechnica",
+      "type": "news",
+      "sector": "Renewables",
+      "published": "2026-11-26T19:42:22Z",
+      "first_seen": "2026-11-26T22:41:37Z",
+      "importance": null,
+      "score": 3.776,
+      "summary_source": "feed",
+      "related": []
+    },
+    {
+      "id": "acf7367547b0",
+      "title": "In a fertility advance, engineered molecular glue stabilizes chromosomes in aging eggs",
+      "summary": "Researchers engineered a protein system capable of restoring normal chromosome connections in aging mouse eggs, raising hopes of one day improving IVF outcomes",
+      "why_it_matters": "",
+      "link": "https://www.statnews.com/2026/11/26/fertility-advance-engineered-protein-stabilizes-chromosomes-in-aging-eggs/",
+      "source": "STAT",
+      "type": "news",
+      "sector": "Biotech",
+      "published": "2026-11-26T19:00:00Z",
+      "first_seen": "2026-11-26T22:41:37Z",
+      "importance": null,
+      "score": 3.725,
+      "summary_source": "feed",
+      "related": []
+    },
+    {
       "id": "db51bc1400fc",
       "title": "Siemens Adds SoC Verification and Software Debug with Two Planned Deals",
       "summary": "The planned Breker and Lauterbach acquisitions would expand Siemens’s development tools, but an analyst expects integration benefits to take time.",
@@ -25,7 +73,7 @@
       "published": "2026-11-26T18:00:00Z",
       "first_seen": "2026-11-26T18:40:13Z",
       "importance": null,
-      "score": 3.949,
+      "score": 3.654,
       "summary_source": "feed",
       "related": []
     },
@@ -41,55 +89,7 @@
       "published": "2026-11-26T17:58:42Z",
       "first_seen": "2026-11-26T18:40:13Z",
       "importance": null,
-      "score": 3.947,
-      "summary_source": "feed",
-      "related": []
-    },
-    {
-      "id": "8bdf200bbb2c",
-      "title": "The ‘bare-knuckled’ future of life in space with Tim Marshall",
-      "summary": "In this episode, Mike Gruss speaks with journalist and best-selling author Tim Marshall. They discuss how the war in Ukraine represented a wakeup call for how Europe and the United",
-      "why_it_matters": "",
-      "link": "https://spacenews.com/the-bare-knuckled-future-of-life-in-space-with-tim-marshall/",
-      "source": "SpaceNews",
-      "type": "news",
-      "sector": "Space",
-      "published": "2026-11-26T17:53:00Z",
-      "first_seen": "2026-11-26T18:40:13Z",
-      "importance": null,
-      "score": 3.94,
-      "summary_source": "feed",
-      "related": []
-    },
-    {
-      "id": "641de05bcef4",
-      "title": "Fake paid expert interviews impersonate brands to steal Google logins",
-      "summary": "An ongoing phishing campaign dubbed \"GoodGuys\" impersonates major brands, including Google, Nvidia, Accenture, and SpaceX, to steal corporate Google and Okta credentials using fake invitations to paid expert interviews and webinars.",
-      "why_it_matters": "",
-      "link": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
-      "source": "BleepingComputer",
-      "type": "news",
-      "sector": "CyberSecurity",
-      "published": "2026-11-26T17:15:27Z",
-      "first_seen": "2026-11-26T18:40:13Z",
-      "importance": null,
-      "score": 3.893,
-      "summary_source": "feed",
-      "related": []
-    },
-    {
-      "id": "c582724d7eaf",
-      "title": "QCon San Francisco 2026: How to Kill the Code Review",
-      "summary": "Ankit Jain of Aviator told QCon San Francisco 2026 that line-by-line code review is already fading, since most review comments concern knowledge sharing rather than defects and over 75% of PRs merge without human review.",
-      "why_it_matters": "",
-      "link": "https://www.infoq.com/news/2026/11/qcon-sf-26-kill-code-review/",
-      "source": "InfoQ",
-      "type": "news",
-      "sector": "Developer Tools",
-      "published": "2026-11-26T17:16:00Z",
-      "first_seen": "2026-11-26T18:40:13Z",
-      "importance": null,
-      "score": 3.893,
+      "score": 3.653,
       "summary_source": "feed",
       "related": []
     }
@@ -108,7 +108,7 @@
         "published": "2026-11-26T11:37:17Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 3.492,
+        "score": 3.232,
         "summary_source": "none",
         "related": []
       },
@@ -124,7 +124,7 @@
         "published": "2026-11-26T05:05:36Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 3.08,
+        "score": 2.85,
         "summary_source": "none",
         "related": []
       },
@@ -140,7 +140,7 @@
         "published": "2026-11-26T00:00:00Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 2.792,
+        "score": 2.584,
         "summary_source": "none",
         "related": []
       },
@@ -156,7 +156,7 @@
         "published": "2026-11-25T18:52:55Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 2.53,
+        "score": 2.342,
         "summary_source": "none",
         "related": []
       },
@@ -172,7 +172,7 @@
         "published": "2026-11-25T10:22:09Z",
         "first_seen": "2026-11-25T10:45:16Z",
         "importance": null,
-        "score": 2.148,
+        "score": 1.988,
         "summary_source": "none",
         "related": []
       },
@@ -188,7 +188,7 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 1.845,
+        "score": 1.707,
         "summary_source": "feed",
         "related": []
       },
@@ -204,7 +204,7 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 1.845,
+        "score": 1.707,
         "summary_source": "feed",
         "related": []
       },
@@ -220,7 +220,7 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 1.845,
+        "score": 1.707,
         "summary_source": "feed",
         "related": []
       }
@@ -238,7 +238,7 @@
         "published": "2026-11-26T18:00:00Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 3.949,
+        "score": 3.654,
         "summary_source": "feed",
         "related": []
       },
@@ -254,7 +254,7 @@
         "published": "2026-11-26T14:00:00Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 3.656,
+        "score": 3.383,
         "summary_source": "feed",
         "related": []
       },
@@ -270,7 +270,7 @@
         "published": "2026-11-26T08:55:48Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 3.316,
+        "score": 3.069,
         "summary_source": "feed",
         "related": []
       },
@@ -286,7 +286,7 @@
         "published": "2026-11-26T08:31:51Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 3.291,
+        "score": 3.045,
         "summary_source": "feed",
         "related": []
       },
@@ -302,7 +302,7 @@
         "published": "2026-11-25T22:02:21Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 2.689,
+        "score": 2.488,
         "summary_source": "feed",
         "related": []
       },
@@ -318,7 +318,7 @@
         "published": "2026-11-25T20:36:47Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 2.616,
+        "score": 2.421,
         "summary_source": "feed",
         "related": []
       },
@@ -334,7 +334,7 @@
         "published": "2026-11-25T18:00:22Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.488,
+        "score": 2.302,
         "summary_source": "feed",
         "related": []
       },
@@ -350,7 +350,7 @@
         "published": "2026-11-25T17:34:58Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.468,
+        "score": 2.284,
         "summary_source": "feed",
         "related": []
       }
@@ -368,7 +368,7 @@
         "published": "2026-11-26T05:14:05Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 3.088,
+        "score": 2.858,
         "summary_source": "feed",
         "related": []
       },
@@ -384,7 +384,7 @@
         "published": "2026-11-26T04:48:05Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 3.063,
+        "score": 2.834,
         "summary_source": "feed",
         "related": []
       },
@@ -400,7 +400,7 @@
         "published": "2026-11-26T04:13:57Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 3.029,
+        "score": 2.803,
         "summary_source": "feed",
         "related": []
       },
@@ -416,7 +416,7 @@
         "published": "2026-11-26T03:58:16Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 3.014,
+        "score": 2.789,
         "summary_source": "feed",
         "related": []
       },
@@ -432,7 +432,7 @@
         "published": "2026-11-26T03:53:09Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 3.009,
+        "score": 2.785,
         "summary_source": "feed",
         "related": []
       },
@@ -448,7 +448,7 @@
         "published": "2026-11-26T02:57:24Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 2.956,
+        "score": 2.735,
         "summary_source": "feed",
         "related": []
       },
@@ -464,7 +464,7 @@
         "published": "2026-11-26T02:18:06Z",
         "first_seen": "2026-11-26T02:44:37Z",
         "importance": null,
-        "score": 2.919,
+        "score": 2.701,
         "summary_source": "feed",
         "related": []
       },
@@ -480,12 +480,28 @@
         "published": "2026-11-26T02:05:25Z",
         "first_seen": "2026-11-26T02:44:37Z",
         "importance": null,
-        "score": 2.907,
+        "score": 2.69,
         "summary_source": "feed",
         "related": []
       }
     ],
     "CyberSecurity": [
+      {
+        "id": "39e8c1c6d317",
+        "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
+        "summary": "OpenAI confirmed that it fixed a 'bug' that incorrectly discounted GPT-6.2 usage, which means you'll now hit GPT usage limits 40% faster than before.",
+        "why_it_matters": "",
+        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
+        "source": "BleepingComputer",
+        "type": "news",
+        "sector": "CyberSecurity",
+        "published": "2026-11-26T21:06:22Z",
+        "first_seen": "2026-11-26T22:41:37Z",
+        "importance": null,
+        "score": 3.88,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "8d97b983aca4",
         "title": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
@@ -498,7 +514,7 @@
         "published": "2026-11-26T17:58:42Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 3.947,
+        "score": 3.653,
         "summary_source": "feed",
         "related": []
       },
@@ -514,7 +530,7 @@
         "published": "2026-11-26T17:15:27Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 3.893,
+        "score": 3.602,
         "summary_source": "feed",
         "related": []
       },
@@ -530,7 +546,7 @@
         "published": "2026-11-26T15:23:28Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 3.755,
+        "score": 3.475,
         "summary_source": "feed",
         "related": []
       },
@@ -546,7 +562,7 @@
         "published": "2026-11-26T11:50:17Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 3.507,
+        "score": 3.246,
         "summary_source": "feed",
         "related": []
       },
@@ -562,7 +578,7 @@
         "published": "2026-11-25T22:05:09Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 2.691,
+        "score": 2.491,
         "summary_source": "feed",
         "related": []
       },
@@ -578,7 +594,7 @@
         "published": "2026-11-25T21:33:33Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 2.664,
+        "score": 2.465,
         "summary_source": "feed",
         "related": []
       },
@@ -594,23 +610,7 @@
         "published": "2026-11-25T19:39:31Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 2.568,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "8f8a46983c0a",
-        "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
-        "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning about a critical vulnerability in Danfoss AK-SM 8xxA Series controllers used by food retailers to manage commercial refrigeration, HVAC, and lighting systems.",
-        "why_it_matters": "",
-        "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
-        "source": "BleepingComputer",
-        "type": "news",
-        "sector": "CyberSecurity",
-        "published": "2026-11-25T16:13:40Z",
-        "first_seen": "2026-11-25T18:35:53Z",
-        "importance": null,
-        "score": 2.404,
+        "score": 2.377,
         "summary_source": "feed",
         "related": []
       }
@@ -628,7 +628,7 @@
         "published": "2026-11-26T17:53:00Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 3.94,
+        "score": 3.646,
         "summary_source": "feed",
         "related": []
       },
@@ -644,7 +644,7 @@
         "published": "2026-11-24T15:17:50Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.488,
+        "score": 1.377,
         "summary_source": "feed",
         "related": []
       },
@@ -660,7 +660,7 @@
         "published": "2026-11-19T17:25:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.154,
+        "score": 0.142,
         "summary_source": "feed",
         "related": []
       },
@@ -676,7 +676,7 @@
         "published": "2026-11-19T15:38:18Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.149,
+        "score": 0.137,
         "summary_source": "feed",
         "related": []
       },
@@ -692,7 +692,7 @@
         "published": "2026-11-18T22:02:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.106,
+        "score": 0.098,
         "summary_source": "feed",
         "related": []
       },
@@ -708,12 +708,28 @@
         "published": "2026-11-18T20:31:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.103,
+        "score": 0.095,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Renewables": [
+      {
+        "id": "933c3c7b195e",
+        "title": "Happy Thanksgiving From Guangzhou, Visiting XPENG",
+        "summary": "While many in the US are celebrating Thanksgiving, I am seeing some of the most advanced technology and most impressive EVs in the world. XPENG offered to bring me to see AI day and Auto Guangzhou.",
+        "why_it_matters": "",
+        "link": "https://cleantechnica.com/2026/11/26/happy-thanksgiving-from-guangzhou-visiting-xpeng/",
+        "source": "CleanTechnica",
+        "type": "news",
+        "sector": "Renewables",
+        "published": "2026-11-26T19:42:22Z",
+        "first_seen": "2026-11-26T22:41:37Z",
+        "importance": null,
+        "score": 3.776,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "29f4df987a53",
         "title": "Seabed Mining Has a Refinery Problem Worth Billions",
@@ -726,7 +742,7 @@
         "published": "2026-11-26T16:55:51Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 3.868,
+        "score": 3.58,
         "summary_source": "feed",
         "related": []
       },
@@ -742,7 +758,7 @@
         "published": "2026-11-26T14:49:46Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 3.715,
+        "score": 3.438,
         "summary_source": "feed",
         "related": []
       },
@@ -758,7 +774,7 @@
         "published": "2026-11-26T00:41:15Z",
         "first_seen": "2026-11-26T02:44:37Z",
         "importance": null,
-        "score": 2.829,
+        "score": 2.618,
         "summary_source": "feed",
         "related": []
       },
@@ -774,7 +790,7 @@
         "published": "2026-11-26T00:03:28Z",
         "first_seen": "2026-11-26T02:44:37Z",
         "importance": null,
-        "score": 2.795,
+        "score": 2.587,
         "summary_source": "feed",
         "related": []
       },
@@ -790,7 +806,7 @@
         "published": "2026-11-25T23:51:55Z",
         "first_seen": "2026-11-26T02:44:37Z",
         "importance": null,
-        "score": 2.785,
+        "score": 2.577,
         "summary_source": "feed",
         "related": []
       },
@@ -806,7 +822,7 @@
         "published": "2026-11-25T23:20:05Z",
         "first_seen": "2026-11-26T02:44:37Z",
         "importance": null,
-        "score": 2.757,
+        "score": 2.551,
         "summary_source": "feed",
         "related": []
       },
@@ -822,23 +838,7 @@
         "published": "2026-11-25T22:27:02Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 2.71,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "fcbfa024d0ff",
-        "title": "Joint Letter on the Revision of the CO₂ Emission Standards for Cars & Vans",
-        "summary": "Counting combustion vehicles as clean would blur the market signal and bring back the very uncertainty that carmakers, suppliers, and investors cannot afford. Manufacturers could meet their targets without selling a single electric car.",
-        "why_it_matters": "",
-        "link": "https://cleantechnica.com/2026/11/25/joint-letter-on-the-revision-of-the-co%e2%82%82-emission-standards-for-cars-vans/",
-        "source": "CleanTechnica",
-        "type": "news",
-        "sector": "Renewables",
-        "published": "2026-11-25T20:11:12Z",
-        "first_seen": "2026-11-25T22:41:18Z",
-        "importance": null,
-        "score": 2.594,
+        "score": 2.508,
         "summary_source": "feed",
         "related": []
       }
@@ -856,7 +856,7 @@
         "published": "2026-11-26T15:03:14Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 3.731,
+        "score": 3.453,
         "summary_source": "feed",
         "related": []
       },
@@ -872,7 +872,7 @@
         "published": "2026-11-26T14:20:22Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 3.68,
+        "score": 3.406,
         "summary_source": "feed",
         "related": []
       },
@@ -888,7 +888,7 @@
         "published": "2026-11-26T13:03:53Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 3.591,
+        "score": 3.323,
         "summary_source": "feed",
         "related": []
       },
@@ -904,7 +904,7 @@
         "published": "2026-11-26T11:42:32Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 3.498,
+        "score": 3.237,
         "summary_source": "feed",
         "related": []
       },
@@ -920,7 +920,7 @@
         "published": "2026-11-26T09:30:59Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 3.354,
+        "score": 3.104,
         "summary_source": "feed",
         "related": []
       },
@@ -936,7 +936,7 @@
         "published": "2026-11-25T16:09:13Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.401,
+        "score": 2.222,
         "summary_source": "feed",
         "related": []
       },
@@ -952,7 +952,7 @@
         "published": "2026-11-25T14:36:37Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.33,
+        "score": 2.157,
         "summary_source": "feed",
         "related": []
       },
@@ -968,7 +968,7 @@
         "published": "2026-11-25T14:13:13Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.313,
+        "score": 2.141,
         "summary_source": "feed",
         "related": []
       }
@@ -986,7 +986,7 @@
         "published": "2026-11-25T14:53:24Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.343,
+        "score": 2.168,
         "summary_source": "feed",
         "related": []
       },
@@ -1002,7 +1002,7 @@
         "published": "2026-11-25T14:00:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.303,
+        "score": 2.131,
         "summary_source": "feed",
         "related": []
       },
@@ -1018,7 +1018,7 @@
         "published": "2026-11-24T16:28:23Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.522,
+        "score": 1.408,
         "summary_source": "feed",
         "related": []
       },
@@ -1034,7 +1034,7 @@
         "published": "2026-11-24T15:35:48Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.496,
+        "score": 1.385,
         "summary_source": "feed",
         "related": []
       },
@@ -1050,7 +1050,7 @@
         "published": "2026-11-24T15:28:00Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.492,
+        "score": 1.381,
         "summary_source": "feed",
         "related": []
       },
@@ -1066,7 +1066,7 @@
         "published": "2026-11-23T16:28:15Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 0.959,
+        "score": 0.887,
         "summary_source": "feed",
         "related": []
       },
@@ -1082,7 +1082,7 @@
         "published": "2026-11-23T15:00:00Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 0.932,
+        "score": 0.862,
         "summary_source": "feed",
         "related": []
       },
@@ -1098,12 +1098,28 @@
         "published": "2026-11-20T16:46:43Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.241,
+        "score": 0.223,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Biotech": [
+      {
+        "id": "acf7367547b0",
+        "title": "In a fertility advance, engineered molecular glue stabilizes chromosomes in aging eggs",
+        "summary": "Researchers engineered a protein system capable of restoring normal chromosome connections in aging mouse eggs, raising hopes of one day improving IVF outcomes",
+        "why_it_matters": "",
+        "link": "https://www.statnews.com/2026/11/26/fertility-advance-engineered-protein-stabilizes-chromosomes-in-aging-eggs/",
+        "source": "STAT",
+        "type": "news",
+        "sector": "Biotech",
+        "published": "2026-11-26T19:00:00Z",
+        "first_seen": "2026-11-26T22:41:37Z",
+        "importance": null,
+        "score": 3.725,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "029ce0432447",
         "title": "STAT+: The grueling struggle to find a primary care doctor in the ‘medical capital’ of America",
@@ -1116,7 +1132,7 @@
         "published": "2026-11-26T12:00:00Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 3.518,
+        "score": 3.256,
         "summary_source": "feed",
         "related": []
       },
@@ -1132,7 +1148,7 @@
         "published": "2026-11-25T21:28:53Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 2.66,
+        "score": 2.462,
         "summary_source": "feed",
         "related": []
       },
@@ -1148,7 +1164,7 @@
         "published": "2026-11-25T20:44:15Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 2.622,
+        "score": 2.427,
         "summary_source": "feed",
         "related": []
       },
@@ -1164,7 +1180,7 @@
         "published": null,
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.516,
+        "score": 2.329,
         "summary_source": "feed",
         "related": []
       },
@@ -1180,7 +1196,7 @@
         "published": null,
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.516,
+        "score": 2.329,
         "summary_source": "feed",
         "related": []
       },
@@ -1196,7 +1212,7 @@
         "published": null,
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.341,
+        "score": 2.167,
         "summary_source": "feed",
         "related": []
       },
@@ -1212,23 +1228,7 @@
         "published": null,
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.341,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "92a87dbb27a2",
-        "title": "STAT+: We’re reading about BioNTech founders’ oncology startup, a long-acting GSK drug, and more",
-        "summary": "The cofounders of BioNTech are in talks to raise about $1 billion for a new oncology company",
-        "why_it_matters": "",
-        "link": "https://www.statnews.com/pharmalot/2026/11/25/biontech-founders-oncology-startup-gsk-egpa-drug-exdensur/",
-        "source": "STAT",
-        "type": "news",
-        "sector": "Biotech",
-        "published": "2026-11-25T13:55:58Z",
-        "first_seen": "2026-11-25T14:50:49Z",
-        "importance": null,
-        "score": 2.3,
+        "score": 2.167,
         "summary_source": "feed",
         "related": []
       }
@@ -1246,7 +1246,7 @@
         "published": "2026-11-26T12:20:50Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 3.541,
+        "score": 3.278,
         "summary_source": "feed",
         "related": []
       },
@@ -1262,7 +1262,7 @@
         "published": "2026-11-26T12:02:57Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 3.521,
+        "score": 3.259,
         "summary_source": "feed",
         "related": []
       },
@@ -1278,7 +1278,7 @@
         "published": "2026-11-26T08:30:00Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 3.289,
+        "score": 3.043,
         "summary_source": "feed",
         "related": []
       },
@@ -1294,7 +1294,7 @@
         "published": "2026-11-25T18:58:25Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 2.535,
+        "score": 2.346,
         "summary_source": "feed",
         "related": []
       },
@@ -1310,7 +1310,7 @@
         "published": "2026-11-25T16:58:07Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.439,
+        "score": 2.257,
         "summary_source": "feed",
         "related": []
       },
@@ -1326,7 +1326,7 @@
         "published": "2026-11-25T15:00:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.348,
+        "score": 2.173,
         "summary_source": "feed",
         "related": []
       },
@@ -1342,7 +1342,7 @@
         "published": "2026-11-25T14:00:00Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.303,
+        "score": 2.131,
         "summary_source": "feed",
         "related": []
       },
@@ -1358,7 +1358,7 @@
         "published": "2026-11-25T12:55:29Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.256,
+        "score": 2.088,
         "summary_source": "feed",
         "related": []
       }
@@ -1376,7 +1376,7 @@
         "published": "2026-11-25T18:24:42Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 2.507,
+        "score": 2.32,
         "summary_source": "feed",
         "related": []
       },
@@ -1392,7 +1392,7 @@
         "published": "2026-11-25T17:00:07Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.44,
+        "score": 2.258,
         "summary_source": "feed",
         "related": []
       },
@@ -1408,7 +1408,7 @@
         "published": "2026-11-25T15:00:03Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.348,
+        "score": 2.173,
         "summary_source": "feed",
         "related": []
       },
@@ -1424,7 +1424,7 @@
         "published": "2026-11-24T18:03:37Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.569,
+        "score": 1.452,
         "summary_source": "feed",
         "related": []
       },
@@ -1440,7 +1440,7 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 1.537,
+        "score": 1.423,
         "summary_source": "feed",
         "related": []
       },
@@ -1456,7 +1456,7 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 1.537,
+        "score": 1.423,
         "summary_source": "feed",
         "related": []
       },
@@ -1472,7 +1472,7 @@
         "published": "2026-11-24T14:48:57Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.474,
+        "score": 1.364,
         "summary_source": "feed",
         "related": []
       },
@@ -1488,7 +1488,7 @@
         "published": "2026-11-23T20:29:55Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 1.036,
+        "score": 0.959,
         "summary_source": "feed",
         "related": []
       }
@@ -1506,7 +1506,7 @@
         "published": "2026-11-25T18:26:19Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.509,
+        "score": 2.322,
         "summary_source": "feed",
         "related": []
       },
@@ -1522,7 +1522,7 @@
         "published": "2026-11-24T22:35:05Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 1.712,
+        "score": 1.584,
         "summary_source": "feed",
         "related": []
       },
@@ -1538,7 +1538,7 @@
         "published": "2026-11-24T19:43:49Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 1.62,
+        "score": 1.499,
         "summary_source": "feed",
         "related": []
       },
@@ -1554,7 +1554,7 @@
         "published": "2026-11-20T21:52:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.266,
+        "score": 0.246,
         "summary_source": "feed",
         "related": []
       },
@@ -1570,7 +1570,7 @@
         "published": "2026-11-19T23:30:50Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.173,
+        "score": 0.16,
         "summary_source": "feed",
         "related": []
       },
@@ -1586,7 +1586,7 @@
         "published": "2026-11-18T19:52:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.102,
+        "score": 0.094,
         "summary_source": "feed",
         "related": []
       },
@@ -1602,7 +1602,7 @@
         "published": "2026-11-18T15:10:53Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.093,
+        "score": 0.086,
         "summary_source": "feed",
         "related": []
       }
@@ -1620,7 +1620,7 @@
         "published": "2026-11-25T12:00:49Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.217,
+        "score": 2.051,
         "summary_source": "feed",
         "related": []
       },
@@ -1636,7 +1636,7 @@
         "published": "2026-11-25T12:00:09Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.216,
+        "score": 2.051,
         "summary_source": "feed",
         "related": []
       },
@@ -1652,7 +1652,7 @@
         "published": "2026-11-24T18:30:42Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.583,
+        "score": 1.465,
         "summary_source": "feed",
         "related": []
       },
@@ -1668,7 +1668,7 @@
         "published": "2026-11-24T12:00:48Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 1.396,
+        "score": 1.292,
         "summary_source": "feed",
         "related": []
       },
@@ -1684,7 +1684,7 @@
         "published": "2026-11-24T12:00:21Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 1.396,
+        "score": 1.292,
         "summary_source": "feed",
         "related": []
       },
@@ -1700,7 +1700,7 @@
         "published": "2026-11-23T12:00:19Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 0.88,
+        "score": 0.814,
         "summary_source": "feed",
         "related": []
       },
@@ -1716,7 +1716,7 @@
         "published": "2026-11-23T01:25:53Z",
         "first_seen": "2026-11-23T02:44:14Z",
         "importance": null,
-        "score": 0.718,
+        "score": 0.664,
         "summary_source": "feed",
         "related": []
       },
@@ -1732,7 +1732,7 @@
         "published": "2026-11-20T20:15:54Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.258,
+        "score": 0.239,
         "summary_source": "feed",
         "related": []
       }
@@ -1750,7 +1750,7 @@
         "published": "2026-11-26T17:16:00Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 3.893,
+        "score": 3.603,
         "summary_source": "feed",
         "related": []
       },
@@ -1766,7 +1766,7 @@
         "published": "2026-11-26T11:09:00Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 3.461,
+        "score": 3.203,
         "summary_source": "feed",
         "related": []
       },
@@ -1782,7 +1782,7 @@
         "published": "2026-11-26T11:00:00Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 3.451,
+        "score": 3.194,
         "summary_source": "feed",
         "related": []
       },
@@ -1798,7 +1798,7 @@
         "published": "2026-11-26T08:00:00Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 3.257,
+        "score": 3.014,
         "summary_source": "feed",
         "related": []
       },
@@ -1814,7 +1814,7 @@
         "published": "2026-11-26T06:59:00Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 3.194,
+        "score": 2.956,
         "summary_source": "feed",
         "related": []
       },
@@ -1830,7 +1830,7 @@
         "published": "2026-11-26T06:45:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 3.18,
+        "score": 2.943,
         "summary_source": "feed",
         "related": []
       },
@@ -1846,7 +1846,7 @@
         "published": "2026-11-25T17:00:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.44,
+        "score": 2.258,
         "summary_source": "feed",
         "related": []
       },
@@ -1862,12 +1862,44 @@
         "published": "2026-11-25T16:00:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.394,
+        "score": 2.215,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Breaking": [
+      {
+        "id": "44baddfb6470",
+        "title": "A US judge sentences a Florida man to 47 months in prison for using AI to impersonate Kick streamer N3on, defrauding a memecoin's organizers out of ~$260K (Nathan Grayson/Aftermath)",
+        "summary": "Nathan Grayson / Aftermath : A US judge sentences a Florida man to 47 months in prison for using AI to impersonate Kick streamer N3on, defrauding a memecoin's organizers out of ~$260K — What goes around comes around, I suppose.",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261126/p25",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-26T22:10:01Z",
+        "first_seen": "2026-11-26T22:41:37Z",
+        "importance": null,
+        "score": 3.564,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "a88ecfff4409",
+        "title": "Binance says it has finished its recovery work and fully lifted its withdrawal suspension, after a record $6.3B was stolen in a hack last month (Rajveer Singh Pardesi/Reuters)",
+        "summary": "Rajveer Singh Pardesi / Reuters : Binance says it has finished its recovery work and fully lifted its withdrawal suspension, after a record $6.3B was stolen in a hack last month — Binance said on Thursday its withdrawal recovery work is complete and it has lifted its withdrawal…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261126/p24",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-26T19:55:02Z",
+        "first_seen": "2026-11-26T22:41:37Z",
+        "importance": null,
+        "score": 3.413,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "1785fa59d06a",
         "title": "Altair Semiconductor, an Israeli chipmaker spun off from Sony earlier in 2026, raised a $100M Series A, as it prepares to launch low-power cellular modems (CTech)",
@@ -1880,7 +1912,7 @@
         "published": "2026-11-26T18:05:38Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 3.56,
+        "score": 3.295,
         "summary_source": "feed",
         "related": []
       },
@@ -1896,7 +1928,7 @@
         "published": "2026-11-26T16:50:28Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 3.475,
+        "score": 3.216,
         "summary_source": "feed",
         "related": []
       },
@@ -1912,7 +1944,7 @@
         "published": "2026-11-26T16:10:01Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 3.431,
+        "score": 3.175,
         "summary_source": "feed",
         "related": []
       },
@@ -1928,7 +1960,7 @@
         "published": "2026-11-26T15:50:27Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 3.409,
+        "score": 3.155,
         "summary_source": "feed",
         "related": []
       },
@@ -1944,7 +1976,7 @@
         "published": "2026-11-26T13:45:00Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 3.275,
+        "score": 3.031,
         "summary_source": "feed",
         "related": []
       },
@@ -1960,39 +1992,7 @@
         "published": "2026-11-26T13:30:01Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 3.259,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "b037c2e8f707",
-        "title": "The UK FCA says it plans to require DeFi platforms to obtain authorization, adopting a stricter stance than the US and the EU after the $6.3B Binance hack (Financial Times)",
-        "summary": "Financial Times : The UK FCA says it plans to require DeFi platforms to obtain authorization, adopting a stricter stance than the US and the EU after the $6.3B Binance hack — FCA points to Binance heist and ‘lack of consumer protections’ as reasons for tighter regulation of…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261126/p17",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-26T13:10:04Z",
-        "first_seen": "2026-11-26T14:46:21Z",
-        "importance": null,
-        "score": 3.238,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "003264365997",
-        "title": "OpenAI says it corrected a GPT-6.2 Astra and Sol launch billing mistake that had incorrectly discounted usage; Astra users will now hit their limits 40% faster (Graham Barlow/TechRadar)",
-        "summary": "Graham Barlow / TechRadar : OpenAI says it corrected a GPT-6.2 Astra and Sol launch billing mistake that had incorrectly discounted usage; Astra users will now hit their limits 40% faster — Too little, too late? … - OpenAI has admitted to a billing mistake with its new GPT-6.2…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261126/p16",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-26T13:01:08Z",
-        "first_seen": "2026-11-26T14:46:21Z",
-        "importance": null,
-        "score": 3.229,
+        "score": 3.016,
         "summary_source": "feed",
         "related": []
       }
@@ -2044,17 +2044,6 @@
       "score": 5.45
     },
     {
-      "term": "series",
-      "sources": 4,
-      "sectors": 4,
-      "ids": [
-        "182cf84e9eb4",
-        "8f8a46983c0a",
-        "198e36a9a73b"
-      ],
-      "score": 5.45
-    },
-    {
       "term": "sovereign",
       "sources": 3,
       "sectors": 3,
@@ -2083,6 +2072,17 @@
         "641de05bcef4",
         "08104b26473e",
         "764e60f5de2c"
+      ],
+      "score": 4.17
+    },
+    {
+      "term": "country",
+      "sources": 3,
+      "sectors": 3,
+      "ids": [
+        "3128848ac517",
+        "2939245102eb",
+        "54f6ce63e252"
       ],
       "score": 4.17
     }
@@ -2364,7 +2364,7 @@
       "errors": [
         "ANTHROPIC_API_KEY is not set"
       ],
-      "new_items": 17,
+      "new_items": 9,
       "summarised": 0
     }
   }
