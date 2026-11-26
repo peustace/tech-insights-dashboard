@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "generated_at": "2026-11-26T06:49:30Z",
-  "last_updated": "2026-11-26 06:49 UTC",
+  "generated_at": "2026-11-26T10:45:17Z",
+  "last_updated": "2026-11-26 10:45 UTC",
   "is_sunday_edition": false,
   "priority_sectors": [
     "AI",
@@ -14,82 +14,82 @@
   ],
   "top_stories": [
     {
-      "id": "4b1b2830065b",
-      "title": "Recap of Microsoft Ignite 2026: Copilot as the Work OS and Agent Governance",
-      "summary": "At Ignite 2026, Microsoft positioned Copilot as the operating system for work and extended agent identity, governance, and cost controls across Azure, Foundry, Entra, and Defender.",
+      "id": "1954bc76467c",
+      "title": "‘An early Christmas present’: European Energy takes delivery of 88MWh battery storage units in Australia",
+      "summary": "The first units of a BESS have arrived at European Energy's operational Mokoan solar PV plant in northern Victoria, Australia.",
       "why_it_matters": "",
-      "link": "https://www.infoq.com/news/2026/11/microsoft-ignite-2026-recap/",
+      "link": "https://www.energy-storage.news/european-energy-88mwh-battery-storage-australia/",
+      "source": "Energy-Storage.news",
+      "type": "news",
+      "sector": "Energy",
+      "published": "2026-11-26T09:30:59Z",
+      "first_seen": "2026-11-26T10:45:17Z",
+      "importance": null,
+      "score": 3.906,
+      "summary_source": "feed",
+      "related": []
+    },
+    {
+      "id": "94d40ae39a8a",
+      "title": "EU Rules Bring New Safety Requirements for Farm Robots",
+      "summary": "New EU regulations will tighten safety and compliance requirements for farms deploying AI-powered robots and autonomous machinery.",
+      "why_it_matters": "",
+      "link": "https://www.eetimes.com/eu-rules-bring-new-safety-requirements-for-farm-robots/",
+      "source": "EE Times",
+      "type": "news",
+      "sector": "Semiconductors",
+      "published": "2026-11-26T08:55:48Z",
+      "first_seen": "2026-11-26T10:45:17Z",
+      "importance": null,
+      "score": 3.862,
+      "summary_source": "feed",
+      "related": []
+    },
+    {
+      "id": "182cf84e9eb4",
+      "title": "Unikey Electronics Named RECOM Global Authorized Distributor at electronica 2026",
+      "summary": "Unikey signs a distribution agreement with RECOM, launching an online sourcing platform, and starting an industry interview series.",
+      "why_it_matters": "",
+      "link": "https://www.eetimes.com/unikey-electronics-named-recom-global-authorized-distributor-at-electronica-2026/",
+      "source": "EE Times",
+      "type": "news",
+      "sector": "Semiconductors",
+      "published": "2026-11-26T08:31:51Z",
+      "first_seen": "2026-11-26T10:45:17Z",
+      "importance": null,
+      "score": 3.832,
+      "summary_source": "feed",
+      "related": []
+    },
+    {
+      "id": "08104b26473e",
+      "title": "Donald Trump's misconduct hurts any US case against Huawei",
+      "summary": "Trump's intervention to reinstate Nvidia boss Jensen Huang undermines the campaign against Huawei, which was found guilty this week in the US of criminal charges.",
+      "why_it_matters": "",
+      "link": "https://www.lightreading.com/regulatory-politics/donald-trump-s-misconduct-hurts-any-us-case-against-huawei",
+      "source": "Light Reading",
+      "type": "news",
+      "sector": "Telecommunications",
+      "published": "2026-11-26T08:30:00Z",
+      "first_seen": "2026-11-26T10:45:17Z",
+      "importance": null,
+      "score": 3.83,
+      "summary_source": "feed",
+      "related": []
+    },
+    {
+      "id": "9f24c2b34478",
+      "title": ".NET MAUI 11 Makes CoreCLR the Default Runtime and Adds Incremental XAML Hot Reload",
+      "summary": "Microsoft released .NET 11 with a .NET MAUI update focused on product quality. CoreCLR is now the default runtime on all platforms, and XAML gets incremental hot reload, implicit namespaces and faster resource dictionaries.",
+      "why_it_matters": "",
+      "link": "https://www.infoq.com/news/2026/11/dotnet-maui-11-coreclr-hotreload/",
       "source": "InfoQ",
       "type": "news",
       "sector": "Developer Tools",
-      "published": "2026-11-26T06:45:00Z",
-      "first_seen": "2026-11-26T06:49:30Z",
+      "published": "2026-11-26T08:00:00Z",
+      "first_seen": "2026-11-26T10:45:17Z",
       "importance": null,
-      "score": 3.994,
-      "summary_source": "feed",
-      "related": []
-    },
-    {
-      "id": "0542a942fda0",
-      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-      "summary": "",
-      "why_it_matters": "",
-      "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-      "source": "Hugging Face",
-      "type": "news",
-      "sector": "AI",
-      "published": "2026-11-26T05:05:36Z",
-      "first_seen": "2026-11-26T06:49:30Z",
-      "importance": null,
-      "score": 3.869,
-      "summary_source": "none",
-      "related": []
-    },
-    {
-      "id": "3d9b394c0d5f",
-      "title": "Quantum eMotion Completes C$32 Million ($22.5 Million USD) Acquisition of Cybersecurity Provider Plurilock Security",
-      "summary": "Quantum eMotion Corp. has completed its C$31.98 million acquisition of Plurilock Security Inc., a Canadian cybersecurity company.",
-      "why_it_matters": "",
-      "link": "https://quantumcomputingreport.com/quantum-emotion-completes-c32-million-22-5-million-usd-acquisition-of-cybersecurity-provider-plurilock-security/",
-      "source": "Quantum Computing Report",
-      "type": "news",
-      "sector": "Quantum",
-      "published": "2026-11-26T03:53:09Z",
-      "first_seen": "2026-11-26T06:49:30Z",
-      "importance": null,
-      "score": 3.78,
-      "summary_source": "feed",
-      "related": []
-    },
-    {
-      "id": "0031ea1be39c",
-      "title": "European Commission Proposes EU Quantum Act and Sovereign Tech Equity Fund to Scale Industrial Capacity by 2030",
-      "summary": "The European Commission has proposed the EU Quantum Act, a legislative framework for quantum technologies, and a €50 billion Sovereign Tech Equity Fund to boost industrial capacity by 2030.",
-      "why_it_matters": "",
-      "link": "https://quantumcomputingreport.com/european-commission-proposes-eu-quantum-act-and-sovereign-tech-equity-fund-to-scale-industrial-capacity-by-2030/",
-      "source": "Quantum Computing Report",
-      "type": "news",
-      "sector": "Quantum",
-      "published": "2026-11-26T02:57:24Z",
-      "first_seen": "2026-11-26T06:49:30Z",
-      "importance": null,
-      "score": 3.713,
-      "summary_source": "feed",
-      "related": []
-    },
-    {
-      "id": "e20fa49f86a7",
-      "title": "Analysis: the S&P 500 software and semiconductor subindices are both slightly down YTD, with software outperforming semiconductors as the AI narrative shifts (Emily Herbert/Financial Times)",
-      "summary": "Emily Herbert / Financial Times : Analysis: the S&P 500 software and semiconductor subindices are both slightly down YTD, with software outperforming semiconductors as the AI narrative shifts — Semiconductor and software shares now neck-and-neck in 2026 as investors think again…",
-      "why_it_matters": "",
-      "link": "https://www.techmeme.com/261126/p4",
-      "source": "Techmeme",
-      "type": "community",
-      "sector": "Breaking",
-      "published": "2026-11-26T06:20:05Z",
-      "first_seen": "2026-11-26T06:49:30Z",
-      "importance": null,
-      "score": 3.566,
+      "score": 3.793,
       "summary_source": "feed",
       "related": []
     }
@@ -108,7 +108,7 @@
         "published": "2026-11-26T05:05:36Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 3.869,
+        "score": 3.587,
         "summary_source": "none",
         "related": []
       },
@@ -124,7 +124,7 @@
         "published": "2026-11-25T18:52:55Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 3.178,
+        "score": 2.947,
         "summary_source": "none",
         "related": []
       },
@@ -140,7 +140,7 @@
         "published": "2026-11-25T10:22:09Z",
         "first_seen": "2026-11-25T10:45:16Z",
         "importance": null,
-        "score": 2.698,
+        "score": 2.501,
         "summary_source": "none",
         "related": []
       },
@@ -156,7 +156,7 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 2.317,
+        "score": 2.148,
         "summary_source": "feed",
         "related": []
       },
@@ -172,7 +172,7 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 2.317,
+        "score": 2.148,
         "summary_source": "feed",
         "related": []
       },
@@ -188,7 +188,7 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 2.317,
+        "score": 2.148,
         "summary_source": "feed",
         "related": []
       },
@@ -204,7 +204,7 @@
         "published": "2026-11-25T00:00:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.21,
+        "score": 2.049,
         "summary_source": "none",
         "related": []
       },
@@ -220,12 +220,44 @@
         "published": "2026-11-24T16:34:13Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.915,
+        "score": 1.775,
         "summary_source": "none",
         "related": []
       }
     ],
     "Semiconductors": [
+      {
+        "id": "94d40ae39a8a",
+        "title": "EU Rules Bring New Safety Requirements for Farm Robots",
+        "summary": "New EU regulations will tighten safety and compliance requirements for farms deploying AI-powered robots and autonomous machinery.",
+        "why_it_matters": "",
+        "link": "https://www.eetimes.com/eu-rules-bring-new-safety-requirements-for-farm-robots/",
+        "source": "EE Times",
+        "type": "news",
+        "sector": "Semiconductors",
+        "published": "2026-11-26T08:55:48Z",
+        "first_seen": "2026-11-26T10:45:17Z",
+        "importance": null,
+        "score": 3.862,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "182cf84e9eb4",
+        "title": "Unikey Electronics Named RECOM Global Authorized Distributor at electronica 2026",
+        "summary": "Unikey signs a distribution agreement with RECOM, launching an online sourcing platform, and starting an industry interview series.",
+        "why_it_matters": "",
+        "link": "https://www.eetimes.com/unikey-electronics-named-recom-global-authorized-distributor-at-electronica-2026/",
+        "source": "EE Times",
+        "type": "news",
+        "sector": "Semiconductors",
+        "published": "2026-11-26T08:31:51Z",
+        "first_seen": "2026-11-26T10:45:17Z",
+        "importance": null,
+        "score": 3.832,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "9b1e9b7e390d",
         "title": "Infineon CoolSET™ SiP Enables Efficient, ‘First-Time-Right’ Auxiliary Power Designs",
@@ -238,7 +270,7 @@
         "published": "2026-11-25T22:02:21Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 3.377,
+        "score": 3.131,
         "summary_source": "feed",
         "related": []
       },
@@ -254,7 +286,7 @@
         "published": "2026-11-25T20:36:47Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 3.286,
+        "score": 3.047,
         "summary_source": "feed",
         "related": []
       },
@@ -270,7 +302,7 @@
         "published": "2026-11-25T18:00:22Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 3.125,
+        "score": 2.897,
         "summary_source": "feed",
         "related": []
       },
@@ -286,7 +318,7 @@
         "published": "2026-11-25T17:34:58Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 3.1,
+        "score": 2.874,
         "summary_source": "feed",
         "related": []
       },
@@ -302,7 +334,7 @@
         "published": "2026-11-25T14:00:00Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.893,
+        "score": 2.682,
         "summary_source": "feed",
         "related": []
       },
@@ -318,44 +350,76 @@
         "published": "2026-11-25T14:00:00Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.893,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "6447b59301b2",
-        "title": "Winbond Widens Edge AI Reach, Certifies NOR Flash",
-        "summary": "Winbond is pairing bandwidth and density to meet the edge’s demand for faster, safer memory without the custom-design price tag.",
-        "why_it_matters": "",
-        "link": "https://www.eetimes.com/winbond-widens-edge-ai-reach-certifies-nor-flash/",
-        "source": "EE Times",
-        "type": "news",
-        "sector": "Semiconductors",
-        "published": "2026-11-25T08:59:51Z",
-        "first_seen": "2026-11-25T10:45:16Z",
-        "importance": null,
-        "score": 2.627,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "8d8309fc0ede",
-        "title": "Southchip Showcases Automotive Power, Charging, and Load-Control Solutions at electronica Munich",
-        "summary": "Southchip presented its automotive PMICs, 240W USB charging, wireless charging, ambient lighting, and high-side drivers at electronica Munich.",
-        "why_it_matters": "",
-        "link": "https://www.eetimes.com/southchip-showcases-automotive-power-charging-and-load-control-solutions-at-electronica-munich/",
-        "source": "EE Times",
-        "type": "news",
-        "sector": "Semiconductors",
-        "published": "2026-11-25T08:32:46Z",
-        "first_seen": "2026-11-25T10:45:16Z",
-        "importance": null,
-        "score": 2.605,
+        "score": 2.682,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Quantum": [
+      {
+        "id": "5806e44957c2",
+        "title": "Riverlane and Nature Research Intelligence Release 2026 Quantum Error Correction Report Highlighting Shift to Full-Stack Engineering",
+        "summary": "The Quantum Error Correction Report 2026 indicates a shift in the quantum computing industry from physics demonstrations to full-stack engineering of fault-tolerant machines.",
+        "why_it_matters": "",
+        "link": "https://quantumcomputingreport.com/riverlane-and-nature-research-intelligence-release-2026-quantum-error-correction-report-highlighting-shift-to-full-stack-engineering/",
+        "source": "Quantum Computing Report",
+        "type": "news",
+        "sector": "Quantum",
+        "published": "2026-11-26T05:14:05Z",
+        "first_seen": "2026-11-26T10:45:17Z",
+        "importance": null,
+        "score": 3.597,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "e21e447d1aa2",
+        "title": "Equal1, NVIDIA, and Dell Technologies Demonstrate Real-Time Hybrid Quantum-Classical Rack Integration at SC26",
+        "summary": "At SC26, Equal1, NVIDIA, and Dell Technologies showcased a real-time hybrid quantum-classical computing integration. They demonstrated Equal1's RacQ quantum computer integrated with Dell servers in a standard rack.",
+        "why_it_matters": "",
+        "link": "https://quantumcomputingreport.com/equal1-nvidia-and-dell-technologies-demonstrate-real-time-hybrid-quantum-classical-rack-integration-at-sc26/",
+        "source": "Quantum Computing Report",
+        "type": "news",
+        "sector": "Quantum",
+        "published": "2026-11-26T04:48:05Z",
+        "first_seen": "2026-11-26T10:45:17Z",
+        "importance": null,
+        "score": 3.567,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "70391caad952",
+        "title": "Classiq Updates Qmod Compiler to Synthesize 2048-Bit Shor’s Algorithm in Under 10 Seconds",
+        "summary": "Classiq has upgraded its Qmod quantum programming language and compiler, allowing the Shor's algorithm for a 2048-bit RSA-scale integer to compile in under ten seconds.",
+        "why_it_matters": "",
+        "link": "https://quantumcomputingreport.com/classiq-updates-qmod-compiler-to-synthesize-2048-bit-shors-algorithm-in-under-10-seconds/",
+        "source": "Quantum Computing Report",
+        "type": "news",
+        "sector": "Quantum",
+        "published": "2026-11-26T04:13:57Z",
+        "first_seen": "2026-11-26T10:45:17Z",
+        "importance": null,
+        "score": 3.528,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "37d28ff17b9a",
+        "title": "University of Sussex and Universal Quantum Demonstrate Laser-Free Axial-Mode Entangling Gate on Doppler-Cooled Trapped Ions",
+        "summary": "Researchers from the University of Sussex and Universal Quantum have demonstrated a high-fidelity, all-electronic two-qubit entangling gate using Doppler-cooled ytterbium ions.",
+        "why_it_matters": "",
+        "link": "https://quantumcomputingreport.com/university-of-sussex-and-universal-quantum-demonstrate-laser-free-axial-mode-entangling-gate-on-doppler-cooled-trapped-ions/",
+        "source": "Quantum Computing Report",
+        "type": "news",
+        "sector": "Quantum",
+        "published": "2026-11-26T03:58:16Z",
+        "first_seen": "2026-11-26T10:45:17Z",
+        "importance": null,
+        "score": 3.51,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "3d9b394c0d5f",
         "title": "Quantum eMotion Completes C$32 Million ($22.5 Million USD) Acquisition of Cybersecurity Provider Plurilock Security",
@@ -368,7 +432,7 @@
         "published": "2026-11-26T03:53:09Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 3.78,
+        "score": 3.504,
         "summary_source": "feed",
         "related": []
       },
@@ -384,7 +448,7 @@
         "published": "2026-11-26T02:57:24Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 3.713,
+        "score": 3.442,
         "summary_source": "feed",
         "related": []
       },
@@ -400,7 +464,7 @@
         "published": "2026-11-26T02:18:06Z",
         "first_seen": "2026-11-26T02:44:37Z",
         "importance": null,
-        "score": 3.666,
+        "score": 3.399,
         "summary_source": "feed",
         "related": []
       },
@@ -416,71 +480,7 @@
         "published": "2026-11-26T02:05:25Z",
         "first_seen": "2026-11-26T02:44:37Z",
         "importance": null,
-        "score": 3.651,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "846baf030ce0",
-        "title": "Sharp one-shot bounds and optimal exponents of universal randomness extraction",
-        "summary": "We introduce techniques for the study of randomness extraction against quantum side information (privacy amplification) by relating this problem to variants of hypothesis testing tasks with quadratic constraints.",
-        "why_it_matters": "",
-        "link": "https://arxiv.org/abs/2611.33270",
-        "source": "arXiv quant-ph",
-        "type": "paper",
-        "sector": "Quantum",
-        "published": "2026-11-26T05:00:00Z",
-        "first_seen": "2026-11-26T06:49:30Z",
-        "importance": null,
-        "score": 2.317,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "c613c79590e3",
-        "title": "Structure-factor witnesses of thermal entanglement: exact optimal covariance criteria for the XY chain",
-        "summary": "Which entanglement witness is optimal for a thermal many-body state, and what does its structure reveal about the equilibrium physics?",
-        "why_it_matters": "",
-        "link": "https://arxiv.org/abs/2611.33284",
-        "source": "arXiv quant-ph",
-        "type": "paper",
-        "sector": "Quantum",
-        "published": "2026-11-26T05:00:00Z",
-        "first_seen": "2026-11-26T06:49:30Z",
-        "importance": null,
-        "score": 2.317,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "715c6d81b8c2",
-        "title": "Quditology: harnessing many levels for quantum information processing",
-        "summary": "Quantum computing offers the prospect of surpassing classical computation on certain tasks by leveraging quantum coherence and entanglement.",
-        "why_it_matters": "",
-        "link": "https://arxiv.org/abs/2611.33299",
-        "source": "arXiv quant-ph",
-        "type": "paper",
-        "sector": "Quantum",
-        "published": "2026-11-26T05:00:00Z",
-        "first_seen": "2026-11-26T06:49:30Z",
-        "importance": null,
-        "score": 2.317,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "90be4ea4aaff",
-        "title": "Forschungszentrum Jülich and ARQUE Systems Secure €35 Million ($38.4 Million USD) to Build 200-Qubit Silicon Spin Quantum Computer",
-        "summary": "Forschungszentrum Jülich and ARQUE Systems have launched Q-STAR.NRW, a €35 million initiative to build a 200-qubit silicon spin quantum computer by the end of 2029.",
-        "why_it_matters": "",
-        "link": "https://quantumcomputingreport.com/forschungszentrum-julich-and-arque-systems-secure-e35-million-38-4-million-usd-to-build-200-qubit-silicon-spin-quantum-computer/",
-        "source": "Quantum Computing Report",
-        "type": "news",
-        "sector": "Quantum",
-        "published": "2026-11-24T23:05:25Z",
-        "first_seen": "2026-11-25T02:45:47Z",
-        "importance": null,
-        "score": 2.171,
+        "score": 3.385,
         "summary_source": "feed",
         "related": []
       }
@@ -498,7 +498,7 @@
         "published": "2026-11-25T22:05:09Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 3.381,
+        "score": 3.134,
         "summary_source": "feed",
         "related": []
       },
@@ -514,7 +514,7 @@
         "published": "2026-11-25T21:33:33Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 3.346,
+        "score": 3.103,
         "summary_source": "feed",
         "related": []
       },
@@ -530,7 +530,7 @@
         "published": "2026-11-25T19:39:31Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 3.226,
+        "score": 2.991,
         "summary_source": "feed",
         "related": []
       },
@@ -546,7 +546,7 @@
         "published": "2026-11-25T16:13:40Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 3.02,
+        "score": 2.8,
         "summary_source": "feed",
         "related": []
       },
@@ -562,7 +562,7 @@
         "published": "2026-11-25T15:00:10Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.95,
+        "score": 2.735,
         "summary_source": "feed",
         "related": []
       },
@@ -578,7 +578,7 @@
         "published": "2026-11-25T15:00:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.949,
+        "score": 2.734,
         "summary_source": "feed",
         "related": []
       },
@@ -594,7 +594,7 @@
         "published": "2026-11-25T12:07:21Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.79,
+        "score": 2.587,
         "summary_source": "feed",
         "related": []
       },
@@ -610,7 +610,7 @@
         "published": "2026-11-25T11:16:32Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.745,
+        "score": 2.545,
         "summary_source": "feed",
         "related": []
       }
@@ -628,7 +628,7 @@
         "published": "2026-11-24T15:17:50Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.869,
+        "score": 1.732,
         "summary_source": "feed",
         "related": []
       },
@@ -644,7 +644,7 @@
         "published": "2026-11-19T17:25:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.193,
+        "score": 0.179,
         "summary_source": "feed",
         "related": []
       },
@@ -660,7 +660,7 @@
         "published": "2026-11-19T15:38:18Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.187,
+        "score": 0.173,
         "summary_source": "feed",
         "related": []
       },
@@ -676,7 +676,7 @@
         "published": "2026-11-18T22:02:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.133,
+        "score": 0.123,
         "summary_source": "feed",
         "related": []
       },
@@ -692,7 +692,7 @@
         "published": "2026-11-18T20:31:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.129,
+        "score": 0.12,
         "summary_source": "feed",
         "related": []
       }
@@ -710,7 +710,7 @@
         "published": "2026-11-26T00:41:15Z",
         "first_seen": "2026-11-26T02:44:37Z",
         "importance": null,
-        "score": 3.554,
+        "score": 3.295,
         "summary_source": "feed",
         "related": []
       },
@@ -726,7 +726,7 @@
         "published": "2026-11-26T00:03:28Z",
         "first_seen": "2026-11-26T02:44:37Z",
         "importance": null,
-        "score": 3.511,
+        "score": 3.255,
         "summary_source": "feed",
         "related": []
       },
@@ -742,7 +742,7 @@
         "published": "2026-11-25T23:51:55Z",
         "first_seen": "2026-11-26T02:44:37Z",
         "importance": null,
-        "score": 3.498,
+        "score": 3.243,
         "summary_source": "feed",
         "related": []
       },
@@ -758,7 +758,7 @@
         "published": "2026-11-25T23:20:05Z",
         "first_seen": "2026-11-26T02:44:37Z",
         "importance": null,
-        "score": 3.463,
+        "score": 3.21,
         "summary_source": "feed",
         "related": []
       },
@@ -774,7 +774,7 @@
         "published": "2026-11-25T22:27:02Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 3.404,
+        "score": 3.156,
         "summary_source": "feed",
         "related": []
       },
@@ -790,7 +790,7 @@
         "published": "2026-11-25T20:11:12Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 3.259,
+        "score": 3.022,
         "summary_source": "feed",
         "related": []
       },
@@ -806,7 +806,7 @@
         "published": "2026-11-25T18:48:18Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 3.174,
+        "score": 2.942,
         "summary_source": "feed",
         "related": []
       },
@@ -822,12 +822,28 @@
         "published": "2026-11-25T17:33:56Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 3.099,
+        "score": 2.873,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Energy": [
+      {
+        "id": "1954bc76467c",
+        "title": "‘An early Christmas present’: European Energy takes delivery of 88MWh battery storage units in Australia",
+        "summary": "The first units of a BESS have arrived at European Energy's operational Mokoan solar PV plant in northern Victoria, Australia.",
+        "why_it_matters": "",
+        "link": "https://www.energy-storage.news/european-energy-88mwh-battery-storage-australia/",
+        "source": "Energy-Storage.news",
+        "type": "news",
+        "sector": "Energy",
+        "published": "2026-11-26T09:30:59Z",
+        "first_seen": "2026-11-26T10:45:17Z",
+        "importance": null,
+        "score": 3.906,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "912b4d793154",
         "title": "Media reaction: Who is to blame for COP31 ‘failure’?",
@@ -840,7 +856,7 @@
         "published": "2026-11-25T16:09:13Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 3.016,
+        "score": 2.796,
         "summary_source": "feed",
         "related": []
       },
@@ -856,7 +872,7 @@
         "published": "2026-11-25T14:36:37Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.927,
+        "score": 2.714,
         "summary_source": "feed",
         "related": []
       },
@@ -872,7 +888,7 @@
         "published": "2026-11-25T14:13:13Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.905,
+        "score": 2.694,
         "summary_source": "feed",
         "related": []
       },
@@ -888,7 +904,7 @@
         "published": "2026-11-25T13:12:33Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.849,
+        "score": 2.642,
         "summary_source": "feed",
         "related": []
       },
@@ -904,7 +920,7 @@
         "published": "2026-11-25T12:42:38Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.822,
+        "score": 2.617,
         "summary_source": "feed",
         "related": []
       },
@@ -920,7 +936,7 @@
         "published": "2026-11-25T09:19:04Z",
         "first_seen": "2026-11-25T10:45:16Z",
         "importance": null,
-        "score": 2.644,
+        "score": 2.451,
         "summary_source": "feed",
         "related": []
       },
@@ -936,23 +952,7 @@
         "published": "2026-11-24T17:06:20Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.935,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "a9462cea7547",
-        "title": "CMBLU highlights community participation in California long-duration non-lithium battery project for tribal and desert community resilience",
-        "summary": "Flow battery company CMBLU Energy and California public utility Imperial Irrigation District (IID) have announced a 10MW/100MWh energy storage project that will mark IID's first deployment of a non-lithium battery system.",
-        "why_it_matters": "",
-        "link": "https://www.energy-storage.news/cmblu-highlights-community-participation-in-california-long-duration-non-lithium-battery-project-for-tribal-and-desert-community-resilience/",
-        "source": "Energy-Storage.news",
-        "type": "news",
-        "sector": "Energy",
-        "published": "2026-11-24T12:42:40Z",
-        "first_seen": "2026-11-24T14:47:20Z",
-        "importance": null,
-        "score": 1.778,
+        "score": 1.794,
         "summary_source": "feed",
         "related": []
       }
@@ -970,7 +970,7 @@
         "published": "2026-11-25T14:53:24Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.943,
+        "score": 2.729,
         "summary_source": "feed",
         "related": []
       },
@@ -986,7 +986,7 @@
         "published": "2026-11-25T14:00:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.893,
+        "score": 2.682,
         "summary_source": "feed",
         "related": []
       },
@@ -1002,7 +1002,7 @@
         "published": "2026-11-24T16:28:23Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.911,
+        "score": 1.772,
         "summary_source": "feed",
         "related": []
       },
@@ -1018,7 +1018,7 @@
         "published": "2026-11-24T15:35:48Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.879,
+        "score": 1.743,
         "summary_source": "feed",
         "related": []
       },
@@ -1034,7 +1034,7 @@
         "published": "2026-11-24T15:28:00Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.875,
+        "score": 1.738,
         "summary_source": "feed",
         "related": []
       },
@@ -1050,7 +1050,7 @@
         "published": "2026-11-23T16:28:15Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 1.204,
+        "score": 1.116,
         "summary_source": "feed",
         "related": []
       },
@@ -1066,7 +1066,7 @@
         "published": "2026-11-23T15:00:00Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 1.17,
+        "score": 1.085,
         "summary_source": "feed",
         "related": []
       },
@@ -1082,7 +1082,7 @@
         "published": "2026-11-20T16:46:43Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.303,
+        "score": 0.281,
         "summary_source": "feed",
         "related": []
       }
@@ -1100,7 +1100,7 @@
         "published": "2026-11-25T21:28:53Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 3.341,
+        "score": 3.098,
         "summary_source": "feed",
         "related": []
       },
@@ -1116,7 +1116,7 @@
         "published": "2026-11-25T20:44:15Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 3.294,
+        "score": 3.054,
         "summary_source": "feed",
         "related": []
       },
@@ -1132,7 +1132,7 @@
         "published": null,
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 3.161,
+        "score": 2.931,
         "summary_source": "feed",
         "related": []
       },
@@ -1148,7 +1148,7 @@
         "published": null,
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 3.161,
+        "score": 2.931,
         "summary_source": "feed",
         "related": []
       },
@@ -1164,7 +1164,7 @@
         "published": null,
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.941,
+        "score": 2.726,
         "summary_source": "feed",
         "related": []
       },
@@ -1180,7 +1180,7 @@
         "published": null,
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.941,
+        "score": 2.726,
         "summary_source": "feed",
         "related": []
       },
@@ -1196,7 +1196,7 @@
         "published": "2026-11-25T13:55:58Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.889,
+        "score": 2.679,
         "summary_source": "feed",
         "related": []
       },
@@ -1212,12 +1212,28 @@
         "published": "2026-11-25T13:03:56Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.842,
+        "score": 2.634,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Telecommunications": [
+      {
+        "id": "08104b26473e",
+        "title": "Donald Trump's misconduct hurts any US case against Huawei",
+        "summary": "Trump's intervention to reinstate Nvidia boss Jensen Huang undermines the campaign against Huawei, which was found guilty this week in the US of criminal charges.",
+        "why_it_matters": "",
+        "link": "https://www.lightreading.com/regulatory-politics/donald-trump-s-misconduct-hurts-any-us-case-against-huawei",
+        "source": "Light Reading",
+        "type": "news",
+        "sector": "Telecommunications",
+        "published": "2026-11-26T08:30:00Z",
+        "first_seen": "2026-11-26T10:45:17Z",
+        "importance": null,
+        "score": 3.83,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "56f59ae57daf",
         "title": "SpaceX OK'd to deploy up to 1M AI satellites, complete constellation by 2040",
@@ -1230,7 +1246,7 @@
         "published": "2026-11-25T18:58:25Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 3.184,
+        "score": 2.952,
         "summary_source": "feed",
         "related": []
       },
@@ -1246,7 +1262,7 @@
         "published": "2026-11-25T16:58:07Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 3.063,
+        "score": 2.84,
         "summary_source": "feed",
         "related": []
       },
@@ -1262,7 +1278,7 @@
         "published": "2026-11-25T15:00:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.949,
+        "score": 2.734,
         "summary_source": "feed",
         "related": []
       },
@@ -1278,7 +1294,7 @@
         "published": "2026-11-25T14:00:00Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.893,
+        "score": 2.682,
         "summary_source": "feed",
         "related": []
       },
@@ -1294,7 +1310,7 @@
         "published": "2026-11-25T12:55:29Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.834,
+        "score": 2.627,
         "summary_source": "feed",
         "related": []
       },
@@ -1310,7 +1326,7 @@
         "published": "2026-11-25T11:14:49Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.744,
+        "score": 2.544,
         "summary_source": "feed",
         "related": []
       },
@@ -1326,23 +1342,7 @@
         "published": "2026-11-25T08:30:00Z",
         "first_seen": "2026-11-25T10:45:16Z",
         "importance": null,
-        "score": 2.602,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "02abdc4debb6",
-        "title": "NTIA, SpaceX agreement 'undermines' goal of BEAD – FBA",
-        "summary": "The NTIA and SpaceX have come to an agreement that may see SpaceX serve all of its BEAD locations at no cost, but it also presents rural communities with an 'impractical choice,' says the Fiber Broadband Association.",
-        "why_it_matters": "",
-        "link": "https://www.lightreading.com/broadband/ntia-spacex-agreement-undermines-goal-of-bead-fba",
-        "source": "Light Reading",
-        "type": "news",
-        "sector": "Telecommunications",
-        "published": "2026-11-24T19:58:39Z",
-        "first_seen": "2026-11-24T22:43:19Z",
-        "importance": null,
-        "score": 2.045,
+        "score": 2.413,
         "summary_source": "feed",
         "related": []
       }
@@ -1360,7 +1360,7 @@
         "published": "2026-11-25T18:24:42Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 3.15,
+        "score": 2.92,
         "summary_source": "feed",
         "related": []
       },
@@ -1376,7 +1376,7 @@
         "published": "2026-11-25T17:00:07Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 3.065,
+        "score": 2.842,
         "summary_source": "feed",
         "related": []
       },
@@ -1392,7 +1392,7 @@
         "published": "2026-11-25T15:00:03Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.949,
+        "score": 2.735,
         "summary_source": "feed",
         "related": []
       },
@@ -1408,7 +1408,7 @@
         "published": "2026-11-24T18:03:37Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.971,
+        "score": 1.827,
         "summary_source": "feed",
         "related": []
       },
@@ -1424,7 +1424,7 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 1.931,
+        "score": 1.79,
         "summary_source": "feed",
         "related": []
       },
@@ -1440,7 +1440,7 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 1.931,
+        "score": 1.79,
         "summary_source": "feed",
         "related": []
       },
@@ -1456,7 +1456,7 @@
         "published": "2026-11-24T14:48:57Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.851,
+        "score": 1.717,
         "summary_source": "feed",
         "related": []
       },
@@ -1472,7 +1472,7 @@
         "published": "2026-11-23T20:29:55Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 1.301,
+        "score": 1.206,
         "summary_source": "feed",
         "related": []
       }
@@ -1490,7 +1490,7 @@
         "published": "2026-11-25T18:26:19Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 3.151,
+        "score": 2.922,
         "summary_source": "feed",
         "related": []
       },
@@ -1506,7 +1506,7 @@
         "published": "2026-11-24T22:35:05Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 2.15,
+        "score": 1.993,
         "summary_source": "feed",
         "related": []
       },
@@ -1522,7 +1522,7 @@
         "published": "2026-11-24T19:43:49Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 2.035,
+        "score": 1.887,
         "summary_source": "feed",
         "related": []
       },
@@ -1538,7 +1538,7 @@
         "published": "2026-11-20T21:52:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.334,
+        "score": 0.31,
         "summary_source": "feed",
         "related": []
       },
@@ -1554,7 +1554,7 @@
         "published": "2026-11-19T23:30:50Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.217,
+        "score": 0.201,
         "summary_source": "feed",
         "related": []
       },
@@ -1570,7 +1570,7 @@
         "published": "2026-11-18T19:52:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.128,
+        "score": 0.118,
         "summary_source": "feed",
         "related": []
       },
@@ -1586,7 +1586,7 @@
         "published": "2026-11-18T15:10:53Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.117,
+        "score": 0.108,
         "summary_source": "feed",
         "related": []
       }
@@ -1604,7 +1604,7 @@
         "published": "2026-11-25T12:00:49Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.785,
+        "score": 2.582,
         "summary_source": "feed",
         "related": []
       },
@@ -1620,7 +1620,7 @@
         "published": "2026-11-25T12:00:09Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.784,
+        "score": 2.581,
         "summary_source": "feed",
         "related": []
       },
@@ -1636,7 +1636,7 @@
         "published": "2026-11-24T18:30:42Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.988,
+        "score": 1.843,
         "summary_source": "feed",
         "related": []
       },
@@ -1652,7 +1652,7 @@
         "published": "2026-11-24T12:00:48Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 1.754,
+        "score": 1.626,
         "summary_source": "feed",
         "related": []
       },
@@ -1668,7 +1668,7 @@
         "published": "2026-11-24T12:00:21Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 1.754,
+        "score": 1.626,
         "summary_source": "feed",
         "related": []
       },
@@ -1684,7 +1684,7 @@
         "published": "2026-11-23T12:00:19Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 1.105,
+        "score": 1.024,
         "summary_source": "feed",
         "related": []
       },
@@ -1700,7 +1700,7 @@
         "published": "2026-11-23T01:25:53Z",
         "first_seen": "2026-11-23T02:44:14Z",
         "importance": null,
-        "score": 0.901,
+        "score": 0.836,
         "summary_source": "feed",
         "related": []
       },
@@ -1716,12 +1716,44 @@
         "published": "2026-11-20T20:15:54Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.324,
+        "score": 0.3,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Developer Tools": [
+      {
+        "id": "9f24c2b34478",
+        "title": ".NET MAUI 11 Makes CoreCLR the Default Runtime and Adds Incremental XAML Hot Reload",
+        "summary": "Microsoft released .NET 11 with a .NET MAUI update focused on product quality. CoreCLR is now the default runtime on all platforms, and XAML gets incremental hot reload, implicit namespaces and faster resource dictionaries.",
+        "why_it_matters": "",
+        "link": "https://www.infoq.com/news/2026/11/dotnet-maui-11-coreclr-hotreload/",
+        "source": "InfoQ",
+        "type": "news",
+        "sector": "Developer Tools",
+        "published": "2026-11-26T08:00:00Z",
+        "first_seen": "2026-11-26T10:45:17Z",
+        "importance": null,
+        "score": 3.793,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "e075e7b06a19",
+        "title": "Mock Service Worker Releases v3.0 with ESM-Only Build, Socket-Based Interception and GraphQL Subs",
+        "summary": "Mock Service Worker 3.0 is now ESM-only, requires Node.js 22 or later, and cuts package size from 416KB to 234KB. It adds GraphQL subscription support, protocol-specific entrypoints, and an experimental defineNetwork API.",
+        "why_it_matters": "",
+        "link": "https://www.infoq.com/news/2026/11/mock-service-worker-v3/",
+        "source": "InfoQ",
+        "type": "news",
+        "sector": "Developer Tools",
+        "published": "2026-11-26T06:59:00Z",
+        "first_seen": "2026-11-26T10:45:17Z",
+        "importance": null,
+        "score": 3.72,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "4b1b2830065b",
         "title": "Recap of Microsoft Ignite 2026: Copilot as the Work OS and Agent Governance",
@@ -1734,7 +1766,7 @@
         "published": "2026-11-26T06:45:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 3.994,
+        "score": 3.703,
         "summary_source": "feed",
         "related": []
       },
@@ -1750,7 +1782,7 @@
         "published": "2026-11-25T17:00:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 3.065,
+        "score": 2.842,
         "summary_source": "feed",
         "related": []
       },
@@ -1766,7 +1798,7 @@
         "published": "2026-11-25T16:00:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 3.007,
+        "score": 2.788,
         "summary_source": "feed",
         "related": []
       },
@@ -1782,7 +1814,7 @@
         "published": "2026-11-25T15:59:41Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 3.006,
+        "score": 2.787,
         "summary_source": "none",
         "related": []
       },
@@ -1798,7 +1830,7 @@
         "published": "2026-11-25T15:29:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.977,
+        "score": 2.76,
         "summary_source": "feed",
         "related": []
       },
@@ -1814,44 +1846,76 @@
         "published": "2026-11-25T15:00:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.949,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "ec601aa55c3e",
-        "title": "DoorDash Scales Dispatch 10x While Maintaining 99.99% Peak Availability",
-        "summary": "DoorDash has redesigned its real-time dispatch platform, replacing a monolithic optimization engine with a distributed architecture that separates coordination from computation. The new system delivers 10x higher throughput and more than 99.99% peak availability.",
-        "why_it_matters": "",
-        "link": "https://www.infoq.com/news/2026/11/doordash-dispatch-redesign/",
-        "source": "InfoQ",
-        "type": "news",
-        "sector": "Developer Tools",
-        "published": "2026-11-25T14:44:00Z",
-        "first_seen": "2026-11-25T14:50:49Z",
-        "importance": null,
-        "score": 2.934,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "2b5cfd89abe6",
-        "title": "Vercel Launched Experimental Board to Coordinate Tasks Across Humans and Coding Agents",
-        "summary": "Vercel's experimental Board is a headless message store where people and coding agents claim leased tasks, declare dependencies, and sync threads with Slack, GitHub, and Linear. By Daniel Dominguez",
-        "why_it_matters": "",
-        "link": "https://www.infoq.com/news/2026/11/vercel-board-agents/",
-        "source": "InfoQ",
-        "type": "news",
-        "sector": "Developer Tools",
-        "published": "2026-11-25T13:57:00Z",
-        "first_seen": "2026-11-25T14:50:49Z",
-        "importance": null,
-        "score": 2.89,
+        "score": 2.734,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Breaking": [
+      {
+        "id": "d1fe0a1a5695",
+        "title": "Sources: leading AI labs are sitting on major, unreleased algorithmic breakthroughs that could break deployed cryptosystems, but their exact nature is unknown (Scott Aaronson/Shtetl-Optimized)",
+        "summary": "Scott Aaronson / Shtetl-Optimized : Sources: leading AI labs are sitting on major, unreleased algorithmic breakthroughs that could break deployed cryptosystems, but their exact nature is unknown — I feel like my previous posts (and post titles), and podcasts, and talks, have…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261126/p8",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-26T09:50:19Z",
+        "first_seen": "2026-11-26T10:45:17Z",
+        "importance": null,
+        "score": 3.537,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "996b76d3eb44",
+        "title": "Dragos says unidentified parties accessed confidential data submitted to MiniMax, even after users requested that the company not store or retain their data (Reuters)",
+        "summary": "Reuters : Dragos says unidentified parties accessed confidential data submitted to MiniMax, even after users requested that the company not store or retain their data — Confidential data submitted to Chinese AI startup MiniMax (0100.HK) was accessed by unidentified parties, a…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261126/p7",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-26T09:15:02Z",
+        "first_seen": "2026-11-26T10:45:17Z",
+        "importance": null,
+        "score": 3.497,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "4ff7f260c707",
+        "title": "Q&A with Signal's Moxie Marlinspike on AI and cryptography, his privacy-focused AI chat service Confer, surveilling AI models rather than users, and more (Tyler Cowen/Conversations with Tyler)",
+        "summary": "Tyler Cowen / Conversations with Tyler : Q&A with Signal's Moxie Marlinspike on AI and cryptography, his privacy-focused AI chat service Confer, surveilling AI models rather than users, and more — Moxie Marlinspike built Signal and designed the encryption protocol underneath it…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261126/p6",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-26T08:55:02Z",
+        "first_seen": "2026-11-26T10:45:17Z",
+        "importance": null,
+        "score": 3.475,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "5112e1d68af6",
+        "title": "Memory chip shortages prompt companies worldwide to set up procurement war rooms; some chip prices have risen 10x in a year, driving up electronics prices (Wall Street Journal)",
+        "summary": "Wall Street Journal : Memory chip shortages prompt companies worldwide to set up procurement war rooms; some chip prices have risen 10x in a year, driving up electronics prices — A global shortage has companies scrambling—and it's sent prices on electronics soaring — At…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261126/p5",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-26T07:30:01Z",
+        "first_seen": "2026-11-26T10:45:17Z",
+        "importance": null,
+        "score": 3.381,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "e20fa49f86a7",
         "title": "Analysis: the S&P 500 software and semiconductor subindices are both slightly down YTD, with software outperforming semiconductors as the AI narrative shifts (Emily Herbert/Financial Times)",
@@ -1864,7 +1928,7 @@
         "published": "2026-11-26T06:20:05Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 3.566,
+        "score": 3.306,
         "summary_source": "feed",
         "related": []
       },
@@ -1880,7 +1944,7 @@
         "published": "2026-11-26T06:00:48Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 3.544,
+        "score": 3.286,
         "summary_source": "feed",
         "related": []
       },
@@ -1896,7 +1960,7 @@
         "published": "2026-11-26T05:45:02Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 3.526,
+        "score": 3.269,
         "summary_source": "feed",
         "related": []
       },
@@ -1912,71 +1976,7 @@
         "published": "2026-11-26T05:15:03Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 3.493,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "7db8d91b26eb",
-        "title": "Letter: Leopold Aschenbrenner told investors Situational Awareness lost 65% after fees in Q3; the fund is up 88.5% after fees for the year through September (Wall Street Journal)",
-        "summary": "Wall Street Journal : Letter: Leopold Aschenbrenner told investors Situational Awareness lost 65% after fees in Q3; the fund is up 88.5% after fees for the year through September — Hedge fund that nearly went out of business after steep losses this summer says it worked to learn…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261125/p48",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-26T04:35:01Z",
-        "first_seen": "2026-11-26T06:49:30Z",
-        "importance": null,
-        "score": 3.448,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "417bdfb9a810",
-        "title": "Sources: Trump's national security adviser, Secretary Marco Rubio, was not involved in efforts to reinstate Jensen Huang and expressed anger at his return (Jo Ling/CBS News)",
-        "summary": "Jo Ling / CBS News : Sources: Trump's national security adviser, Secretary Marco Rubio, was not involved in efforts to reinstate Jensen Huang and expressed anger at his return — Jennifer Jacobs is a senior White House reporter at CBS News. — National correspondent, “CBS News…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261125/p47",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-26T03:50:00Z",
-        "first_seen": "2026-11-26T06:49:30Z",
-        "importance": null,
-        "score": 3.398,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "93e60ca5601a",
-        "title": "Investigation: Nvidia sells its most advanced chips to at least two Chinese-owned California companies, which have leased or sold some of them to firms in Asia (Josh Boswell/CBS News)",
-        "summary": "Josh Boswell / CBS News : Investigation: Nvidia sells its most advanced chips to at least two Chinese-owned California companies, which have leased or sold some of them to firms in Asia — Nvidia is selling its most cutting-edge chips to at least two companies that are…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261125/p45",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-26T01:55:00Z",
-        "first_seen": "2026-11-26T02:44:37Z",
-        "importance": null,
-        "score": 3.275,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "e33d5eebd7c6",
-        "title": "Apple removes MiniMax's chatbot Talkie from the App Store worldwide over sexual content, after outlets showed it evidence of AI characters sexualizing children (TBIJ)",
-        "summary": "TBIJ : Apple removes MiniMax's chatbot Talkie from the App Store worldwide over sexual content, after outlets showed it evidence of AI characters sexualizing children — Talkie's characters belittle and sexualise their young users - and its owners won't explain how it uses the…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261125/p44",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-26T01:30:01Z",
-        "first_seen": "2026-11-26T02:44:37Z",
-        "importance": null,
-        "score": 3.249,
+        "score": 3.238,
         "summary_source": "feed",
         "related": []
       }
@@ -1984,15 +1984,15 @@
   },
   "emerging": [
     {
-      "term": "testing",
-      "sources": 4,
-      "sectors": 4,
+      "term": "deployed",
+      "sources": 3,
+      "sectors": 3,
       "ids": [
-        "846baf030ce0",
-        "310fbb4be8f8",
-        "dd8e627e8569"
+        "4dbafe823285",
+        "2939245102eb",
+        "d1fe0a1a5695"
       ],
-      "score": 7.5
+      "score": 6.25
     },
     {
       "term": "sensor",
@@ -2006,26 +2006,26 @@
       "score": 6.25
     },
     {
-      "term": "learn",
+      "term": "rules",
       "sources": 4,
       "sectors": 4,
       "ids": [
-        "6a2dd807e49c",
-        "6596f7d6b925",
-        "f0986b24c895"
+        "94d40ae39a8a",
+        "7d2aeb2001ed",
+        "ffc52adabd49"
       ],
-      "score": 6.0
+      "score": 5.45
     },
     {
-      "term": "tasks",
-      "sources": 4,
-      "sectors": 4,
+      "term": "testing",
+      "sources": 3,
+      "sectors": 3,
       "ids": [
-        "846baf030ce0",
-        "715c6d81b8c2",
-        "310fbb4be8f8"
+        "310fbb4be8f8",
+        "dd8e627e8569",
+        "8122494b1804"
       ],
-      "score": 6.0
+      "score": 4.69
     },
     {
       "term": "effect",
@@ -2347,7 +2347,7 @@
       "errors": [
         "ANTHROPIC_API_KEY is not set"
       ],
-      "new_items": 21,
+      "new_items": 17,
       "summarised": 0
     }
   },
