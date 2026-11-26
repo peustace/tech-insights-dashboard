@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "generated_at": "2026-11-26T10:45:17Z",
-  "last_updated": "2026-11-26 10:45 UTC",
+  "generated_at": "2026-11-26T14:46:21Z",
+  "last_updated": "2026-11-26 14:46 UTC",
   "is_sunday_edition": false,
   "priority_sectors": [
     "AI",
@@ -14,88 +14,104 @@
   ],
   "top_stories": [
     {
-      "id": "1954bc76467c",
-      "title": "‘An early Christmas present’: European Energy takes delivery of 88MWh battery storage units in Australia",
-      "summary": "The first units of a BESS have arrived at European Energy's operational Mokoan solar PV plant in northern Victoria, Australia.",
+      "id": "482d46022f4a",
+      "title": "Energy Storage Awards 2026: Fluence, Quinbrook & NHOA win again, CMBlu & ContourGlobal among first-timers",
+      "summary": "Last week’s Energy Storage Awards (ESAs) 2026 ceremony saw some repeat winners return, while plenty of newcomers took home trophies, too.",
       "why_it_matters": "",
-      "link": "https://www.energy-storage.news/european-energy-88mwh-battery-storage-australia/",
+      "link": "https://www.energy-storage.news/energy-storage-awards-2026-fluence-quinbrook-nhoa-win-again-cmblu-contourglobal-among-first-timers/",
       "source": "Energy-Storage.news",
       "type": "news",
       "sector": "Energy",
-      "published": "2026-11-26T09:30:59Z",
-      "first_seen": "2026-11-26T10:45:17Z",
+      "published": "2026-11-26T14:20:22Z",
+      "first_seen": "2026-11-26T14:46:21Z",
       "importance": null,
-      "score": 3.906,
+      "score": 3.967,
       "summary_source": "feed",
       "related": []
     },
     {
-      "id": "94d40ae39a8a",
-      "title": "EU Rules Bring New Safety Requirements for Farm Robots",
-      "summary": "New EU regulations will tighten safety and compliance requirements for farms deploying AI-powered robots and autonomous machinery.",
+      "id": "089e2941a4b6",
+      "title": "Bridging the Research-to-Manufacturing Gap in Canada’s Semiconductor Industry",
+      "summary": "Quantum computing, sovereign AI, ocean electronics, and advanced materials: six stories on how Canada is connecting its technology strengths—and confronting the challenge of scale.",
       "why_it_matters": "",
-      "link": "https://www.eetimes.com/eu-rules-bring-new-safety-requirements-for-farm-robots/",
+      "link": "https://www.eetimes.com/bridging-the-research-to-manufacturing-gap-in-canadas-semiconductor-industry/",
       "source": "EE Times",
       "type": "news",
       "sector": "Semiconductors",
-      "published": "2026-11-26T08:55:48Z",
-      "first_seen": "2026-11-26T10:45:17Z",
+      "published": "2026-11-26T14:00:00Z",
+      "first_seen": "2026-11-26T14:46:21Z",
       "importance": null,
-      "score": 3.862,
+      "score": 3.941,
       "summary_source": "feed",
       "related": []
     },
     {
-      "id": "182cf84e9eb4",
-      "title": "Unikey Electronics Named RECOM Global Authorized Distributor at electronica 2026",
-      "summary": "Unikey signs a distribution agreement with RECOM, launching an online sourcing platform, and starting an industry interview series.",
+      "id": "ef7d9181bee9",
+      "title": "Energy Vault backlog hits US$2.3 billion as it closes financing for 150MW Texas BESS",
+      "summary": "NYSE-listed energy infrastructure company Energy Vault has reported its Q3 2026 financial results and the close of non-recourse project financing for its 150MW/300MWh SOSA Energy Centre in Texas, US.",
       "why_it_matters": "",
-      "link": "https://www.eetimes.com/unikey-electronics-named-recom-global-authorized-distributor-at-electronica-2026/",
-      "source": "EE Times",
+      "link": "https://www.energy-storage.news/energy-vault-backlog-hits-us2-3-billion-as-it-closes-financing-for-150mw-texas-bess/",
+      "source": "Energy-Storage.news",
       "type": "news",
-      "sector": "Semiconductors",
-      "published": "2026-11-26T08:31:51Z",
-      "first_seen": "2026-11-26T10:45:17Z",
+      "sector": "Energy",
+      "published": "2026-11-26T13:03:53Z",
+      "first_seen": "2026-11-26T14:46:21Z",
       "importance": null,
-      "score": 3.832,
+      "score": 3.871,
       "summary_source": "feed",
       "related": []
     },
     {
-      "id": "08104b26473e",
-      "title": "Donald Trump's misconduct hurts any US case against Huawei",
-      "summary": "Trump's intervention to reinstate Nvidia boss Jensen Huang undermines the campaign against Huawei, which was found guilty this week in the US of criminal charges.",
+      "id": "139fbc7a1afd",
+      "title": "Eurobites: BT taps Anthropic and friends to offer cyber training to SMEs",
+      "summary": "Also in today's EMEA regional roundup: DE-CIX offers 'simplified' access to Oracle's EU Sovereign Cloud; Orange proposes closing BeTV platform; Ethio Telecom seeks Japanese collaboration.",
       "why_it_matters": "",
-      "link": "https://www.lightreading.com/regulatory-politics/donald-trump-s-misconduct-hurts-any-us-case-against-huawei",
+      "link": "https://www.lightreading.com/security/eurobites-bt-taps-anthropic-and-friends-to-offer-cyber-training-to-smes",
       "source": "Light Reading",
       "type": "news",
       "sector": "Telecommunications",
-      "published": "2026-11-26T08:30:00Z",
-      "first_seen": "2026-11-26T10:45:17Z",
+      "published": "2026-11-26T12:20:50Z",
+      "first_seen": "2026-11-26T14:46:21Z",
       "importance": null,
-      "score": 3.83,
+      "score": 3.818,
       "summary_source": "feed",
       "related": []
     },
     {
-      "id": "9f24c2b34478",
-      "title": ".NET MAUI 11 Makes CoreCLR the Default Runtime and Adds Incremental XAML Hot Reload",
-      "summary": "Microsoft released .NET 11 with a .NET MAUI update focused on product quality. CoreCLR is now the default runtime on all platforms, and XAML gets incremental hot reload, implicit namespaces and faster resource dictionaries.",
+      "id": "d0968ac91e70",
+      "title": "EE and Ericsson enhance London 5G by putting AI in the RAN",
+      "summary": "BT Group and its mobile brand EE have increased average download speed by 26% and spectral efficiency by over 13% with an AI software upgrade from Ericsson.",
       "why_it_matters": "",
-      "link": "https://www.infoq.com/news/2026/11/dotnet-maui-11-coreclr-hotreload/",
-      "source": "InfoQ",
+      "link": "https://www.lightreading.com/5g/ee-and-ericsson-enhance-london-5g-by-putting-ai-in-the-ran",
+      "source": "Light Reading",
       "type": "news",
-      "sector": "Developer Tools",
-      "published": "2026-11-26T08:00:00Z",
-      "first_seen": "2026-11-26T10:45:17Z",
+      "sector": "Telecommunications",
+      "published": "2026-11-26T12:02:57Z",
+      "first_seen": "2026-11-26T14:46:21Z",
       "importance": null,
-      "score": 3.793,
+      "score": 3.796,
       "summary_source": "feed",
       "related": []
     }
   ],
   "sectors": {
     "AI": [
+      {
+        "id": "7627e411fe4c",
+        "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+        "summary": "",
+        "why_it_matters": "",
+        "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+        "source": "Hugging Face",
+        "type": "news",
+        "sector": "AI",
+        "published": "2026-11-26T11:37:17Z",
+        "first_seen": "2026-11-26T14:46:21Z",
+        "importance": null,
+        "score": 3.765,
+        "summary_source": "none",
+        "related": []
+      },
       {
         "id": "0542a942fda0",
         "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
@@ -108,7 +124,23 @@
         "published": "2026-11-26T05:05:36Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 3.587,
+        "score": 3.32,
+        "summary_source": "none",
+        "related": []
+      },
+      {
+        "id": "5bb8ef45a9ac",
+        "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+        "summary": "",
+        "why_it_matters": "",
+        "link": "https://huggingface.co/blog/training-swarms",
+        "source": "Hugging Face",
+        "type": "news",
+        "sector": "AI",
+        "published": "2026-11-26T00:00:00Z",
+        "first_seen": "2026-11-26T14:46:21Z",
+        "importance": null,
+        "score": 3.01,
         "summary_source": "none",
         "related": []
       },
@@ -124,7 +156,7 @@
         "published": "2026-11-25T18:52:55Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 2.947,
+        "score": 2.727,
         "summary_source": "none",
         "related": []
       },
@@ -140,7 +172,7 @@
         "published": "2026-11-25T10:22:09Z",
         "first_seen": "2026-11-25T10:45:16Z",
         "importance": null,
-        "score": 2.501,
+        "score": 2.315,
         "summary_source": "none",
         "related": []
       },
@@ -156,7 +188,7 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 2.148,
+        "score": 1.988,
         "summary_source": "feed",
         "related": []
       },
@@ -172,7 +204,7 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 2.148,
+        "score": 1.988,
         "summary_source": "feed",
         "related": []
       },
@@ -188,44 +220,28 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 2.148,
+        "score": 1.988,
         "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "acff01eb2dfa",
-        "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
-        "summary": "",
-        "why_it_matters": "",
-        "link": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
-        "source": "Hugging Face",
-        "type": "news",
-        "sector": "AI",
-        "published": "2026-11-25T00:00:00Z",
-        "first_seen": "2026-11-25T18:35:53Z",
-        "importance": null,
-        "score": 2.049,
-        "summary_source": "none",
-        "related": []
-      },
-      {
-        "id": "10189c0d6481",
-        "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-        "summary": "",
-        "why_it_matters": "",
-        "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-        "source": "Hugging Face",
-        "type": "news",
-        "sector": "AI",
-        "published": "2026-11-24T16:34:13Z",
-        "first_seen": "2026-11-24T18:41:14Z",
-        "importance": null,
-        "score": 1.775,
-        "summary_source": "none",
         "related": []
       }
     ],
     "Semiconductors": [
+      {
+        "id": "089e2941a4b6",
+        "title": "Bridging the Research-to-Manufacturing Gap in Canada’s Semiconductor Industry",
+        "summary": "Quantum computing, sovereign AI, ocean electronics, and advanced materials: six stories on how Canada is connecting its technology strengths—and confronting the challenge of scale.",
+        "why_it_matters": "",
+        "link": "https://www.eetimes.com/bridging-the-research-to-manufacturing-gap-in-canadas-semiconductor-industry/",
+        "source": "EE Times",
+        "type": "news",
+        "sector": "Semiconductors",
+        "published": "2026-11-26T14:00:00Z",
+        "first_seen": "2026-11-26T14:46:21Z",
+        "importance": null,
+        "score": 3.941,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "94d40ae39a8a",
         "title": "EU Rules Bring New Safety Requirements for Farm Robots",
@@ -238,7 +254,7 @@
         "published": "2026-11-26T08:55:48Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 3.862,
+        "score": 3.574,
         "summary_source": "feed",
         "related": []
       },
@@ -254,7 +270,7 @@
         "published": "2026-11-26T08:31:51Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 3.832,
+        "score": 3.547,
         "summary_source": "feed",
         "related": []
       },
@@ -270,7 +286,7 @@
         "published": "2026-11-25T22:02:21Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 3.131,
+        "score": 2.898,
         "summary_source": "feed",
         "related": []
       },
@@ -286,7 +302,7 @@
         "published": "2026-11-25T20:36:47Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 3.047,
+        "score": 2.82,
         "summary_source": "feed",
         "related": []
       },
@@ -302,7 +318,7 @@
         "published": "2026-11-25T18:00:22Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.897,
+        "score": 2.682,
         "summary_source": "feed",
         "related": []
       },
@@ -318,7 +334,7 @@
         "published": "2026-11-25T17:34:58Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.874,
+        "score": 2.66,
         "summary_source": "feed",
         "related": []
       },
@@ -334,23 +350,7 @@
         "published": "2026-11-25T14:00:00Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.682,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "7ecd7474b7dd",
-        "title": "AMD Tackles DRAM Shortages with AI and Flash Storage",
-        "summary": "AMD MEXT uses AI to park cold memory pages in flash, cutting DRAM costs and easing data center shortages.",
-        "why_it_matters": "",
-        "link": "https://www.eetimes.com/amd-tackles-dram-shortages-with-ai-and-flash-storage/",
-        "source": "EE Times",
-        "type": "news",
-        "sector": "Semiconductors",
-        "published": "2026-11-25T14:00:00Z",
-        "first_seen": "2026-11-25T14:50:49Z",
-        "importance": null,
-        "score": 2.682,
+        "score": 2.483,
         "summary_source": "feed",
         "related": []
       }
@@ -368,7 +368,7 @@
         "published": "2026-11-26T05:14:05Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 3.597,
+        "score": 3.329,
         "summary_source": "feed",
         "related": []
       },
@@ -384,7 +384,7 @@
         "published": "2026-11-26T04:48:05Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 3.567,
+        "score": 3.301,
         "summary_source": "feed",
         "related": []
       },
@@ -400,7 +400,7 @@
         "published": "2026-11-26T04:13:57Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 3.528,
+        "score": 3.265,
         "summary_source": "feed",
         "related": []
       },
@@ -416,7 +416,7 @@
         "published": "2026-11-26T03:58:16Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 3.51,
+        "score": 3.249,
         "summary_source": "feed",
         "related": []
       },
@@ -432,7 +432,7 @@
         "published": "2026-11-26T03:53:09Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 3.504,
+        "score": 3.244,
         "summary_source": "feed",
         "related": []
       },
@@ -448,7 +448,7 @@
         "published": "2026-11-26T02:57:24Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 3.442,
+        "score": 3.186,
         "summary_source": "feed",
         "related": []
       },
@@ -464,7 +464,7 @@
         "published": "2026-11-26T02:18:06Z",
         "first_seen": "2026-11-26T02:44:37Z",
         "importance": null,
-        "score": 3.399,
+        "score": 3.146,
         "summary_source": "feed",
         "related": []
       },
@@ -480,12 +480,28 @@
         "published": "2026-11-26T02:05:25Z",
         "first_seen": "2026-11-26T02:44:37Z",
         "importance": null,
-        "score": 3.385,
+        "score": 3.133,
         "summary_source": "feed",
         "related": []
       }
     ],
     "CyberSecurity": [
+      {
+        "id": "1d0c02071167",
+        "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
+        "summary": "A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, including Gmail and Outlook emails.",
+        "why_it_matters": "",
+        "link": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
+        "source": "BleepingComputer",
+        "type": "news",
+        "sector": "CyberSecurity",
+        "published": "2026-11-26T11:50:17Z",
+        "first_seen": "2026-11-26T14:46:21Z",
+        "importance": null,
+        "score": 3.78,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "a2d94c5b8b57",
         "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
@@ -498,7 +514,7 @@
         "published": "2026-11-25T22:05:09Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 3.134,
+        "score": 2.901,
         "summary_source": "feed",
         "related": []
       },
@@ -514,7 +530,7 @@
         "published": "2026-11-25T21:33:33Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 3.103,
+        "score": 2.872,
         "summary_source": "feed",
         "related": []
       },
@@ -530,7 +546,7 @@
         "published": "2026-11-25T19:39:31Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 2.991,
+        "score": 2.768,
         "summary_source": "feed",
         "related": []
       },
@@ -546,7 +562,7 @@
         "published": "2026-11-25T16:13:40Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.8,
+        "score": 2.591,
         "summary_source": "feed",
         "related": []
       },
@@ -562,7 +578,7 @@
         "published": "2026-11-25T15:00:10Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.735,
+        "score": 2.531,
         "summary_source": "feed",
         "related": []
       },
@@ -578,7 +594,7 @@
         "published": "2026-11-25T15:00:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.734,
+        "score": 2.531,
         "summary_source": "feed",
         "related": []
       },
@@ -594,23 +610,7 @@
         "published": "2026-11-25T12:07:21Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.587,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "4c065f722f0b",
-        "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
-        "summary": "Earlier this week, Microsoft resolved a known issue that was preventing some Microsoft 365 customers from accessing Office applications.",
-        "why_it_matters": "",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
-        "source": "BleepingComputer",
-        "type": "news",
-        "sector": "CyberSecurity",
-        "published": "2026-11-25T11:16:32Z",
-        "first_seen": "2026-11-25T14:50:49Z",
-        "importance": null,
-        "score": 2.545,
+        "score": 2.394,
         "summary_source": "feed",
         "related": []
       }
@@ -628,7 +628,7 @@
         "published": "2026-11-24T15:17:50Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.732,
+        "score": 1.604,
         "summary_source": "feed",
         "related": []
       },
@@ -644,7 +644,7 @@
         "published": "2026-11-19T17:25:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.179,
+        "score": 0.166,
         "summary_source": "feed",
         "related": []
       },
@@ -660,7 +660,7 @@
         "published": "2026-11-19T15:38:18Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.173,
+        "score": 0.16,
         "summary_source": "feed",
         "related": []
       },
@@ -676,7 +676,7 @@
         "published": "2026-11-18T22:02:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.123,
+        "score": 0.114,
         "summary_source": "feed",
         "related": []
       },
@@ -692,7 +692,7 @@
         "published": "2026-11-18T20:31:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.12,
+        "score": 0.111,
         "summary_source": "feed",
         "related": []
       }
@@ -710,7 +710,7 @@
         "published": "2026-11-26T00:41:15Z",
         "first_seen": "2026-11-26T02:44:37Z",
         "importance": null,
-        "score": 3.295,
+        "score": 3.05,
         "summary_source": "feed",
         "related": []
       },
@@ -726,7 +726,7 @@
         "published": "2026-11-26T00:03:28Z",
         "first_seen": "2026-11-26T02:44:37Z",
         "importance": null,
-        "score": 3.255,
+        "score": 3.013,
         "summary_source": "feed",
         "related": []
       },
@@ -742,7 +742,7 @@
         "published": "2026-11-25T23:51:55Z",
         "first_seen": "2026-11-26T02:44:37Z",
         "importance": null,
-        "score": 3.243,
+        "score": 3.002,
         "summary_source": "feed",
         "related": []
       },
@@ -758,7 +758,7 @@
         "published": "2026-11-25T23:20:05Z",
         "first_seen": "2026-11-26T02:44:37Z",
         "importance": null,
-        "score": 3.21,
+        "score": 2.971,
         "summary_source": "feed",
         "related": []
       },
@@ -774,7 +774,7 @@
         "published": "2026-11-25T22:27:02Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 3.156,
+        "score": 2.921,
         "summary_source": "feed",
         "related": []
       },
@@ -790,7 +790,7 @@
         "published": "2026-11-25T20:11:12Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 3.022,
+        "score": 2.797,
         "summary_source": "feed",
         "related": []
       },
@@ -806,7 +806,7 @@
         "published": "2026-11-25T18:48:18Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 2.942,
+        "score": 2.723,
         "summary_source": "feed",
         "related": []
       },
@@ -822,12 +822,60 @@
         "published": "2026-11-25T17:33:56Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.873,
+        "score": 2.659,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Energy": [
+      {
+        "id": "482d46022f4a",
+        "title": "Energy Storage Awards 2026: Fluence, Quinbrook & NHOA win again, CMBlu & ContourGlobal among first-timers",
+        "summary": "Last week’s Energy Storage Awards (ESAs) 2026 ceremony saw some repeat winners return, while plenty of newcomers took home trophies, too.",
+        "why_it_matters": "",
+        "link": "https://www.energy-storage.news/energy-storage-awards-2026-fluence-quinbrook-nhoa-win-again-cmblu-contourglobal-among-first-timers/",
+        "source": "Energy-Storage.news",
+        "type": "news",
+        "sector": "Energy",
+        "published": "2026-11-26T14:20:22Z",
+        "first_seen": "2026-11-26T14:46:21Z",
+        "importance": null,
+        "score": 3.967,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "ef7d9181bee9",
+        "title": "Energy Vault backlog hits US$2.3 billion as it closes financing for 150MW Texas BESS",
+        "summary": "NYSE-listed energy infrastructure company Energy Vault has reported its Q3 2026 financial results and the close of non-recourse project financing for its 150MW/300MWh SOSA Energy Centre in Texas, US.",
+        "why_it_matters": "",
+        "link": "https://www.energy-storage.news/energy-vault-backlog-hits-us2-3-billion-as-it-closes-financing-for-150mw-texas-bess/",
+        "source": "Energy-Storage.news",
+        "type": "news",
+        "sector": "Energy",
+        "published": "2026-11-26T13:03:53Z",
+        "first_seen": "2026-11-26T14:46:21Z",
+        "importance": null,
+        "score": 3.871,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "2ddcd71e2c37",
+        "title": "Actuate Energy orders 1.5GWh of BESS from Sungrow for 2027/2028 pipeline in Spain",
+        "summary": "New energy storage platform Actuate Energy and inverter and BESS firm Sungrow have struck a 380MW/1,500MWh agreement for projects in Spain over the next few years.",
+        "why_it_matters": "",
+        "link": "https://www.energy-storage.news/actuate-energy-orders-1-5gwh-bess-sungrow-2027-2028-pipeline-spain/",
+        "source": "Energy-Storage.news",
+        "type": "news",
+        "sector": "Energy",
+        "published": "2026-11-26T11:42:32Z",
+        "first_seen": "2026-11-26T14:46:21Z",
+        "importance": null,
+        "score": 3.771,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "1954bc76467c",
         "title": "‘An early Christmas present’: European Energy takes delivery of 88MWh battery storage units in Australia",
@@ -840,7 +888,7 @@
         "published": "2026-11-26T09:30:59Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 3.906,
+        "score": 3.615,
         "summary_source": "feed",
         "related": []
       },
@@ -856,7 +904,7 @@
         "published": "2026-11-25T16:09:13Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.796,
+        "score": 2.588,
         "summary_source": "feed",
         "related": []
       },
@@ -872,7 +920,7 @@
         "published": "2026-11-25T14:36:37Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.714,
+        "score": 2.512,
         "summary_source": "feed",
         "related": []
       },
@@ -888,7 +936,7 @@
         "published": "2026-11-25T14:13:13Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.694,
+        "score": 2.493,
         "summary_source": "feed",
         "related": []
       },
@@ -904,55 +952,7 @@
         "published": "2026-11-25T13:12:33Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.642,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "20dbf66b814f",
-        "title": "Italy’s second MACSE auction clears 12% lower than first; Enel, BW ESS/A2A and Field among winners",
-        "summary": "Italy TSO Terna has concluded its second MACSE auction, procuring 16GWh of long-term BESS capacity at a lower clearing price than 2025’s auction.",
-        "why_it_matters": "",
-        "link": "https://www.energy-storage.news/italys-second-macse-auction-clears-12-lower-than-first-enel-bw-ess-a2a-and-field-among-winners/",
-        "source": "Energy-Storage.news",
-        "type": "news",
-        "sector": "Energy",
-        "published": "2026-11-25T12:42:38Z",
-        "first_seen": "2026-11-25T14:50:49Z",
-        "importance": null,
-        "score": 2.617,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "e613ac05297b",
-        "title": "‘A flow-through effect’: Data centre demand reaches BESS equipment supply, says Eku Energy",
-        "summary": "Elias Saba of Eku Energy spoke to ESN Premium about how data centre demand for shared equipment is affecting BESS development.",
-        "why_it_matters": "",
-        "link": "https://www.energy-storage.news/data-centre-demand-bess-equipment-supply-eku-energy/",
-        "source": "Energy-Storage.news",
-        "type": "news",
-        "sector": "Energy",
-        "published": "2026-11-25T09:19:04Z",
-        "first_seen": "2026-11-25T10:45:16Z",
-        "importance": null,
-        "score": 2.451,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "1dd1dfedca31",
-        "title": "CB Live: Carbon Brief journalists discuss key COP31 outcomes",
-        "summary": "Following the close of COP31 in Antalya, Turkey, Carbon Brief’s journalists answered a range of questions in a CB Live",
-        "why_it_matters": "",
-        "link": "https://www.carbonbrief.org/cb-live-carbon-brief-journalists-discuss-key-cop31-outcomes",
-        "source": "Carbon Brief",
-        "type": "news",
-        "sector": "Energy",
-        "published": "2026-11-24T17:06:20Z",
-        "first_seen": "2026-11-24T18:41:14Z",
-        "importance": null,
-        "score": 1.794,
+        "score": 2.445,
         "summary_source": "feed",
         "related": []
       }
@@ -970,7 +970,7 @@
         "published": "2026-11-25T14:53:24Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.729,
+        "score": 2.526,
         "summary_source": "feed",
         "related": []
       },
@@ -986,7 +986,7 @@
         "published": "2026-11-25T14:00:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.682,
+        "score": 2.483,
         "summary_source": "feed",
         "related": []
       },
@@ -1002,7 +1002,7 @@
         "published": "2026-11-24T16:28:23Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.772,
+        "score": 1.64,
         "summary_source": "feed",
         "related": []
       },
@@ -1018,7 +1018,7 @@
         "published": "2026-11-24T15:35:48Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.743,
+        "score": 1.613,
         "summary_source": "feed",
         "related": []
       },
@@ -1034,7 +1034,7 @@
         "published": "2026-11-24T15:28:00Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.738,
+        "score": 1.609,
         "summary_source": "feed",
         "related": []
       },
@@ -1050,7 +1050,7 @@
         "published": "2026-11-23T16:28:15Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 1.116,
+        "score": 1.033,
         "summary_source": "feed",
         "related": []
       },
@@ -1066,7 +1066,7 @@
         "published": "2026-11-23T15:00:00Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 1.085,
+        "score": 1.004,
         "summary_source": "feed",
         "related": []
       },
@@ -1082,12 +1082,28 @@
         "published": "2026-11-20T16:46:43Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.281,
+        "score": 0.26,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Biotech": [
+      {
+        "id": "029ce0432447",
+        "title": "STAT+: The grueling struggle to find a primary care doctor in the ‘medical capital’ of America",
+        "summary": "Boston is supposed to be the medical capital of America. Yet many don’t have primary care access, hurting their ability to get treatments, screenings, and medical advice.",
+        "why_it_matters": "",
+        "link": "https://www.statnews.com/2026/11/26/primary-care-appointment-times-doctor-shortage/",
+        "source": "STAT",
+        "type": "news",
+        "sector": "Biotech",
+        "published": "2026-11-26T12:00:00Z",
+        "first_seen": "2026-11-26T14:46:21Z",
+        "importance": null,
+        "score": 3.792,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "e180e0972a0b",
         "title": "Why Medicare’s 2027 physician pay changes worry some specialists",
@@ -1100,7 +1116,7 @@
         "published": "2026-11-25T21:28:53Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 3.098,
+        "score": 2.867,
         "summary_source": "feed",
         "related": []
       },
@@ -1116,7 +1132,7 @@
         "published": "2026-11-25T20:44:15Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 3.054,
+        "score": 2.827,
         "summary_source": "feed",
         "related": []
       },
@@ -1132,7 +1148,7 @@
         "published": null,
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.931,
+        "score": 2.712,
         "summary_source": "feed",
         "related": []
       },
@@ -1148,7 +1164,7 @@
         "published": null,
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.931,
+        "score": 2.712,
         "summary_source": "feed",
         "related": []
       },
@@ -1164,7 +1180,7 @@
         "published": null,
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.726,
+        "score": 2.523,
         "summary_source": "feed",
         "related": []
       },
@@ -1180,7 +1196,7 @@
         "published": null,
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.726,
+        "score": 2.523,
         "summary_source": "feed",
         "related": []
       },
@@ -1196,28 +1212,44 @@
         "published": "2026-11-25T13:55:58Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.679,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "20bcfce5545d",
-        "title": "RFK Jr. weighs in on plan to detonate toxic material in Iowa",
-        "summary": "This morning, the Army plans to detonate a cache of “dangerously degraded” toxic material in Iowa, with experts warning of dangerous health consequences:",
-        "why_it_matters": "",
-        "link": "https://www.statnews.com/2026/11/25/health-news-rfk-jr-weighs-in-on-plan-to-detonate-toxic-material-in-iowa/",
-        "source": "STAT",
-        "type": "news",
-        "sector": "Biotech",
-        "published": "2026-11-25T13:03:56Z",
-        "first_seen": "2026-11-25T14:50:49Z",
-        "importance": null,
-        "score": 2.634,
+        "score": 2.479,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Telecommunications": [
+      {
+        "id": "139fbc7a1afd",
+        "title": "Eurobites: BT taps Anthropic and friends to offer cyber training to SMEs",
+        "summary": "Also in today's EMEA regional roundup: DE-CIX offers 'simplified' access to Oracle's EU Sovereign Cloud; Orange proposes closing BeTV platform; Ethio Telecom seeks Japanese collaboration.",
+        "why_it_matters": "",
+        "link": "https://www.lightreading.com/security/eurobites-bt-taps-anthropic-and-friends-to-offer-cyber-training-to-smes",
+        "source": "Light Reading",
+        "type": "news",
+        "sector": "Telecommunications",
+        "published": "2026-11-26T12:20:50Z",
+        "first_seen": "2026-11-26T14:46:21Z",
+        "importance": null,
+        "score": 3.818,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "d0968ac91e70",
+        "title": "EE and Ericsson enhance London 5G by putting AI in the RAN",
+        "summary": "BT Group and its mobile brand EE have increased average download speed by 26% and spectral efficiency by over 13% with an AI software upgrade from Ericsson.",
+        "why_it_matters": "",
+        "link": "https://www.lightreading.com/5g/ee-and-ericsson-enhance-london-5g-by-putting-ai-in-the-ran",
+        "source": "Light Reading",
+        "type": "news",
+        "sector": "Telecommunications",
+        "published": "2026-11-26T12:02:57Z",
+        "first_seen": "2026-11-26T14:46:21Z",
+        "importance": null,
+        "score": 3.796,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "08104b26473e",
         "title": "Donald Trump's misconduct hurts any US case against Huawei",
@@ -1230,7 +1262,7 @@
         "published": "2026-11-26T08:30:00Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 3.83,
+        "score": 3.545,
         "summary_source": "feed",
         "related": []
       },
@@ -1246,7 +1278,7 @@
         "published": "2026-11-25T18:58:25Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 2.952,
+        "score": 2.732,
         "summary_source": "feed",
         "related": []
       },
@@ -1262,7 +1294,7 @@
         "published": "2026-11-25T16:58:07Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.84,
+        "score": 2.629,
         "summary_source": "feed",
         "related": []
       },
@@ -1278,7 +1310,7 @@
         "published": "2026-11-25T15:00:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.734,
+        "score": 2.531,
         "summary_source": "feed",
         "related": []
       },
@@ -1294,7 +1326,7 @@
         "published": "2026-11-25T14:00:00Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.682,
+        "score": 2.483,
         "summary_source": "feed",
         "related": []
       },
@@ -1310,39 +1342,7 @@
         "published": "2026-11-25T12:55:29Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.627,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "dd8e627e8569",
-        "title": "China rolls out 6G pilot testing in eight provinces",
-        "summary": "China has launched a coordinated 6G pilot testing program in Beijing, Shanghai, Hebei, Jiangsu, Zhejiang, Anhui, Hubei and Guangdong.",
-        "why_it_matters": "",
-        "link": "https://www.lightreading.com/6g/china-rolls-out-6g-pilot-testing-in-eight-provinces",
-        "source": "Light Reading",
-        "type": "news",
-        "sector": "Telecommunications",
-        "published": "2026-11-25T11:14:49Z",
-        "first_seen": "2026-11-25T14:50:49Z",
-        "importance": null,
-        "score": 2.544,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "8eacd1b09dd0",
-        "title": "Orange taking Nokia plus Nvidia 'very seriously' for RAN tender",
-        "summary": "Orange's Laurent Leboucher has not yet seen GPUs offer advantages over custom silicon, but he says there are reasons that might change.",
-        "why_it_matters": "",
-        "link": "https://www.lightreading.com/5g/orange-taking-nokia-plus-nvidia-very-seriously-for-ran-tender",
-        "source": "Light Reading",
-        "type": "news",
-        "sector": "Telecommunications",
-        "published": "2026-11-25T08:30:00Z",
-        "first_seen": "2026-11-25T10:45:16Z",
-        "importance": null,
-        "score": 2.413,
+        "score": 2.432,
         "summary_source": "feed",
         "related": []
       }
@@ -1360,7 +1360,7 @@
         "published": "2026-11-25T18:24:42Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 2.92,
+        "score": 2.703,
         "summary_source": "feed",
         "related": []
       },
@@ -1376,7 +1376,7 @@
         "published": "2026-11-25T17:00:07Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.842,
+        "score": 2.63,
         "summary_source": "feed",
         "related": []
       },
@@ -1392,7 +1392,7 @@
         "published": "2026-11-25T15:00:03Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.735,
+        "score": 2.531,
         "summary_source": "feed",
         "related": []
       },
@@ -1408,7 +1408,7 @@
         "published": "2026-11-24T18:03:37Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.827,
+        "score": 1.691,
         "summary_source": "feed",
         "related": []
       },
@@ -1424,7 +1424,7 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 1.79,
+        "score": 1.657,
         "summary_source": "feed",
         "related": []
       },
@@ -1440,7 +1440,7 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 1.79,
+        "score": 1.657,
         "summary_source": "feed",
         "related": []
       },
@@ -1456,7 +1456,7 @@
         "published": "2026-11-24T14:48:57Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.717,
+        "score": 1.589,
         "summary_source": "feed",
         "related": []
       },
@@ -1472,7 +1472,7 @@
         "published": "2026-11-23T20:29:55Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 1.206,
+        "score": 1.117,
         "summary_source": "feed",
         "related": []
       }
@@ -1490,7 +1490,7 @@
         "published": "2026-11-25T18:26:19Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.922,
+        "score": 2.704,
         "summary_source": "feed",
         "related": []
       },
@@ -1506,7 +1506,7 @@
         "published": "2026-11-24T22:35:05Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 1.993,
+        "score": 1.845,
         "summary_source": "feed",
         "related": []
       },
@@ -1522,7 +1522,7 @@
         "published": "2026-11-24T19:43:49Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 1.887,
+        "score": 1.746,
         "summary_source": "feed",
         "related": []
       },
@@ -1538,7 +1538,7 @@
         "published": "2026-11-20T21:52:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.31,
+        "score": 0.287,
         "summary_source": "feed",
         "related": []
       },
@@ -1554,7 +1554,7 @@
         "published": "2026-11-19T23:30:50Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.201,
+        "score": 0.186,
         "summary_source": "feed",
         "related": []
       },
@@ -1570,7 +1570,7 @@
         "published": "2026-11-18T19:52:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.118,
+        "score": 0.109,
         "summary_source": "feed",
         "related": []
       },
@@ -1586,7 +1586,7 @@
         "published": "2026-11-18T15:10:53Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.108,
+        "score": 0.1,
         "summary_source": "feed",
         "related": []
       }
@@ -1604,7 +1604,7 @@
         "published": "2026-11-25T12:00:49Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.582,
+        "score": 2.389,
         "summary_source": "feed",
         "related": []
       },
@@ -1620,7 +1620,7 @@
         "published": "2026-11-25T12:00:09Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.581,
+        "score": 2.389,
         "summary_source": "feed",
         "related": []
       },
@@ -1636,7 +1636,7 @@
         "published": "2026-11-24T18:30:42Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.843,
+        "score": 1.706,
         "summary_source": "feed",
         "related": []
       },
@@ -1652,7 +1652,7 @@
         "published": "2026-11-24T12:00:48Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 1.626,
+        "score": 1.505,
         "summary_source": "feed",
         "related": []
       },
@@ -1668,7 +1668,7 @@
         "published": "2026-11-24T12:00:21Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 1.626,
+        "score": 1.505,
         "summary_source": "feed",
         "related": []
       },
@@ -1684,7 +1684,7 @@
         "published": "2026-11-23T12:00:19Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 1.024,
+        "score": 0.948,
         "summary_source": "feed",
         "related": []
       },
@@ -1700,7 +1700,7 @@
         "published": "2026-11-23T01:25:53Z",
         "first_seen": "2026-11-23T02:44:14Z",
         "importance": null,
-        "score": 0.836,
+        "score": 0.773,
         "summary_source": "feed",
         "related": []
       },
@@ -1716,12 +1716,44 @@
         "published": "2026-11-20T20:15:54Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.3,
+        "score": 0.278,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Developer Tools": [
+      {
+        "id": "ef36dcdd3ba2",
+        "title": "Building a Production-Ready Culture and Skills Through SRE-based Training",
+        "summary": "Training can act as a confidence engine, turning repeated behaviors into habits and culture.",
+        "why_it_matters": "",
+        "link": "https://www.infoq.com/news/2026/11/SRE-based-training/",
+        "source": "InfoQ",
+        "type": "news",
+        "sector": "Developer Tools",
+        "published": "2026-11-26T11:09:00Z",
+        "first_seen": "2026-11-26T14:46:21Z",
+        "importance": null,
+        "score": 3.731,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "b7e20f822a3d",
+        "title": "Presentation: Finetuning Your Embedding Model for Better Search: Learning from Agentic Search at Dell",
+        "summary": "Rachel Shalom explains how Dell solved enterprise RAG retrieval failures on internal terminology by fine-tuning open-source embedding models.",
+        "why_it_matters": "",
+        "link": "https://www.infoq.com/presentations/fine-tune-enterprise-rag-embeddings/",
+        "source": "InfoQ",
+        "type": "news",
+        "sector": "Developer Tools",
+        "published": "2026-11-26T11:00:00Z",
+        "first_seen": "2026-11-26T14:46:21Z",
+        "importance": null,
+        "score": 3.72,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "9f24c2b34478",
         "title": ".NET MAUI 11 Makes CoreCLR the Default Runtime and Adds Incremental XAML Hot Reload",
@@ -1734,7 +1766,7 @@
         "published": "2026-11-26T08:00:00Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 3.793,
+        "score": 3.511,
         "summary_source": "feed",
         "related": []
       },
@@ -1750,7 +1782,7 @@
         "published": "2026-11-26T06:59:00Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 3.72,
+        "score": 3.443,
         "summary_source": "feed",
         "related": []
       },
@@ -1766,7 +1798,7 @@
         "published": "2026-11-26T06:45:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 3.703,
+        "score": 3.427,
         "summary_source": "feed",
         "related": []
       },
@@ -1782,7 +1814,7 @@
         "published": "2026-11-25T17:00:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.842,
+        "score": 2.63,
         "summary_source": "feed",
         "related": []
       },
@@ -1798,7 +1830,7 @@
         "published": "2026-11-25T16:00:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.788,
+        "score": 2.58,
         "summary_source": "feed",
         "related": []
       },
@@ -1814,44 +1846,108 @@
         "published": "2026-11-25T15:59:41Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.787,
+        "score": 2.58,
         "summary_source": "none",
-        "related": []
-      },
-      {
-        "id": "8c9fb7dde123",
-        "title": "GitHub Ditches CSS-in-JS for CSS Modules, Reports 55% Faster SSR After Three-Year Migration",
-        "summary": "GitHub migrated github.com from styled-components to CSS Modules over three years, reporting a 55% cut in server-side rendering time and 25% faster component initialisation.",
-        "why_it_matters": "",
-        "link": "https://www.infoq.com/news/2026/11/github-css-migration/",
-        "source": "InfoQ",
-        "type": "news",
-        "sector": "Developer Tools",
-        "published": "2026-11-25T15:29:00Z",
-        "first_seen": "2026-11-25T18:35:53Z",
-        "importance": null,
-        "score": 2.76,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "cc7ef1501bda",
-        "title": "How to choose the next safe step in application modernization",
-        "summary": "Learn how to assess a legacy application, choose a bounded modernization step, and reuse the method with a GitHub Copilot agent skill.",
-        "why_it_matters": "",
-        "link": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
-        "source": "GitHub Blog",
-        "type": "news",
-        "sector": "Developer Tools",
-        "published": "2026-11-25T15:00:00Z",
-        "first_seen": "2026-11-25T18:35:53Z",
-        "importance": null,
-        "score": 2.734,
-        "summary_source": "feed",
         "related": []
       }
     ],
     "Breaking": [
+      {
+        "id": "501220d3d2fe",
+        "title": "Texas resumes data center permitting, approving permits for SpaceX's $24B gas power plant, ahead of Democratic Governor Gina Hinojosa taking office in January (Stephanie Findlay/Financial Times)",
+        "summary": "Stephanie Findlay / Financial Times : Texas resumes data center permitting, approving permits for SpaceX's $24B gas power plant, ahead of Democratic Governor Gina Hinojosa taking office in January — Incoming governor Gina Hinojosa pledged to rein in construction of new projects…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261126/p19",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-26T13:45:00Z",
+        "first_seen": "2026-11-26T14:46:21Z",
+        "importance": null,
+        "score": 3.53,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "6ef8e9a9bb30",
+        "title": "TrustedRouter, which raised $6M to offer E2EE and confidential computing for enterprise AI queries, says it processes 6B+ tokens per day, up from 1B in August (Davey Alba/Bloomberg)",
+        "summary": "Davey Alba / Bloomberg : TrustedRouter, which raised $6M to offer E2EE and confidential computing for enterprise AI queries, says it processes 6B+ tokens per day, up from 1B in August — The startup offers companies a way to keep employees' AI use private from model makers … Tech…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261126/p18",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-26T13:30:01Z",
+        "first_seen": "2026-11-26T14:46:21Z",
+        "importance": null,
+        "score": 3.513,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "b037c2e8f707",
+        "title": "The UK FCA says it plans to require DeFi platforms to obtain authorization, adopting a stricter stance than the US and the EU after the $6.3B Binance hack (Financial Times)",
+        "summary": "Financial Times : The UK FCA says it plans to require DeFi platforms to obtain authorization, adopting a stricter stance than the US and the EU after the $6.3B Binance hack — FCA points to Binance heist and ‘lack of consumer protections’ as reasons for tighter regulation of…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261126/p17",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-26T13:10:04Z",
+        "first_seen": "2026-11-26T14:46:21Z",
+        "importance": null,
+        "score": 3.49,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "003264365997",
+        "title": "OpenAI says it corrected a GPT-6.2 Astra and Sol launch billing mistake that had incorrectly discounted usage; Astra users will now hit their limits 40% faster (Graham Barlow/TechRadar)",
+        "summary": "Graham Barlow / TechRadar : OpenAI says it corrected a GPT-6.2 Astra and Sol launch billing mistake that had incorrectly discounted usage; Astra users will now hit their limits 40% faster — Too little, too late? … - OpenAI has admitted to a billing mistake with its new GPT-6.2…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261126/p16",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-26T13:01:08Z",
+        "first_seen": "2026-11-26T14:46:21Z",
+        "importance": null,
+        "score": 3.48,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "12a10c118b00",
+        "title": "The Dutch government says it will resist the US' planned Match Act, which aims to restrict ASML's sales to China, calling the proposal a threat to the company (Bloomberg)",
+        "summary": "Bloomberg : The Dutch government says it will resist the US' planned Match Act, which aims to restrict ASML's sales to China, calling the proposal a threat to the company — The Dutch government said it will resist US plans to further restrict ASML Holding NV's sales to China…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261126/p15",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-26T12:50:19Z",
+        "first_seen": "2026-11-26T14:46:21Z",
+        "importance": null,
+        "score": 3.468,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "b273826c583b",
+        "title": "Analysis: institutional investors are selling stakes in older VC funds from the 2021 investment boom peak at steep discounts and rushing to back new AI funds (Financial Times)",
+        "summary": "Financial Times : Analysis: institutional investors are selling stakes in older VC funds from the 2021 investment boom peak at steep discounts and rushing to back new AI funds — Pension funds and endowments ditch legacy stakes at knockdown prices to free up cash for…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261126/p14",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-26T12:35:21Z",
+        "first_seen": "2026-11-26T14:46:21Z",
+        "importance": null,
+        "score": 3.452,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "d1fe0a1a5695",
         "title": "Sources: leading AI labs are sitting on major, unreleased algorithmic breakthroughs that could break deployed cryptosystems, but their exact nature is unknown (Scott Aaronson/Shtetl-Optimized)",
@@ -1864,7 +1960,7 @@
         "published": "2026-11-26T09:50:19Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 3.537,
+        "score": 3.274,
         "summary_source": "feed",
         "related": []
       },
@@ -1880,103 +1976,7 @@
         "published": "2026-11-26T09:15:02Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 3.497,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "4ff7f260c707",
-        "title": "Q&A with Signal's Moxie Marlinspike on AI and cryptography, his privacy-focused AI chat service Confer, surveilling AI models rather than users, and more (Tyler Cowen/Conversations with Tyler)",
-        "summary": "Tyler Cowen / Conversations with Tyler : Q&A with Signal's Moxie Marlinspike on AI and cryptography, his privacy-focused AI chat service Confer, surveilling AI models rather than users, and more — Moxie Marlinspike built Signal and designed the encryption protocol underneath it…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261126/p6",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-26T08:55:02Z",
-        "first_seen": "2026-11-26T10:45:17Z",
-        "importance": null,
-        "score": 3.475,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "5112e1d68af6",
-        "title": "Memory chip shortages prompt companies worldwide to set up procurement war rooms; some chip prices have risen 10x in a year, driving up electronics prices (Wall Street Journal)",
-        "summary": "Wall Street Journal : Memory chip shortages prompt companies worldwide to set up procurement war rooms; some chip prices have risen 10x in a year, driving up electronics prices — A global shortage has companies scrambling—and it's sent prices on electronics soaring — At…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261126/p5",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-26T07:30:01Z",
-        "first_seen": "2026-11-26T10:45:17Z",
-        "importance": null,
-        "score": 3.381,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "e20fa49f86a7",
-        "title": "Analysis: the S&P 500 software and semiconductor subindices are both slightly down YTD, with software outperforming semiconductors as the AI narrative shifts (Emily Herbert/Financial Times)",
-        "summary": "Emily Herbert / Financial Times : Analysis: the S&P 500 software and semiconductor subindices are both slightly down YTD, with software outperforming semiconductors as the AI narrative shifts — Semiconductor and software shares now neck-and-neck in 2026 as investors think again…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261126/p4",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-26T06:20:05Z",
-        "first_seen": "2026-11-26T06:49:30Z",
-        "importance": null,
-        "score": 3.306,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "8122494b1804",
-        "title": "Microsoft says state-backed hacking groups in China and North Korea, including Salt Typhoon, have added AI penetration testing tool ARTEX to their arsenals (Jonathan Greig/The Record)",
-        "summary": "Jonathan Greig / The Record : Microsoft says state-backed hacking groups in China and North Korea, including Salt Typhoon, have added AI penetration testing tool ARTEX to their arsenals — State-backed hacking groups in China and North Korea are using a powerful AI hacking tool…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261126/p3",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-26T06:00:48Z",
-        "first_seen": "2026-11-26T06:49:30Z",
-        "importance": null,
-        "score": 3.286,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "ac04b150eb9c",
-        "title": "Sources: Nvidia tells its manufacturing partners to halt AI server shipments to Malaysia, Singapore, Thailand, and Indonesia as the US steps up export controls (Financial Times)",
-        "summary": "Financial Times : Sources: Nvidia tells its manufacturing partners to halt AI server shipments to Malaysia, Singapore, Thailand, and Indonesia as the US steps up export controls — Move comes as US steps up export controls to prevent Chinese access to AI computing power — Nvidia…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261126/p2",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-26T05:45:02Z",
-        "first_seen": "2026-11-26T06:49:30Z",
-        "importance": null,
-        "score": 3.269,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "528f2c75f4ce",
-        "title": "Sensor Tower: Shein's app averaged ~6M MAUs in India in October, flat since January, vs. market leader Myntra's 100M; Reliance oversees Shein's India operations (Bloomberg)",
-        "summary": "Bloomberg : Sensor Tower: Shein's app averaged ~6M MAUs in India in October, flat since January, vs. market leader Myntra's 100M; Reliance oversees Shein's India operations — Shein Global Holdings Ltd.'s return to India through a local partner is off to a slow start, due to…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261126/p1",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-26T05:15:03Z",
-        "first_seen": "2026-11-26T06:49:30Z",
-        "importance": null,
-        "score": 3.238,
+        "score": 3.237,
         "summary_source": "feed",
         "related": []
       }
@@ -1995,15 +1995,37 @@
       "score": 6.25
     },
     {
-      "term": "sensor",
+      "term": "texas",
       "sources": 3,
       "sectors": 3,
       "ids": [
-        "6a2dd807e49c",
-        "3b43e30df100",
-        "528f2c75f4ce"
+        "ef7d9181bee9",
+        "bd4c158c42fb",
+        "501220d3d2fe"
       ],
       "score": 6.25
+    },
+    {
+      "term": "private",
+      "sources": 4,
+      "sectors": 4,
+      "ids": [
+        "adf48d91f9b5",
+        "2bd76ddb5a85",
+        "764e60f5de2c"
+      ],
+      "score": 6.0
+    },
+    {
+      "term": "results",
+      "sources": 4,
+      "sectors": 4,
+      "ids": [
+        "8feeefc96bf7",
+        "ef7d9181bee9",
+        "b609633f56a0"
+      ],
+      "score": 5.45
     },
     {
       "term": "rules",
@@ -2017,57 +2039,36 @@
       "score": 5.45
     },
     {
-      "term": "testing",
+      "term": "sovereign",
       "sources": 3,
       "sectors": 3,
       "ids": [
-        "310fbb4be8f8",
-        "dd8e627e8569",
-        "8122494b1804"
+        "089e2941a4b6",
+        "0031ea1be39c",
+        "139fbc7a1afd"
+      ],
+      "score": 5.36
+    },
+    {
+      "term": "quantum computing",
+      "sources": 2,
+      "sectors": 2,
+      "ids": [
+        "089e2941a4b6",
+        "5806e44957c2"
+      ],
+      "score": 5.0
+    },
+    {
+      "term": "further",
+      "sources": 3,
+      "sectors": 3,
+      "ids": [
+        "198e36a9a73b",
+        "16c26dc0fe99",
+        "12a10c118b00"
       ],
       "score": 4.69
-    },
-    {
-      "term": "effect",
-      "sources": 3,
-      "sectors": 3,
-      "ids": [
-        "e613ac05297b",
-        "16c26dc0fe99",
-        "54f6ce63e252"
-      ],
-      "score": 4.17
-    },
-    {
-      "term": "failure",
-      "sources": 3,
-      "sectors": 3,
-      "ids": [
-        "912b4d793154",
-        "b67fffc1fe4d",
-        "3b43e30df100"
-      ],
-      "score": 4.17
-    },
-    {
-      "term": "formal verification",
-      "sources": 2,
-      "sectors": 2,
-      "ids": [
-        "3bac58693462",
-        "ccf95b180939"
-      ],
-      "score": 4.17
-    },
-    {
-      "term": "las vegas",
-      "sources": 2,
-      "sectors": 2,
-      "ids": [
-        "c32df4936489",
-        "2bd76ddb5a85"
-      ],
-      "score": 4.17
     }
   ],
   "stock_watch": [],
@@ -2347,7 +2348,7 @@
       "errors": [
         "ANTHROPIC_API_KEY is not set"
       ],
-      "new_items": 17,
+      "new_items": 22,
       "summarised": 0
     }
   }
