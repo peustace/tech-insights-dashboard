@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "generated_at": "2026-11-27T02:44:05Z",
-  "last_updated": "2026-11-27 02:44 UTC",
+  "generated_at": "2026-11-27T06:52:14Z",
+  "last_updated": "2026-11-27 06:52 UTC",
   "is_sunday_edition": false,
   "priority_sectors": [
     "AI",
@@ -10,86 +10,86 @@
   ],
   "notices": [
     "AI summaries are unavailable this run; showing feed text instead.",
-    "3 feed(s) returned no items; see Feed status at the bottom of the page."
+    "6 feed(s) returned no items; see Feed status at the bottom of the page."
   ],
   "top_stories": [
     {
-      "id": "d5d2754d4351",
-      "title": "Celebrating Cultures And Equity On Thanksgiving Day",
-      "summary": "There is an important subtext to this Thanksgiving Day in the United States. A “blue tsunami” has occurred, so, come January, the Democratic party will control the House of Representatives and the Senate.",
+      "id": "572bb26c5aeb",
+      "title": "Sandboxes, secure inference, and keeping agents from going rogue",
+      "summary": "At We Are Developers, Ryan talks with Daytona CEO and cofounder Ivan Burazin about agent sandboxes and Blackbox AI CTO and cofounder Richard Risk about encrypted inference.",
       "why_it_matters": "",
-      "link": "https://cleantechnica.com/2026/11/26/celebrating-cultures-and-equity-on-thanksgiving-day/",
+      "link": "https://stackoverflow.blog/2026/11/27/sandboxes-secure-inference-and-rogue-agents/",
+      "source": "Stack Overflow Blog",
+      "type": "news",
+      "sector": "Developer Tools",
+      "published": "2026-11-27T08:40:00Z",
+      "first_seen": "2026-11-27T06:52:14Z",
+      "importance": null,
+      "score": 4.0,
+      "summary_source": "feed",
+      "related": []
+    },
+    {
+      "id": "649086a0af75",
+      "title": "The European Parliament Brings the EU One Step Closer to a Sound Investment Policy",
+      "summary": "Being locked-in a race for technological leadership with China and the US, the EU lacks focus, coordination and financial firepower to transform its industry, ensure long-term prosperity while reaching its climate objectives.",
+      "why_it_matters": "",
+      "link": "https://cleantechnica.com/2026/11/26/the-european-parliament-brings-the-eu-one-step-closer-to-a-sound-investment-policy/",
       "source": "CleanTechnica",
       "type": "news",
       "sector": "Renewables",
-      "published": "2026-11-27T00:26:38Z",
-      "first_seen": "2026-11-27T02:44:05Z",
+      "published": "2026-11-27T04:57:21Z",
+      "first_seen": "2026-11-27T06:52:14Z",
       "importance": null,
-      "score": 3.827,
+      "score": 3.855,
       "summary_source": "feed",
       "related": []
     },
     {
-      "id": "39e8c1c6d317",
-      "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
-      "summary": "OpenAI confirmed that it fixed a 'bug' that incorrectly discounted GPT-6.2 usage, which means you'll now hit GPT usage limits 40% faster than before.",
+      "id": "a42fc225154d",
+      "title": "High-Flying Influencers",
+      "summary": "How do airlines push environmentally damaging flying behavior in digital advertising and via travel influencers? This briefing is based on the T3 Transportation Think Tank study commissioned by T&E.",
       "why_it_matters": "",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
-      "source": "BleepingComputer",
-      "type": "news",
-      "sector": "CyberSecurity",
-      "published": "2026-11-26T21:06:22Z",
-      "first_seen": "2026-11-26T22:41:37Z",
-      "importance": null,
-      "score": 3.589,
-      "summary_source": "feed",
-      "related": []
-    },
-    {
-      "id": "933c3c7b195e",
-      "title": "Happy Thanksgiving From Guangzhou, Visiting XPENG",
-      "summary": "While many in the US are celebrating Thanksgiving, I am seeing some of the most advanced technology and most impressive EVs in the world. XPENG offered to bring me to see AI day and Auto Guangzhou.",
-      "why_it_matters": "",
-      "link": "https://cleantechnica.com/2026/11/26/happy-thanksgiving-from-guangzhou-visiting-xpeng/",
+      "link": "https://cleantechnica.com/2026/11/26/high-flying-influencers/",
       "source": "CleanTechnica",
       "type": "news",
       "sector": "Renewables",
-      "published": "2026-11-26T19:42:22Z",
-      "first_seen": "2026-11-26T22:41:37Z",
+      "published": "2026-11-27T04:53:00Z",
+      "first_seen": "2026-11-27T06:52:14Z",
       "importance": null,
-      "score": 3.494,
+      "score": 3.85,
       "summary_source": "feed",
       "related": []
     },
     {
-      "id": "4bea0eb5842b",
-      "title": "Bipartisan efforts in Congress to regulate AI are gaining momentum, but they face an uphill climb due to the slow pace of legislative work and turf battles (New York Times)",
-      "summary": "New York Times : Bipartisan efforts in Congress to regulate AI are gaining momentum, but they face an uphill climb due to the slow pace of legislative work and turf battles — Members of both parties say they want to tackle artificial intelligence policy, but the slow pace of…",
+      "id": "6098968e82a1",
+      "title": "US smartphone shipments fell 9% YoY in Q3 as memory costs hit Android OEMs, especially at the low end; Apple's share rose from 50% to 57%, Samsung holds at 25% (Maurice Klaehne/Counterpoint Research)",
+      "summary": "Maurice Klaehne / Counterpoint Research : US smartphone shipments fell 9% YoY in Q3 as memory costs hit Android OEMs, especially at the low end; Apple's share rose from 50% to 57%, Samsung holds at 25% — - US smartphone shipments fell 9% YoY in Q3 as rising memory costs weighed…",
       "why_it_matters": "",
-      "link": "https://www.techmeme.com/261126/p26",
+      "link": "https://www.techmeme.com/261127/p1",
       "source": "Techmeme",
       "type": "community",
       "sector": "Breaking",
-      "published": "2026-11-27T00:30:01Z",
-      "first_seen": "2026-11-27T02:44:05Z",
+      "published": "2026-11-27T05:45:01Z",
+      "first_seen": "2026-11-27T06:52:14Z",
       "importance": null,
-      "score": 3.448,
+      "score": 3.523,
       "summary_source": "feed",
       "related": []
     },
     {
-      "id": "acf7367547b0",
-      "title": "In a fertility advance, engineered molecular glue stabilizes chromosomes in aging eggs",
-      "summary": "Researchers engineered a protein system capable of restoring normal chromosome connections in aging mouse eggs, raising hopes of one day improving IVF outcomes",
+      "id": "45929f2e3f34",
+      "title": "Dante Security, which has developed a platform for monitoring the activity of AI agents within organizations, raised a $10M seed led by NFX (Meir Orbach/CTech)",
+      "summary": "Meir Orbach / CTech : Dante Security, which has developed a platform for monitoring the activity of AI agents within organizations, raised a $10M seed led by NFX — Dante Security is developing a platform that gives organizations visibility into the actions of autonomous AI…",
       "why_it_matters": "",
-      "link": "https://www.statnews.com/2026/11/26/fertility-advance-engineered-protein-stabilizes-chromosomes-in-aging-eggs/",
-      "source": "STAT",
-      "type": "news",
-      "sector": "Biotech",
-      "published": "2026-11-26T19:00:00Z",
-      "first_seen": "2026-11-26T22:41:37Z",
+      "link": "https://www.techmeme.com/261126/p27",
+      "source": "Techmeme",
+      "type": "community",
+      "sector": "Breaking",
+      "published": "2026-11-27T03:15:01Z",
+      "first_seen": "2026-11-27T06:52:14Z",
       "importance": null,
-      "score": 3.447,
+      "score": 3.358,
       "summary_source": "feed",
       "related": []
     }
@@ -108,7 +108,7 @@
         "published": "2026-11-26T11:37:17Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 2.99,
+        "score": 2.761,
         "summary_source": "none",
         "related": []
       },
@@ -124,7 +124,7 @@
         "published": "2026-11-26T05:05:36Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 2.637,
+        "score": 2.435,
         "summary_source": "none",
         "related": []
       },
@@ -140,7 +140,7 @@
         "published": "2026-11-26T00:00:00Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 2.391,
+        "score": 2.208,
         "summary_source": "none",
         "related": []
       },
@@ -156,7 +156,7 @@
         "published": "2026-11-25T18:52:55Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 2.166,
+        "score": 2.0,
         "summary_source": "none",
         "related": []
       },
@@ -172,7 +172,7 @@
         "published": "2026-11-25T10:22:09Z",
         "first_seen": "2026-11-25T10:45:16Z",
         "importance": null,
-        "score": 1.839,
+        "score": 1.698,
         "summary_source": "none",
         "related": []
       },
@@ -188,7 +188,7 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 1.579,
+        "score": 1.458,
         "summary_source": "feed",
         "related": []
       },
@@ -204,7 +204,7 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 1.579,
+        "score": 1.458,
         "summary_source": "feed",
         "related": []
       },
@@ -220,7 +220,7 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 1.579,
+        "score": 1.458,
         "summary_source": "feed",
         "related": []
       }
@@ -238,7 +238,7 @@
         "published": "2026-11-26T18:00:00Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 3.381,
+        "score": 3.122,
         "summary_source": "feed",
         "related": []
       },
@@ -254,7 +254,7 @@
         "published": "2026-11-26T14:00:00Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 3.13,
+        "score": 2.891,
         "summary_source": "feed",
         "related": []
       },
@@ -270,7 +270,7 @@
         "published": "2026-11-26T08:55:48Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 2.839,
+        "score": 2.622,
         "summary_source": "feed",
         "related": []
       },
@@ -286,7 +286,7 @@
         "published": "2026-11-26T08:31:51Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 2.817,
+        "score": 2.602,
         "summary_source": "feed",
         "related": []
       },
@@ -302,7 +302,7 @@
         "published": "2026-11-25T22:02:21Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 2.302,
+        "score": 2.126,
         "summary_source": "feed",
         "related": []
       },
@@ -318,7 +318,7 @@
         "published": "2026-11-25T20:36:47Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 2.24,
+        "score": 2.068,
         "summary_source": "feed",
         "related": []
       },
@@ -334,7 +334,7 @@
         "published": "2026-11-25T18:00:22Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.13,
+        "score": 1.967,
         "summary_source": "feed",
         "related": []
       },
@@ -350,7 +350,7 @@
         "published": "2026-11-25T17:34:58Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.113,
+        "score": 1.951,
         "summary_source": "feed",
         "related": []
       }
@@ -368,7 +368,7 @@
         "published": "2026-11-26T05:14:05Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 2.644,
+        "score": 2.442,
         "summary_source": "feed",
         "related": []
       },
@@ -384,7 +384,7 @@
         "published": "2026-11-26T04:48:05Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 2.622,
+        "score": 2.421,
         "summary_source": "feed",
         "related": []
       },
@@ -400,7 +400,7 @@
         "published": "2026-11-26T04:13:57Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 2.594,
+        "score": 2.395,
         "summary_source": "feed",
         "related": []
       },
@@ -416,7 +416,7 @@
         "published": "2026-11-26T03:58:16Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 2.581,
+        "score": 2.383,
         "summary_source": "feed",
         "related": []
       },
@@ -432,7 +432,7 @@
         "published": "2026-11-26T03:53:09Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 2.576,
+        "score": 2.379,
         "summary_source": "feed",
         "related": []
       },
@@ -448,7 +448,7 @@
         "published": "2026-11-26T02:57:24Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 2.531,
+        "score": 2.337,
         "summary_source": "feed",
         "related": []
       },
@@ -464,7 +464,7 @@
         "published": "2026-11-26T02:18:06Z",
         "first_seen": "2026-11-26T02:44:37Z",
         "importance": null,
-        "score": 2.499,
+        "score": 2.308,
         "summary_source": "feed",
         "related": []
       },
@@ -480,7 +480,7 @@
         "published": "2026-11-26T02:05:25Z",
         "first_seen": "2026-11-26T02:44:37Z",
         "importance": null,
-        "score": 2.489,
+        "score": 2.298,
         "summary_source": "feed",
         "related": []
       }
@@ -498,7 +498,7 @@
         "published": "2026-11-26T21:06:22Z",
         "first_seen": "2026-11-26T22:41:37Z",
         "importance": null,
-        "score": 3.589,
+        "score": 3.314,
         "summary_source": "feed",
         "related": []
       },
@@ -514,7 +514,7 @@
         "published": "2026-11-26T17:58:42Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 3.379,
+        "score": 3.121,
         "summary_source": "feed",
         "related": []
       },
@@ -530,7 +530,7 @@
         "published": "2026-11-26T17:15:27Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 3.333,
+        "score": 3.078,
         "summary_source": "feed",
         "related": []
       },
@@ -546,7 +546,7 @@
         "published": "2026-11-26T15:23:28Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 3.215,
+        "score": 2.969,
         "summary_source": "feed",
         "related": []
       },
@@ -562,7 +562,7 @@
         "published": "2026-11-26T11:50:17Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 3.003,
+        "score": 2.773,
         "summary_source": "feed",
         "related": []
       },
@@ -578,7 +578,7 @@
         "published": "2026-11-25T22:05:09Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 2.304,
+        "score": 2.128,
         "summary_source": "feed",
         "related": []
       },
@@ -594,7 +594,7 @@
         "published": "2026-11-25T21:33:33Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 2.281,
+        "score": 2.106,
         "summary_source": "feed",
         "related": []
       },
@@ -610,7 +610,7 @@
         "published": "2026-11-25T19:39:31Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 2.199,
+        "score": 2.031,
         "summary_source": "feed",
         "related": []
       }
@@ -628,7 +628,7 @@
         "published": "2026-11-26T17:53:00Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 3.373,
+        "score": 3.115,
         "summary_source": "feed",
         "related": []
       },
@@ -644,7 +644,7 @@
         "published": "2026-11-24T15:17:50Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.274,
+        "score": 1.176,
         "summary_source": "feed",
         "related": []
       },
@@ -660,7 +660,7 @@
         "published": "2026-11-19T17:25:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.132,
+        "score": 0.122,
         "summary_source": "feed",
         "related": []
       },
@@ -676,7 +676,7 @@
         "published": "2026-11-19T15:38:18Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.127,
+        "score": 0.117,
         "summary_source": "feed",
         "related": []
       },
@@ -692,7 +692,7 @@
         "published": "2026-11-18T22:02:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.091,
+        "score": 0.084,
         "summary_source": "feed",
         "related": []
       },
@@ -708,12 +708,60 @@
         "published": "2026-11-18T20:31:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.088,
+        "score": 0.081,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Renewables": [
+      {
+        "id": "649086a0af75",
+        "title": "The European Parliament Brings the EU One Step Closer to a Sound Investment Policy",
+        "summary": "Being locked-in a race for technological leadership with China and the US, the EU lacks focus, coordination and financial firepower to transform its industry, ensure long-term prosperity while reaching its climate objectives.",
+        "why_it_matters": "",
+        "link": "https://cleantechnica.com/2026/11/26/the-european-parliament-brings-the-eu-one-step-closer-to-a-sound-investment-policy/",
+        "source": "CleanTechnica",
+        "type": "news",
+        "sector": "Renewables",
+        "published": "2026-11-27T04:57:21Z",
+        "first_seen": "2026-11-27T06:52:14Z",
+        "importance": null,
+        "score": 3.855,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "a42fc225154d",
+        "title": "High-Flying Influencers",
+        "summary": "How do airlines push environmentally damaging flying behavior in digital advertising and via travel influencers? This briefing is based on the T3 Transportation Think Tank study commissioned by T&E.",
+        "why_it_matters": "",
+        "link": "https://cleantechnica.com/2026/11/26/high-flying-influencers/",
+        "source": "CleanTechnica",
+        "type": "news",
+        "sector": "Renewables",
+        "published": "2026-11-27T04:53:00Z",
+        "first_seen": "2026-11-27T06:52:14Z",
+        "importance": null,
+        "score": 3.85,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "acaf8540ebca",
+        "title": "Over 70,000 km by Plane a Year: Travel Influencers Are Blowing Their Carbon Budgets and encouraging Europeans to Do the Same",
+        "summary": "Influencers flew mostly long-haul flights (49%) and an average of 72,244 km each, roughly equivalent to circumnavigating the globe twice. EasyJet, Air France, Aer Lingus are among the airlines that spend the most on social media, including via influencers.",
+        "why_it_matters": "",
+        "link": "https://cleantechnica.com/2026/11/26/over-70000-km-by-plane-a-year-travel-influencers-are-blowing-their-carbon-budgets-and-encouraging-europeans-to-do-the-same/",
+        "source": "CleanTechnica",
+        "type": "news",
+        "sector": "Renewables",
+        "published": "2026-11-27T04:50:29Z",
+        "first_seen": "2026-11-27T06:52:14Z",
+        "importance": null,
+        "score": 3.847,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "d5d2754d4351",
         "title": "Celebrating Cultures And Equity On Thanksgiving Day",
@@ -726,7 +774,7 @@
         "published": "2026-11-27T00:26:38Z",
         "first_seen": "2026-11-27T02:44:05Z",
         "importance": null,
-        "score": 3.827,
+        "score": 3.534,
         "summary_source": "feed",
         "related": []
       },
@@ -742,7 +790,7 @@
         "published": "2026-11-26T19:42:22Z",
         "first_seen": "2026-11-26T22:41:37Z",
         "importance": null,
-        "score": 3.494,
+        "score": 3.226,
         "summary_source": "feed",
         "related": []
       },
@@ -758,7 +806,7 @@
         "published": "2026-11-26T16:55:51Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 3.312,
+        "score": 3.058,
         "summary_source": "feed",
         "related": []
       },
@@ -774,7 +822,7 @@
         "published": "2026-11-26T14:49:46Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 3.181,
+        "score": 2.937,
         "summary_source": "feed",
         "related": []
       },
@@ -790,55 +838,7 @@
         "published": "2026-11-26T00:41:15Z",
         "first_seen": "2026-11-26T02:44:37Z",
         "importance": null,
-        "score": 2.422,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "2db668d0f4aa",
-        "title": "DTE Energy Advances New Michigan Solar Projects to Create Jobs & Save Customers Money on Fuel Costs",
-        "summary": "The company launches a competitive bidding process for up to 150 megawatts of new Michigan solar energy.",
-        "why_it_matters": "",
-        "link": "https://cleantechnica.com/2026/11/25/dte-energy-advances-new-michigan-solar-projects-to-create-jobs-save-customers-money-on-fuel-costs/",
-        "source": "CleanTechnica",
-        "type": "news",
-        "sector": "Renewables",
-        "published": "2026-11-26T00:03:28Z",
-        "first_seen": "2026-11-26T02:44:37Z",
-        "importance": null,
-        "score": 2.393,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "7d2aeb2001ed",
-        "title": "Europe’s Solar Problem Is No Longer Solar",
-        "summary": "Europe’s solar fleet is delivering. The rules, grids, and investment framework around it are struggling to keep up.",
-        "why_it_matters": "",
-        "link": "https://cleantechnica.com/2026/11/25/europes-solar-problem-is-no-longer-solar/",
-        "source": "CleanTechnica",
-        "type": "news",
-        "sector": "Renewables",
-        "published": "2026-11-25T23:51:55Z",
-        "first_seen": "2026-11-26T02:44:37Z",
-        "importance": null,
-        "score": 2.384,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "c32df4936489",
-        "title": "SC Solar Showcases at RE+ 2026 Garner Global Attention",
-        "summary": "Covering TOPCon, XBC, HJT, and Perovskite-Silicon Tandem Technologies; Over 1,000 Automated Module Lines Delivered Globally, More Than 40 in North America RE+ 2026 was held at the Las Vegas Convention Center from November 17 to 19. Driven by the U.S.",
-        "why_it_matters": "",
-        "link": "https://cleantechnica.com/2026/11/25/sc-solar-showcases-at-re-2026-garner-global-attention/",
-        "source": "CleanTechnica",
-        "type": "news",
-        "sector": "Renewables",
-        "published": "2026-11-25T23:20:05Z",
-        "first_seen": "2026-11-26T02:44:37Z",
-        "importance": null,
-        "score": 2.36,
+        "score": 2.237,
         "summary_source": "feed",
         "related": []
       }
@@ -856,7 +856,7 @@
         "published": "2026-11-26T15:03:14Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 3.194,
+        "score": 2.95,
         "summary_source": "feed",
         "related": []
       },
@@ -872,7 +872,7 @@
         "published": "2026-11-26T14:20:22Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 3.151,
+        "score": 2.91,
         "summary_source": "feed",
         "related": []
       },
@@ -888,7 +888,7 @@
         "published": "2026-11-26T13:03:53Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 3.074,
+        "score": 2.839,
         "summary_source": "feed",
         "related": []
       },
@@ -904,7 +904,7 @@
         "published": "2026-11-26T11:42:32Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 2.995,
+        "score": 2.766,
         "summary_source": "feed",
         "related": []
       },
@@ -920,7 +920,7 @@
         "published": "2026-11-26T09:30:59Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 2.871,
+        "score": 2.652,
         "summary_source": "feed",
         "related": []
       },
@@ -936,7 +936,7 @@
         "published": "2026-11-25T16:09:13Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.055,
+        "score": 1.898,
         "summary_source": "feed",
         "related": []
       },
@@ -952,7 +952,7 @@
         "published": "2026-11-25T14:36:37Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 1.995,
+        "score": 1.842,
         "summary_source": "feed",
         "related": []
       },
@@ -968,7 +968,7 @@
         "published": "2026-11-25T14:13:13Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 1.98,
+        "score": 1.829,
         "summary_source": "feed",
         "related": []
       }
@@ -986,7 +986,7 @@
         "published": "2026-11-25T14:53:24Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.006,
+        "score": 1.852,
         "summary_source": "feed",
         "related": []
       },
@@ -1002,7 +1002,7 @@
         "published": "2026-11-25T14:00:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.972,
+        "score": 1.821,
         "summary_source": "feed",
         "related": []
       },
@@ -1018,7 +1018,7 @@
         "published": "2026-11-24T16:28:23Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.303,
+        "score": 1.203,
         "summary_source": "feed",
         "related": []
       },
@@ -1034,7 +1034,7 @@
         "published": "2026-11-24T15:35:48Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.281,
+        "score": 1.183,
         "summary_source": "feed",
         "related": []
       },
@@ -1050,7 +1050,7 @@
         "published": "2026-11-24T15:28:00Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.278,
+        "score": 1.18,
         "summary_source": "feed",
         "related": []
       },
@@ -1066,7 +1066,7 @@
         "published": "2026-11-23T16:28:15Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 0.821,
+        "score": 0.758,
         "summary_source": "feed",
         "related": []
       },
@@ -1082,7 +1082,7 @@
         "published": "2026-11-23T15:00:00Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 0.798,
+        "score": 0.737,
         "summary_source": "feed",
         "related": []
       },
@@ -1098,7 +1098,7 @@
         "published": "2026-11-20T16:46:43Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.206,
+        "score": 0.191,
         "summary_source": "feed",
         "related": []
       }
@@ -1116,7 +1116,7 @@
         "published": "2026-11-26T19:00:00Z",
         "first_seen": "2026-11-26T22:41:37Z",
         "importance": null,
-        "score": 3.447,
+        "score": 3.183,
         "summary_source": "feed",
         "related": []
       },
@@ -1132,7 +1132,7 @@
         "published": "2026-11-26T12:00:00Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 3.012,
+        "score": 2.781,
         "summary_source": "feed",
         "related": []
       },
@@ -1148,7 +1148,7 @@
         "published": "2026-11-25T21:28:53Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 2.277,
+        "score": 2.103,
         "summary_source": "feed",
         "related": []
       },
@@ -1164,7 +1164,7 @@
         "published": "2026-11-25T20:44:15Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 2.245,
+        "score": 2.073,
         "summary_source": "feed",
         "related": []
       },
@@ -1180,7 +1180,7 @@
         "published": null,
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.154,
+        "score": 1.99,
         "summary_source": "feed",
         "related": []
       },
@@ -1196,7 +1196,7 @@
         "published": null,
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.154,
+        "score": 1.99,
         "summary_source": "feed",
         "related": []
       },
@@ -1212,7 +1212,7 @@
         "published": null,
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.004,
+        "score": 1.851,
         "summary_source": "feed",
         "related": []
       },
@@ -1228,7 +1228,7 @@
         "published": null,
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 2.004,
+        "score": 1.851,
         "summary_source": "feed",
         "related": []
       }
@@ -1246,7 +1246,7 @@
         "published": "2026-11-26T12:20:50Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 3.032,
+        "score": 2.8,
         "summary_source": "feed",
         "related": []
       },
@@ -1262,7 +1262,7 @@
         "published": "2026-11-26T12:02:57Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 3.015,
+        "score": 2.784,
         "summary_source": "feed",
         "related": []
       },
@@ -1278,7 +1278,7 @@
         "published": "2026-11-26T08:30:00Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 2.816,
+        "score": 2.6,
         "summary_source": "feed",
         "related": []
       },
@@ -1294,7 +1294,7 @@
         "published": "2026-11-25T18:58:25Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 2.17,
+        "score": 2.004,
         "summary_source": "feed",
         "related": []
       },
@@ -1310,7 +1310,7 @@
         "published": "2026-11-25T16:58:07Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.088,
+        "score": 1.928,
         "summary_source": "feed",
         "related": []
       },
@@ -1326,7 +1326,7 @@
         "published": "2026-11-25T15:00:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.01,
+        "score": 1.856,
         "summary_source": "feed",
         "related": []
       },
@@ -1342,7 +1342,7 @@
         "published": "2026-11-25T14:00:00Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 1.972,
+        "score": 1.821,
         "summary_source": "feed",
         "related": []
       },
@@ -1358,7 +1358,7 @@
         "published": "2026-11-25T12:55:29Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 1.931,
+        "score": 1.784,
         "summary_source": "feed",
         "related": []
       }
@@ -1376,7 +1376,7 @@
         "published": "2026-11-25T18:24:42Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 2.147,
+        "score": 1.982,
         "summary_source": "feed",
         "related": []
       },
@@ -1392,7 +1392,7 @@
         "published": "2026-11-25T17:00:07Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.089,
+        "score": 1.929,
         "summary_source": "feed",
         "related": []
       },
@@ -1408,7 +1408,7 @@
         "published": "2026-11-25T15:00:03Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.01,
+        "score": 1.856,
         "summary_source": "feed",
         "related": []
       },
@@ -1424,7 +1424,7 @@
         "published": "2026-11-24T18:03:37Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.343,
+        "score": 1.24,
         "summary_source": "feed",
         "related": []
       },
@@ -1440,7 +1440,7 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 1.316,
+        "score": 1.215,
         "summary_source": "feed",
         "related": []
       },
@@ -1456,7 +1456,7 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 1.316,
+        "score": 1.215,
         "summary_source": "feed",
         "related": []
       },
@@ -1472,7 +1472,7 @@
         "published": "2026-11-24T14:48:57Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.262,
+        "score": 1.165,
         "summary_source": "feed",
         "related": []
       },
@@ -1488,7 +1488,7 @@
         "published": "2026-11-23T20:29:55Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 0.887,
+        "score": 0.819,
         "summary_source": "feed",
         "related": []
       }
@@ -1506,7 +1506,7 @@
         "published": "2026-11-25T18:26:19Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.148,
+        "score": 1.983,
         "summary_source": "feed",
         "related": []
       },
@@ -1522,7 +1522,7 @@
         "published": "2026-11-24T22:35:05Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 1.465,
+        "score": 1.353,
         "summary_source": "feed",
         "related": []
       },
@@ -1538,7 +1538,7 @@
         "published": "2026-11-24T19:43:49Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 1.387,
+        "score": 1.281,
         "summary_source": "feed",
         "related": []
       },
@@ -1554,7 +1554,7 @@
         "published": "2026-11-20T21:52:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.228,
+        "score": 0.21,
         "summary_source": "feed",
         "related": []
       },
@@ -1570,7 +1570,7 @@
         "published": "2026-11-19T23:30:50Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.148,
+        "score": 0.137,
         "summary_source": "feed",
         "related": []
       },
@@ -1586,7 +1586,7 @@
         "published": "2026-11-18T19:52:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.087,
+        "score": 0.08,
         "summary_source": "feed",
         "related": []
       },
@@ -1602,7 +1602,7 @@
         "published": "2026-11-18T15:10:53Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.079,
+        "score": 0.073,
         "summary_source": "feed",
         "related": []
       }
@@ -1620,7 +1620,7 @@
         "published": "2026-11-25T12:00:49Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 1.898,
+        "score": 1.753,
         "summary_source": "feed",
         "related": []
       },
@@ -1636,7 +1636,7 @@
         "published": "2026-11-25T12:00:09Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 1.897,
+        "score": 1.752,
         "summary_source": "feed",
         "related": []
       },
@@ -1652,7 +1652,7 @@
         "published": "2026-11-24T18:30:42Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.355,
+        "score": 1.251,
         "summary_source": "feed",
         "related": []
       },
@@ -1668,7 +1668,7 @@
         "published": "2026-11-24T12:00:48Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 1.196,
+        "score": 1.104,
         "summary_source": "feed",
         "related": []
       },
@@ -1684,7 +1684,7 @@
         "published": "2026-11-24T12:00:21Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 1.195,
+        "score": 1.104,
         "summary_source": "feed",
         "related": []
       },
@@ -1700,7 +1700,7 @@
         "published": "2026-11-23T12:00:19Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 0.753,
+        "score": 0.695,
         "summary_source": "feed",
         "related": []
       },
@@ -1716,7 +1716,7 @@
         "published": "2026-11-23T01:25:53Z",
         "first_seen": "2026-11-23T02:44:14Z",
         "importance": null,
-        "score": 0.614,
+        "score": 0.567,
         "summary_source": "feed",
         "related": []
       },
@@ -1732,12 +1732,28 @@
         "published": "2026-11-20T20:15:54Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.221,
+        "score": 0.204,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Developer Tools": [
+      {
+        "id": "572bb26c5aeb",
+        "title": "Sandboxes, secure inference, and keeping agents from going rogue",
+        "summary": "At We Are Developers, Ryan talks with Daytona CEO and cofounder Ivan Burazin about agent sandboxes and Blackbox AI CTO and cofounder Richard Risk about encrypted inference.",
+        "why_it_matters": "",
+        "link": "https://stackoverflow.blog/2026/11/27/sandboxes-secure-inference-and-rogue-agents/",
+        "source": "Stack Overflow Blog",
+        "type": "news",
+        "sector": "Developer Tools",
+        "published": "2026-11-27T08:40:00Z",
+        "first_seen": "2026-11-27T06:52:14Z",
+        "importance": null,
+        "score": 4.0,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "c582724d7eaf",
         "title": "QCon San Francisco 2026: How to Kill the Code Review",
@@ -1750,7 +1766,7 @@
         "published": "2026-11-26T17:16:00Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 3.333,
+        "score": 3.078,
         "summary_source": "feed",
         "related": []
       },
@@ -1766,7 +1782,7 @@
         "published": "2026-11-26T11:09:00Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 2.963,
+        "score": 2.736,
         "summary_source": "feed",
         "related": []
       },
@@ -1782,7 +1798,7 @@
         "published": "2026-11-26T11:00:00Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 2.955,
+        "score": 2.728,
         "summary_source": "feed",
         "related": []
       },
@@ -1798,7 +1814,7 @@
         "published": "2026-11-26T08:00:00Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 2.789,
+        "score": 2.575,
         "summary_source": "feed",
         "related": []
       },
@@ -1814,7 +1830,7 @@
         "published": "2026-11-26T06:59:00Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 2.735,
+        "score": 2.525,
         "summary_source": "feed",
         "related": []
       },
@@ -1830,7 +1846,7 @@
         "published": "2026-11-26T06:45:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 2.722,
+        "score": 2.514,
         "summary_source": "feed",
         "related": []
       },
@@ -1846,28 +1862,44 @@
         "published": "2026-11-25T17:00:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 2.089,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "f0986b24c895",
-        "title": "Art of play in the age of AI",
-        "summary": "Now that code ships faster than ever, you have more time to spend on projects just for the fun of it. Here's what we can learn through that process as developers.",
-        "why_it_matters": "",
-        "link": "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai/",
-        "source": "GitHub Blog",
-        "type": "news",
-        "sector": "Developer Tools",
-        "published": "2026-11-25T16:00:00Z",
-        "first_seen": "2026-11-25T18:35:53Z",
-        "importance": null,
-        "score": 2.049,
+        "score": 1.929,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Breaking": [
+      {
+        "id": "6098968e82a1",
+        "title": "US smartphone shipments fell 9% YoY in Q3 as memory costs hit Android OEMs, especially at the low end; Apple's share rose from 50% to 57%, Samsung holds at 25% (Maurice Klaehne/Counterpoint Research)",
+        "summary": "Maurice Klaehne / Counterpoint Research : US smartphone shipments fell 9% YoY in Q3 as memory costs hit Android OEMs, especially at the low end; Apple's share rose from 50% to 57%, Samsung holds at 25% — - US smartphone shipments fell 9% YoY in Q3 as rising memory costs weighed…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261127/p1",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-27T05:45:01Z",
+        "first_seen": "2026-11-27T06:52:14Z",
+        "importance": null,
+        "score": 3.523,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "45929f2e3f34",
+        "title": "Dante Security, which has developed a platform for monitoring the activity of AI agents within organizations, raised a $10M seed led by NFX (Meir Orbach/CTech)",
+        "summary": "Meir Orbach / CTech : Dante Security, which has developed a platform for monitoring the activity of AI agents within organizations, raised a $10M seed led by NFX — Dante Security is developing a platform that gives organizations visibility into the actions of autonomous AI…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261126/p27",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-27T03:15:01Z",
+        "first_seen": "2026-11-27T06:52:14Z",
+        "importance": null,
+        "score": 3.358,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "4bea0eb5842b",
         "title": "Bipartisan efforts in Congress to regulate AI are gaining momentum, but they face an uphill climb due to the slow pace of legislative work and turf battles (New York Times)",
@@ -1880,7 +1912,7 @@
         "published": "2026-11-27T00:30:01Z",
         "first_seen": "2026-11-27T02:44:05Z",
         "importance": null,
-        "score": 3.448,
+        "score": 3.184,
         "summary_source": "feed",
         "related": []
       },
@@ -1896,7 +1928,7 @@
         "published": "2026-11-26T22:10:01Z",
         "first_seen": "2026-11-26T22:41:37Z",
         "importance": null,
-        "score": 3.297,
+        "score": 3.045,
         "summary_source": "feed",
         "related": []
       },
@@ -1912,8 +1944,24 @@
         "published": "2026-11-26T19:55:02Z",
         "first_seen": "2026-11-26T22:41:37Z",
         "importance": null,
-        "score": 3.157,
+        "score": 2.915,
         "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "649745ac0522",
+        "title": "Hard Drive pricing has gotten bad",
+        "summary": "",
+        "why_it_matters": "",
+        "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+        "source": "Hacker News",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-27T01:13:49Z",
+        "first_seen": "2026-11-27T06:52:14Z",
+        "importance": null,
+        "score": 2.871,
+        "summary_source": "none",
         "related": []
       },
       {
@@ -1928,7 +1976,7 @@
         "published": "2026-11-26T18:05:38Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 3.048,
+        "score": 2.815,
         "summary_source": "feed",
         "related": []
       },
@@ -1944,61 +1992,24 @@
         "published": "2026-11-26T16:50:28Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 2.976,
+        "score": 2.748,
         "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "433df1c0638a",
-        "title": "UK workers at Rockstar Games vote against a union recognition deal, with only 25% voting in favor; source: 1,544 employees, or 93.2% of eligible workers, voted (Chris Kerr/Vertical Slice)",
-        "summary": "Chris Kerr / Vertical Slice : UK workers at Rockstar Games vote against a union recognition deal, with only 25% voting in favor; source: 1,544 employees, or 93.2% of eligible workers, voted — UK workers at Grand Theft Auto maker Rockstar Games have voted against a union…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261126/p21",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-26T16:10:01Z",
-        "first_seen": "2026-11-26T18:40:13Z",
-        "importance": null,
-        "score": 2.937,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "8bd5f72c01a0",
-        "title": "Avicena, which links AI chips with microLEDs instead of lasers, raised a $100M+ Series C led by Intervest, with participation from SK Hynix, Samsung, and AMD (Cristian Dina/The Next Web)",
-        "summary": "Cristian Dina / The Next Web : Avicena, which links AI chips with microLEDs instead of lasers, raised a $100M+ Series C led by Intervest, with participation from SK Hynix, Samsung, and AMD — SK hynix, Samsung and AMD's venture arms joined the Series C.",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261126/p20",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-26T15:50:27Z",
-        "first_seen": "2026-11-26T18:40:13Z",
-        "importance": null,
-        "score": 2.919,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "05bb29bc207b",
-        "title": "AI made self-hosting fun again",
-        "summary": "",
-        "why_it_matters": "",
-        "link": "https://janlukas.blog/posts/ai-self-hosting",
-        "source": "Hacker News",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-26T21:47:45Z",
-        "first_seen": "2026-11-27T02:44:05Z",
-        "importance": null,
-        "score": 2.91,
-        "summary_source": "none",
         "related": []
       }
     ]
   },
   "emerging": [
+    {
+      "term": "monitoring",
+      "sources": 3,
+      "sectors": 3,
+      "ids": [
+        "8b5a8bd0500a",
+        "2bd76ddb5a85",
+        "45929f2e3f34"
+      ],
+      "score": 4.5
+    },
     {
       "term": "quantum computing",
       "sources": 2,
@@ -2054,32 +2065,23 @@
       "score": 3.46
     },
     {
+      "term": "media",
+      "sources": 3,
+      "sectors": 3,
+      "ids": [
+        "acaf8540ebca",
+        "912b4d793154",
+        "54f6ce63e252"
+      ],
+      "score": 3.46
+    },
+    {
       "term": "come january",
       "sources": 2,
       "sectors": 2,
       "ids": [
         "d5d2754d4351",
         "54f6ce63e252"
-      ],
-      "score": 3.33
-    },
-    {
-      "term": "formal verification",
-      "sources": 2,
-      "sectors": 2,
-      "ids": [
-        "3bac58693462",
-        "ccf95b180939"
-      ],
-      "score": 3.33
-    },
-    {
-      "term": "las vegas",
-      "sources": 2,
-      "sectors": 2,
-      "ids": [
-        "c32df4936489",
-        "2bd76ddb5a85"
       ],
       "score": 3.33
     }
@@ -2141,8 +2143,8 @@
         "sector": "Quantum",
         "source": "arXiv quant-ph",
         "url": "https://rss.arxiv.org/rss/quant-ph",
-        "status": "ok",
-        "entries": 3,
+        "status": "empty",
+        "entries": 0,
         "error": null
       },
       {
@@ -2253,8 +2255,8 @@
         "sector": "Telecommunications",
         "source": "arXiv cs.NI",
         "url": "https://rss.arxiv.org/rss/cs.NI",
-        "status": "ok",
-        "entries": 2,
+        "status": "empty",
+        "entries": 0,
         "error": null
       },
       {
@@ -2277,8 +2279,8 @@
         "sector": "Robotics",
         "source": "arXiv cs.RO",
         "url": "https://rss.arxiv.org/rss/cs.RO",
-        "status": "ok",
-        "entries": 2,
+        "status": "empty",
+        "entries": 0,
         "error": null
       },
       {
@@ -2361,7 +2363,7 @@
       "errors": [
         "ANTHROPIC_API_KEY is not set"
       ],
-      "new_items": 4,
+      "new_items": 8,
       "summarised": 0
     }
   },
