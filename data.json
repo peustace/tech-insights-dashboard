@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "generated_at": "2026-11-27T14:42:48Z",
-  "last_updated": "2026-11-27 14:42 UTC",
+  "generated_at": "2026-11-27T18:39:58Z",
+  "last_updated": "2026-11-27 18:39 UTC",
   "is_sunday_edition": false,
   "priority_sectors": [
     "AI",
@@ -14,82 +14,82 @@
   ],
   "top_stories": [
     {
-      "id": "53454533f08b",
-      "title": "Meta Brings Code Review Auto-Approval More Mainstream with PyTorch GreenLight",
-      "summary": "PyTorch now lets an AI reviewer approve pull requests from its own maintainers. GreenLight is an open-source take on RADAR, the system Meta uses to auto-land low-risk diffs after safety checks, a risk score and an LLM review.",
+      "id": "8e4f86e5da89",
+      "title": "Musk Space Based Data Center Idea Is A Betrayal Of Humanity",
+      "summary": "Despite copious evidence that Elon Musk is little more than a snake oil salesman and carnival barker like P. T.",
       "why_it_matters": "",
-      "link": "https://www.infoq.com/news/2026/11/uber-agent-spend-steady/",
-      "source": "InfoQ",
+      "link": "https://cleantechnica.com/2026/11/27/musk-space-based-data-center-idea-is-a-betrayal-of-humanity/",
+      "source": "CleanTechnica",
       "type": "news",
-      "sector": "Developer Tools",
-      "published": "2026-11-27T14:36:00Z",
-      "first_seen": "2026-11-27T14:42:48Z",
+      "sector": "Renewables",
+      "published": "2026-11-27T18:23:29Z",
+      "first_seen": "2026-11-27T18:39:58Z",
       "importance": null,
-      "score": 3.991,
+      "score": 3.979,
       "summary_source": "feed",
       "related": []
     },
     {
-      "id": "fe3c28e656a2",
-      "title": "Netflix Builds Quasar to Measure the Blast Radius of Library API Changes",
-      "summary": "Netflix developed Quasar, an internal tool that combines semantic code indexing and API comparisons to identify downstream consumers affected by library changes.",
+      "id": "3ca3d0a07909",
+      "title": "Unpatched Cacti zero-day with public PoC gives remote code execution",
+      "summary": "A zero-day vulnerability in the Cacti network monitoring platform has been publicly disclosed, along with a proof-of-concept exploit that lets unauthenticated attackers execute commands on vulnerable servers.",
       "why_it_matters": "",
-      "link": "https://www.infoq.com/news/2026/11/netflix-quasar-api-impact/",
-      "source": "InfoQ",
-      "type": "news",
-      "sector": "Developer Tools",
-      "published": "2026-11-27T14:35:00Z",
-      "first_seen": "2026-11-27T14:42:48Z",
-      "importance": null,
-      "score": 3.99,
-      "summary_source": "feed",
-      "related": []
-    },
-    {
-      "id": "11b09c2da487",
-      "title": "Beyond Lithography: The Battle for Semiconductor Manufacturing Yield",
-      "summary": "The proposed MATCH Act exposes a strategic vulnerability extending beyond ASML to the technologies that determine manufacturing productivity and yield.",
-      "why_it_matters": "",
-      "link": "https://www.eetimes.com/beyond-lithography-the-battle-for-semiconductor-manufacturing-yield/",
-      "source": "EE Times",
-      "type": "news",
-      "sector": "Semiconductors",
-      "published": "2026-11-27T14:22:45Z",
-      "first_seen": "2026-11-27T14:42:48Z",
-      "importance": null,
-      "score": 3.974,
-      "summary_source": "feed",
-      "related": []
-    },
-    {
-      "id": "1f39f870ce25",
-      "title": "Malwarebytes Antivirus: Get 50% off during Black Friday 2026",
-      "summary": "Malwarebytes' 2026 Black Friday and Cyber Monday sale is now live, offering 50% off security subscriptions for individuals, families, and small businesses, including its antivirus software, VPN, identity theft protection, and personal data removal services.",
-      "why_it_matters": "",
-      "link": "https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/",
+      "link": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
       "source": "BleepingComputer",
       "type": "news",
       "sector": "CyberSecurity",
-      "published": "2026-11-27T14:22:06Z",
-      "first_seen": "2026-11-27T14:42:48Z",
+      "published": "2026-11-27T17:06:13Z",
+      "first_seen": "2026-11-27T18:39:58Z",
       "importance": null,
-      "score": 3.974,
+      "score": 3.881,
       "summary_source": "feed",
       "related": []
     },
     {
-      "id": "1993f6ffe714",
-      "title": "NuVolta Technical Sharing: PCB Grounding Design and Return Path",
-      "summary": "Many PCB design guidelines reduce grounding to a few rules: These rules are not wrong, but they are incomplete. They do not answer a fundamental question: where does the current return?",
+      "id": "142d1bfc6309",
+      "title": "STAT+: FDA extends assessment of experimental Vertex kidney drug",
+      "summary": "The FDA is extending its assessment of Vertex's investigational kidney drug, as the company faces questions about potential safety concerns.",
       "why_it_matters": "",
-      "link": "https://www.eetimes.com/nuvolta-technical-sharing-pcb-grounding-design-and-return-path/",
-      "source": "EE Times",
+      "link": "https://www.statnews.com/2026/11/27/fda-vertex-povetacicept-kidney-capricor-duchenne-readout-newsletter/",
+      "source": "STAT",
       "type": "news",
-      "sector": "Semiconductors",
-      "published": "2026-11-27T14:00:00Z",
-      "first_seen": "2026-11-27T14:42:48Z",
+      "sector": "Biotech",
+      "published": "2026-11-27T16:00:54Z",
+      "first_seen": "2026-11-27T18:39:58Z",
       "importance": null,
-      "score": 3.945,
+      "score": 3.801,
+      "summary_source": "feed",
+      "related": []
+    },
+    {
+      "id": "c0f1dbd9bc0e",
+      "title": "The stories we’re grateful for this year",
+      "summary": "STAT staffers have put together a list of the stories we’re thankful for this year — check out our favorites.",
+      "why_it_matters": "",
+      "link": "https://www.statnews.com/2026/11/27/favorite-stat-stories-health-news-morning-rounds/",
+      "source": "STAT",
+      "type": "news",
+      "sector": "Biotech",
+      "published": "2026-11-27T15:49:05Z",
+      "first_seen": "2026-11-27T18:39:58Z",
+      "importance": null,
+      "score": 3.787,
+      "summary_source": "feed",
+      "related": []
+    },
+    {
+      "id": "bd12957f6177",
+      "title": "Governments Invest $71.8B in Space Defense as Militarization of Space Accelerates",
+      "summary": "Paris, France | November 2026 — Novaspace’s Space Defense & Security, 2nd Edition finds that governments invested approximately $71.8 billion in space defense and security activities globally in 2025, reflecting",
+      "why_it_matters": "",
+      "link": "https://spacenews.com/governments-invest-71-8b-in-space-defense-as-militarization-of-space-accelerates/",
+      "source": "SpaceNews",
+      "type": "news",
+      "sector": "Space",
+      "published": "2026-11-27T15:35:22Z",
+      "first_seen": "2026-11-27T18:39:58Z",
+      "importance": null,
+      "score": 3.77,
       "summary_source": "feed",
       "related": []
     }
@@ -108,7 +108,7 @@
         "published": "2026-11-27T00:00:00Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.013,
+        "score": 2.792,
         "summary_source": "none",
         "related": []
       },
@@ -124,7 +124,7 @@
         "published": "2026-11-26T11:37:17Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 2.374,
+        "score": 2.2,
         "summary_source": "none",
         "related": []
       },
@@ -140,7 +140,7 @@
         "published": "2026-11-26T05:05:36Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 2.094,
+        "score": 1.94,
         "summary_source": "none",
         "related": []
       },
@@ -156,7 +156,7 @@
         "published": "2026-11-26T00:00:00Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 1.898,
+        "score": 1.759,
         "summary_source": "none",
         "related": []
       },
@@ -172,7 +172,7 @@
         "published": "2026-11-25T18:52:55Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 1.72,
+        "score": 1.594,
         "summary_source": "none",
         "related": []
       },
@@ -188,7 +188,7 @@
         "published": "2026-11-25T10:22:09Z",
         "first_seen": "2026-11-25T10:45:16Z",
         "importance": null,
-        "score": 1.46,
+        "score": 1.353,
         "summary_source": "none",
         "related": []
       },
@@ -204,7 +204,7 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 1.254,
+        "score": 1.162,
         "summary_source": "feed",
         "related": []
       },
@@ -220,7 +220,7 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 1.254,
+        "score": 1.162,
         "summary_source": "feed",
         "related": []
       }
@@ -238,7 +238,7 @@
         "published": "2026-11-27T14:22:45Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.974,
+        "score": 3.683,
         "summary_source": "feed",
         "related": []
       },
@@ -254,7 +254,7 @@
         "published": "2026-11-27T14:00:00Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.945,
+        "score": 3.656,
         "summary_source": "feed",
         "related": []
       },
@@ -270,7 +270,7 @@
         "published": "2026-11-27T08:56:46Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 3.58,
+        "score": 3.317,
         "summary_source": "feed",
         "related": []
       },
@@ -286,7 +286,7 @@
         "published": "2026-11-26T18:00:00Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 2.684,
+        "score": 2.488,
         "summary_source": "feed",
         "related": []
       },
@@ -302,7 +302,7 @@
         "published": "2026-11-26T14:00:00Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 2.485,
+        "score": 2.303,
         "summary_source": "feed",
         "related": []
       },
@@ -318,7 +318,7 @@
         "published": "2026-11-26T08:55:48Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 2.254,
+        "score": 2.089,
         "summary_source": "feed",
         "related": []
       },
@@ -334,7 +334,7 @@
         "published": "2026-11-26T08:31:51Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 2.237,
+        "score": 2.073,
         "summary_source": "feed",
         "related": []
       },
@@ -350,7 +350,7 @@
         "published": "2026-11-25T22:02:21Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 1.828,
+        "score": 1.694,
         "summary_source": "feed",
         "related": []
       }
@@ -368,7 +368,7 @@
         "published": "2026-11-27T11:09:19Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.735,
+        "score": 3.461,
         "summary_source": "feed",
         "related": []
       },
@@ -384,7 +384,7 @@
         "published": "2026-11-27T10:59:04Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.723,
+        "score": 3.45,
         "summary_source": "feed",
         "related": []
       },
@@ -400,7 +400,7 @@
         "published": "2026-11-27T10:49:59Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.712,
+        "score": 3.44,
         "summary_source": "feed",
         "related": []
       },
@@ -416,7 +416,7 @@
         "published": "2026-11-26T05:14:05Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 2.099,
+        "score": 1.946,
         "summary_source": "feed",
         "related": []
       },
@@ -432,7 +432,7 @@
         "published": "2026-11-26T04:48:05Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 2.082,
+        "score": 1.929,
         "summary_source": "feed",
         "related": []
       },
@@ -448,7 +448,7 @@
         "published": "2026-11-26T04:13:57Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 2.059,
+        "score": 1.908,
         "summary_source": "feed",
         "related": []
       },
@@ -464,7 +464,7 @@
         "published": "2026-11-26T03:58:16Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 2.049,
+        "score": 1.899,
         "summary_source": "feed",
         "related": []
       },
@@ -480,12 +480,60 @@
         "published": "2026-11-26T03:53:09Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 2.046,
+        "score": 1.896,
         "summary_source": "feed",
         "related": []
       }
     ],
     "CyberSecurity": [
+      {
+        "id": "3ca3d0a07909",
+        "title": "Unpatched Cacti zero-day with public PoC gives remote code execution",
+        "summary": "A zero-day vulnerability in the Cacti network monitoring platform has been publicly disclosed, along with a proof-of-concept exploit that lets unauthenticated attackers execute commands on vulnerable servers.",
+        "why_it_matters": "",
+        "link": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
+        "source": "BleepingComputer",
+        "type": "news",
+        "sector": "CyberSecurity",
+        "published": "2026-11-27T17:06:13Z",
+        "first_seen": "2026-11-27T18:39:58Z",
+        "importance": null,
+        "score": 3.881,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "397a2fb7cb7c",
+        "title": "US Air Force cloud platform reportedly hacked in latest federal breach",
+        "summary": "Hackers have reportedly breached the US Air Force's Cloud One computing platform, adding to a recent wave of cyberattacks affecting US government agencies, including the FBI, CIA, and Treasury Department.",
+        "why_it_matters": "",
+        "link": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/",
+        "source": "BleepingComputer",
+        "type": "news",
+        "sector": "CyberSecurity",
+        "published": "2026-11-27T15:09:40Z",
+        "first_seen": "2026-11-27T18:39:58Z",
+        "importance": null,
+        "score": 3.739,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "40e68078b31b",
+        "title": "Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs",
+        "summary": "Forgotten virtual machines, unpatched servers, and excessive access permissions can create security blind spots across IT infrastructure. ISPsystem explains how centralized infrastructure management, access controls, and resource lifecycle automation can help reduce these risks.",
+        "why_it_matters": "",
+        "link": "https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/",
+        "source": "BleepingComputer",
+        "type": "news",
+        "sector": "CyberSecurity",
+        "published": "2026-11-27T15:00:10Z",
+        "first_seen": "2026-11-27T18:39:58Z",
+        "importance": null,
+        "score": 3.728,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "1f39f870ce25",
         "title": "Malwarebytes Antivirus: Get 50% off during Black Friday 2026",
@@ -498,7 +546,7 @@
         "published": "2026-11-27T14:22:06Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.974,
+        "score": 3.682,
         "summary_source": "feed",
         "related": []
       },
@@ -514,7 +562,7 @@
         "published": "2026-11-27T12:02:23Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.799,
+        "score": 3.521,
         "summary_source": "feed",
         "related": []
       },
@@ -530,7 +578,7 @@
         "published": "2026-11-27T11:18:36Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.746,
+        "score": 3.472,
         "summary_source": "feed",
         "related": []
       },
@@ -546,7 +594,7 @@
         "published": "2026-11-27T10:10:15Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 3.665,
+        "score": 3.396,
         "summary_source": "feed",
         "related": []
       },
@@ -562,60 +610,28 @@
         "published": "2026-11-27T09:56:36Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 3.649,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "edfae1abe280",
-        "title": "Microsoft pushes emergency hotpatch to fix Windows Server crashes",
-        "summary": "Microsoft has released an emergency hotpatch update to address Windows Server 2025 crashes triggered after installing this month's security hotpatch update (KB5131077).",
-        "why_it_matters": "",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/",
-        "source": "BleepingComputer",
-        "type": "news",
-        "sector": "CyberSecurity",
-        "published": "2026-11-27T09:08:16Z",
-        "first_seen": "2026-11-27T10:41:39Z",
-        "importance": null,
-        "score": 3.593,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "4e35d05c1fab",
-        "title": "New NFS2ROOT Linux flaw can let attackers gain root privileges",
-        "summary": "​A 12-year-old critical vulnerability in the Linux kernel's Network File System (NFS) server, tracked as CVE-2026-99362, allows remote attackers to gain root privileges.",
-        "why_it_matters": "",
-        "link": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/",
-        "source": "BleepingComputer",
-        "type": "news",
-        "sector": "CyberSecurity",
-        "published": "2026-11-27T08:06:58Z",
-        "first_seen": "2026-11-27T10:41:39Z",
-        "importance": null,
-        "score": 3.523,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "39e8c1c6d317",
-        "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
-        "summary": "OpenAI confirmed that it fixed a 'bug' that incorrectly discounted GPT-6.2 usage, which means you'll now hit GPT usage limits 40% faster than before.",
-        "why_it_matters": "",
-        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
-        "source": "BleepingComputer",
-        "type": "news",
-        "sector": "CyberSecurity",
-        "published": "2026-11-26T21:06:22Z",
-        "first_seen": "2026-11-26T22:41:37Z",
-        "importance": null,
-        "score": 2.85,
+        "score": 3.382,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Space": [
+      {
+        "id": "bd12957f6177",
+        "title": "Governments Invest $71.8B in Space Defense as Militarization of Space Accelerates",
+        "summary": "Paris, France | November 2026 — Novaspace’s Space Defense & Security, 2nd Edition finds that governments invested approximately $71.8 billion in space defense and security activities globally in 2025, reflecting",
+        "why_it_matters": "",
+        "link": "https://spacenews.com/governments-invest-71-8b-in-space-defense-as-militarization-of-space-accelerates/",
+        "source": "SpaceNews",
+        "type": "news",
+        "sector": "Space",
+        "published": "2026-11-27T15:35:22Z",
+        "first_seen": "2026-11-27T18:39:58Z",
+        "importance": null,
+        "score": 3.77,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "8bdf200bbb2c",
         "title": "The ‘bare-knuckled’ future of life in space with Tim Marshall",
@@ -628,7 +644,7 @@
         "published": "2026-11-26T17:53:00Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 2.678,
+        "score": 2.482,
         "summary_source": "feed",
         "related": []
       },
@@ -644,7 +660,7 @@
         "published": "2026-11-24T15:17:50Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.011,
+        "score": 0.937,
         "summary_source": "feed",
         "related": []
       },
@@ -660,7 +676,7 @@
         "published": "2026-11-19T17:25:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.105,
+        "score": 0.097,
         "summary_source": "feed",
         "related": []
       },
@@ -676,7 +692,7 @@
         "published": "2026-11-19T15:38:18Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.101,
+        "score": 0.094,
         "summary_source": "feed",
         "related": []
       },
@@ -692,7 +708,7 @@
         "published": "2026-11-18T22:02:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.072,
+        "score": 0.067,
         "summary_source": "feed",
         "related": []
       },
@@ -708,12 +724,60 @@
         "published": "2026-11-18T20:31:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.07,
+        "score": 0.065,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Renewables": [
+      {
+        "id": "8e4f86e5da89",
+        "title": "Musk Space Based Data Center Idea Is A Betrayal Of Humanity",
+        "summary": "Despite copious evidence that Elon Musk is little more than a snake oil salesman and carnival barker like P. T.",
+        "why_it_matters": "",
+        "link": "https://cleantechnica.com/2026/11/27/musk-space-based-data-center-idea-is-a-betrayal-of-humanity/",
+        "source": "CleanTechnica",
+        "type": "news",
+        "sector": "Renewables",
+        "published": "2026-11-27T18:23:29Z",
+        "first_seen": "2026-11-27T18:39:58Z",
+        "importance": null,
+        "score": 3.979,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "e341333eefea",
+        "title": "The Proof Is In The Lettuce: Perovskite Makes Things Grow Better",
+        "summary": "Greenhouse lettuce thrives under natural sunlight filtered through specialized glass from the perovskite solar startup UbiQD, while conserving water resources, too.",
+        "why_it_matters": "",
+        "link": "https://cleantechnica.com/2026/11/27/perovskite-solar-quantum-dots-lettuce-water-conservation-ubiqd/",
+        "source": "CleanTechnica",
+        "type": "news",
+        "sector": "Renewables",
+        "published": "2026-11-27T15:17:54Z",
+        "first_seen": "2026-11-27T18:39:58Z",
+        "importance": null,
+        "score": 3.749,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "b45e6d8e9397",
+        "title": "Graph of the Day: The World Now Makes 7 Solar Panels for Every TV",
+        "summary": "In 2015, the world made six solar panels a second. In 2026, it’s on track to make ten times as many.",
+        "why_it_matters": "",
+        "link": "https://cleantechnica.com/2026/11/27/graph-of-the-day-the-world-now-makes-7-solar-panels-for-every-tv/",
+        "source": "CleanTechnica",
+        "type": "news",
+        "sector": "Renewables",
+        "published": "2026-11-27T15:06:22Z",
+        "first_seen": "2026-11-27T18:39:58Z",
+        "importance": null,
+        "score": 3.735,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "4a7c60aebf99",
         "title": "What’s up with agrivoltaics?",
@@ -726,7 +790,7 @@
         "published": "2026-11-27T09:02:33Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 3.586,
+        "score": 3.323,
         "summary_source": "feed",
         "related": []
       },
@@ -742,7 +806,7 @@
         "published": "2026-11-27T04:57:21Z",
         "first_seen": "2026-11-27T06:52:14Z",
         "importance": null,
-        "score": 3.315,
+        "score": 3.072,
         "summary_source": "feed",
         "related": []
       },
@@ -758,7 +822,7 @@
         "published": "2026-11-27T04:53:00Z",
         "first_seen": "2026-11-27T06:52:14Z",
         "importance": null,
-        "score": 3.31,
+        "score": 3.068,
         "summary_source": "feed",
         "related": []
       },
@@ -774,7 +838,7 @@
         "published": "2026-11-27T04:50:29Z",
         "first_seen": "2026-11-27T06:52:14Z",
         "importance": null,
-        "score": 3.308,
+        "score": 3.065,
         "summary_source": "feed",
         "related": []
       },
@@ -790,55 +854,7 @@
         "published": "2026-11-27T00:26:38Z",
         "first_seen": "2026-11-27T02:44:05Z",
         "importance": null,
-        "score": 3.039,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "933c3c7b195e",
-        "title": "Happy Thanksgiving From Guangzhou, Visiting XPENG",
-        "summary": "While many in the US are celebrating Thanksgiving, I am seeing some of the most advanced technology and most impressive EVs in the world. XPENG offered to bring me to see AI day and Auto Guangzhou.",
-        "why_it_matters": "",
-        "link": "https://cleantechnica.com/2026/11/26/happy-thanksgiving-from-guangzhou-visiting-xpeng/",
-        "source": "CleanTechnica",
-        "type": "news",
-        "sector": "Renewables",
-        "published": "2026-11-26T19:42:22Z",
-        "first_seen": "2026-11-26T22:41:37Z",
-        "importance": null,
-        "score": 2.774,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "29f4df987a53",
-        "title": "Seabed Mining Has a Refinery Problem Worth Billions",
-        "summary": "The Metals Company wants to recover polymetallic nodules from the seabed and sell the nickel, copper, cobalt and manganese they contain. That business needs an industrial processing system before its revenue projections become sales.",
-        "why_it_matters": "",
-        "link": "https://cleantechnica.com/2026/11/26/seabed-mining-refinery-problem-billions/",
-        "source": "CleanTechnica",
-        "type": "news",
-        "sector": "Renewables",
-        "published": "2026-11-26T16:55:51Z",
-        "first_seen": "2026-11-26T18:40:13Z",
-        "importance": null,
-        "score": 2.63,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "17efb9c4d840",
-        "title": "Plug-in Solar UL Certification for US Safety Regs — What UL 3700 Does & Doesn’t Say",
-        "summary": "Millions of renters, apartment residents, and condo owners can’t put solar on a roof they don’t control.",
-        "why_it_matters": "",
-        "link": "https://cleantechnica.com/2026/11/26/plug-in-solar-ul-certification-for-us-safety-regs-what-ul-3700-does-doesnt-say/",
-        "source": "CleanTechnica",
-        "type": "news",
-        "sector": "Renewables",
-        "published": "2026-11-26T14:49:46Z",
-        "first_seen": "2026-11-26T18:40:13Z",
-        "importance": null,
-        "score": 2.525,
+        "score": 2.816,
         "summary_source": "feed",
         "related": []
       }
@@ -856,7 +872,7 @@
         "published": "2026-11-27T11:20:23Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.748,
+        "score": 3.474,
         "summary_source": "feed",
         "related": []
       },
@@ -872,7 +888,7 @@
         "published": "2026-11-27T09:44:08Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 3.634,
+        "score": 3.368,
         "summary_source": "feed",
         "related": []
       },
@@ -888,7 +904,7 @@
         "published": "2026-11-27T09:13:02Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 3.598,
+        "score": 3.335,
         "summary_source": "feed",
         "related": []
       },
@@ -904,7 +920,7 @@
         "published": "2026-11-27T09:10:31Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 3.595,
+        "score": 3.332,
         "summary_source": "feed",
         "related": []
       },
@@ -920,7 +936,7 @@
         "published": "2026-11-26T15:03:14Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 2.536,
+        "score": 2.351,
         "summary_source": "feed",
         "related": []
       },
@@ -936,7 +952,7 @@
         "published": "2026-11-26T14:20:22Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 2.502,
+        "score": 2.318,
         "summary_source": "feed",
         "related": []
       },
@@ -952,7 +968,7 @@
         "published": "2026-11-26T13:03:53Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 2.441,
+        "score": 2.262,
         "summary_source": "feed",
         "related": []
       },
@@ -968,7 +984,7 @@
         "published": "2026-11-26T11:42:32Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 2.378,
+        "score": 2.204,
         "summary_source": "feed",
         "related": []
       }
@@ -986,7 +1002,7 @@
         "published": "2026-11-25T14:53:24Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.593,
+        "score": 1.476,
         "summary_source": "feed",
         "related": []
       },
@@ -1002,7 +1018,7 @@
         "published": "2026-11-25T14:00:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.566,
+        "score": 1.451,
         "summary_source": "feed",
         "related": []
       },
@@ -1018,7 +1034,7 @@
         "published": "2026-11-24T16:28:23Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.034,
+        "score": 0.959,
         "summary_source": "feed",
         "related": []
       },
@@ -1034,7 +1050,7 @@
         "published": "2026-11-24T15:35:48Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.017,
+        "score": 0.943,
         "summary_source": "feed",
         "related": []
       },
@@ -1050,7 +1066,7 @@
         "published": "2026-11-24T15:28:00Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.015,
+        "score": 0.94,
         "summary_source": "feed",
         "related": []
       },
@@ -1066,7 +1082,7 @@
         "published": "2026-11-23T16:28:15Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 0.652,
+        "score": 0.604,
         "summary_source": "feed",
         "related": []
       },
@@ -1082,7 +1098,7 @@
         "published": "2026-11-23T15:00:00Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 0.633,
+        "score": 0.587,
         "summary_source": "feed",
         "related": []
       },
@@ -1098,12 +1114,60 @@
         "published": "2026-11-20T16:46:43Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.164,
+        "score": 0.152,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Biotech": [
+      {
+        "id": "142d1bfc6309",
+        "title": "STAT+: FDA extends assessment of experimental Vertex kidney drug",
+        "summary": "The FDA is extending its assessment of Vertex's investigational kidney drug, as the company faces questions about potential safety concerns.",
+        "why_it_matters": "",
+        "link": "https://www.statnews.com/2026/11/27/fda-vertex-povetacicept-kidney-capricor-duchenne-readout-newsletter/",
+        "source": "STAT",
+        "type": "news",
+        "sector": "Biotech",
+        "published": "2026-11-27T16:00:54Z",
+        "first_seen": "2026-11-27T18:39:58Z",
+        "importance": null,
+        "score": 3.801,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "c0f1dbd9bc0e",
+        "title": "The stories we’re grateful for this year",
+        "summary": "STAT staffers have put together a list of the stories we’re thankful for this year — check out our favorites.",
+        "why_it_matters": "",
+        "link": "https://www.statnews.com/2026/11/27/favorite-stat-stories-health-news-morning-rounds/",
+        "source": "STAT",
+        "type": "news",
+        "sector": "Biotech",
+        "published": "2026-11-27T15:49:05Z",
+        "first_seen": "2026-11-27T18:39:58Z",
+        "importance": null,
+        "score": 3.787,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "fe461442a02f",
+        "title": "STAT+: Here are some health AI conversation starters for the holidays",
+        "summary": "In this edition of STAT's AI Prognosis: Health stories that can be conversation starters at family gatherings during for the holidays.",
+        "why_it_matters": "",
+        "link": "https://www.statnews.com/2026/11/27/health-ai-conversation-starters-for-holidays-ai-prognosis/",
+        "source": "STAT",
+        "type": "news",
+        "sector": "Biotech",
+        "published": "2026-11-27T14:54:22Z",
+        "first_seen": "2026-11-27T18:39:58Z",
+        "importance": null,
+        "score": 3.721,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "fcfc3e5543ee",
         "title": "Pregnancy is the ‘perfect storm’ for eating disorders, but doctors keep missing them",
@@ -1116,7 +1180,7 @@
         "published": "2026-11-27T09:30:00Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 3.618,
+        "score": 3.353,
         "summary_source": "feed",
         "related": []
       },
@@ -1132,7 +1196,7 @@
         "published": "2026-11-27T09:30:00Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 3.618,
+        "score": 3.353,
         "summary_source": "feed",
         "related": []
       },
@@ -1148,7 +1212,7 @@
         "published": "2026-11-26T19:00:00Z",
         "first_seen": "2026-11-26T22:41:37Z",
         "importance": null,
-        "score": 2.737,
+        "score": 2.536,
         "summary_source": "feed",
         "related": []
       },
@@ -1164,7 +1228,7 @@
         "published": "2026-11-26T12:00:00Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 2.392,
+        "score": 2.216,
         "summary_source": "feed",
         "related": []
       },
@@ -1180,55 +1244,7 @@
         "published": "2026-11-25T21:28:53Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 1.808,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "e6817d552b7d",
-        "title": "STAT+: FDA approves Cogent’s drug for rare stomach cancer",
-        "summary": "Cogent Biosciences won FDA clearance for its stomach cancer treatment, in combination with a much older drug from Pfizer called Sutent.",
-        "why_it_matters": "",
-        "link": "https://www.statnews.com/2026/11/25/biotech-news-fda-approves-cogents-drug-for-rare-stomach-cancer/",
-        "source": "STAT",
-        "type": "news",
-        "sector": "Biotech",
-        "published": "2026-11-25T20:44:15Z",
-        "first_seen": "2026-11-25T22:41:18Z",
-        "importance": null,
-        "score": 1.783,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "dbf54ba40443",
-        "title": "Bayer becomes latest Big Pharma to head to Hansoh in $3.3B deal for phase 1 ADC",
-        "summary": "Bayer has become the latest drug giant to turn to Hansoh Pharma for its antibody-drug conjugate expertise.",
-        "why_it_matters": "",
-        "link": "https://www.fiercebiotech.com/biotech/bayer-becomes-latest-big-pharma-head-hansoh-33b-deal-phase-1-adc",
-        "source": "Fierce Biotech",
-        "type": "news",
-        "sector": "Biotech",
-        "published": null,
-        "first_seen": "2026-11-25T18:35:53Z",
-        "importance": null,
-        "score": 1.711,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "889165313c19",
-        "title": "Schrödinger signs €22M biologics collab with sequencing automation outfit Enpicom",
-        "summary": "Computational discovery biotech Schrödinger has finalized a collaboration with sequencing automation company Enpicom in an all-cash deal worth €22 million.",
-        "why_it_matters": "",
-        "link": "https://www.fiercebiotech.com/biotech/schrodinger-forms-ties-sequencing-automation-outfit-enpicom-eur22m",
-        "source": "Fierce Biotech",
-        "type": "news",
-        "sector": "Biotech",
-        "published": null,
-        "first_seen": "2026-11-25T18:35:53Z",
-        "importance": null,
-        "score": 1.711,
+        "score": 1.676,
         "summary_source": "feed",
         "related": []
       }
@@ -1246,7 +1262,7 @@
         "published": "2026-11-27T12:22:01Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.823,
+        "score": 3.543,
         "summary_source": "feed",
         "related": []
       },
@@ -1262,7 +1278,7 @@
         "published": "2026-11-27T12:12:18Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.811,
+        "score": 3.532,
         "summary_source": "feed",
         "related": []
       },
@@ -1278,7 +1294,7 @@
         "published": "2026-11-26T12:20:50Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 2.408,
+        "score": 2.231,
         "summary_source": "feed",
         "related": []
       },
@@ -1294,7 +1310,7 @@
         "published": "2026-11-26T12:02:57Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 2.394,
+        "score": 2.218,
         "summary_source": "feed",
         "related": []
       },
@@ -1310,7 +1326,7 @@
         "published": "2026-11-26T08:30:00Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 2.236,
+        "score": 2.072,
         "summary_source": "feed",
         "related": []
       },
@@ -1326,7 +1342,7 @@
         "published": "2026-11-25T18:58:25Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 1.723,
+        "score": 1.597,
         "summary_source": "feed",
         "related": []
       },
@@ -1342,7 +1358,7 @@
         "published": "2026-11-25T16:58:07Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.658,
+        "score": 1.536,
         "summary_source": "feed",
         "related": []
       },
@@ -1358,7 +1374,7 @@
         "published": "2026-11-25T15:00:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.596,
+        "score": 1.479,
         "summary_source": "feed",
         "related": []
       }
@@ -1376,7 +1392,7 @@
         "published": "2026-11-27T13:56:43Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.941,
+        "score": 3.652,
         "summary_source": "feed",
         "related": []
       },
@@ -1392,7 +1408,7 @@
         "published": "2026-11-25T18:24:42Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 1.705,
+        "score": 1.58,
         "summary_source": "feed",
         "related": []
       },
@@ -1408,7 +1424,7 @@
         "published": "2026-11-25T17:00:07Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.659,
+        "score": 1.537,
         "summary_source": "feed",
         "related": []
       },
@@ -1424,7 +1440,7 @@
         "published": "2026-11-25T15:00:03Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.596,
+        "score": 1.479,
         "summary_source": "feed",
         "related": []
       },
@@ -1440,7 +1456,7 @@
         "published": "2026-11-24T18:03:37Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.067,
+        "score": 0.988,
         "summary_source": "feed",
         "related": []
       },
@@ -1456,7 +1472,7 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 1.045,
+        "score": 0.968,
         "summary_source": "feed",
         "related": []
       },
@@ -1472,7 +1488,7 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 1.045,
+        "score": 0.968,
         "summary_source": "feed",
         "related": []
       },
@@ -1488,7 +1504,7 @@
         "published": "2026-11-24T14:48:57Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.002,
+        "score": 0.929,
         "summary_source": "feed",
         "related": []
       }
@@ -1506,7 +1522,7 @@
         "published": "2026-11-27T08:00:01Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 3.515,
+        "score": 3.257,
         "summary_source": "feed",
         "related": []
       },
@@ -1522,7 +1538,7 @@
         "published": "2026-11-25T18:26:19Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.705,
+        "score": 1.58,
         "summary_source": "feed",
         "related": []
       },
@@ -1538,7 +1554,7 @@
         "published": "2026-11-24T22:35:05Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 1.164,
+        "score": 1.078,
         "summary_source": "feed",
         "related": []
       },
@@ -1554,7 +1570,7 @@
         "published": "2026-11-24T19:43:49Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 1.101,
+        "score": 1.021,
         "summary_source": "feed",
         "related": []
       },
@@ -1570,7 +1586,7 @@
         "published": "2026-11-20T21:52:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.181,
+        "score": 0.168,
         "summary_source": "feed",
         "related": []
       },
@@ -1586,7 +1602,7 @@
         "published": "2026-11-19T23:30:50Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.118,
+        "score": 0.109,
         "summary_source": "feed",
         "related": []
       },
@@ -1602,7 +1618,7 @@
         "published": "2026-11-18T19:52:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.069,
+        "score": 0.064,
         "summary_source": "feed",
         "related": []
       },
@@ -1618,7 +1634,7 @@
         "published": "2026-11-18T15:10:53Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.063,
+        "score": 0.058,
         "summary_source": "feed",
         "related": []
       }
@@ -1636,7 +1652,7 @@
         "published": "2026-11-25T12:00:49Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 1.507,
+        "score": 1.397,
         "summary_source": "feed",
         "related": []
       },
@@ -1652,7 +1668,7 @@
         "published": "2026-11-25T12:00:09Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 1.507,
+        "score": 1.396,
         "summary_source": "feed",
         "related": []
       },
@@ -1668,7 +1684,7 @@
         "published": "2026-11-24T18:30:42Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.076,
+        "score": 0.997,
         "summary_source": "feed",
         "related": []
       },
@@ -1684,7 +1700,7 @@
         "published": "2026-11-24T12:00:48Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 0.949,
+        "score": 0.88,
         "summary_source": "feed",
         "related": []
       },
@@ -1700,7 +1716,7 @@
         "published": "2026-11-24T12:00:21Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 0.949,
+        "score": 0.88,
         "summary_source": "feed",
         "related": []
       },
@@ -1716,7 +1732,7 @@
         "published": "2026-11-23T12:00:19Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 0.598,
+        "score": 0.554,
         "summary_source": "feed",
         "related": []
       },
@@ -1732,7 +1748,7 @@
         "published": "2026-11-23T01:25:53Z",
         "first_seen": "2026-11-23T02:44:14Z",
         "importance": null,
-        "score": 0.488,
+        "score": 0.452,
         "summary_source": "feed",
         "related": []
       },
@@ -1748,7 +1764,7 @@
         "published": "2026-11-20T20:15:54Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.175,
+        "score": 0.162,
         "summary_source": "feed",
         "related": []
       }
@@ -1766,7 +1782,7 @@
         "published": "2026-11-27T14:36:00Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.991,
+        "score": 3.699,
         "summary_source": "feed",
         "related": []
       },
@@ -1782,7 +1798,7 @@
         "published": "2026-11-27T14:35:00Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.99,
+        "score": 3.698,
         "summary_source": "feed",
         "related": []
       },
@@ -1798,7 +1814,7 @@
         "published": "2026-11-27T12:00:00Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.796,
+        "score": 3.518,
         "summary_source": "feed",
         "related": []
       },
@@ -1814,7 +1830,7 @@
         "published": "2026-11-27T11:00:00Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.724,
+        "score": 3.451,
         "summary_source": "feed",
         "related": []
       },
@@ -1830,7 +1846,7 @@
         "published": "2026-11-27T09:00:00Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 3.583,
+        "score": 3.321,
         "summary_source": "feed",
         "related": []
       },
@@ -1846,7 +1862,7 @@
         "published": "2026-11-27T08:40:00Z",
         "first_seen": "2026-11-27T06:52:14Z",
         "importance": null,
-        "score": 3.56,
+        "score": 3.299,
         "summary_source": "feed",
         "related": []
       },
@@ -1862,7 +1878,7 @@
         "published": "2026-11-27T06:58:00Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 3.446,
+        "score": 3.193,
         "summary_source": "feed",
         "related": []
       },
@@ -1878,12 +1894,60 @@
         "published": "2026-11-26T17:16:00Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 2.647,
+        "score": 2.453,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Breaking": [
+      {
+        "id": "ac4a0f7f0743",
+        "title": "European Central Bank survey: 44% of employed EU consumers reported using AI weekly at work in August, on par with US peers; 18% used it daily, above US levels (Alexander Weber/Bloomberg)",
+        "summary": "Alexander Weber / Bloomberg : European Central Bank survey: 44% of employed EU consumers reported using AI weekly at work in August, on par with US peers; 18% used it daily, above US levels — Euro-area workers are turning to artificial intelligence at a similar rate as their…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261127/p10",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-27T18:15:00Z",
+        "first_seen": "2026-11-27T18:39:58Z",
+        "importance": null,
+        "score": 3.571,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "c9573a0c2be9",
+        "title": "SAP confirms a cybersecurity incident; report: hackers obtained its staffers' authentication tokens, letting them copy and alter source code stored on GitHub (Eduard Kovacs/SecurityWeek)",
+        "summary": "Eduard Kovacs / SecurityWeek : SAP confirms a cybersecurity incident; report: hackers obtained its staffers' authentication tokens, letting them copy and alter source code stored on GitHub — SAP has detected suspicious activity on GitHub, where hackers reportedly used stolen…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261127/p9",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-27T16:35:08Z",
+        "first_seen": "2026-11-27T18:39:58Z",
+        "importance": null,
+        "score": 3.459,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "88452b76d1b2",
+        "title": "The CMA says Meta made changes to Muse's ToS in the UK to reflect the country's consumer law; the terms give users far more protections than in the US (Joseph Bambridge/Politico)",
+        "summary": "Joseph Bambridge / Politico : The CMA says Meta made changes to Muse's ToS in the UK to reflect the country's consumer law; the terms give users far more protections than in the US — The U.K. terms of service for Muse give consumers far more protection than in the U.S. — LONDON…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261127/p8",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-27T15:25:00Z",
+        "first_seen": "2026-11-27T18:39:58Z",
+        "importance": null,
+        "score": 3.382,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "71243f1984d5",
         "title": "Interviews with Huawei CEO Ren Zhengfei and others on how Trump's restrictions pushed Huawei toward self-reliance, making it central to China's AI ambitions (New York Times)",
@@ -1896,7 +1960,7 @@
         "published": "2026-11-27T14:20:01Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.574,
+        "score": 3.312,
         "summary_source": "feed",
         "related": []
       },
@@ -1912,7 +1976,7 @@
         "published": "2026-11-27T13:05:01Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.489,
+        "score": 3.233,
         "summary_source": "feed",
         "related": []
       },
@@ -1928,7 +1992,7 @@
         "published": "2026-11-27T12:35:01Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.455,
+        "score": 3.202,
         "summary_source": "feed",
         "related": []
       },
@@ -1944,7 +2008,7 @@
         "published": "2026-11-27T12:10:01Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.428,
+        "score": 3.177,
         "summary_source": "feed",
         "related": []
       },
@@ -1960,61 +2024,46 @@
         "published": "2026-11-27T10:25:08Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 3.314,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "d0fc9ada041a",
-        "title": "Foreign investors sold a record net $33.1B of Taiwanese stocks in November, topping October's record outflow amid AI valuation fears and a broader tech sell-off (Eunice Xu/Bloomberg)",
-        "summary": "Eunice Xu / Bloomberg : Foreign investors sold a record net $33.1B of Taiwanese stocks in November, topping October's record outflow amid AI valuation fears and a broader tech sell-off — Foreign investors dumped a record amount of Taiwanese stocks so far in November…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261127/p2",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-27T07:30:00Z",
-        "first_seen": "2026-11-27T10:41:39Z",
-        "importance": null,
-        "score": 3.133,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "6098968e82a1",
-        "title": "US smartphone shipments fell 9% YoY in Q3 as memory costs hit Android OEMs, especially at the low end; Apple's share rose from 50% to 57%, Samsung holds at 25% (Maurice Klaehne/Counterpoint Research)",
-        "summary": "Maurice Klaehne / Counterpoint Research : US smartphone shipments fell 9% YoY in Q3 as memory costs hit Android OEMs, especially at the low end; Apple's share rose from 50% to 57%, Samsung holds at 25% — - US smartphone shipments fell 9% YoY in Q3 as rising memory costs weighed…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261127/p1",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-27T05:45:01Z",
-        "first_seen": "2026-11-27T06:52:14Z",
-        "importance": null,
-        "score": 3.029,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "45929f2e3f34",
-        "title": "Dante Security, which has developed a platform for monitoring the activity of AI agents within organizations, raised a $10M seed led by NFX (Meir Orbach/CTech)",
-        "summary": "Meir Orbach / CTech : Dante Security, which has developed a platform for monitoring the activity of AI agents within organizations, raised a $10M seed led by NFX — Dante Security is developing a platform that gives organizations visibility into the actions of autonomous AI…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261126/p27",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-27T03:15:01Z",
-        "first_seen": "2026-11-27T06:52:14Z",
-        "importance": null,
-        "score": 2.887,
+        "score": 3.071,
         "summary_source": "feed",
         "related": []
       }
     ]
   },
   "emerging": [
+    {
+      "term": "country",
+      "sources": 5,
+      "sectors": 5,
+      "ids": [
+        "3128848ac517",
+        "925fc4abad82",
+        "2939245102eb"
+      ],
+      "score": 8.08
+    },
+    {
+      "term": "france",
+      "sources": 3,
+      "sectors": 3,
+      "ids": [
+        "bd12957f6177",
+        "acaf8540ebca",
+        "1ac244eeaaee"
+      ],
+      "score": 6.43
+    },
+    {
+      "term": "edition",
+      "sources": 3,
+      "sectors": 3,
+      "ids": [
+        "bd12957f6177",
+        "d4d45e81dc8e",
+        "fe461442a02f"
+      ],
+      "score": 5.62
+    },
     {
       "term": "huawei",
       "sources": 3,
@@ -2027,13 +2076,13 @@
       "score": 5.62
     },
     {
-      "term": "country",
+      "term": "cloud",
       "sources": 4,
       "sectors": 4,
       "ids": [
-        "3128848ac517",
-        "925fc4abad82",
-        "2939245102eb"
+        "01193419b35b",
+        "397a2fb7cb7c",
+        "139fbc7a1afd"
       ],
       "score": 5.54
     },
@@ -2049,59 +2098,24 @@
       "score": 5.54
     },
     {
-      "term": "bring",
-      "sources": 4,
-      "sectors": 4,
+      "term": "air force",
+      "sources": 2,
+      "sectors": 2,
       "ids": [
-        "94d40ae39a8a",
-        "933c3c7b195e",
-        "bd4c158c42fb"
-      ],
-      "score": 5.14
-    },
-    {
-      "term": "corp",
-      "sources": 3,
-      "sectors": 3,
-      "ids": [
-        "3d9b394c0d5f",
-        "2939245102eb",
-        "694a45898d5b"
+        "397a2fb7cb7c",
+        "c27b1b3c41a6"
       ],
       "score": 5.0
     },
     {
-      "term": "look",
-      "sources": 3,
-      "sectors": 3,
+      "term": "computing platform",
+      "sources": 2,
+      "sectors": 2,
       "ids": [
-        "8476601df484",
-        "54f6ce63e252",
-        "42f8c402dc2e"
+        "397a2fb7cb7c",
+        "c27b1b3c41a6"
       ],
-      "score": 4.5
-    },
-    {
-      "term": "others",
-      "sources": 3,
-      "sectors": 3,
-      "ids": [
-        "e180e0972a0b",
-        "3b43e30df100",
-        "71243f1984d5"
-      ],
-      "score": 4.5
-    },
-    {
-      "term": "release",
-      "sources": 3,
-      "sectors": 3,
-      "ids": [
-        "5806e44957c2",
-        "fbc49146c79c",
-        "5c52a6bc65ad"
-      ],
-      "score": 4.09
+      "score": 5.0
     }
   ],
   "stock_watch": [],
@@ -2202,7 +2216,7 @@
         "source": "SpaceNews",
         "url": "https://spacenews.com/feed/",
         "status": "ok",
-        "entries": 2,
+        "entries": 3,
         "error": null
       },
       {
@@ -2290,7 +2304,7 @@
         "source": "IEEE Spectrum Robotics",
         "url": "https://spectrum.ieee.org/feeds/topic/robotics.rss",
         "status": "ok",
-        "entries": 2,
+        "entries": 1,
         "error": null
       },
       {
@@ -2381,7 +2395,7 @@
       "errors": [
         "ANTHROPIC_API_KEY is not set"
       ],
-      "new_items": 22,
+      "new_items": 19,
       "summarised": 0
     }
   }
