@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "generated_at": "2026-11-27T18:39:58Z",
-  "last_updated": "2026-11-27 18:39 UTC",
+  "generated_at": "2026-11-27T22:43:28Z",
+  "last_updated": "2026-11-27 22:43 UTC",
   "is_sunday_edition": false,
   "priority_sectors": [
     "AI",
@@ -14,82 +14,82 @@
   ],
   "top_stories": [
     {
-      "id": "8e4f86e5da89",
-      "title": "Musk Space Based Data Center Idea Is A Betrayal Of Humanity",
-      "summary": "Despite copious evidence that Elon Musk is little more than a snake oil salesman and carnival barker like P. T.",
+      "id": "37bb77bb46ab",
+      "title": "Why European Households Are Rushing to Buy Solar Panels Ahead of a Dark, Cold Winter",
+      "summary": "Changes to solar incentives and long installation processes mean European homeowners could benefit from planning now. Winter is cold, dark, and grey.",
       "why_it_matters": "",
-      "link": "https://cleantechnica.com/2026/11/27/musk-space-based-data-center-idea-is-a-betrayal-of-humanity/",
+      "link": "https://cleantechnica.com/2026/11/27/why-european-households-are-rushing-to-buy-solar-panels-ahead-of-a-dark-cold-winter/",
       "source": "CleanTechnica",
       "type": "news",
       "sector": "Renewables",
-      "published": "2026-11-27T18:23:29Z",
-      "first_seen": "2026-11-27T18:39:58Z",
+      "published": "2026-11-27T22:35:21Z",
+      "first_seen": "2026-11-27T22:43:28Z",
       "importance": null,
-      "score": 3.979,
+      "score": 3.99,
       "summary_source": "feed",
       "related": []
     },
     {
-      "id": "3ca3d0a07909",
-      "title": "Unpatched Cacti zero-day with public PoC gives remote code execution",
-      "summary": "A zero-day vulnerability in the Cacti network monitoring platform has been publicly disclosed, along with a proof-of-concept exploit that lets unauthenticated attackers execute commands on vulnerable servers.",
+      "id": "a182974947fa",
+      "title": "Friday Squid Blogging: Giant Squid in Newfoundland",
+      "summary": "The two have an interesting history . As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.",
       "why_it_matters": "",
-      "link": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
+      "link": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-giant-squid-in-newfoundland.html",
+      "source": "Schneier on Security",
+      "type": "news",
+      "sector": "CyberSecurity",
+      "published": "2026-11-27T22:01:25Z",
+      "first_seen": "2026-11-27T22:43:28Z",
+      "importance": null,
+      "score": 3.946,
+      "summary_source": "feed",
+      "related": []
+    },
+    {
+      "id": "1d0951731119",
+      "title": "Monta Joins ChargeHub’s Passport Hub, North America’s Leading EV Roaming Platform",
+      "summary": "Monta joins Passport Hub, bringing nearly 4,500 charging ports from networks like EnviroSpark and FLASH to dozens of automakers, charging apps and fleets. “Every time a world-class CSMS like Monta joins Passport Hub, the whole ecosystem levels up” —Simon Ouellette, CEO of…",
+      "why_it_matters": "",
+      "link": "https://cleantechnica.com/2026/11/27/monta-joins-chargehubs-passport-hub-north-americas-leading-ev-roaming-platform/",
+      "source": "CleanTechnica",
+      "type": "news",
+      "sector": "Renewables",
+      "published": "2026-11-27T21:58:59Z",
+      "first_seen": "2026-11-27T22:43:28Z",
+      "importance": null,
+      "score": 3.943,
+      "summary_source": "feed",
+      "related": []
+    },
+    {
+      "id": "f934d10e087c",
+      "title": "pCloud confirms password manager hack after suspicious login alerts",
+      "summary": "The pCloud Pass password manager suffered a cyberattack, with users reporting that unknown devices had connected to their accounts even with two-factor authentication (2FA) enabled.",
+      "why_it_matters": "",
+      "link": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
       "source": "BleepingComputer",
       "type": "news",
       "sector": "CyberSecurity",
-      "published": "2026-11-27T17:06:13Z",
-      "first_seen": "2026-11-27T18:39:58Z",
+      "published": "2026-11-27T19:26:04Z",
+      "first_seen": "2026-11-27T22:43:28Z",
       "importance": null,
-      "score": 3.881,
+      "score": 3.754,
       "summary_source": "feed",
       "related": []
     },
     {
-      "id": "142d1bfc6309",
-      "title": "STAT+: FDA extends assessment of experimental Vertex kidney drug",
-      "summary": "The FDA is extending its assessment of Vertex's investigational kidney drug, as the company faces questions about potential safety concerns.",
+      "id": "561e65e3d38d",
+      "title": "Penguin Revives Retired DDR4 for AI Servers",
+      "summary": "Hyperscalers are already reclaiming older DRAM, but enterprises have been slower to reuse DDR4 to meet their memory expansion demands.",
       "why_it_matters": "",
-      "link": "https://www.statnews.com/2026/11/27/fda-vertex-povetacicept-kidney-capricor-duchenne-readout-newsletter/",
-      "source": "STAT",
+      "link": "https://www.eetimes.com/penguin-revives-retired-ddr4-for-ai-servers/",
+      "source": "EE Times",
       "type": "news",
-      "sector": "Biotech",
-      "published": "2026-11-27T16:00:54Z",
-      "first_seen": "2026-11-27T18:39:58Z",
+      "sector": "Semiconductors",
+      "published": "2026-11-27T19:17:00Z",
+      "first_seen": "2026-11-27T22:43:28Z",
       "importance": null,
-      "score": 3.801,
-      "summary_source": "feed",
-      "related": []
-    },
-    {
-      "id": "c0f1dbd9bc0e",
-      "title": "The stories we’re grateful for this year",
-      "summary": "STAT staffers have put together a list of the stories we’re thankful for this year — check out our favorites.",
-      "why_it_matters": "",
-      "link": "https://www.statnews.com/2026/11/27/favorite-stat-stories-health-news-morning-rounds/",
-      "source": "STAT",
-      "type": "news",
-      "sector": "Biotech",
-      "published": "2026-11-27T15:49:05Z",
-      "first_seen": "2026-11-27T18:39:58Z",
-      "importance": null,
-      "score": 3.787,
-      "summary_source": "feed",
-      "related": []
-    },
-    {
-      "id": "bd12957f6177",
-      "title": "Governments Invest $71.8B in Space Defense as Militarization of Space Accelerates",
-      "summary": "Paris, France | November 2026 — Novaspace’s Space Defense & Security, 2nd Edition finds that governments invested approximately $71.8 billion in space defense and security activities globally in 2025, reflecting",
-      "why_it_matters": "",
-      "link": "https://spacenews.com/governments-invest-71-8b-in-space-defense-as-militarization-of-space-accelerates/",
-      "source": "SpaceNews",
-      "type": "news",
-      "sector": "Space",
-      "published": "2026-11-27T15:35:22Z",
-      "first_seen": "2026-11-27T18:39:58Z",
-      "importance": null,
-      "score": 3.77,
+      "score": 3.744,
       "summary_source": "feed",
       "related": []
     }
@@ -108,7 +108,7 @@
         "published": "2026-11-27T00:00:00Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 2.792,
+        "score": 2.582,
         "summary_source": "none",
         "related": []
       },
@@ -124,7 +124,7 @@
         "published": "2026-11-26T11:37:17Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 2.2,
+        "score": 2.035,
         "summary_source": "none",
         "related": []
       },
@@ -140,7 +140,7 @@
         "published": "2026-11-26T05:05:36Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 1.94,
+        "score": 1.794,
         "summary_source": "none",
         "related": []
       },
@@ -156,7 +156,7 @@
         "published": "2026-11-26T00:00:00Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 1.759,
+        "score": 1.627,
         "summary_source": "none",
         "related": []
       },
@@ -172,7 +172,7 @@
         "published": "2026-11-25T18:52:55Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 1.594,
+        "score": 1.474,
         "summary_source": "none",
         "related": []
       },
@@ -188,7 +188,7 @@
         "published": "2026-11-25T10:22:09Z",
         "first_seen": "2026-11-25T10:45:16Z",
         "importance": null,
-        "score": 1.353,
+        "score": 1.251,
         "summary_source": "none",
         "related": []
       },
@@ -204,7 +204,7 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 1.162,
+        "score": 1.075,
         "summary_source": "feed",
         "related": []
       },
@@ -220,12 +220,28 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 1.162,
+        "score": 1.075,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Semiconductors": [
+      {
+        "id": "561e65e3d38d",
+        "title": "Penguin Revives Retired DDR4 for AI Servers",
+        "summary": "Hyperscalers are already reclaiming older DRAM, but enterprises have been slower to reuse DDR4 to meet their memory expansion demands.",
+        "why_it_matters": "",
+        "link": "https://www.eetimes.com/penguin-revives-retired-ddr4-for-ai-servers/",
+        "source": "EE Times",
+        "type": "news",
+        "sector": "Semiconductors",
+        "published": "2026-11-27T19:17:00Z",
+        "first_seen": "2026-11-27T22:43:28Z",
+        "importance": null,
+        "score": 3.744,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "11b09c2da487",
         "title": "Beyond Lithography: The Battle for Semiconductor Manufacturing Yield",
@@ -238,7 +254,7 @@
         "published": "2026-11-27T14:22:45Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.683,
+        "score": 3.406,
         "summary_source": "feed",
         "related": []
       },
@@ -254,7 +270,7 @@
         "published": "2026-11-27T14:00:00Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.656,
+        "score": 3.381,
         "summary_source": "feed",
         "related": []
       },
@@ -270,7 +286,7 @@
         "published": "2026-11-27T08:56:46Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 3.317,
+        "score": 3.068,
         "summary_source": "feed",
         "related": []
       },
@@ -286,7 +302,7 @@
         "published": "2026-11-26T18:00:00Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 2.488,
+        "score": 2.301,
         "summary_source": "feed",
         "related": []
       },
@@ -302,7 +318,7 @@
         "published": "2026-11-26T14:00:00Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 2.303,
+        "score": 2.13,
         "summary_source": "feed",
         "related": []
       },
@@ -318,7 +334,7 @@
         "published": "2026-11-26T08:55:48Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 2.089,
+        "score": 1.932,
         "summary_source": "feed",
         "related": []
       },
@@ -334,23 +350,7 @@
         "published": "2026-11-26T08:31:51Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 2.073,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "9b1e9b7e390d",
-        "title": "Infineon CoolSET™ SiP Enables Efficient, ‘First-Time-Right’ Auxiliary Power Designs",
-        "summary": "Auxiliary supply is indispensable, and designers need to facilitate high-efficiency solutions across a wide range of loads, in a limited PCB area, and deliver first-time-right designs.",
-        "why_it_matters": "",
-        "link": "https://www.eetimes.com/infineon-coolset-sip-enables-efficient-first-time-right-auxiliary-power-designs/",
-        "source": "EE Times",
-        "type": "news",
-        "sector": "Semiconductors",
-        "published": "2026-11-25T22:02:21Z",
-        "first_seen": "2026-11-25T22:41:18Z",
-        "importance": null,
-        "score": 1.694,
+        "score": 1.917,
         "summary_source": "feed",
         "related": []
       }
@@ -368,7 +368,7 @@
         "published": "2026-11-27T11:09:19Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.461,
+        "score": 3.201,
         "summary_source": "feed",
         "related": []
       },
@@ -384,7 +384,7 @@
         "published": "2026-11-27T10:59:04Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.45,
+        "score": 3.191,
         "summary_source": "feed",
         "related": []
       },
@@ -400,7 +400,7 @@
         "published": "2026-11-27T10:49:59Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.44,
+        "score": 3.181,
         "summary_source": "feed",
         "related": []
       },
@@ -416,7 +416,7 @@
         "published": "2026-11-26T05:14:05Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 1.946,
+        "score": 1.799,
         "summary_source": "feed",
         "related": []
       },
@@ -432,7 +432,7 @@
         "published": "2026-11-26T04:48:05Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 1.929,
+        "score": 1.784,
         "summary_source": "feed",
         "related": []
       },
@@ -448,7 +448,7 @@
         "published": "2026-11-26T04:13:57Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 1.908,
+        "score": 1.765,
         "summary_source": "feed",
         "related": []
       },
@@ -464,7 +464,7 @@
         "published": "2026-11-26T03:58:16Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 1.899,
+        "score": 1.756,
         "summary_source": "feed",
         "related": []
       },
@@ -480,12 +480,60 @@
         "published": "2026-11-26T03:53:09Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 1.896,
+        "score": 1.753,
         "summary_source": "feed",
         "related": []
       }
     ],
     "CyberSecurity": [
+      {
+        "id": "a182974947fa",
+        "title": "Friday Squid Blogging: Giant Squid in Newfoundland",
+        "summary": "The two have an interesting history . As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.",
+        "why_it_matters": "",
+        "link": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-giant-squid-in-newfoundland.html",
+        "source": "Schneier on Security",
+        "type": "news",
+        "sector": "CyberSecurity",
+        "published": "2026-11-27T22:01:25Z",
+        "first_seen": "2026-11-27T22:43:28Z",
+        "importance": null,
+        "score": 3.946,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "f934d10e087c",
+        "title": "pCloud confirms password manager hack after suspicious login alerts",
+        "summary": "The pCloud Pass password manager suffered a cyberattack, with users reporting that unknown devices had connected to their accounts even with two-factor authentication (2FA) enabled.",
+        "why_it_matters": "",
+        "link": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
+        "source": "BleepingComputer",
+        "type": "news",
+        "sector": "CyberSecurity",
+        "published": "2026-11-27T19:26:04Z",
+        "first_seen": "2026-11-27T22:43:28Z",
+        "importance": null,
+        "score": 3.754,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "c69a349f2605",
+        "title": "New Boston Scientific data breach exposes personal, medical info",
+        "summary": "Medical technology company Boston Scientific is sending data breach notices to individuals affected by a cyberattack on the firm.",
+        "why_it_matters": "",
+        "link": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
+        "source": "BleepingComputer",
+        "type": "news",
+        "sector": "CyberSecurity",
+        "published": "2026-11-27T18:57:42Z",
+        "first_seen": "2026-11-27T22:43:28Z",
+        "importance": null,
+        "score": 3.72,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "3ca3d0a07909",
         "title": "Unpatched Cacti zero-day with public PoC gives remote code execution",
@@ -498,7 +546,7 @@
         "published": "2026-11-27T17:06:13Z",
         "first_seen": "2026-11-27T18:39:58Z",
         "importance": null,
-        "score": 3.881,
+        "score": 3.59,
         "summary_source": "feed",
         "related": []
       },
@@ -514,7 +562,7 @@
         "published": "2026-11-27T15:09:40Z",
         "first_seen": "2026-11-27T18:39:58Z",
         "importance": null,
-        "score": 3.739,
+        "score": 3.458,
         "summary_source": "feed",
         "related": []
       },
@@ -530,7 +578,7 @@
         "published": "2026-11-27T15:00:10Z",
         "first_seen": "2026-11-27T18:39:58Z",
         "importance": null,
-        "score": 3.728,
+        "score": 3.447,
         "summary_source": "feed",
         "related": []
       },
@@ -546,7 +594,7 @@
         "published": "2026-11-27T14:22:06Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.682,
+        "score": 3.406,
         "summary_source": "feed",
         "related": []
       },
@@ -562,55 +610,7 @@
         "published": "2026-11-27T12:02:23Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.521,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "fbc49146c79c",
-        "title": "Microsoft removes WSUS server role in Windows Server 2028",
-        "summary": "Microsoft will remove the WSUS server role from Windows Server 2028, the next major release of its server operating system.",
-        "why_it_matters": "",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/",
-        "source": "BleepingComputer",
-        "type": "news",
-        "sector": "CyberSecurity",
-        "published": "2026-11-27T11:18:36Z",
-        "first_seen": "2026-11-27T14:42:48Z",
-        "importance": null,
-        "score": 3.472,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "f64b31815789",
-        "title": "Drupal warns of new site takeover flaw exploited in attacks",
-        "summary": "The Drupal security team says attackers are exploiting a second critical vulnerability that lets them breach and hijack unpatched websites.",
-        "why_it_matters": "",
-        "link": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
-        "source": "BleepingComputer",
-        "type": "news",
-        "sector": "CyberSecurity",
-        "published": "2026-11-27T10:10:15Z",
-        "first_seen": "2026-11-27T10:41:39Z",
-        "importance": null,
-        "score": 3.396,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "346e04591625",
-        "title": "SAP confirms security incident after suspicious GitHub activity",
-        "summary": "SAP has confirmed to BleepingComputer that it took urgent action to protect its customers after detecting suspicious activity in its IT environment.",
-        "why_it_matters": "",
-        "link": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
-        "source": "BleepingComputer",
-        "type": "news",
-        "sector": "CyberSecurity",
-        "published": "2026-11-27T09:56:36Z",
-        "first_seen": "2026-11-27T10:41:39Z",
-        "importance": null,
-        "score": 3.382,
+        "score": 3.256,
         "summary_source": "feed",
         "related": []
       }
@@ -628,7 +628,7 @@
         "published": "2026-11-27T15:35:22Z",
         "first_seen": "2026-11-27T18:39:58Z",
         "importance": null,
-        "score": 3.77,
+        "score": 3.487,
         "summary_source": "feed",
         "related": []
       },
@@ -644,7 +644,7 @@
         "published": "2026-11-26T17:53:00Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 2.482,
+        "score": 2.296,
         "summary_source": "feed",
         "related": []
       },
@@ -660,7 +660,7 @@
         "published": "2026-11-24T15:17:50Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 0.937,
+        "score": 0.867,
         "summary_source": "feed",
         "related": []
       },
@@ -676,7 +676,7 @@
         "published": "2026-11-19T17:25:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.097,
+        "score": 0.09,
         "summary_source": "feed",
         "related": []
       },
@@ -692,7 +692,7 @@
         "published": "2026-11-19T15:38:18Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.094,
+        "score": 0.087,
         "summary_source": "feed",
         "related": []
       },
@@ -708,7 +708,7 @@
         "published": "2026-11-18T22:02:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.067,
+        "score": 0.062,
         "summary_source": "feed",
         "related": []
       },
@@ -724,12 +724,76 @@
         "published": "2026-11-18T20:31:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.065,
+        "score": 0.06,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Renewables": [
+      {
+        "id": "37bb77bb46ab",
+        "title": "Why European Households Are Rushing to Buy Solar Panels Ahead of a Dark, Cold Winter",
+        "summary": "Changes to solar incentives and long installation processes mean European homeowners could benefit from planning now. Winter is cold, dark, and grey.",
+        "why_it_matters": "",
+        "link": "https://cleantechnica.com/2026/11/27/why-european-households-are-rushing-to-buy-solar-panels-ahead-of-a-dark-cold-winter/",
+        "source": "CleanTechnica",
+        "type": "news",
+        "sector": "Renewables",
+        "published": "2026-11-27T22:35:21Z",
+        "first_seen": "2026-11-27T22:43:28Z",
+        "importance": null,
+        "score": 3.99,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "1d0951731119",
+        "title": "Monta Joins ChargeHub’s Passport Hub, North America’s Leading EV Roaming Platform",
+        "summary": "Monta joins Passport Hub, bringing nearly 4,500 charging ports from networks like EnviroSpark and FLASH to dozens of automakers, charging apps and fleets. “Every time a world-class CSMS like Monta joins Passport Hub, the whole ecosystem levels up” —Simon Ouellette, CEO of…",
+        "why_it_matters": "",
+        "link": "https://cleantechnica.com/2026/11/27/monta-joins-chargehubs-passport-hub-north-americas-leading-ev-roaming-platform/",
+        "source": "CleanTechnica",
+        "type": "news",
+        "sector": "Renewables",
+        "published": "2026-11-27T21:58:59Z",
+        "first_seen": "2026-11-27T22:43:28Z",
+        "importance": null,
+        "score": 3.943,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "f890eaa3eb0e",
+        "title": "GRIDSERVE Secures £420 Million Financing to Strengthen Leadership Position in EV Charging & Support Next Phase of Growth",
+        "summary": "Major refinancing package strengthens GRIDSERVE’s long-term funding position and financial resilience New financing structure provides dedicated capital for continued investment and network expansion Deal reflects significant financial progress, with GRIDSERVE reporting positive…",
+        "why_it_matters": "",
+        "link": "https://cleantechnica.com/2026/11/27/gridserve-secures-420-million-financing-to-strengthen-leadership-position-in-ev-charging-support-next-phase-of-growth/",
+        "source": "CleanTechnica",
+        "type": "news",
+        "sector": "Renewables",
+        "published": "2026-11-27T21:30:41Z",
+        "first_seen": "2026-11-27T22:43:28Z",
+        "importance": null,
+        "score": 3.908,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "c1756456b73b",
+        "title": "Loblaw’s Hydrogen Truck Crossed the Rockies. Another Truck Brought Its Fuel.",
+        "summary": "Loblaw’s hydrogen truck crossed the Rockies with three fills and mobile fuel delivery. The trip did not establish a commercial freight system.",
+        "why_it_matters": "",
+        "link": "https://cleantechnica.com/2026/11/27/loblaw-hydrogen-truck-rockies-mobile-fuel/",
+        "source": "CleanTechnica",
+        "type": "news",
+        "sector": "Renewables",
+        "published": "2026-11-27T21:02:04Z",
+        "first_seen": "2026-11-27T22:43:28Z",
+        "importance": null,
+        "score": 3.872,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "8e4f86e5da89",
         "title": "Musk Space Based Data Center Idea Is A Betrayal Of Humanity",
@@ -742,7 +806,7 @@
         "published": "2026-11-27T18:23:29Z",
         "first_seen": "2026-11-27T18:39:58Z",
         "importance": null,
-        "score": 3.979,
+        "score": 3.68,
         "summary_source": "feed",
         "related": []
       },
@@ -758,7 +822,7 @@
         "published": "2026-11-27T15:17:54Z",
         "first_seen": "2026-11-27T18:39:58Z",
         "importance": null,
-        "score": 3.749,
+        "score": 3.467,
         "summary_source": "feed",
         "related": []
       },
@@ -774,7 +838,7 @@
         "published": "2026-11-27T15:06:22Z",
         "first_seen": "2026-11-27T18:39:58Z",
         "importance": null,
-        "score": 3.735,
+        "score": 3.454,
         "summary_source": "feed",
         "related": []
       },
@@ -790,76 +854,28 @@
         "published": "2026-11-27T09:02:33Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 3.323,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "649086a0af75",
-        "title": "The European Parliament Brings the EU One Step Closer to a Sound Investment Policy",
-        "summary": "Being locked-in a race for technological leadership with China and the US, the EU lacks focus, coordination and financial firepower to transform its industry, ensure long-term prosperity while reaching its climate objectives.",
-        "why_it_matters": "",
-        "link": "https://cleantechnica.com/2026/11/26/the-european-parliament-brings-the-eu-one-step-closer-to-a-sound-investment-policy/",
-        "source": "CleanTechnica",
-        "type": "news",
-        "sector": "Renewables",
-        "published": "2026-11-27T04:57:21Z",
-        "first_seen": "2026-11-27T06:52:14Z",
-        "importance": null,
-        "score": 3.072,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "a42fc225154d",
-        "title": "High-Flying Influencers",
-        "summary": "How do airlines push environmentally damaging flying behavior in digital advertising and via travel influencers? This briefing is based on the T3 Transportation Think Tank study commissioned by T&E.",
-        "why_it_matters": "",
-        "link": "https://cleantechnica.com/2026/11/26/high-flying-influencers/",
-        "source": "CleanTechnica",
-        "type": "news",
-        "sector": "Renewables",
-        "published": "2026-11-27T04:53:00Z",
-        "first_seen": "2026-11-27T06:52:14Z",
-        "importance": null,
-        "score": 3.068,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "acaf8540ebca",
-        "title": "Over 70,000 km by Plane a Year: Travel Influencers Are Blowing Their Carbon Budgets and encouraging Europeans to Do the Same",
-        "summary": "Influencers flew mostly long-haul flights (49%) and an average of 72,244 km each, roughly equivalent to circumnavigating the globe twice. EasyJet, Air France, Aer Lingus are among the airlines that spend the most on social media, including via influencers.",
-        "why_it_matters": "",
-        "link": "https://cleantechnica.com/2026/11/26/over-70000-km-by-plane-a-year-travel-influencers-are-blowing-their-carbon-budgets-and-encouraging-europeans-to-do-the-same/",
-        "source": "CleanTechnica",
-        "type": "news",
-        "sector": "Renewables",
-        "published": "2026-11-27T04:50:29Z",
-        "first_seen": "2026-11-27T06:52:14Z",
-        "importance": null,
-        "score": 3.065,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "d5d2754d4351",
-        "title": "Celebrating Cultures And Equity On Thanksgiving Day",
-        "summary": "There is an important subtext to this Thanksgiving Day in the United States. A “blue tsunami” has occurred, so, come January, the Democratic party will control the House of Representatives and the Senate.",
-        "why_it_matters": "",
-        "link": "https://cleantechnica.com/2026/11/26/celebrating-cultures-and-equity-on-thanksgiving-day/",
-        "source": "CleanTechnica",
-        "type": "news",
-        "sector": "Renewables",
-        "published": "2026-11-27T00:26:38Z",
-        "first_seen": "2026-11-27T02:44:05Z",
-        "importance": null,
-        "score": 2.816,
+        "score": 3.074,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Energy": [
+      {
+        "id": "fcd8f266b764",
+        "title": "‘Sinking’ African megacities will expose seven million people to flooding by 2050",
+        "summary": "Sinking land and rising seas could expose more than seven million people living in Africa’s coastal “megacities” to flooding by",
+        "why_it_matters": "",
+        "link": "https://www.carbonbrief.org/sinking-african-megacities-will-expose-seven-million-people-to-flooding-by-2050",
+        "source": "Carbon Brief",
+        "type": "news",
+        "sector": "Energy",
+        "published": "2026-11-27T19:00:00Z",
+        "first_seen": "2026-11-27T22:43:28Z",
+        "importance": null,
+        "score": 3.723,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "edfccab0af98",
         "title": "Continued operating losses for Narada Power as battery OEM falls to lowest Bankability rating",
@@ -872,7 +888,7 @@
         "published": "2026-11-27T11:20:23Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.474,
+        "score": 3.213,
         "summary_source": "feed",
         "related": []
       },
@@ -888,7 +904,7 @@
         "published": "2026-11-27T09:44:08Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 3.368,
+        "score": 3.115,
         "summary_source": "feed",
         "related": []
       },
@@ -904,7 +920,7 @@
         "published": "2026-11-27T09:13:02Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 3.335,
+        "score": 3.084,
         "summary_source": "feed",
         "related": []
       },
@@ -920,7 +936,7 @@
         "published": "2026-11-27T09:10:31Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 3.332,
+        "score": 3.081,
         "summary_source": "feed",
         "related": []
       },
@@ -936,7 +952,7 @@
         "published": "2026-11-26T15:03:14Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 2.351,
+        "score": 2.174,
         "summary_source": "feed",
         "related": []
       },
@@ -952,7 +968,7 @@
         "published": "2026-11-26T14:20:22Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 2.318,
+        "score": 2.144,
         "summary_source": "feed",
         "related": []
       },
@@ -968,23 +984,7 @@
         "published": "2026-11-26T13:03:53Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 2.262,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "2ddcd71e2c37",
-        "title": "Actuate Energy orders 1.5GWh of BESS from Sungrow for 2027/2028 pipeline in Spain",
-        "summary": "New energy storage platform Actuate Energy and inverter and BESS firm Sungrow have struck a 380MW/1,500MWh agreement for projects in Spain over the next few years.",
-        "why_it_matters": "",
-        "link": "https://www.energy-storage.news/actuate-energy-orders-1-5gwh-bess-sungrow-2027-2028-pipeline-spain/",
-        "source": "Energy-Storage.news",
-        "type": "news",
-        "sector": "Energy",
-        "published": "2026-11-26T11:42:32Z",
-        "first_seen": "2026-11-26T14:46:21Z",
-        "importance": null,
-        "score": 2.204,
+        "score": 2.092,
         "summary_source": "feed",
         "related": []
       }
@@ -1002,7 +1002,7 @@
         "published": "2026-11-25T14:53:24Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.476,
+        "score": 1.365,
         "summary_source": "feed",
         "related": []
       },
@@ -1018,7 +1018,7 @@
         "published": "2026-11-25T14:00:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.451,
+        "score": 1.342,
         "summary_source": "feed",
         "related": []
       },
@@ -1034,7 +1034,7 @@
         "published": "2026-11-24T16:28:23Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 0.959,
+        "score": 0.887,
         "summary_source": "feed",
         "related": []
       },
@@ -1050,7 +1050,7 @@
         "published": "2026-11-24T15:35:48Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 0.943,
+        "score": 0.872,
         "summary_source": "feed",
         "related": []
       },
@@ -1066,7 +1066,7 @@
         "published": "2026-11-24T15:28:00Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 0.94,
+        "score": 0.87,
         "summary_source": "feed",
         "related": []
       },
@@ -1082,7 +1082,7 @@
         "published": "2026-11-23T16:28:15Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 0.604,
+        "score": 0.558,
         "summary_source": "feed",
         "related": []
       },
@@ -1098,7 +1098,7 @@
         "published": "2026-11-23T15:00:00Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 0.587,
+        "score": 0.543,
         "summary_source": "feed",
         "related": []
       },
@@ -1114,7 +1114,7 @@
         "published": "2026-11-20T16:46:43Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.152,
+        "score": 0.14,
         "summary_source": "feed",
         "related": []
       }
@@ -1132,7 +1132,7 @@
         "published": "2026-11-27T16:00:54Z",
         "first_seen": "2026-11-27T18:39:58Z",
         "importance": null,
-        "score": 3.801,
+        "score": 3.515,
         "summary_source": "feed",
         "related": []
       },
@@ -1148,7 +1148,7 @@
         "published": "2026-11-27T15:49:05Z",
         "first_seen": "2026-11-27T18:39:58Z",
         "importance": null,
-        "score": 3.787,
+        "score": 3.502,
         "summary_source": "feed",
         "related": []
       },
@@ -1164,7 +1164,7 @@
         "published": "2026-11-27T14:54:22Z",
         "first_seen": "2026-11-27T18:39:58Z",
         "importance": null,
-        "score": 3.721,
+        "score": 3.441,
         "summary_source": "feed",
         "related": []
       },
@@ -1180,7 +1180,7 @@
         "published": "2026-11-27T09:30:00Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 3.353,
+        "score": 3.101,
         "summary_source": "feed",
         "related": []
       },
@@ -1196,7 +1196,7 @@
         "published": "2026-11-27T09:30:00Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 3.353,
+        "score": 3.101,
         "summary_source": "feed",
         "related": []
       },
@@ -1212,7 +1212,7 @@
         "published": "2026-11-26T19:00:00Z",
         "first_seen": "2026-11-26T22:41:37Z",
         "importance": null,
-        "score": 2.536,
+        "score": 2.345,
         "summary_source": "feed",
         "related": []
       },
@@ -1228,7 +1228,7 @@
         "published": "2026-11-26T12:00:00Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 2.216,
+        "score": 2.05,
         "summary_source": "feed",
         "related": []
       },
@@ -1244,7 +1244,7 @@
         "published": "2026-11-25T21:28:53Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 1.676,
+        "score": 1.55,
         "summary_source": "feed",
         "related": []
       }
@@ -1262,7 +1262,7 @@
         "published": "2026-11-27T12:22:01Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.543,
+        "score": 3.277,
         "summary_source": "feed",
         "related": []
       },
@@ -1278,7 +1278,7 @@
         "published": "2026-11-27T12:12:18Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.532,
+        "score": 3.267,
         "summary_source": "feed",
         "related": []
       },
@@ -1294,7 +1294,7 @@
         "published": "2026-11-26T12:20:50Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 2.231,
+        "score": 2.063,
         "summary_source": "feed",
         "related": []
       },
@@ -1310,7 +1310,7 @@
         "published": "2026-11-26T12:02:57Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 2.218,
+        "score": 2.052,
         "summary_source": "feed",
         "related": []
       },
@@ -1326,7 +1326,7 @@
         "published": "2026-11-26T08:30:00Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 2.072,
+        "score": 1.916,
         "summary_source": "feed",
         "related": []
       },
@@ -1342,7 +1342,7 @@
         "published": "2026-11-25T18:58:25Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 1.597,
+        "score": 1.477,
         "summary_source": "feed",
         "related": []
       },
@@ -1358,7 +1358,7 @@
         "published": "2026-11-25T16:58:07Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.536,
+        "score": 1.421,
         "summary_source": "feed",
         "related": []
       },
@@ -1374,7 +1374,7 @@
         "published": "2026-11-25T15:00:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.479,
+        "score": 1.368,
         "summary_source": "feed",
         "related": []
       }
@@ -1392,7 +1392,7 @@
         "published": "2026-11-27T13:56:43Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.652,
+        "score": 3.378,
         "summary_source": "feed",
         "related": []
       },
@@ -1408,7 +1408,7 @@
         "published": "2026-11-25T18:24:42Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 1.58,
+        "score": 1.461,
         "summary_source": "feed",
         "related": []
       },
@@ -1424,7 +1424,7 @@
         "published": "2026-11-25T17:00:07Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.537,
+        "score": 1.422,
         "summary_source": "feed",
         "related": []
       },
@@ -1440,7 +1440,7 @@
         "published": "2026-11-25T15:00:03Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.479,
+        "score": 1.368,
         "summary_source": "feed",
         "related": []
       },
@@ -1456,7 +1456,7 @@
         "published": "2026-11-24T18:03:37Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 0.988,
+        "score": 0.914,
         "summary_source": "feed",
         "related": []
       },
@@ -1472,7 +1472,7 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 0.968,
+        "score": 0.896,
         "summary_source": "feed",
         "related": []
       },
@@ -1488,7 +1488,7 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 0.968,
+        "score": 0.896,
         "summary_source": "feed",
         "related": []
       },
@@ -1504,7 +1504,7 @@
         "published": "2026-11-24T14:48:57Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 0.929,
+        "score": 0.859,
         "summary_source": "feed",
         "related": []
       }
@@ -1522,7 +1522,7 @@
         "published": "2026-11-27T08:00:01Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 3.257,
+        "score": 3.013,
         "summary_source": "feed",
         "related": []
       },
@@ -1538,7 +1538,7 @@
         "published": "2026-11-25T18:26:19Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.58,
+        "score": 1.462,
         "summary_source": "feed",
         "related": []
       },
@@ -1554,7 +1554,7 @@
         "published": "2026-11-24T22:35:05Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 1.078,
+        "score": 0.997,
         "summary_source": "feed",
         "related": []
       },
@@ -1570,7 +1570,7 @@
         "published": "2026-11-24T19:43:49Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 1.021,
+        "score": 0.944,
         "summary_source": "feed",
         "related": []
       },
@@ -1586,7 +1586,7 @@
         "published": "2026-11-20T21:52:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.168,
+        "score": 0.155,
         "summary_source": "feed",
         "related": []
       },
@@ -1602,7 +1602,7 @@
         "published": "2026-11-19T23:30:50Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.109,
+        "score": 0.101,
         "summary_source": "feed",
         "related": []
       },
@@ -1618,7 +1618,7 @@
         "published": "2026-11-18T19:52:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.064,
+        "score": 0.059,
         "summary_source": "feed",
         "related": []
       },
@@ -1634,7 +1634,7 @@
         "published": "2026-11-18T15:10:53Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.058,
+        "score": 0.054,
         "summary_source": "feed",
         "related": []
       }
@@ -1652,7 +1652,7 @@
         "published": "2026-11-25T12:00:49Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 1.397,
+        "score": 1.292,
         "summary_source": "feed",
         "related": []
       },
@@ -1668,7 +1668,7 @@
         "published": "2026-11-25T12:00:09Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 1.396,
+        "score": 1.291,
         "summary_source": "feed",
         "related": []
       },
@@ -1684,7 +1684,7 @@
         "published": "2026-11-24T18:30:42Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 0.997,
+        "score": 0.922,
         "summary_source": "feed",
         "related": []
       },
@@ -1700,7 +1700,7 @@
         "published": "2026-11-24T12:00:48Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 0.88,
+        "score": 0.814,
         "summary_source": "feed",
         "related": []
       },
@@ -1716,7 +1716,7 @@
         "published": "2026-11-24T12:00:21Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 0.88,
+        "score": 0.814,
         "summary_source": "feed",
         "related": []
       },
@@ -1732,7 +1732,7 @@
         "published": "2026-11-23T12:00:19Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 0.554,
+        "score": 0.512,
         "summary_source": "feed",
         "related": []
       },
@@ -1748,7 +1748,7 @@
         "published": "2026-11-23T01:25:53Z",
         "first_seen": "2026-11-23T02:44:14Z",
         "importance": null,
-        "score": 0.452,
+        "score": 0.418,
         "summary_source": "feed",
         "related": []
       },
@@ -1764,7 +1764,7 @@
         "published": "2026-11-20T20:15:54Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.162,
+        "score": 0.15,
         "summary_source": "feed",
         "related": []
       }
@@ -1782,7 +1782,7 @@
         "published": "2026-11-27T14:36:00Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.699,
+        "score": 3.421,
         "summary_source": "feed",
         "related": []
       },
@@ -1798,7 +1798,7 @@
         "published": "2026-11-27T14:35:00Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.698,
+        "score": 3.42,
         "summary_source": "feed",
         "related": []
       },
@@ -1814,7 +1814,7 @@
         "published": "2026-11-27T12:00:00Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.518,
+        "score": 3.254,
         "summary_source": "feed",
         "related": []
       },
@@ -1830,7 +1830,7 @@
         "published": "2026-11-27T11:00:00Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.451,
+        "score": 3.192,
         "summary_source": "feed",
         "related": []
       },
@@ -1846,7 +1846,7 @@
         "published": "2026-11-27T09:00:00Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 3.321,
+        "score": 3.071,
         "summary_source": "feed",
         "related": []
       },
@@ -1862,7 +1862,7 @@
         "published": "2026-11-27T08:40:00Z",
         "first_seen": "2026-11-27T06:52:14Z",
         "importance": null,
-        "score": 3.299,
+        "score": 3.051,
         "summary_source": "feed",
         "related": []
       },
@@ -1878,7 +1878,7 @@
         "published": "2026-11-27T06:58:00Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 3.193,
+        "score": 2.953,
         "summary_source": "feed",
         "related": []
       },
@@ -1894,12 +1894,76 @@
         "published": "2026-11-26T17:16:00Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 2.453,
+        "score": 2.268,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Breaking": [
+      {
+        "id": "eda0fa6e798e",
+        "title": "Some users claim Claude is silently sabotaging projects, but the behavior may stem from a clash between its proactive nature and strict instruction following (Drew Breunig)",
+        "summary": "Drew Breunig : Some users claim Claude is silently sabotaging projects, but the behavior may stem from a clash between its proactive nature and strict instruction following — Is Claude Throwing the Game? — There's a recent spate of claims that Claude is silently sabotaging…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261127/p14",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-27T21:35:01Z",
+        "first_seen": "2026-11-27T22:43:28Z",
+        "importance": null,
+        "score": 3.522,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "2bce98ddc9ff",
+        "title": "Q&A with AI researchers Ege Erdil and Daniel Kokotajlo on the odds of an intelligence explosion before 2029, pausing AI, the US antagonizing China, and more (Dwarkesh Patel/Dwarkesh Podcast)",
+        "summary": "Dwarkesh Patel / Dwarkesh Podcast : Q&A with AI researchers Ege Erdil and Daniel Kokotajlo on the odds of an intelligence explosion before 2029, pausing AI, the US antagonizing China, and more — “If we pause now, people still won't understand what's at stake.” — New podcast…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261127/p13",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-27T20:15:01Z",
+        "first_seen": "2026-11-27T22:43:28Z",
+        "importance": null,
+        "score": 3.433,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "331a3ed30f1f",
+        "title": "OpenAI countersues Apple for allegedly stealing trade secrets via a staffer who returned to Apple and \"coercing and threatening\" suppliers that work with both (Financial Times)",
+        "summary": "Financial Times : OpenAI countersues Apple for allegedly stealing trade secrets via a staffer who returned to Apple and “coercing and threatening” suppliers that work with both — The ChatGPT maker also accuses the tech giant of ‘coercing and threatening’ suppliers who work with…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261127/p12",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-27T18:57:47Z",
+        "first_seen": "2026-11-27T22:43:28Z",
+        "importance": null,
+        "score": 3.348,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "abe76de8a23e",
+        "title": "Sources: Verizon is in talks to buy fiber-optic broadband operator Fidium for ~$6B, as part of its goal to expand its network to 50M US homes and businesses (Financial Times)",
+        "summary": "Financial Times : Sources: Verizon is in talks to buy fiber-optic broadband operator Fidium for ~$6B, as part of its goal to expand its network to 50M US homes and businesses — US group pursues company owned by Searchlight Capital and Canada's BCI in push to boost its presence…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261127/p11",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-27T18:50:02Z",
+        "first_seen": "2026-11-27T22:43:28Z",
+        "importance": null,
+        "score": 3.34,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "ac4a0f7f0743",
         "title": "European Central Bank survey: 44% of employed EU consumers reported using AI weekly at work in August, on par with US peers; 18% used it daily, above US levels (Alexander Weber/Bloomberg)",
@@ -1912,7 +1976,7 @@
         "published": "2026-11-27T18:15:00Z",
         "first_seen": "2026-11-27T18:39:58Z",
         "importance": null,
-        "score": 3.571,
+        "score": 3.303,
         "summary_source": "feed",
         "related": []
       },
@@ -1928,7 +1992,7 @@
         "published": "2026-11-27T16:35:08Z",
         "first_seen": "2026-11-27T18:39:58Z",
         "importance": null,
-        "score": 3.459,
+        "score": 3.199,
         "summary_source": "feed",
         "related": []
       },
@@ -1944,7 +2008,7 @@
         "published": "2026-11-27T15:25:00Z",
         "first_seen": "2026-11-27T18:39:58Z",
         "importance": null,
-        "score": 3.382,
+        "score": 3.127,
         "summary_source": "feed",
         "related": []
       },
@@ -1960,71 +2024,7 @@
         "published": "2026-11-27T14:20:01Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.312,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "694a45898d5b",
-        "title": "Serial numbers in Chinese filings reveal that Nvidia's restricted Blackwell chips were installed at a Shanghai data center linked to Alice Huang and Megaspeed (Bloomberg)",
-        "summary": "Bloomberg : Serial numbers in Chinese filings reveal that Nvidia's restricted Blackwell chips were installed at a Shanghai data center linked to Alice Huang and Megaspeed — A pair of Chinese firms installed Nvidia Corp.'s powerful Blackwell semiconductors in a Shanghai data…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261127/p6",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-27T13:05:01Z",
-        "first_seen": "2026-11-27T14:42:48Z",
-        "importance": null,
-        "score": 3.233,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "dc3602984552",
-        "title": "Meituan reports Q3 revenue up 21.6% YoY to ~$17.3B, above est., and an adjusted net profit of ~$285.1M, up from a ~$2.4B adjusted net loss (Ben Jiang/South China Morning Post)",
-        "summary": "Ben Jiang / South China Morning Post : Meituan reports Q3 revenue up 21.6% YoY to ~$17.3B, above est., and an adjusted net profit of ~$285.1M, up from a ~$2.4B adjusted net loss — Chinese food-delivery giant Meituan reported a second consecutive profitable quarter on Friday, as…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261127/p5",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-27T12:35:01Z",
-        "first_seen": "2026-11-27T14:42:48Z",
-        "importance": null,
-        "score": 3.202,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "c27b1b3c41a6",
-        "title": "Sources: the US Air Force recently discovered a breach of Cloud One, which combines Microsoft, Amazon, Oracle, and Google clouds to power Air Force applications (Reuters)",
-        "summary": "Reuters : Sources: the US Air Force recently discovered a breach of Cloud One, which combines Microsoft, Amazon, Oracle, and Google clouds to power Air Force applications — Hackers have breached the US Air Force's flagship cloud computing platform, three people familiar with the…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261127/p4",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-27T12:10:01Z",
-        "first_seen": "2026-11-27T14:42:48Z",
-        "importance": null,
-        "score": 3.177,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "42f8c402dc2e",
-        "title": "A look at proposals for vertical data centers, often the only option where land is limited in places like Taiwan; Kansas City recently rejected a 20-story tower (Tiffany Hsu/New York Times)",
-        "summary": "Tiffany Hsu / New York Times : A look at proposals for vertical data centers, often the only option where land is limited in places like Taiwan; Kansas City recently rejected a 20-story tower — The facilities that power A.I. and other big data needs are in high demand but widely…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261127/p3",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-27T10:25:08Z",
-        "first_seen": "2026-11-27T10:41:39Z",
-        "importance": null,
-        "score": 3.071,
+        "score": 3.063,
         "summary_source": "feed",
         "related": []
       }
@@ -2041,17 +2041,6 @@
         "2939245102eb"
       ],
       "score": 8.08
-    },
-    {
-      "term": "france",
-      "sources": 3,
-      "sectors": 3,
-      "ids": [
-        "bd12957f6177",
-        "acaf8540ebca",
-        "1ac244eeaaee"
-      ],
-      "score": 6.43
     },
     {
       "term": "edition",
@@ -2076,13 +2065,13 @@
       "score": 5.62
     },
     {
-      "term": "cloud",
+      "term": "changes",
       "sources": 4,
       "sectors": 4,
       "ids": [
-        "01193419b35b",
-        "397a2fb7cb7c",
-        "139fbc7a1afd"
+        "37bb77bb46ab",
+        "e180e0972a0b",
+        "fe3c28e656a2"
       ],
       "score": 5.54
     },
@@ -2098,24 +2087,37 @@
       "score": 5.54
     },
     {
-      "term": "air force",
-      "sources": 2,
-      "sectors": 2,
+      "term": "canada",
+      "sources": 3,
+      "sectors": 3,
       "ids": [
-        "397a2fb7cb7c",
-        "c27b1b3c41a6"
+        "089e2941a4b6",
+        "1ac244eeaaee",
+        "abe76de8a23e"
       ],
       "score": 5.0
     },
     {
-      "term": "computing platform",
-      "sources": 2,
-      "sectors": 2,
+      "term": "capital",
+      "sources": 4,
+      "sectors": 4,
       "ids": [
-        "397a2fb7cb7c",
-        "c27b1b3c41a6"
+        "f890eaa3eb0e",
+        "029ce0432447",
+        "27678cf8f838"
       ],
-      "score": 5.0
+      "score": 4.8
+    },
+    {
+      "term": "explains",
+      "sources": 3,
+      "sectors": 3,
+      "ids": [
+        "40e68078b31b",
+        "218eeae16c17",
+        "38112fd4a48a"
+      ],
+      "score": 4.5
     }
   ],
   "stock_watch": [],
@@ -2395,7 +2397,7 @@
       "errors": [
         "ANTHROPIC_API_KEY is not set"
       ],
-      "new_items": 19,
+      "new_items": 17,
       "summarised": 0
     }
   }
