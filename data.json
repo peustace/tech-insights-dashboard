@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "generated_at": "2026-11-27T06:52:14Z",
-  "last_updated": "2026-11-27 06:52 UTC",
+  "generated_at": "2026-11-27T10:41:39Z",
+  "last_updated": "2026-11-27 10:41 UTC",
   "is_sunday_edition": false,
   "priority_sectors": [
     "AI",
@@ -14,82 +14,82 @@
   ],
   "top_stories": [
     {
-      "id": "572bb26c5aeb",
-      "title": "Sandboxes, secure inference, and keeping agents from going rogue",
-      "summary": "At We Are Developers, Ryan talks with Daytona CEO and cofounder Ivan Burazin about agent sandboxes and Blackbox AI CTO and cofounder Richard Risk about encrypted inference.",
+      "id": "f64b31815789",
+      "title": "Drupal warns of new site takeover flaw exploited in attacks",
+      "summary": "The Drupal security team says attackers are exploiting a second critical vulnerability that lets them breach and hijack unpatched websites.",
       "why_it_matters": "",
-      "link": "https://stackoverflow.blog/2026/11/27/sandboxes-secure-inference-and-rogue-agents/",
-      "source": "Stack Overflow Blog",
+      "link": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
+      "source": "BleepingComputer",
       "type": "news",
-      "sector": "Developer Tools",
-      "published": "2026-11-27T08:40:00Z",
-      "first_seen": "2026-11-27T06:52:14Z",
+      "sector": "CyberSecurity",
+      "published": "2026-11-27T10:10:15Z",
+      "first_seen": "2026-11-27T10:41:39Z",
       "importance": null,
-      "score": 4.0,
+      "score": 3.96,
       "summary_source": "feed",
       "related": []
     },
     {
-      "id": "649086a0af75",
-      "title": "The European Parliament Brings the EU One Step Closer to a Sound Investment Policy",
-      "summary": "Being locked-in a race for technological leadership with China and the US, the EU lacks focus, coordination and financial firepower to transform its industry, ensure long-term prosperity while reaching its climate objectives.",
+      "id": "346e04591625",
+      "title": "SAP confirms security incident after suspicious GitHub activity",
+      "summary": "SAP has confirmed to BleepingComputer that it took urgent action to protect its customers after detecting suspicious activity in its IT environment.",
       "why_it_matters": "",
-      "link": "https://cleantechnica.com/2026/11/26/the-european-parliament-brings-the-eu-one-step-closer-to-a-sound-investment-policy/",
-      "source": "CleanTechnica",
+      "link": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
+      "source": "BleepingComputer",
       "type": "news",
-      "sector": "Renewables",
-      "published": "2026-11-27T04:57:21Z",
-      "first_seen": "2026-11-27T06:52:14Z",
+      "sector": "CyberSecurity",
+      "published": "2026-11-27T09:56:36Z",
+      "first_seen": "2026-11-27T10:41:39Z",
       "importance": null,
-      "score": 3.855,
+      "score": 3.943,
       "summary_source": "feed",
       "related": []
     },
     {
-      "id": "a42fc225154d",
-      "title": "High-Flying Influencers",
-      "summary": "How do airlines push environmentally damaging flying behavior in digital advertising and via travel influencers? This briefing is based on the T3 Transportation Think Tank study commissioned by T&E.",
+      "id": "d4d45e81dc8e",
+      "title": "BESS Industry Buzz: Battery tests questioned, hugs at RE+, IPP exit crisis and Europe’s battery race loss",
+      "summary": "Another edition of our BESS Industry Buzz, rounding up some of the hot takes, analysis and gossip from the past week on our feeds.",
       "why_it_matters": "",
-      "link": "https://cleantechnica.com/2026/11/26/high-flying-influencers/",
-      "source": "CleanTechnica",
+      "link": "https://www.energy-storage.news/bess-industry-buzz-battery-tests-questioned-hugs-at-re-ipp-exit-crisis-and-europes-battery-race-loss/",
+      "source": "Energy-Storage.news",
       "type": "news",
-      "sector": "Renewables",
-      "published": "2026-11-27T04:53:00Z",
-      "first_seen": "2026-11-27T06:52:14Z",
+      "sector": "Energy",
+      "published": "2026-11-27T09:44:08Z",
+      "first_seen": "2026-11-27T10:41:39Z",
       "importance": null,
-      "score": 3.85,
+      "score": 3.927,
       "summary_source": "feed",
       "related": []
     },
     {
-      "id": "6098968e82a1",
-      "title": "US smartphone shipments fell 9% YoY in Q3 as memory costs hit Android OEMs, especially at the low end; Apple's share rose from 50% to 57%, Samsung holds at 25% (Maurice Klaehne/Counterpoint Research)",
-      "summary": "Maurice Klaehne / Counterpoint Research : US smartphone shipments fell 9% YoY in Q3 as memory costs hit Android OEMs, especially at the low end; Apple's share rose from 50% to 57%, Samsung holds at 25% — - US smartphone shipments fell 9% YoY in Q3 as rising memory costs weighed…",
+      "id": "fcfc3e5543ee",
+      "title": "Pregnancy is the ‘perfect storm’ for eating disorders, but doctors keep missing them",
+      "summary": "Many women struggle with eating disorders before and after childbirth, but they often slip through the cracks of the U.S. health care system.",
       "why_it_matters": "",
-      "link": "https://www.techmeme.com/261127/p1",
-      "source": "Techmeme",
-      "type": "community",
-      "sector": "Breaking",
-      "published": "2026-11-27T05:45:01Z",
-      "first_seen": "2026-11-27T06:52:14Z",
+      "link": "https://www.statnews.com/2026/11/27/pregnancy-eating-disorders-expanded-doctor-screening-needed/",
+      "source": "STAT",
+      "type": "news",
+      "sector": "Biotech",
+      "published": "2026-11-27T09:30:00Z",
+      "first_seen": "2026-11-27T10:41:39Z",
       "importance": null,
-      "score": 3.523,
+      "score": 3.909,
       "summary_source": "feed",
       "related": []
     },
     {
-      "id": "45929f2e3f34",
-      "title": "Dante Security, which has developed a platform for monitoring the activity of AI agents within organizations, raised a $10M seed led by NFX (Meir Orbach/CTech)",
-      "summary": "Meir Orbach / CTech : Dante Security, which has developed a platform for monitoring the activity of AI agents within organizations, raised a $10M seed led by NFX — Dante Security is developing a platform that gives organizations visibility into the actions of autonomous AI…",
+      "id": "99b158498dce",
+      "title": "Opinion: Montana’s ‘right to try’ law makes patients responsible for bearing costs — and risks",
+      "summary": "Montana has become the first state to have its own ‘right to try’ law, but important questions remain, researchers write.",
       "why_it_matters": "",
-      "link": "https://www.techmeme.com/261126/p27",
-      "source": "Techmeme",
-      "type": "community",
-      "sector": "Breaking",
-      "published": "2026-11-27T03:15:01Z",
-      "first_seen": "2026-11-27T06:52:14Z",
+      "link": "https://www.statnews.com/2026/11/27/montana-sb-535-right-to-try-questions-risks-costs-insurance/",
+      "source": "STAT",
+      "type": "news",
+      "sector": "Biotech",
+      "published": "2026-11-27T09:30:00Z",
+      "first_seen": "2026-11-27T10:41:39Z",
       "importance": null,
-      "score": 3.358,
+      "score": 3.909,
       "summary_source": "feed",
       "related": []
     }
@@ -108,7 +108,7 @@
         "published": "2026-11-26T11:37:17Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 2.761,
+        "score": 2.565,
         "summary_source": "none",
         "related": []
       },
@@ -124,7 +124,7 @@
         "published": "2026-11-26T05:05:36Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 2.435,
+        "score": 2.262,
         "summary_source": "none",
         "related": []
       },
@@ -140,7 +140,7 @@
         "published": "2026-11-26T00:00:00Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 2.208,
+        "score": 2.051,
         "summary_source": "none",
         "related": []
       },
@@ -156,7 +156,7 @@
         "published": "2026-11-25T18:52:55Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 2.0,
+        "score": 1.858,
         "summary_source": "none",
         "related": []
       },
@@ -172,7 +172,7 @@
         "published": "2026-11-25T10:22:09Z",
         "first_seen": "2026-11-25T10:45:16Z",
         "importance": null,
-        "score": 1.698,
+        "score": 1.577,
         "summary_source": "none",
         "related": []
       },
@@ -188,7 +188,7 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 1.458,
+        "score": 1.355,
         "summary_source": "feed",
         "related": []
       },
@@ -204,7 +204,7 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 1.458,
+        "score": 1.355,
         "summary_source": "feed",
         "related": []
       },
@@ -220,12 +220,28 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 1.458,
+        "score": 1.355,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Semiconductors": [
+      {
+        "id": "6be747c6f5c7",
+        "title": "Huawei’s Next Big AI Move: HBM Workaround",
+        "summary": "The Shenzhen-based tech firm will provide details about its custom HBM design at ISSCC 2027 in San Francisco early next year.",
+        "why_it_matters": "",
+        "link": "https://www.eetimes.com/huawei-next-big-ai-move-hbm-workaround/",
+        "source": "EE Times",
+        "type": "news",
+        "sector": "Semiconductors",
+        "published": "2026-11-27T08:56:46Z",
+        "first_seen": "2026-11-27T10:41:39Z",
+        "importance": null,
+        "score": 3.868,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "db51bc1400fc",
         "title": "Siemens Adds SoC Verification and Software Debug with Two Planned Deals",
@@ -238,7 +254,7 @@
         "published": "2026-11-26T18:00:00Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 3.122,
+        "score": 2.9,
         "summary_source": "feed",
         "related": []
       },
@@ -254,7 +270,7 @@
         "published": "2026-11-26T14:00:00Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 2.891,
+        "score": 2.685,
         "summary_source": "feed",
         "related": []
       },
@@ -270,7 +286,7 @@
         "published": "2026-11-26T08:55:48Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 2.622,
+        "score": 2.436,
         "summary_source": "feed",
         "related": []
       },
@@ -286,7 +302,7 @@
         "published": "2026-11-26T08:31:51Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 2.602,
+        "score": 2.417,
         "summary_source": "feed",
         "related": []
       },
@@ -302,7 +318,7 @@
         "published": "2026-11-25T22:02:21Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 2.126,
+        "score": 1.975,
         "summary_source": "feed",
         "related": []
       },
@@ -318,7 +334,7 @@
         "published": "2026-11-25T20:36:47Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 2.068,
+        "score": 1.921,
         "summary_source": "feed",
         "related": []
       },
@@ -334,23 +350,7 @@
         "published": "2026-11-25T18:00:22Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.967,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "3bac58693462",
-        "title": "AI Makes Formal Verification Practical",
-        "summary": "AI model startup Harmonic is expanding into formal verification for software and hardware.",
-        "why_it_matters": "",
-        "link": "https://www.eetimes.com/ai-makes-formal-verification-practical/",
-        "source": "EE Times",
-        "type": "news",
-        "sector": "Semiconductors",
-        "published": "2026-11-25T17:34:58Z",
-        "first_seen": "2026-11-25T18:35:53Z",
-        "importance": null,
-        "score": 1.951,
+        "score": 1.827,
         "summary_source": "feed",
         "related": []
       }
@@ -368,7 +368,7 @@
         "published": "2026-11-26T05:14:05Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 2.442,
+        "score": 2.268,
         "summary_source": "feed",
         "related": []
       },
@@ -384,7 +384,7 @@
         "published": "2026-11-26T04:48:05Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 2.421,
+        "score": 2.25,
         "summary_source": "feed",
         "related": []
       },
@@ -400,7 +400,7 @@
         "published": "2026-11-26T04:13:57Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 2.395,
+        "score": 2.225,
         "summary_source": "feed",
         "related": []
       },
@@ -416,7 +416,7 @@
         "published": "2026-11-26T03:58:16Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 2.383,
+        "score": 2.214,
         "summary_source": "feed",
         "related": []
       },
@@ -432,7 +432,7 @@
         "published": "2026-11-26T03:53:09Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 2.379,
+        "score": 2.21,
         "summary_source": "feed",
         "related": []
       },
@@ -448,7 +448,7 @@
         "published": "2026-11-26T02:57:24Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 2.337,
+        "score": 2.171,
         "summary_source": "feed",
         "related": []
       },
@@ -464,7 +464,7 @@
         "published": "2026-11-26T02:18:06Z",
         "first_seen": "2026-11-26T02:44:37Z",
         "importance": null,
-        "score": 2.308,
+        "score": 2.144,
         "summary_source": "feed",
         "related": []
       },
@@ -480,12 +480,76 @@
         "published": "2026-11-26T02:05:25Z",
         "first_seen": "2026-11-26T02:44:37Z",
         "importance": null,
-        "score": 2.298,
+        "score": 2.135,
         "summary_source": "feed",
         "related": []
       }
     ],
     "CyberSecurity": [
+      {
+        "id": "f64b31815789",
+        "title": "Drupal warns of new site takeover flaw exploited in attacks",
+        "summary": "The Drupal security team says attackers are exploiting a second critical vulnerability that lets them breach and hijack unpatched websites.",
+        "why_it_matters": "",
+        "link": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
+        "source": "BleepingComputer",
+        "type": "news",
+        "sector": "CyberSecurity",
+        "published": "2026-11-27T10:10:15Z",
+        "first_seen": "2026-11-27T10:41:39Z",
+        "importance": null,
+        "score": 3.96,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "346e04591625",
+        "title": "SAP confirms security incident after suspicious GitHub activity",
+        "summary": "SAP has confirmed to BleepingComputer that it took urgent action to protect its customers after detecting suspicious activity in its IT environment.",
+        "why_it_matters": "",
+        "link": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
+        "source": "BleepingComputer",
+        "type": "news",
+        "sector": "CyberSecurity",
+        "published": "2026-11-27T09:56:36Z",
+        "first_seen": "2026-11-27T10:41:39Z",
+        "importance": null,
+        "score": 3.943,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "edfae1abe280",
+        "title": "Microsoft pushes emergency hotpatch to fix Windows Server crashes",
+        "summary": "Microsoft has released an emergency hotpatch update to address Windows Server 2025 crashes triggered after installing this month's security hotpatch update (KB5131077).",
+        "why_it_matters": "",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/",
+        "source": "BleepingComputer",
+        "type": "news",
+        "sector": "CyberSecurity",
+        "published": "2026-11-27T09:08:16Z",
+        "first_seen": "2026-11-27T10:41:39Z",
+        "importance": null,
+        "score": 3.882,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "4e35d05c1fab",
+        "title": "New NFS2ROOT Linux flaw can let attackers gain root privileges",
+        "summary": "​A 12-year-old critical vulnerability in the Linux kernel's Network File System (NFS) server, tracked as CVE-2026-99362, allows remote attackers to gain root privileges.",
+        "why_it_matters": "",
+        "link": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/",
+        "source": "BleepingComputer",
+        "type": "news",
+        "sector": "CyberSecurity",
+        "published": "2026-11-27T08:06:58Z",
+        "first_seen": "2026-11-27T10:41:39Z",
+        "importance": null,
+        "score": 3.806,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "39e8c1c6d317",
         "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
@@ -498,7 +562,7 @@
         "published": "2026-11-26T21:06:22Z",
         "first_seen": "2026-11-26T22:41:37Z",
         "importance": null,
-        "score": 3.314,
+        "score": 3.079,
         "summary_source": "feed",
         "related": []
       },
@@ -514,7 +578,7 @@
         "published": "2026-11-26T17:58:42Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 3.121,
+        "score": 2.899,
         "summary_source": "feed",
         "related": []
       },
@@ -530,7 +594,7 @@
         "published": "2026-11-26T17:15:27Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 3.078,
+        "score": 2.859,
         "summary_source": "feed",
         "related": []
       },
@@ -546,71 +610,7 @@
         "published": "2026-11-26T15:23:28Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 2.969,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "1d0c02071167",
-        "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
-        "summary": "A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, including Gmail and Outlook emails.",
-        "why_it_matters": "",
-        "link": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
-        "source": "BleepingComputer",
-        "type": "news",
-        "sector": "CyberSecurity",
-        "published": "2026-11-26T11:50:17Z",
-        "first_seen": "2026-11-26T14:46:21Z",
-        "importance": null,
-        "score": 2.773,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "a2d94c5b8b57",
-        "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
-        "summary": "Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet.",
-        "why_it_matters": "",
-        "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
-        "source": "BleepingComputer",
-        "type": "news",
-        "sector": "CyberSecurity",
-        "published": "2026-11-25T22:05:09Z",
-        "first_seen": "2026-11-25T22:41:18Z",
-        "importance": null,
-        "score": 2.128,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "379ef4cd5141",
-        "title": "1Password customer data stolen after employee GitHub account breach",
-        "summary": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data.",
-        "why_it_matters": "",
-        "link": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
-        "source": "BleepingComputer",
-        "type": "news",
-        "sector": "CyberSecurity",
-        "published": "2026-11-25T21:33:33Z",
-        "first_seen": "2026-11-25T22:41:18Z",
-        "importance": null,
-        "score": 2.106,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "ae39e9b1225c",
-        "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
-        "summary": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector.",
-        "why_it_matters": "",
-        "link": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
-        "source": "BleepingComputer",
-        "type": "news",
-        "sector": "CyberSecurity",
-        "published": "2026-11-25T19:39:31Z",
-        "first_seen": "2026-11-25T22:41:18Z",
-        "importance": null,
-        "score": 2.031,
+        "score": 2.758,
         "summary_source": "feed",
         "related": []
       }
@@ -628,7 +628,7 @@
         "published": "2026-11-26T17:53:00Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 3.115,
+        "score": 2.894,
         "summary_source": "feed",
         "related": []
       },
@@ -644,7 +644,7 @@
         "published": "2026-11-24T15:17:50Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.176,
+        "score": 1.093,
         "summary_source": "feed",
         "related": []
       },
@@ -660,7 +660,7 @@
         "published": "2026-11-19T17:25:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.122,
+        "score": 0.113,
         "summary_source": "feed",
         "related": []
       },
@@ -676,7 +676,7 @@
         "published": "2026-11-19T15:38:18Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.117,
+        "score": 0.109,
         "summary_source": "feed",
         "related": []
       },
@@ -692,7 +692,7 @@
         "published": "2026-11-18T22:02:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.084,
+        "score": 0.078,
         "summary_source": "feed",
         "related": []
       },
@@ -708,12 +708,28 @@
         "published": "2026-11-18T20:31:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.081,
+        "score": 0.076,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Renewables": [
+      {
+        "id": "4a7c60aebf99",
+        "title": "What’s up with agrivoltaics?",
+        "summary": "A conversation with Jordan Macknick of the National Laboratory of the Rockies.",
+        "why_it_matters": "",
+        "link": "https://www.volts.wtf/p/whats-up-with-agrivoltaics",
+        "source": "Volts",
+        "type": "news",
+        "sector": "Renewables",
+        "published": "2026-11-27T09:02:33Z",
+        "first_seen": "2026-11-27T10:41:39Z",
+        "importance": null,
+        "score": 3.875,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "649086a0af75",
         "title": "The European Parliament Brings the EU One Step Closer to a Sound Investment Policy",
@@ -726,7 +742,7 @@
         "published": "2026-11-27T04:57:21Z",
         "first_seen": "2026-11-27T06:52:14Z",
         "importance": null,
-        "score": 3.855,
+        "score": 3.582,
         "summary_source": "feed",
         "related": []
       },
@@ -742,7 +758,7 @@
         "published": "2026-11-27T04:53:00Z",
         "first_seen": "2026-11-27T06:52:14Z",
         "importance": null,
-        "score": 3.85,
+        "score": 3.577,
         "summary_source": "feed",
         "related": []
       },
@@ -758,7 +774,7 @@
         "published": "2026-11-27T04:50:29Z",
         "first_seen": "2026-11-27T06:52:14Z",
         "importance": null,
-        "score": 3.847,
+        "score": 3.574,
         "summary_source": "feed",
         "related": []
       },
@@ -774,7 +790,7 @@
         "published": "2026-11-27T00:26:38Z",
         "first_seen": "2026-11-27T02:44:05Z",
         "importance": null,
-        "score": 3.534,
+        "score": 3.284,
         "summary_source": "feed",
         "related": []
       },
@@ -790,7 +806,7 @@
         "published": "2026-11-26T19:42:22Z",
         "first_seen": "2026-11-26T22:41:37Z",
         "importance": null,
-        "score": 3.226,
+        "score": 2.997,
         "summary_source": "feed",
         "related": []
       },
@@ -806,7 +822,7 @@
         "published": "2026-11-26T16:55:51Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 3.058,
+        "score": 2.841,
         "summary_source": "feed",
         "related": []
       },
@@ -822,28 +838,60 @@
         "published": "2026-11-26T14:49:46Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 2.937,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "aef9c6a5fb94",
-        "title": "Hybrids Are a Waypoint, Not the Destination",
-        "summary": "An earlier version of this article appeared in The Driven on 15 October 2026. This version has been revised and updated with the most recent registration data.",
-        "why_it_matters": "",
-        "link": "https://cleantechnica.com/2026/11/25/hybrids-are-a-waypoint-not-the-destination/",
-        "source": "CleanTechnica",
-        "type": "news",
-        "sector": "Renewables",
-        "published": "2026-11-26T00:41:15Z",
-        "first_seen": "2026-11-26T02:44:37Z",
-        "importance": null,
-        "score": 2.237,
+        "score": 2.729,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Energy": [
+      {
+        "id": "d4d45e81dc8e",
+        "title": "BESS Industry Buzz: Battery tests questioned, hugs at RE+, IPP exit crisis and Europe’s battery race loss",
+        "summary": "Another edition of our BESS Industry Buzz, rounding up some of the hot takes, analysis and gossip from the past week on our feeds.",
+        "why_it_matters": "",
+        "link": "https://www.energy-storage.news/bess-industry-buzz-battery-tests-questioned-hugs-at-re-ipp-exit-crisis-and-europes-battery-race-loss/",
+        "source": "Energy-Storage.news",
+        "type": "news",
+        "sector": "Energy",
+        "published": "2026-11-27T09:44:08Z",
+        "first_seen": "2026-11-27T10:41:39Z",
+        "importance": null,
+        "score": 3.927,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "755bebbbada3",
+        "title": "‘Among the most powerful’: Alpiq seeks approval for 1.2GWh BESS in Switzerland",
+        "summary": "Alpiq has applied for planning approval for a 300MW/1,200MWh BESS in Niedergösgen, in the canton of Solothurn, Switzerland.",
+        "why_it_matters": "",
+        "link": "https://www.energy-storage.news/alpiq-1-2gwh-bess-switzerland-niedergosgen/",
+        "source": "Energy-Storage.news",
+        "type": "news",
+        "sector": "Energy",
+        "published": "2026-11-27T09:13:02Z",
+        "first_seen": "2026-11-27T10:41:39Z",
+        "importance": null,
+        "score": 3.888,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "bf89e0ed34fd",
+        "title": "‘Solar and energy storage belong together’: Blue Elephant buys 160MWh Dutch BESS from TPSolar",
+        "summary": "Blue Elephant Energy has acquired a 95% stake in a 40MW/160MWh BESS project in the Netherlands from developer TPSolar.",
+        "why_it_matters": "",
+        "link": "https://www.energy-storage.news/blue-elephant-160mwh-dutch-bess-tpsolar/",
+        "source": "Energy-Storage.news",
+        "type": "news",
+        "sector": "Energy",
+        "published": "2026-11-27T09:10:31Z",
+        "first_seen": "2026-11-27T10:41:39Z",
+        "importance": null,
+        "score": 3.885,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "3128848ac517",
         "title": "Zelestra and Statkraft agree 8-year Italy BESS toll as ‘bilateral market develops in parallel to MACSE’",
@@ -856,7 +904,7 @@
         "published": "2026-11-26T15:03:14Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 2.95,
+        "score": 2.74,
         "summary_source": "feed",
         "related": []
       },
@@ -872,7 +920,7 @@
         "published": "2026-11-26T14:20:22Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 2.91,
+        "score": 2.703,
         "summary_source": "feed",
         "related": []
       },
@@ -888,7 +936,7 @@
         "published": "2026-11-26T13:03:53Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 2.839,
+        "score": 2.638,
         "summary_source": "feed",
         "related": []
       },
@@ -904,7 +952,7 @@
         "published": "2026-11-26T11:42:32Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 2.766,
+        "score": 2.57,
         "summary_source": "feed",
         "related": []
       },
@@ -920,55 +968,7 @@
         "published": "2026-11-26T09:30:59Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 2.652,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "912b4d793154",
-        "title": "Media reaction: Who is to blame for COP31 ‘failure’?",
-        "summary": "COP31 came to a dramatic close last weekend when a coalition of nations rejected the proposed “Antalya pact”, citing its",
-        "why_it_matters": "",
-        "link": "https://www.carbonbrief.org/media-reaction-who-is-to-blame-for-cop31-failure",
-        "source": "Carbon Brief",
-        "type": "news",
-        "sector": "Energy",
-        "published": "2026-11-25T16:09:13Z",
-        "first_seen": "2026-11-25T18:35:53Z",
-        "importance": null,
-        "score": 1.898,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "8ffb88a3e665",
-        "title": "Fluence claims US production delays under control in first earnings call under transformation strategy",
-        "summary": "Fluence’s interim management team has provided details of the battery storage integrator’s transformation plan, following recent challenges and setbacks.",
-        "why_it_matters": "",
-        "link": "https://www.energy-storage.news/fluence-claims-us-production-delays-under-control-in-first-earnings-call-under-transformation-strategy/",
-        "source": "Energy-Storage.news",
-        "type": "news",
-        "sector": "Energy",
-        "published": "2026-11-25T14:36:37Z",
-        "first_seen": "2026-11-25T14:50:49Z",
-        "importance": null,
-        "score": 1.842,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "35e9c0820284",
-        "title": "Who is SunGrid? Yukon Energy terminates elusive contractor for Canada BESS",
-        "summary": "A grid-scale battery energy storage system (BESS) planned for the Yukon Territory of northern Canada has lost its contractor, Canadian battery storage engineering and construction company SunGrid.",
-        "why_it_matters": "",
-        "link": "https://www.energy-storage.news/who-is-sungrid-yukon-energy-terminates-elusive-contractor-for-canada-bess/",
-        "source": "Energy-Storage.news",
-        "type": "news",
-        "sector": "Energy",
-        "published": "2026-11-25T14:13:13Z",
-        "first_seen": "2026-11-25T14:50:49Z",
-        "importance": null,
-        "score": 1.829,
+        "score": 2.463,
         "summary_source": "feed",
         "related": []
       }
@@ -986,7 +986,7 @@
         "published": "2026-11-25T14:53:24Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.852,
+        "score": 1.721,
         "summary_source": "feed",
         "related": []
       },
@@ -1002,7 +1002,7 @@
         "published": "2026-11-25T14:00:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.821,
+        "score": 1.692,
         "summary_source": "feed",
         "related": []
       },
@@ -1018,7 +1018,7 @@
         "published": "2026-11-24T16:28:23Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.203,
+        "score": 1.118,
         "summary_source": "feed",
         "related": []
       },
@@ -1034,7 +1034,7 @@
         "published": "2026-11-24T15:35:48Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.183,
+        "score": 1.099,
         "summary_source": "feed",
         "related": []
       },
@@ -1050,7 +1050,7 @@
         "published": "2026-11-24T15:28:00Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.18,
+        "score": 1.096,
         "summary_source": "feed",
         "related": []
       },
@@ -1066,7 +1066,7 @@
         "published": "2026-11-23T16:28:15Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 0.758,
+        "score": 0.704,
         "summary_source": "feed",
         "related": []
       },
@@ -1082,7 +1082,7 @@
         "published": "2026-11-23T15:00:00Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 0.737,
+        "score": 0.684,
         "summary_source": "feed",
         "related": []
       },
@@ -1098,12 +1098,44 @@
         "published": "2026-11-20T16:46:43Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.191,
+        "score": 0.177,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Biotech": [
+      {
+        "id": "fcfc3e5543ee",
+        "title": "Pregnancy is the ‘perfect storm’ for eating disorders, but doctors keep missing them",
+        "summary": "Many women struggle with eating disorders before and after childbirth, but they often slip through the cracks of the U.S. health care system.",
+        "why_it_matters": "",
+        "link": "https://www.statnews.com/2026/11/27/pregnancy-eating-disorders-expanded-doctor-screening-needed/",
+        "source": "STAT",
+        "type": "news",
+        "sector": "Biotech",
+        "published": "2026-11-27T09:30:00Z",
+        "first_seen": "2026-11-27T10:41:39Z",
+        "importance": null,
+        "score": 3.909,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "99b158498dce",
+        "title": "Opinion: Montana’s ‘right to try’ law makes patients responsible for bearing costs — and risks",
+        "summary": "Montana has become the first state to have its own ‘right to try’ law, but important questions remain, researchers write.",
+        "why_it_matters": "",
+        "link": "https://www.statnews.com/2026/11/27/montana-sb-535-right-to-try-questions-risks-costs-insurance/",
+        "source": "STAT",
+        "type": "news",
+        "sector": "Biotech",
+        "published": "2026-11-27T09:30:00Z",
+        "first_seen": "2026-11-27T10:41:39Z",
+        "importance": null,
+        "score": 3.909,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "acf7367547b0",
         "title": "In a fertility advance, engineered molecular glue stabilizes chromosomes in aging eggs",
@@ -1116,7 +1148,7 @@
         "published": "2026-11-26T19:00:00Z",
         "first_seen": "2026-11-26T22:41:37Z",
         "importance": null,
-        "score": 3.183,
+        "score": 2.957,
         "summary_source": "feed",
         "related": []
       },
@@ -1132,7 +1164,7 @@
         "published": "2026-11-26T12:00:00Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 2.781,
+        "score": 2.584,
         "summary_source": "feed",
         "related": []
       },
@@ -1148,7 +1180,7 @@
         "published": "2026-11-25T21:28:53Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 2.103,
+        "score": 1.954,
         "summary_source": "feed",
         "related": []
       },
@@ -1164,7 +1196,7 @@
         "published": "2026-11-25T20:44:15Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 2.073,
+        "score": 1.926,
         "summary_source": "feed",
         "related": []
       },
@@ -1180,7 +1212,7 @@
         "published": null,
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.99,
+        "score": 1.848,
         "summary_source": "feed",
         "related": []
       },
@@ -1196,39 +1228,7 @@
         "published": null,
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.99,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "b67fffc1fe4d",
-        "title": "FDA issues noncompliance letters to 2 biotechs over lack of trial data reporting",
-        "summary": "The FDA has issued two biotechs with noncompliance letters for failure to report clinical trial results.",
-        "why_it_matters": "",
-        "link": "https://www.fiercebiotech.com/biotech/fda-issues-noncompliance-letters-biotechs-over-lack-trial-data-reporting",
-        "source": "Fierce Biotech",
-        "type": "news",
-        "sector": "Biotech",
-        "published": null,
-        "first_seen": "2026-11-25T14:50:49Z",
-        "importance": null,
-        "score": 1.851,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "16c26dc0fe99",
-        "title": "Finnish biotech delivers durable symptom relief in phase 2 birch pollen allergy trial",
-        "summary": "A phase 2 trial of Desentum’s birch pollen allergen immunotherapy has hit its primary endpoint, teeing up further study of a short-course medication that could provide a persistent effect.",
-        "why_it_matters": "",
-        "link": "https://www.fiercebiotech.com/biotech/desentum-delivers-durable-symptom-relief-phase-2-birch-pollen-allergy-trial",
-        "source": "Fierce Biotech",
-        "type": "news",
-        "sector": "Biotech",
-        "published": null,
-        "first_seen": "2026-11-25T14:50:49Z",
-        "importance": null,
-        "score": 1.851,
+        "score": 1.848,
         "summary_source": "feed",
         "related": []
       }
@@ -1246,7 +1246,7 @@
         "published": "2026-11-26T12:20:50Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 2.8,
+        "score": 2.601,
         "summary_source": "feed",
         "related": []
       },
@@ -1262,7 +1262,7 @@
         "published": "2026-11-26T12:02:57Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 2.784,
+        "score": 2.586,
         "summary_source": "feed",
         "related": []
       },
@@ -1278,7 +1278,7 @@
         "published": "2026-11-26T08:30:00Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 2.6,
+        "score": 2.416,
         "summary_source": "feed",
         "related": []
       },
@@ -1294,7 +1294,7 @@
         "published": "2026-11-25T18:58:25Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 2.004,
+        "score": 1.862,
         "summary_source": "feed",
         "related": []
       },
@@ -1310,7 +1310,7 @@
         "published": "2026-11-25T16:58:07Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.928,
+        "score": 1.791,
         "summary_source": "feed",
         "related": []
       },
@@ -1326,7 +1326,7 @@
         "published": "2026-11-25T15:00:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.856,
+        "score": 1.725,
         "summary_source": "feed",
         "related": []
       },
@@ -1342,7 +1342,7 @@
         "published": "2026-11-25T14:00:00Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 1.821,
+        "score": 1.692,
         "summary_source": "feed",
         "related": []
       },
@@ -1358,7 +1358,7 @@
         "published": "2026-11-25T12:55:29Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 1.784,
+        "score": 1.657,
         "summary_source": "feed",
         "related": []
       }
@@ -1376,7 +1376,7 @@
         "published": "2026-11-25T18:24:42Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 1.982,
+        "score": 1.842,
         "summary_source": "feed",
         "related": []
       },
@@ -1392,7 +1392,7 @@
         "published": "2026-11-25T17:00:07Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.929,
+        "score": 1.792,
         "summary_source": "feed",
         "related": []
       },
@@ -1408,7 +1408,7 @@
         "published": "2026-11-25T15:00:03Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.856,
+        "score": 1.725,
         "summary_source": "feed",
         "related": []
       },
@@ -1424,7 +1424,7 @@
         "published": "2026-11-24T18:03:37Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.24,
+        "score": 1.152,
         "summary_source": "feed",
         "related": []
       },
@@ -1440,7 +1440,7 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 1.215,
+        "score": 1.129,
         "summary_source": "feed",
         "related": []
       },
@@ -1456,7 +1456,7 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 1.215,
+        "score": 1.129,
         "summary_source": "feed",
         "related": []
       },
@@ -1472,7 +1472,7 @@
         "published": "2026-11-24T14:48:57Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.165,
+        "score": 1.083,
         "summary_source": "feed",
         "related": []
       },
@@ -1488,12 +1488,28 @@
         "published": "2026-11-23T20:29:55Z",
         "first_seen": "2026-11-23T22:38:36Z",
         "importance": null,
-        "score": 0.819,
+        "score": 0.761,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Policy": [
+      {
+        "id": "6d1eab25b22b",
+        "title": "Rad Gifts That Fund the Fight: EFF's Holiday Merch Guide for 2026",
+        "summary": "EFF supporters are why our lawyers can sue the government when it spies on you and chills your free speech. EFF members make it possible for our technologists to build the tools to protect privacy on the streets and online.",
+        "why_it_matters": "",
+        "link": "https://www.eff.org/deeplinks/2026/11/rad-gifts-fund-fight-effs-holiday-merch-guide-2026",
+        "source": "EFF Deeplinks",
+        "type": "news",
+        "sector": "Policy",
+        "published": "2026-11-27T08:00:01Z",
+        "first_seen": "2026-11-27T10:41:39Z",
+        "importance": null,
+        "score": 3.798,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "11ba0c1f723b",
         "title": "🎩 Tech Monopolies Make Outages Worse | EFFector 38.21",
@@ -1506,7 +1522,7 @@
         "published": "2026-11-25T18:26:19Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.983,
+        "score": 1.843,
         "summary_source": "feed",
         "related": []
       },
@@ -1522,7 +1538,7 @@
         "published": "2026-11-24T22:35:05Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 1.353,
+        "score": 1.257,
         "summary_source": "feed",
         "related": []
       },
@@ -1538,7 +1554,7 @@
         "published": "2026-11-24T19:43:49Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 1.281,
+        "score": 1.19,
         "summary_source": "feed",
         "related": []
       },
@@ -1554,7 +1570,7 @@
         "published": "2026-11-20T21:52:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.21,
+        "score": 0.195,
         "summary_source": "feed",
         "related": []
       },
@@ -1570,7 +1586,7 @@
         "published": "2026-11-19T23:30:50Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.137,
+        "score": 0.127,
         "summary_source": "feed",
         "related": []
       },
@@ -1586,7 +1602,7 @@
         "published": "2026-11-18T19:52:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.08,
+        "score": 0.075,
         "summary_source": "feed",
         "related": []
       },
@@ -1602,7 +1618,7 @@
         "published": "2026-11-18T15:10:53Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.073,
+        "score": 0.068,
         "summary_source": "feed",
         "related": []
       }
@@ -1620,7 +1636,7 @@
         "published": "2026-11-25T12:00:49Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 1.753,
+        "score": 1.628,
         "summary_source": "feed",
         "related": []
       },
@@ -1636,7 +1652,7 @@
         "published": "2026-11-25T12:00:09Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 1.752,
+        "score": 1.628,
         "summary_source": "feed",
         "related": []
       },
@@ -1652,7 +1668,7 @@
         "published": "2026-11-24T18:30:42Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 1.251,
+        "score": 1.162,
         "summary_source": "feed",
         "related": []
       },
@@ -1668,7 +1684,7 @@
         "published": "2026-11-24T12:00:48Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 1.104,
+        "score": 1.026,
         "summary_source": "feed",
         "related": []
       },
@@ -1684,7 +1700,7 @@
         "published": "2026-11-24T12:00:21Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 1.104,
+        "score": 1.026,
         "summary_source": "feed",
         "related": []
       },
@@ -1700,7 +1716,7 @@
         "published": "2026-11-23T12:00:19Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 0.695,
+        "score": 0.646,
         "summary_source": "feed",
         "related": []
       },
@@ -1716,7 +1732,7 @@
         "published": "2026-11-23T01:25:53Z",
         "first_seen": "2026-11-23T02:44:14Z",
         "importance": null,
-        "score": 0.567,
+        "score": 0.527,
         "summary_source": "feed",
         "related": []
       },
@@ -1732,12 +1748,28 @@
         "published": "2026-11-20T20:15:54Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.204,
+        "score": 0.189,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Developer Tools": [
+      {
+        "id": "e4483fd84ab2",
+        "title": "Article: Engineering Reliable Telematics from Smartphone Sensors",
+        "summary": "Smartphones make telematics more accessible by combining location, motion sensors, computing power, and connectivity in a single device.",
+        "why_it_matters": "",
+        "link": "https://www.infoq.com/articles/engineering-reliable-smartphone-sensor-telematics/",
+        "source": "InfoQ",
+        "type": "news",
+        "sector": "Developer Tools",
+        "published": "2026-11-27T09:00:00Z",
+        "first_seen": "2026-11-27T10:41:39Z",
+        "importance": null,
+        "score": 3.872,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "572bb26c5aeb",
         "title": "Sandboxes, secure inference, and keeping agents from going rogue",
@@ -1750,7 +1782,23 @@
         "published": "2026-11-27T08:40:00Z",
         "first_seen": "2026-11-27T06:52:14Z",
         "importance": null,
-        "score": 4.0,
+        "score": 3.847,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "1ac244eeaaee",
+        "title": "Mozilla Partners with Mistral to Bring Open-Weight AI Models to Firefox Smart Window",
+        "summary": "Mozilla has partnered with Mistral AI to offer Mistral Small 4, an open-weight model, in Firefox's Smart Window AI assistant, now in beta. It is recommended for users in France, the US and Canada.",
+        "why_it_matters": "",
+        "link": "https://www.infoq.com/news/2026/11/mozilla-mistral-ai-smart-window/",
+        "source": "InfoQ",
+        "type": "news",
+        "sector": "Developer Tools",
+        "published": "2026-11-27T06:58:00Z",
+        "first_seen": "2026-11-27T10:41:39Z",
+        "importance": null,
+        "score": 3.723,
         "summary_source": "feed",
         "related": []
       },
@@ -1766,7 +1814,7 @@
         "published": "2026-11-26T17:16:00Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 3.078,
+        "score": 2.86,
         "summary_source": "feed",
         "related": []
       },
@@ -1782,7 +1830,7 @@
         "published": "2026-11-26T11:09:00Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 2.736,
+        "score": 2.542,
         "summary_source": "feed",
         "related": []
       },
@@ -1798,7 +1846,7 @@
         "published": "2026-11-26T11:00:00Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 2.728,
+        "score": 2.535,
         "summary_source": "feed",
         "related": []
       },
@@ -1814,7 +1862,7 @@
         "published": "2026-11-26T08:00:00Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 2.575,
+        "score": 2.392,
         "summary_source": "feed",
         "related": []
       },
@@ -1830,44 +1878,44 @@
         "published": "2026-11-26T06:59:00Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 2.525,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "4b1b2830065b",
-        "title": "Recap of Microsoft Ignite 2026: Copilot as the Work OS and Agent Governance",
-        "summary": "At Ignite 2026, Microsoft positioned Copilot as the operating system for work and extended agent identity, governance, and cost controls across Azure, Foundry, Entra, and Defender.",
-        "why_it_matters": "",
-        "link": "https://www.infoq.com/news/2026/11/microsoft-ignite-2026-recap/",
-        "source": "InfoQ",
-        "type": "news",
-        "sector": "Developer Tools",
-        "published": "2026-11-26T06:45:00Z",
-        "first_seen": "2026-11-26T06:49:30Z",
-        "importance": null,
-        "score": 2.514,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "7914a0539620",
-        "title": "DeepMind's Gemini Robotics 2.5 Aims to Make Robots Safer, More Dexterous, and Faster Learners",
-        "summary": "Google DeepMind introduced Gemini Robotics 2.5, a vision-language-action (VLA) model designed to improve robots' dexterity, reliability, and learning speed, while enabling safer operation in unstructured real-world environments. By Sergio De Simone",
-        "why_it_matters": "",
-        "link": "https://www.infoq.com/news/2026/11/deepmind-gemini-robotics-2-5/",
-        "source": "InfoQ",
-        "type": "news",
-        "sector": "Developer Tools",
-        "published": "2026-11-25T17:00:00Z",
-        "first_seen": "2026-11-25T18:35:53Z",
-        "importance": null,
-        "score": 1.929,
+        "score": 2.346,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Breaking": [
+      {
+        "id": "42f8c402dc2e",
+        "title": "A look at proposals for vertical data centers, often the only option where land is limited in places like Taiwan; Kansas City recently rejected a 20-story tower (Tiffany Hsu/New York Times)",
+        "summary": "Tiffany Hsu / New York Times : A look at proposals for vertical data centers, often the only option where land is limited in places like Taiwan; Kansas City recently rejected a 20-story tower — The facilities that power A.I. and other big data needs are in high demand but widely…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261127/p3",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-27T10:25:08Z",
+        "first_seen": "2026-11-27T10:41:39Z",
+        "importance": null,
+        "score": 3.581,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "d0fc9ada041a",
+        "title": "Foreign investors sold a record net $33.1B of Taiwanese stocks in November, topping October's record outflow amid AI valuation fears and a broader tech sell-off (Eunice Xu/Bloomberg)",
+        "summary": "Eunice Xu / Bloomberg : Foreign investors sold a record net $33.1B of Taiwanese stocks in November, topping October's record outflow amid AI valuation fears and a broader tech sell-off — Foreign investors dumped a record amount of Taiwanese stocks so far in November…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261127/p2",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-27T07:30:00Z",
+        "first_seen": "2026-11-27T10:41:39Z",
+        "importance": null,
+        "score": 3.385,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "6098968e82a1",
         "title": "US smartphone shipments fell 9% YoY in Q3 as memory costs hit Android OEMs, especially at the low end; Apple's share rose from 50% to 57%, Samsung holds at 25% (Maurice Klaehne/Counterpoint Research)",
@@ -1880,7 +1928,7 @@
         "published": "2026-11-27T05:45:01Z",
         "first_seen": "2026-11-27T06:52:14Z",
         "importance": null,
-        "score": 3.523,
+        "score": 3.273,
         "summary_source": "feed",
         "related": []
       },
@@ -1896,8 +1944,24 @@
         "published": "2026-11-27T03:15:01Z",
         "first_seen": "2026-11-27T06:52:14Z",
         "importance": null,
-        "score": 3.358,
+        "score": 3.119,
         "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "65cb59583751",
+        "title": "The group chat where your AI talks behind your back",
+        "summary": "",
+        "why_it_matters": "",
+        "link": "https://construct22.com/",
+        "source": "Hacker News",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-27T06:44:34Z",
+        "first_seen": "2026-11-27T10:41:39Z",
+        "importance": null,
+        "score": 2.966,
+        "summary_source": "none",
         "related": []
       },
       {
@@ -1912,8 +1976,24 @@
         "published": "2026-11-27T00:30:01Z",
         "first_seen": "2026-11-27T02:44:05Z",
         "importance": null,
-        "score": 3.184,
+        "score": 2.958,
         "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "1d28ce1e7283",
+        "title": "The need for a formally verifiable mainstream programming language",
+        "summary": "",
+        "why_it_matters": "",
+        "link": "https://blainehansen.me/post/mainstream-verifiable-language/",
+        "source": "Hacker News",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-27T05:22:06Z",
+        "first_seen": "2026-11-27T10:41:39Z",
+        "importance": null,
+        "score": 2.888,
+        "summary_source": "none",
         "related": []
       },
       {
@@ -1928,77 +2008,24 @@
         "published": "2026-11-26T22:10:01Z",
         "first_seen": "2026-11-26T22:41:37Z",
         "importance": null,
-        "score": 3.045,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "a88ecfff4409",
-        "title": "Binance says it has finished its recovery work and fully lifted its withdrawal suspension, after a record $6.3B was stolen in a hack last month (Rajveer Singh Pardesi/Reuters)",
-        "summary": "Rajveer Singh Pardesi / Reuters : Binance says it has finished its recovery work and fully lifted its withdrawal suspension, after a record $6.3B was stolen in a hack last month — Binance said on Thursday its withdrawal recovery work is complete and it has lifted its withdrawal…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261126/p24",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-26T19:55:02Z",
-        "first_seen": "2026-11-26T22:41:37Z",
-        "importance": null,
-        "score": 2.915,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "649745ac0522",
-        "title": "Hard Drive pricing has gotten bad",
-        "summary": "",
-        "why_it_matters": "",
-        "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
-        "source": "Hacker News",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-27T01:13:49Z",
-        "first_seen": "2026-11-27T06:52:14Z",
-        "importance": null,
-        "score": 2.871,
-        "summary_source": "none",
-        "related": []
-      },
-      {
-        "id": "1785fa59d06a",
-        "title": "Altair Semiconductor, an Israeli chipmaker spun off from Sony earlier in 2026, raised a $100M Series A, as it prepares to launch low-power cellular modems (CTech)",
-        "summary": "CTech : Altair Semiconductor, an Israeli chipmaker spun off from Sony earlier in 2026, raised a $100M Series A, as it prepares to launch low-power cellular modems — The company, spun off from Sony earlier this year, is preparing a new low-power 5G modem for smart glasses…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261126/p23",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-26T18:05:38Z",
-        "first_seen": "2026-11-26T18:40:13Z",
-        "importance": null,
-        "score": 2.815,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "3def31bad1be",
-        "title": "Sources: SAP is preparing a plan to eliminate at least 10,000 positions, or 9% of its staff globally, to transform its software business for the AI era (Christina Kyriasoglou/Bloomberg)",
-        "summary": "Christina Kyriasoglou / Bloomberg : Sources: SAP is preparing a plan to eliminate at least 10,000 positions, or 9% of its staff globally, to transform its software business for the AI era — SAP SE is preparing a plan to eliminate at least 10,000 positions to transform its…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261126/p22",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-26T16:50:28Z",
-        "first_seen": "2026-11-26T18:40:13Z",
-        "importance": null,
-        "score": 2.748,
+        "score": 2.828,
         "summary_source": "feed",
         "related": []
       }
     ]
   },
   "emerging": [
+    {
+      "term": "bring",
+      "sources": 4,
+      "sectors": 4,
+      "ids": [
+        "94d40ae39a8a",
+        "933c3c7b195e",
+        "bd4c158c42fb"
+      ],
+      "score": 5.14
+    },
     {
       "term": "monitoring",
       "sources": 3,
@@ -2011,12 +2038,44 @@
       "score": 4.5
     },
     {
+      "term": "programming language",
+      "sources": 2,
+      "sectors": 2,
+      "ids": [
+        "70391caad952",
+        "1d28ce1e7283"
+      ],
+      "score": 4.29
+    },
+    {
+      "term": "important",
+      "sources": 3,
+      "sectors": 3,
+      "ids": [
+        "d5d2754d4351",
+        "99b158498dce",
+        "8d361c0b0b7d"
+      ],
+      "score": 3.75
+    },
+    {
       "term": "quantum computing",
       "sources": 2,
       "sectors": 2,
       "ids": [
         "089e2941a4b6",
         "5806e44957c2"
+      ],
+      "score": 3.75
+    },
+    {
+      "term": "seeks",
+      "sources": 3,
+      "sectors": 3,
+      "ids": [
+        "755bebbbada3",
+        "139fbc7a1afd",
+        "764e60f5de2c"
       ],
       "score": 3.75
     },
@@ -2041,49 +2100,6 @@
         "764e60f5de2c"
       ],
       "score": 3.46
-    },
-    {
-      "term": "country",
-      "sources": 3,
-      "sectors": 3,
-      "ids": [
-        "3128848ac517",
-        "2939245102eb",
-        "54f6ce63e252"
-      ],
-      "score": 3.46
-    },
-    {
-      "term": "failure",
-      "sources": 3,
-      "sectors": 3,
-      "ids": [
-        "912b4d793154",
-        "b67fffc1fe4d",
-        "3b43e30df100"
-      ],
-      "score": 3.46
-    },
-    {
-      "term": "media",
-      "sources": 3,
-      "sectors": 3,
-      "ids": [
-        "acaf8540ebca",
-        "912b4d793154",
-        "54f6ce63e252"
-      ],
-      "score": 3.46
-    },
-    {
-      "term": "come january",
-      "sources": 2,
-      "sectors": 2,
-      "ids": [
-        "d5d2754d4351",
-        "54f6ce63e252"
-      ],
-      "score": 3.33
     }
   ],
   "stock_watch": [],
@@ -2200,7 +2216,7 @@
         "source": "Volts",
         "url": "https://www.volts.wtf/feed",
         "status": "ok",
-        "entries": 2,
+        "entries": 3,
         "error": null
       },
       {
@@ -2363,7 +2379,7 @@
       "errors": [
         "ANTHROPIC_API_KEY is not set"
       ],
-      "new_items": 8,
+      "new_items": 18,
       "summarised": 0
     }
   }
