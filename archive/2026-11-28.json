@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "generated_at": "2026-11-28T06:48:55Z",
-  "last_updated": "2026-11-28 06:48 UTC",
+  "generated_at": "2026-11-28T10:39:41Z",
+  "last_updated": "2026-11-28 10:39 UTC",
   "is_sunday_edition": false,
   "priority_sectors": [
     "AI",
@@ -10,9 +10,57 @@
   ],
   "notices": [
     "AI summaries are unavailable this run; showing feed text instead.",
-    "8 feed(s) returned no items; see Feed status at the bottom of the page."
+    "7 feed(s) returned no items; see Feed status at the bottom of the page."
   ],
   "top_stories": [
+    {
+      "id": "22fd6fc74688",
+      "title": "Anthropic Introduces Claude Ship to Review, Fix, and Approve Pull Requests by Policy",
+      "summary": "Anthropic has introduced Claude Ship, a set of agents that can review GitHub pull requests, push fixes, and approve the changes a team's policy allows, on Claude Team and Enterprise plans. By Daniel Dominguez",
+      "why_it_matters": "",
+      "link": "https://www.infoq.com/news/2026/11/anthropic-claude-ship/",
+      "source": "InfoQ",
+      "type": "news",
+      "sector": "Developer Tools",
+      "published": "2026-11-28T10:08:00Z",
+      "first_seen": "2026-11-28T10:39:41Z",
+      "importance": null,
+      "score": 3.96,
+      "summary_source": "feed",
+      "related": []
+    },
+    {
+      "id": "5c04c255cc51",
+      "title": "AWS Introduces Centralized Workforce Access to IAM Roles Across Accounts",
+      "summary": "AWS recently introduced Account Access Manager to centrally assign workforce users and groups to existing IAM roles across an organization, preserving custom trust policies and ABAC configurations while improving individual identity attribution and auditability. By Renato Losio",
+      "why_it_matters": "",
+      "link": "https://www.infoq.com/news/2026/11/aws-centralized-workforce-access/",
+      "source": "InfoQ",
+      "type": "news",
+      "sector": "Developer Tools",
+      "published": "2026-11-28T07:57:00Z",
+      "first_seen": "2026-11-28T10:39:41Z",
+      "importance": null,
+      "score": 3.797,
+      "summary_source": "feed",
+      "related": []
+    },
+    {
+      "id": "7220e45ab4a0",
+      "title": "BlueQubit Releases AI-Engineered State-Vector Simulator Outperforming NVIDIA cuStateVec Benchmarks",
+      "summary": "BlueQubit has developed bluesv, an AI-engineered quantum state-vector simulator that outperforms NVIDIA’s cuStateVec and Google's qsim in benchmark tests.",
+      "why_it_matters": "",
+      "link": "https://quantumcomputingreport.com/bluequbit-releases-ai-engineered-state-vector-simulator-outperforming-nvidia-custatevec-benchmarks/",
+      "source": "Quantum Computing Report",
+      "type": "news",
+      "sector": "Quantum",
+      "published": "2026-11-28T04:44:48Z",
+      "first_seen": "2026-11-28T10:39:41Z",
+      "importance": null,
+      "score": 3.569,
+      "summary_source": "feed",
+      "related": []
+    },
     {
       "id": "4c2ab74c1bd5",
       "title": "Researchers Propose Fault-Tolerant Quantum Processor Architecture Controlled by 20 or Fewer External Wires",
@@ -25,71 +73,23 @@
       "published": "2026-11-28T04:17:13Z",
       "first_seen": "2026-11-28T06:48:55Z",
       "importance": null,
-      "score": 3.81,
+      "score": 3.538,
       "summary_source": "feed",
       "related": []
     },
     {
-      "id": "515f7c5bd8f0",
-      "title": "Algorithmiq and IBM Quantum Execute 40-Qubit Discrete-Time Quantum Walks on Biological Networks",
-      "summary": "Algorithmiq and IBM Quantum have successfully executed 40-qubit discrete-time quantum walks (DTQWs) on irregular protein-protein interaction networks, overcoming limitations of conventional dense encodings.",
+      "id": "4771ebe02259",
+      "title": "A profile of Jensen Huang, whom longtime friends and associates say has an unrelenting ability to make the most of any situation, as he returns as Nvidia's CEO (Erich Schwartzel/Wall Street Journal)",
+      "summary": "Erich Schwartzel / Wall Street Journal : A profile of Jensen Huang, whom longtime friends and associates say has an unrelenting ability to make the most of any situation, as he returns as Nvidia's CEO — As a longtime friend of the Nvidia CEO puts it, “Jensen will always pull a…",
       "why_it_matters": "",
-      "link": "https://quantumcomputingreport.com/algorithmiq-and-ibm-quantum-execute-40-qubit-discrete-time-quantum-walks-on-biological-networks/",
-      "source": "Quantum Computing Report",
-      "type": "news",
-      "sector": "Quantum",
-      "published": "2026-11-28T04:02:59Z",
-      "first_seen": "2026-11-28T06:48:55Z",
-      "importance": null,
-      "score": 3.793,
-      "summary_source": "feed",
-      "related": []
-    },
-    {
-      "id": "bc93bacf3045",
-      "title": "GTA: Grand Three Assumptions",
-      "summary": "GTA 6 broke sales records, but consoles running it rest on assumptions that failed: cheaper hardware, commodity memory, frozen platforms.",
-      "why_it_matters": "",
-      "link": "https://www.eetimes.com/gta-grand-three-assumptions/",
-      "source": "EE Times",
-      "type": "news",
-      "sector": "Semiconductors",
-      "published": "2026-11-28T02:00:00Z",
-      "first_seen": "2026-11-28T02:40:34Z",
-      "importance": null,
-      "score": 3.646,
-      "summary_source": "feed",
-      "related": []
-    },
-    {
-      "id": "7eb7527fd108",
-      "title": "Sweden-based Trustly, which lets merchants accept payments via bank transfers, raised $60M from Nordic Capital and others, taking its total funding to $450M+ (John Reynolds/Tech.eu)",
-      "summary": "John Reynolds / Tech.eu : Sweden-based Trustly, which lets merchants accept payments via bank transfers, raised $60M from Nordic Capital and others, taking its total funding to $450M+ — Trustly has raised the funds from existing investors. — Swedish fintech Trustly today…",
-      "why_it_matters": "",
-      "link": "https://www.techmeme.com/261128/p3",
+      "link": "https://www.techmeme.com/261128/p4",
       "source": "Techmeme",
       "type": "community",
       "sector": "Breaking",
-      "published": "2026-11-28T06:45:01Z",
-      "first_seen": "2026-11-28T06:48:55Z",
+      "published": "2026-11-28T07:40:01Z",
+      "first_seen": "2026-11-28T10:39:41Z",
       "importance": null,
-      "score": 3.595,
-      "summary_source": "feed",
-      "related": []
-    },
-    {
-      "id": "4cb98830516c",
-      "title": "COO Jen Wong says 80%+ of Reddit's monetization comes from logged-in users whose time on the site rises from 5 min/day in year one to 40 min/day by year five (Eleanor Pringle/Fortune)",
-      "summary": "Eleanor Pringle / Fortune : COO Jen Wong says 80%+ of Reddit's monetization comes from logged-in users whose time on the site rises from 5 min/day in year one to 40 min/day by year five — Reddit boasts engagement metrics that would be the envy of many other online platforms…",
-      "why_it_matters": "",
-      "link": "https://www.techmeme.com/261128/p2",
-      "source": "Techmeme",
-      "type": "community",
-      "sector": "Breaking",
-      "published": "2026-11-28T06:25:04Z",
-      "first_seen": "2026-11-28T06:48:55Z",
-      "importance": null,
-      "score": 3.573,
+      "score": 3.398,
       "summary_source": "feed",
       "related": []
     }
@@ -108,7 +108,7 @@
         "published": "2026-11-27T00:00:00Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 2.21,
+        "score": 2.052,
         "summary_source": "none",
         "related": []
       },
@@ -124,7 +124,7 @@
         "published": "2026-11-26T11:37:17Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 1.741,
+        "score": 1.617,
         "summary_source": "none",
         "related": []
       },
@@ -140,7 +140,7 @@
         "published": "2026-11-26T05:05:36Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 1.536,
+        "score": 1.426,
         "summary_source": "none",
         "related": []
       },
@@ -156,7 +156,7 @@
         "published": "2026-11-26T00:00:00Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 1.392,
+        "score": 1.293,
         "summary_source": "none",
         "related": []
       },
@@ -172,7 +172,7 @@
         "published": "2026-11-25T18:52:55Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 1.262,
+        "score": 1.171,
         "summary_source": "none",
         "related": []
       },
@@ -188,7 +188,7 @@
         "published": "2026-11-25T10:22:09Z",
         "first_seen": "2026-11-25T10:45:16Z",
         "importance": null,
-        "score": 1.071,
+        "score": 0.994,
         "summary_source": "none",
         "related": []
       },
@@ -204,7 +204,7 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 0.92,
+        "score": 0.854,
         "summary_source": "feed",
         "related": []
       },
@@ -220,7 +220,7 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 0.92,
+        "score": 0.854,
         "summary_source": "feed",
         "related": []
       }
@@ -238,7 +238,7 @@
         "published": "2026-11-28T02:00:00Z",
         "first_seen": "2026-11-28T02:40:34Z",
         "importance": null,
-        "score": 3.646,
+        "score": 3.386,
         "summary_source": "feed",
         "related": []
       },
@@ -254,7 +254,7 @@
         "published": "2026-11-27T19:17:00Z",
         "first_seen": "2026-11-27T22:43:28Z",
         "importance": null,
-        "score": 3.204,
+        "score": 2.975,
         "summary_source": "feed",
         "related": []
       },
@@ -270,7 +270,7 @@
         "published": "2026-11-27T14:22:45Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 2.915,
+        "score": 2.707,
         "summary_source": "feed",
         "related": []
       },
@@ -286,7 +286,7 @@
         "published": "2026-11-27T14:00:00Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 2.894,
+        "score": 2.687,
         "summary_source": "feed",
         "related": []
       },
@@ -302,7 +302,7 @@
         "published": "2026-11-27T08:56:46Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 2.625,
+        "score": 2.438,
         "summary_source": "feed",
         "related": []
       },
@@ -318,7 +318,7 @@
         "published": "2026-11-26T18:00:00Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 1.969,
+        "score": 1.828,
         "summary_source": "feed",
         "related": []
       },
@@ -334,7 +334,7 @@
         "published": "2026-11-26T14:00:00Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 1.823,
+        "score": 1.693,
         "summary_source": "feed",
         "related": []
       },
@@ -350,12 +350,28 @@
         "published": "2026-11-26T08:55:48Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 1.653,
+        "score": 1.535,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Quantum": [
+      {
+        "id": "7220e45ab4a0",
+        "title": "BlueQubit Releases AI-Engineered State-Vector Simulator Outperforming NVIDIA cuStateVec Benchmarks",
+        "summary": "BlueQubit has developed bluesv, an AI-engineered quantum state-vector simulator that outperforms NVIDIA’s cuStateVec and Google's qsim in benchmark tests.",
+        "why_it_matters": "",
+        "link": "https://quantumcomputingreport.com/bluequbit-releases-ai-engineered-state-vector-simulator-outperforming-nvidia-custatevec-benchmarks/",
+        "source": "Quantum Computing Report",
+        "type": "news",
+        "sector": "Quantum",
+        "published": "2026-11-28T04:44:48Z",
+        "first_seen": "2026-11-28T10:39:41Z",
+        "importance": null,
+        "score": 3.569,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "4c2ab74c1bd5",
         "title": "Researchers Propose Fault-Tolerant Quantum Processor Architecture Controlled by 20 or Fewer External Wires",
@@ -368,7 +384,7 @@
         "published": "2026-11-28T04:17:13Z",
         "first_seen": "2026-11-28T06:48:55Z",
         "importance": null,
-        "score": 3.81,
+        "score": 3.538,
         "summary_source": "feed",
         "related": []
       },
@@ -384,7 +400,7 @@
         "published": "2026-11-28T04:02:59Z",
         "first_seen": "2026-11-28T06:48:55Z",
         "importance": null,
-        "score": 3.793,
+        "score": 3.522,
         "summary_source": "feed",
         "related": []
       },
@@ -400,7 +416,7 @@
         "published": "2026-11-28T03:47:47Z",
         "first_seen": "2026-11-28T06:48:55Z",
         "importance": null,
-        "score": 3.774,
+        "score": 3.505,
         "summary_source": "feed",
         "related": []
       },
@@ -416,7 +432,7 @@
         "published": "2026-11-28T03:13:18Z",
         "first_seen": "2026-11-28T06:48:55Z",
         "importance": null,
-        "score": 3.733,
+        "score": 3.466,
         "summary_source": "feed",
         "related": []
       },
@@ -432,7 +448,7 @@
         "published": "2026-11-28T01:22:22Z",
         "first_seen": "2026-11-28T02:40:34Z",
         "importance": null,
-        "score": 3.602,
+        "score": 3.345,
         "summary_source": "feed",
         "related": []
       },
@@ -448,7 +464,7 @@
         "published": "2026-11-28T01:08:46Z",
         "first_seen": "2026-11-28T02:40:34Z",
         "importance": null,
-        "score": 3.586,
+        "score": 3.33,
         "summary_source": "feed",
         "related": []
       },
@@ -464,23 +480,7 @@
         "published": "2026-11-28T01:01:33Z",
         "first_seen": "2026-11-28T02:40:34Z",
         "importance": null,
-        "score": 3.578,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "b662cf37618c",
-        "title": "Who’s News: Strategic Appointments at IonQ and Quantum Art",
-        "summary": "IonQ has formed the IonQ Federal Advisory Board, composed of eight members, to advise on its strategy for U.S. defense and intelligence missions. Concurrently, Quantum Art has strengthened its global commercial team by appointing Mark Solomon as Head of U.S.",
-        "why_it_matters": "",
-        "link": "https://quantumcomputingreport.com/whos-news-strategic-appointments-at-ionq-and-quantum-art/",
-        "source": "Quantum Computing Report",
-        "type": "news",
-        "sector": "Quantum",
-        "published": "2026-11-28T00:43:10Z",
-        "first_seen": "2026-11-28T02:40:34Z",
-        "importance": null,
-        "score": 3.557,
+        "score": 3.323,
         "summary_source": "feed",
         "related": []
       }
@@ -498,7 +498,7 @@
         "published": "2026-11-27T22:01:25Z",
         "first_seen": "2026-11-27T22:43:28Z",
         "importance": null,
-        "score": 3.377,
+        "score": 3.136,
         "summary_source": "feed",
         "related": []
       },
@@ -514,7 +514,7 @@
         "published": "2026-11-27T19:26:04Z",
         "first_seen": "2026-11-27T22:43:28Z",
         "importance": null,
-        "score": 3.213,
+        "score": 2.984,
         "summary_source": "feed",
         "related": []
       },
@@ -530,7 +530,7 @@
         "published": "2026-11-27T18:57:42Z",
         "first_seen": "2026-11-27T22:43:28Z",
         "importance": null,
-        "score": 3.184,
+        "score": 2.957,
         "summary_source": "feed",
         "related": []
       },
@@ -546,7 +546,7 @@
         "published": "2026-11-27T17:06:13Z",
         "first_seen": "2026-11-27T18:39:58Z",
         "importance": null,
-        "score": 3.072,
+        "score": 2.853,
         "summary_source": "feed",
         "related": []
       },
@@ -562,7 +562,7 @@
         "published": "2026-11-27T15:09:40Z",
         "first_seen": "2026-11-27T18:39:58Z",
         "importance": null,
-        "score": 2.959,
+        "score": 2.748,
         "summary_source": "feed",
         "related": []
       },
@@ -578,7 +578,7 @@
         "published": "2026-11-27T15:00:10Z",
         "first_seen": "2026-11-27T18:39:58Z",
         "importance": null,
-        "score": 2.95,
+        "score": 2.74,
         "summary_source": "feed",
         "related": []
       },
@@ -594,7 +594,7 @@
         "published": "2026-11-27T14:22:06Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 2.914,
+        "score": 2.706,
         "summary_source": "feed",
         "related": []
       },
@@ -610,7 +610,7 @@
         "published": "2026-11-27T12:02:23Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 2.786,
+        "score": 2.588,
         "summary_source": "feed",
         "related": []
       }
@@ -628,7 +628,7 @@
         "published": "2026-11-27T15:35:22Z",
         "first_seen": "2026-11-27T18:39:58Z",
         "importance": null,
-        "score": 2.984,
+        "score": 2.771,
         "summary_source": "feed",
         "related": []
       },
@@ -644,7 +644,7 @@
         "published": "2026-11-26T17:53:00Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 1.964,
+        "score": 1.824,
         "summary_source": "feed",
         "related": []
       },
@@ -660,7 +660,7 @@
         "published": "2026-11-24T15:17:50Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 0.742,
+        "score": 0.689,
         "summary_source": "feed",
         "related": []
       },
@@ -676,7 +676,7 @@
         "published": "2026-11-19T17:25:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.077,
+        "score": 0.071,
         "summary_source": "feed",
         "related": []
       },
@@ -692,7 +692,7 @@
         "published": "2026-11-19T15:38:18Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.074,
+        "score": 0.069,
         "summary_source": "feed",
         "related": []
       },
@@ -708,7 +708,7 @@
         "published": "2026-11-18T22:02:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.053,
+        "score": 0.049,
         "summary_source": "feed",
         "related": []
       },
@@ -724,7 +724,7 @@
         "published": "2026-11-18T20:31:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.051,
+        "score": 0.048,
         "summary_source": "feed",
         "related": []
       }
@@ -742,7 +742,7 @@
         "published": "2026-11-27T22:35:21Z",
         "first_seen": "2026-11-27T22:43:28Z",
         "importance": null,
-        "score": 3.414,
+        "score": 3.17,
         "summary_source": "feed",
         "related": []
       },
@@ -758,7 +758,7 @@
         "published": "2026-11-27T21:58:59Z",
         "first_seen": "2026-11-27T22:43:28Z",
         "importance": null,
-        "score": 3.374,
+        "score": 3.134,
         "summary_source": "feed",
         "related": []
       },
@@ -774,7 +774,7 @@
         "published": "2026-11-27T21:30:41Z",
         "first_seen": "2026-11-27T22:43:28Z",
         "importance": null,
-        "score": 3.344,
+        "score": 3.105,
         "summary_source": "feed",
         "related": []
       },
@@ -790,7 +790,7 @@
         "published": "2026-11-27T21:02:04Z",
         "first_seen": "2026-11-27T22:43:28Z",
         "importance": null,
-        "score": 3.313,
+        "score": 3.077,
         "summary_source": "feed",
         "related": []
       },
@@ -806,7 +806,7 @@
         "published": "2026-11-27T18:23:29Z",
         "first_seen": "2026-11-27T18:39:58Z",
         "importance": null,
-        "score": 3.149,
+        "score": 2.924,
         "summary_source": "feed",
         "related": []
       },
@@ -822,7 +822,7 @@
         "published": "2026-11-27T15:17:54Z",
         "first_seen": "2026-11-27T18:39:58Z",
         "importance": null,
-        "score": 2.967,
+        "score": 2.755,
         "summary_source": "feed",
         "related": []
       },
@@ -838,7 +838,7 @@
         "published": "2026-11-27T15:06:22Z",
         "first_seen": "2026-11-27T18:39:58Z",
         "importance": null,
-        "score": 2.956,
+        "score": 2.745,
         "summary_source": "feed",
         "related": []
       },
@@ -854,7 +854,7 @@
         "published": "2026-11-27T09:02:33Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 2.63,
+        "score": 2.443,
         "summary_source": "feed",
         "related": []
       }
@@ -872,7 +872,7 @@
         "published": "2026-11-27T19:00:00Z",
         "first_seen": "2026-11-27T22:43:28Z",
         "importance": null,
-        "score": 3.186,
+        "score": 2.959,
         "summary_source": "feed",
         "related": []
       },
@@ -888,7 +888,7 @@
         "published": "2026-11-27T11:20:23Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 2.749,
+        "score": 2.553,
         "summary_source": "feed",
         "related": []
       },
@@ -904,7 +904,7 @@
         "published": "2026-11-27T09:44:08Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 2.666,
+        "score": 2.475,
         "summary_source": "feed",
         "related": []
       },
@@ -920,7 +920,7 @@
         "published": "2026-11-27T09:13:02Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 2.639,
+        "score": 2.451,
         "summary_source": "feed",
         "related": []
       },
@@ -936,7 +936,7 @@
         "published": "2026-11-27T09:10:31Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 2.637,
+        "score": 2.449,
         "summary_source": "feed",
         "related": []
       },
@@ -952,7 +952,7 @@
         "published": "2026-11-26T15:03:14Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 1.86,
+        "score": 1.727,
         "summary_source": "feed",
         "related": []
       },
@@ -968,7 +968,7 @@
         "published": "2026-11-26T14:20:22Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 1.835,
+        "score": 1.704,
         "summary_source": "feed",
         "related": []
       },
@@ -984,7 +984,7 @@
         "published": "2026-11-26T13:03:53Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 1.79,
+        "score": 1.663,
         "summary_source": "feed",
         "related": []
       }
@@ -1002,7 +1002,7 @@
         "published": "2026-11-25T14:53:24Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.168,
+        "score": 1.085,
         "summary_source": "feed",
         "related": []
       },
@@ -1018,7 +1018,7 @@
         "published": "2026-11-25T14:00:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.148,
+        "score": 1.066,
         "summary_source": "feed",
         "related": []
       },
@@ -1034,7 +1034,7 @@
         "published": "2026-11-24T16:28:23Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 0.759,
+        "score": 0.705,
         "summary_source": "feed",
         "related": []
       },
@@ -1050,7 +1050,7 @@
         "published": "2026-11-24T15:35:48Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 0.746,
+        "score": 0.693,
         "summary_source": "feed",
         "related": []
       },
@@ -1066,7 +1066,7 @@
         "published": "2026-11-24T15:28:00Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 0.744,
+        "score": 0.691,
         "summary_source": "feed",
         "related": []
       },
@@ -1082,7 +1082,7 @@
         "published": "2026-11-23T16:28:15Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 0.478,
+        "score": 0.444,
         "summary_source": "feed",
         "related": []
       },
@@ -1098,7 +1098,7 @@
         "published": "2026-11-20T16:46:43Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.12,
+        "score": 0.112,
         "summary_source": "feed",
         "related": []
       },
@@ -1114,7 +1114,7 @@
         "published": "2026-11-20T16:24:06Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.119,
+        "score": 0.111,
         "summary_source": "feed",
         "related": []
       }
@@ -1132,7 +1132,7 @@
         "published": "2026-11-27T16:00:54Z",
         "first_seen": "2026-11-27T18:39:58Z",
         "importance": null,
-        "score": 3.008,
+        "score": 2.793,
         "summary_source": "feed",
         "related": []
       },
@@ -1148,7 +1148,7 @@
         "published": "2026-11-27T15:49:05Z",
         "first_seen": "2026-11-27T18:39:58Z",
         "importance": null,
-        "score": 2.997,
+        "score": 2.783,
         "summary_source": "feed",
         "related": []
       },
@@ -1164,7 +1164,7 @@
         "published": "2026-11-27T14:54:22Z",
         "first_seen": "2026-11-27T18:39:58Z",
         "importance": null,
-        "score": 2.945,
+        "score": 2.734,
         "summary_source": "feed",
         "related": []
       },
@@ -1180,7 +1180,7 @@
         "published": "2026-11-27T09:30:00Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 2.654,
+        "score": 2.464,
         "summary_source": "feed",
         "related": []
       },
@@ -1196,7 +1196,7 @@
         "published": "2026-11-27T09:30:00Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 2.654,
+        "score": 2.464,
         "summary_source": "feed",
         "related": []
       },
@@ -1212,7 +1212,7 @@
         "published": "2026-11-26T19:00:00Z",
         "first_seen": "2026-11-26T22:41:37Z",
         "importance": null,
-        "score": 2.007,
+        "score": 1.864,
         "summary_source": "feed",
         "related": []
       },
@@ -1228,7 +1228,7 @@
         "published": "2026-11-26T12:00:00Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 1.754,
+        "score": 1.629,
         "summary_source": "feed",
         "related": []
       },
@@ -1244,7 +1244,7 @@
         "published": "2026-11-25T21:28:53Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 1.326,
+        "score": 1.232,
         "summary_source": "feed",
         "related": []
       }
@@ -1262,7 +1262,7 @@
         "published": "2026-11-27T12:22:01Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 2.804,
+        "score": 2.604,
         "summary_source": "feed",
         "related": []
       },
@@ -1278,7 +1278,7 @@
         "published": "2026-11-27T12:12:18Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 2.795,
+        "score": 2.596,
         "summary_source": "feed",
         "related": []
       },
@@ -1294,7 +1294,7 @@
         "published": "2026-11-26T12:20:50Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 1.766,
+        "score": 1.64,
         "summary_source": "feed",
         "related": []
       },
@@ -1310,7 +1310,7 @@
         "published": "2026-11-26T12:02:57Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 1.756,
+        "score": 1.63,
         "summary_source": "feed",
         "related": []
       },
@@ -1326,7 +1326,7 @@
         "published": "2026-11-26T08:30:00Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 1.64,
+        "score": 1.523,
         "summary_source": "feed",
         "related": []
       },
@@ -1342,7 +1342,7 @@
         "published": "2026-11-25T18:58:25Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 1.264,
+        "score": 1.174,
         "summary_source": "feed",
         "related": []
       },
@@ -1358,7 +1358,7 @@
         "published": "2026-11-25T16:58:07Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.216,
+        "score": 1.129,
         "summary_source": "feed",
         "related": []
       },
@@ -1374,7 +1374,7 @@
         "published": "2026-11-25T15:00:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.171,
+        "score": 1.087,
         "summary_source": "feed",
         "related": []
       }
@@ -1392,7 +1392,7 @@
         "published": "2026-11-27T13:56:43Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 2.891,
+        "score": 2.684,
         "summary_source": "feed",
         "related": []
       },
@@ -1408,7 +1408,7 @@
         "published": "2026-11-25T18:24:42Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 1.25,
+        "score": 1.161,
         "summary_source": "feed",
         "related": []
       },
@@ -1424,7 +1424,7 @@
         "published": "2026-11-25T17:00:07Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.217,
+        "score": 1.13,
         "summary_source": "feed",
         "related": []
       },
@@ -1440,7 +1440,7 @@
         "published": "2026-11-25T15:00:03Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.171,
+        "score": 1.087,
         "summary_source": "feed",
         "related": []
       },
@@ -1456,7 +1456,7 @@
         "published": "2026-11-24T18:03:37Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 0.782,
+        "score": 0.726,
         "summary_source": "feed",
         "related": []
       },
@@ -1472,7 +1472,7 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 0.766,
+        "score": 0.712,
         "summary_source": "feed",
         "related": []
       },
@@ -1488,7 +1488,7 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 0.766,
+        "score": 0.712,
         "summary_source": "feed",
         "related": []
       },
@@ -1504,7 +1504,7 @@
         "published": "2026-11-24T14:48:57Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 0.735,
+        "score": 0.682,
         "summary_source": "feed",
         "related": []
       }
@@ -1522,7 +1522,7 @@
         "published": "2026-11-27T08:00:01Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 2.578,
+        "score": 2.394,
         "summary_source": "feed",
         "related": []
       },
@@ -1538,7 +1538,7 @@
         "published": "2026-11-25T18:26:19Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.251,
+        "score": 1.162,
         "summary_source": "feed",
         "related": []
       },
@@ -1554,7 +1554,7 @@
         "published": "2026-11-24T22:35:05Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 0.853,
+        "score": 0.793,
         "summary_source": "feed",
         "related": []
       },
@@ -1570,7 +1570,7 @@
         "published": "2026-11-24T19:43:49Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 0.808,
+        "score": 0.75,
         "summary_source": "feed",
         "related": []
       },
@@ -1586,7 +1586,7 @@
         "published": "2026-11-20T21:52:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.133,
+        "score": 0.123,
         "summary_source": "feed",
         "related": []
       },
@@ -1602,7 +1602,7 @@
         "published": "2026-11-19T23:30:50Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.086,
+        "score": 0.08,
         "summary_source": "feed",
         "related": []
       },
@@ -1618,7 +1618,7 @@
         "published": "2026-11-18T19:52:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.051,
+        "score": 0.047,
         "summary_source": "feed",
         "related": []
       },
@@ -1634,7 +1634,7 @@
         "published": "2026-11-18T15:10:53Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.046,
+        "score": 0.043,
         "summary_source": "feed",
         "related": []
       }
@@ -1652,7 +1652,7 @@
         "published": "2026-11-25T12:00:49Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 1.105,
+        "score": 1.026,
         "summary_source": "feed",
         "related": []
       },
@@ -1668,7 +1668,7 @@
         "published": "2026-11-25T12:00:09Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 1.105,
+        "score": 1.026,
         "summary_source": "feed",
         "related": []
       },
@@ -1684,7 +1684,7 @@
         "published": "2026-11-24T18:30:42Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 0.789,
+        "score": 0.733,
         "summary_source": "feed",
         "related": []
       },
@@ -1700,7 +1700,7 @@
         "published": "2026-11-24T12:00:48Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 0.696,
+        "score": 0.647,
         "summary_source": "feed",
         "related": []
       },
@@ -1716,7 +1716,7 @@
         "published": "2026-11-24T12:00:21Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 0.696,
+        "score": 0.646,
         "summary_source": "feed",
         "related": []
       },
@@ -1732,7 +1732,7 @@
         "published": "2026-11-23T12:00:19Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 0.439,
+        "score": 0.407,
         "summary_source": "feed",
         "related": []
       },
@@ -1748,7 +1748,7 @@
         "published": "2026-11-23T01:25:53Z",
         "first_seen": "2026-11-23T02:44:14Z",
         "importance": null,
-        "score": 0.358,
+        "score": 0.332,
         "summary_source": "feed",
         "related": []
       },
@@ -1764,12 +1764,60 @@
         "published": "2026-11-20T20:15:54Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.129,
+        "score": 0.119,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Developer Tools": [
+      {
+        "id": "22fd6fc74688",
+        "title": "Anthropic Introduces Claude Ship to Review, Fix, and Approve Pull Requests by Policy",
+        "summary": "Anthropic has introduced Claude Ship, a set of agents that can review GitHub pull requests, push fixes, and approve the changes a team's policy allows, on Claude Team and Enterprise plans. By Daniel Dominguez",
+        "why_it_matters": "",
+        "link": "https://www.infoq.com/news/2026/11/anthropic-claude-ship/",
+        "source": "InfoQ",
+        "type": "news",
+        "sector": "Developer Tools",
+        "published": "2026-11-28T10:08:00Z",
+        "first_seen": "2026-11-28T10:39:41Z",
+        "importance": null,
+        "score": 3.96,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "5c04c255cc51",
+        "title": "AWS Introduces Centralized Workforce Access to IAM Roles Across Accounts",
+        "summary": "AWS recently introduced Account Access Manager to centrally assign workforce users and groups to existing IAM roles across an organization, preserving custom trust policies and ABAC configurations while improving individual identity attribution and auditability. By Renato Losio",
+        "why_it_matters": "",
+        "link": "https://www.infoq.com/news/2026/11/aws-centralized-workforce-access/",
+        "source": "InfoQ",
+        "type": "news",
+        "sector": "Developer Tools",
+        "published": "2026-11-28T07:57:00Z",
+        "first_seen": "2026-11-28T10:39:41Z",
+        "importance": null,
+        "score": 3.797,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "76b9cfa92650",
+        "title": "Azure AI Gateway Reaches General Availability as a Standalone Service",
+        "summary": "Microsoft has made Azure AI Gateway generally available as a standalone Azure service for governing access to AI models and MCP tools across providers.",
+        "why_it_matters": "",
+        "link": "https://www.infoq.com/news/2026/11/azure-ai-gateway-ga/",
+        "source": "InfoQ",
+        "type": "news",
+        "sector": "Developer Tools",
+        "published": "2026-11-28T06:47:00Z",
+        "first_seen": "2026-11-28T10:39:41Z",
+        "importance": null,
+        "score": 3.712,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "53454533f08b",
         "title": "Meta Brings Code Review Auto-Approval More Mainstream with PyTorch GreenLight",
@@ -1782,7 +1830,7 @@
         "published": "2026-11-27T14:36:00Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 2.927,
+        "score": 2.718,
         "summary_source": "feed",
         "related": []
       },
@@ -1798,7 +1846,7 @@
         "published": "2026-11-27T14:35:00Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 2.926,
+        "score": 2.717,
         "summary_source": "feed",
         "related": []
       },
@@ -1814,7 +1862,7 @@
         "published": "2026-11-27T12:00:00Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 2.784,
+        "score": 2.586,
         "summary_source": "feed",
         "related": []
       },
@@ -1830,7 +1878,7 @@
         "published": "2026-11-27T11:00:00Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 2.731,
+        "score": 2.536,
         "summary_source": "feed",
         "related": []
       },
@@ -1846,60 +1894,28 @@
         "published": "2026-11-27T09:00:00Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 2.628,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "572bb26c5aeb",
-        "title": "Sandboxes, secure inference, and keeping agents from going rogue",
-        "summary": "At We Are Developers, Ryan talks with Daytona CEO and cofounder Ivan Burazin about agent sandboxes and Blackbox AI CTO and cofounder Richard Risk about encrypted inference.",
-        "why_it_matters": "",
-        "link": "https://stackoverflow.blog/2026/11/27/sandboxes-secure-inference-and-rogue-agents/",
-        "source": "Stack Overflow Blog",
-        "type": "news",
-        "sector": "Developer Tools",
-        "published": "2026-11-27T08:40:00Z",
-        "first_seen": "2026-11-27T06:52:14Z",
-        "importance": null,
-        "score": 2.611,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "1ac244eeaaee",
-        "title": "Mozilla Partners with Mistral to Bring Open-Weight AI Models to Firefox Smart Window",
-        "summary": "Mozilla has partnered with Mistral AI to offer Mistral Small 4, an open-weight model, in Firefox's Smart Window AI assistant, now in beta. It is recommended for users in France, the US and Canada.",
-        "why_it_matters": "",
-        "link": "https://www.infoq.com/news/2026/11/mozilla-mistral-ai-smart-window/",
-        "source": "InfoQ",
-        "type": "news",
-        "sector": "Developer Tools",
-        "published": "2026-11-27T06:58:00Z",
-        "first_seen": "2026-11-27T10:41:39Z",
-        "importance": null,
-        "score": 2.527,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "c582724d7eaf",
-        "title": "QCon San Francisco 2026: How to Kill the Code Review",
-        "summary": "Ankit Jain of Aviator told QCon San Francisco 2026 that line-by-line code review is already fading, since most review comments concern knowledge sharing rather than defects and over 75% of PRs merge without human review.",
-        "why_it_matters": "",
-        "link": "https://www.infoq.com/news/2026/11/qcon-sf-26-kill-code-review/",
-        "source": "InfoQ",
-        "type": "news",
-        "sector": "Developer Tools",
-        "published": "2026-11-26T17:16:00Z",
-        "first_seen": "2026-11-26T18:40:13Z",
-        "importance": null,
-        "score": 1.941,
+        "score": 2.441,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Breaking": [
+      {
+        "id": "4771ebe02259",
+        "title": "A profile of Jensen Huang, whom longtime friends and associates say has an unrelenting ability to make the most of any situation, as he returns as Nvidia's CEO (Erich Schwartzel/Wall Street Journal)",
+        "summary": "Erich Schwartzel / Wall Street Journal : A profile of Jensen Huang, whom longtime friends and associates say has an unrelenting ability to make the most of any situation, as he returns as Nvidia's CEO — As a longtime friend of the Nvidia CEO puts it, “Jensen will always pull a…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261128/p4",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-28T07:40:01Z",
+        "first_seen": "2026-11-28T10:39:41Z",
+        "importance": null,
+        "score": 3.398,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "7eb7527fd108",
         "title": "Sweden-based Trustly, which lets merchants accept payments via bank transfers, raised $60M from Nordic Capital and others, taking its total funding to $450M+ (John Reynolds/Tech.eu)",
@@ -1912,7 +1928,7 @@
         "published": "2026-11-28T06:45:01Z",
         "first_seen": "2026-11-28T06:48:55Z",
         "importance": null,
-        "score": 3.595,
+        "score": 3.339,
         "summary_source": "feed",
         "related": []
       },
@@ -1928,7 +1944,7 @@
         "published": "2026-11-28T06:25:04Z",
         "first_seen": "2026-11-28T06:48:55Z",
         "importance": null,
-        "score": 3.573,
+        "score": 3.318,
         "summary_source": "feed",
         "related": []
       },
@@ -1944,7 +1960,7 @@
         "published": "2026-11-28T05:50:02Z",
         "first_seen": "2026-11-28T06:48:55Z",
         "importance": null,
-        "score": 3.533,
+        "score": 3.28,
         "summary_source": "feed",
         "related": []
       },
@@ -1960,7 +1976,7 @@
         "published": "2026-11-28T03:35:05Z",
         "first_seen": "2026-11-28T06:48:55Z",
         "importance": null,
-        "score": 3.383,
+        "score": 3.141,
         "summary_source": "feed",
         "related": []
       },
@@ -1976,7 +1992,7 @@
         "published": "2026-11-28T02:00:01Z",
         "first_seen": "2026-11-28T02:40:34Z",
         "importance": null,
-        "score": 3.281,
+        "score": 3.047,
         "summary_source": "feed",
         "related": []
       },
@@ -1992,7 +2008,7 @@
         "published": "2026-11-27T23:30:02Z",
         "first_seen": "2026-11-28T02:40:34Z",
         "importance": null,
-        "score": 3.127,
+        "score": 2.904,
         "summary_source": "feed",
         "related": []
       },
@@ -2008,23 +2024,7 @@
         "published": "2026-11-27T21:35:01Z",
         "first_seen": "2026-11-27T22:43:28Z",
         "importance": null,
-        "score": 3.014,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "2bce98ddc9ff",
-        "title": "Q&A with AI researchers Ege Erdil and Daniel Kokotajlo on the odds of an intelligence explosion before 2029, pausing AI, the US antagonizing China, and more (Dwarkesh Patel/Dwarkesh Podcast)",
-        "summary": "Dwarkesh Patel / Dwarkesh Podcast : Q&A with AI researchers Ege Erdil and Daniel Kokotajlo on the odds of an intelligence explosion before 2029, pausing AI, the US antagonizing China, and more — “If we pause now, people still won't understand what's at stake.” — New podcast…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261127/p13",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-27T20:15:01Z",
-        "first_seen": "2026-11-27T22:43:28Z",
-        "importance": null,
-        "score": 2.937,
+        "score": 2.799,
         "summary_source": "feed",
         "related": []
       }
@@ -2061,6 +2061,17 @@
         "bd12957f6177",
         "d4d45e81dc8e",
         "fe461442a02f"
+      ],
+      "score": 4.38
+    },
+    {
+      "term": "existing",
+      "sources": 3,
+      "sectors": 3,
+      "ids": [
+        "8476601df484",
+        "5c04c255cc51",
+        "7eb7527fd108"
       ],
       "score": 4.38
     },
@@ -2106,17 +2117,6 @@
         "7eb7527fd108"
       ],
       "score": 3.75
-    },
-    {
-      "term": "already",
-      "sources": 3,
-      "sectors": 3,
-      "ids": [
-        "561e65e3d38d",
-        "764e60f5de2c",
-        "c582724d7eaf"
-      ],
-      "score": 3.5
     }
   ],
   "stock_watch": [],
@@ -2136,9 +2136,9 @@
         "sector": "AI",
         "source": "Import AI",
         "url": "https://importai.substack.com/feed",
-        "status": "error",
-        "entries": 0,
-        "error": "HTTP 403"
+        "status": "ok",
+        "entries": 1,
+        "error": null
       },
       {
         "sector": "AI",
@@ -2396,7 +2396,7 @@
       "errors": [
         "ANTHROPIC_API_KEY is not set"
       ],
-      "new_items": 10,
+      "new_items": 6,
       "summarised": 0
     }
   },
