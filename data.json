@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "generated_at": "2026-11-28T02:40:34Z",
-  "last_updated": "2026-11-28 02:40 UTC",
+  "generated_at": "2026-11-28T06:48:55Z",
+  "last_updated": "2026-11-28 06:48 UTC",
   "is_sunday_edition": false,
   "priority_sectors": [
     "AI",
@@ -10,9 +10,41 @@
   ],
   "notices": [
     "AI summaries are unavailable this run; showing feed text instead.",
-    "7 feed(s) returned no items; see Feed status at the bottom of the page."
+    "8 feed(s) returned no items; see Feed status at the bottom of the page."
   ],
   "top_stories": [
+    {
+      "id": "4c2ab74c1bd5",
+      "title": "Researchers Propose Fault-Tolerant Quantum Processor Architecture Controlled by 20 or Fewer External Wires",
+      "summary": "Researchers have proposed a new fault-tolerant quantum processor architecture that uses 20 or fewer external wires, a significant reduction from current designs. This design features a fixed, clocked planar array where quantum data flows through hard-wired operation tiles.",
+      "why_it_matters": "",
+      "link": "https://quantumcomputingreport.com/researchers-propose-fault-tolerant-quantum-processor-architecture-controlled-by-20-or-fewer-external-wires/",
+      "source": "Quantum Computing Report",
+      "type": "news",
+      "sector": "Quantum",
+      "published": "2026-11-28T04:17:13Z",
+      "first_seen": "2026-11-28T06:48:55Z",
+      "importance": null,
+      "score": 3.81,
+      "summary_source": "feed",
+      "related": []
+    },
+    {
+      "id": "515f7c5bd8f0",
+      "title": "Algorithmiq and IBM Quantum Execute 40-Qubit Discrete-Time Quantum Walks on Biological Networks",
+      "summary": "Algorithmiq and IBM Quantum have successfully executed 40-qubit discrete-time quantum walks (DTQWs) on irregular protein-protein interaction networks, overcoming limitations of conventional dense encodings.",
+      "why_it_matters": "",
+      "link": "https://quantumcomputingreport.com/algorithmiq-and-ibm-quantum-execute-40-qubit-discrete-time-quantum-walks-on-biological-networks/",
+      "source": "Quantum Computing Report",
+      "type": "news",
+      "sector": "Quantum",
+      "published": "2026-11-28T04:02:59Z",
+      "first_seen": "2026-11-28T06:48:55Z",
+      "importance": null,
+      "score": 3.793,
+      "summary_source": "feed",
+      "related": []
+    },
     {
       "id": "bc93bacf3045",
       "title": "GTA: Grand Three Assumptions",
@@ -25,71 +57,39 @@
       "published": "2026-11-28T02:00:00Z",
       "first_seen": "2026-11-28T02:40:34Z",
       "importance": null,
-      "score": 3.948,
+      "score": 3.646,
       "summary_source": "feed",
       "related": []
     },
     {
-      "id": "8ae15299e6b1",
-      "title": "QuTech Demonstrates Coherent Control of a Majorana-Based Qubit in Coupled Kitaev Chains",
-      "summary": "Researchers at QuTech have successfully demonstrated coherent control of a Majorana-based qubit using coupled Kitaev chains. This qubit, fabricated in an indium antimonide nanowire, operates at 20 mK and exhibits Rabi frequencies of approximately 113-117 MHz.",
+      "id": "7eb7527fd108",
+      "title": "Sweden-based Trustly, which lets merchants accept payments via bank transfers, raised $60M from Nordic Capital and others, taking its total funding to $450M+ (John Reynolds/Tech.eu)",
+      "summary": "John Reynolds / Tech.eu : Sweden-based Trustly, which lets merchants accept payments via bank transfers, raised $60M from Nordic Capital and others, taking its total funding to $450M+ — Trustly has raised the funds from existing investors. — Swedish fintech Trustly today…",
       "why_it_matters": "",
-      "link": "https://quantumcomputingreport.com/qutech-demonstrates-coherent-control-of-a-majorana-based-qubit-in-coupled-kitaev-chains/",
-      "source": "Quantum Computing Report",
-      "type": "news",
-      "sector": "Quantum",
-      "published": "2026-11-28T01:22:22Z",
-      "first_seen": "2026-11-28T02:40:34Z",
+      "link": "https://www.techmeme.com/261128/p3",
+      "source": "Techmeme",
+      "type": "community",
+      "sector": "Breaking",
+      "published": "2026-11-28T06:45:01Z",
+      "first_seen": "2026-11-28T06:48:55Z",
       "importance": null,
-      "score": 3.901,
+      "score": 3.595,
       "summary_source": "feed",
       "related": []
     },
     {
-      "id": "22c27fb5fcb5",
-      "title": "QUTAC and VDMA Release Practical Guide on Post-Quantum Cryptography for Industrial Systems",
-      "summary": "QUTAC and VDMA have released a practical guide for introducing Post-Quantum Cryptography (PQC) to industrial systems, addressing the long operational lifespans of industrial technology.",
+      "id": "4cb98830516c",
+      "title": "COO Jen Wong says 80%+ of Reddit's monetization comes from logged-in users whose time on the site rises from 5 min/day in year one to 40 min/day by year five (Eleanor Pringle/Fortune)",
+      "summary": "Eleanor Pringle / Fortune : COO Jen Wong says 80%+ of Reddit's monetization comes from logged-in users whose time on the site rises from 5 min/day in year one to 40 min/day by year five — Reddit boasts engagement metrics that would be the envy of many other online platforms…",
       "why_it_matters": "",
-      "link": "https://quantumcomputingreport.com/qutac-and-vdma-release-practical-guide-on-post-quantum-cryptography-for-industrial-systems/",
-      "source": "Quantum Computing Report",
-      "type": "news",
-      "sector": "Quantum",
-      "published": "2026-11-28T01:08:46Z",
-      "first_seen": "2026-11-28T02:40:34Z",
+      "link": "https://www.techmeme.com/261128/p2",
+      "source": "Techmeme",
+      "type": "community",
+      "sector": "Breaking",
+      "published": "2026-11-28T06:25:04Z",
+      "first_seen": "2026-11-28T06:48:55Z",
       "importance": null,
-      "score": 3.884,
-      "summary_source": "feed",
-      "related": []
-    },
-    {
-      "id": "37bb77bb46ab",
-      "title": "Why European Households Are Rushing to Buy Solar Panels Ahead of a Dark, Cold Winter",
-      "summary": "Changes to solar incentives and long installation processes mean European homeowners could benefit from planning now. Winter is cold, dark, and grey.",
-      "why_it_matters": "",
-      "link": "https://cleantechnica.com/2026/11/27/why-european-households-are-rushing-to-buy-solar-panels-ahead-of-a-dark-cold-winter/",
-      "source": "CleanTechnica",
-      "type": "news",
-      "sector": "Renewables",
-      "published": "2026-11-27T22:35:21Z",
-      "first_seen": "2026-11-27T22:43:28Z",
-      "importance": null,
-      "score": 3.697,
-      "summary_source": "feed",
-      "related": []
-    },
-    {
-      "id": "a182974947fa",
-      "title": "Friday Squid Blogging: Giant Squid in Newfoundland",
-      "summary": "The two have an interesting history . As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.",
-      "why_it_matters": "",
-      "link": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-giant-squid-in-newfoundland.html",
-      "source": "Schneier on Security",
-      "type": "news",
-      "sector": "CyberSecurity",
-      "published": "2026-11-27T22:01:25Z",
-      "first_seen": "2026-11-27T22:43:28Z",
-      "importance": null,
-      "score": 3.657,
+      "score": 3.573,
       "summary_source": "feed",
       "related": []
     }
@@ -108,7 +108,7 @@
         "published": "2026-11-27T00:00:00Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 2.393,
+        "score": 2.21,
         "summary_source": "none",
         "related": []
       },
@@ -124,7 +124,7 @@
         "published": "2026-11-26T11:37:17Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 1.886,
+        "score": 1.741,
         "summary_source": "none",
         "related": []
       },
@@ -140,7 +140,7 @@
         "published": "2026-11-26T05:05:36Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 1.663,
+        "score": 1.536,
         "summary_source": "none",
         "related": []
       },
@@ -156,7 +156,7 @@
         "published": "2026-11-26T00:00:00Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 1.508,
+        "score": 1.392,
         "summary_source": "none",
         "related": []
       },
@@ -172,7 +172,7 @@
         "published": "2026-11-25T18:52:55Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 1.366,
+        "score": 1.262,
         "summary_source": "none",
         "related": []
       },
@@ -188,7 +188,7 @@
         "published": "2026-11-25T10:22:09Z",
         "first_seen": "2026-11-25T10:45:16Z",
         "importance": null,
-        "score": 1.16,
+        "score": 1.071,
         "summary_source": "none",
         "related": []
       },
@@ -204,7 +204,7 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 0.996,
+        "score": 0.92,
         "summary_source": "feed",
         "related": []
       },
@@ -220,7 +220,7 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 0.996,
+        "score": 0.92,
         "summary_source": "feed",
         "related": []
       }
@@ -238,7 +238,7 @@
         "published": "2026-11-28T02:00:00Z",
         "first_seen": "2026-11-28T02:40:34Z",
         "importance": null,
-        "score": 3.948,
+        "score": 3.646,
         "summary_source": "feed",
         "related": []
       },
@@ -254,7 +254,7 @@
         "published": "2026-11-27T19:17:00Z",
         "first_seen": "2026-11-27T22:43:28Z",
         "importance": null,
-        "score": 3.469,
+        "score": 3.204,
         "summary_source": "feed",
         "related": []
       },
@@ -270,7 +270,7 @@
         "published": "2026-11-27T14:22:45Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.157,
+        "score": 2.915,
         "summary_source": "feed",
         "related": []
       },
@@ -286,7 +286,7 @@
         "published": "2026-11-27T14:00:00Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.134,
+        "score": 2.894,
         "summary_source": "feed",
         "related": []
       },
@@ -302,7 +302,7 @@
         "published": "2026-11-27T08:56:46Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 2.843,
+        "score": 2.625,
         "summary_source": "feed",
         "related": []
       },
@@ -318,7 +318,7 @@
         "published": "2026-11-26T18:00:00Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 2.132,
+        "score": 1.969,
         "summary_source": "feed",
         "related": []
       },
@@ -334,7 +334,7 @@
         "published": "2026-11-26T14:00:00Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 1.974,
+        "score": 1.823,
         "summary_source": "feed",
         "related": []
       },
@@ -350,12 +350,76 @@
         "published": "2026-11-26T08:55:48Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 1.791,
+        "score": 1.653,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Quantum": [
+      {
+        "id": "4c2ab74c1bd5",
+        "title": "Researchers Propose Fault-Tolerant Quantum Processor Architecture Controlled by 20 or Fewer External Wires",
+        "summary": "Researchers have proposed a new fault-tolerant quantum processor architecture that uses 20 or fewer external wires, a significant reduction from current designs. This design features a fixed, clocked planar array where quantum data flows through hard-wired operation tiles.",
+        "why_it_matters": "",
+        "link": "https://quantumcomputingreport.com/researchers-propose-fault-tolerant-quantum-processor-architecture-controlled-by-20-or-fewer-external-wires/",
+        "source": "Quantum Computing Report",
+        "type": "news",
+        "sector": "Quantum",
+        "published": "2026-11-28T04:17:13Z",
+        "first_seen": "2026-11-28T06:48:55Z",
+        "importance": null,
+        "score": 3.81,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "515f7c5bd8f0",
+        "title": "Algorithmiq and IBM Quantum Execute 40-Qubit Discrete-Time Quantum Walks on Biological Networks",
+        "summary": "Algorithmiq and IBM Quantum have successfully executed 40-qubit discrete-time quantum walks (DTQWs) on irregular protein-protein interaction networks, overcoming limitations of conventional dense encodings.",
+        "why_it_matters": "",
+        "link": "https://quantumcomputingreport.com/algorithmiq-and-ibm-quantum-execute-40-qubit-discrete-time-quantum-walks-on-biological-networks/",
+        "source": "Quantum Computing Report",
+        "type": "news",
+        "sector": "Quantum",
+        "published": "2026-11-28T04:02:59Z",
+        "first_seen": "2026-11-28T06:48:55Z",
+        "importance": null,
+        "score": 3.793,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "b8da62c6b737",
+        "title": "QuTech Demonstrates Weight-Four Stabilizer Parity Checks in a Silicon Spin-Shuttling Processor",
+        "summary": "Researchers at QuTech have demonstrated significant advancements in quantum computing, showcasing weight-four X- and Z-type quantum error-correction parity checks and five-qubit Greenberger-Horne-Zeilinger (GHZ) entanglement in a silicon spin-shuttling processor.",
+        "why_it_matters": "",
+        "link": "https://quantumcomputingreport.com/qutech-demonstrates-weight-four-stabilizer-parity-checks-in-a-silicon-spin-shuttling-processor/",
+        "source": "Quantum Computing Report",
+        "type": "news",
+        "sector": "Quantum",
+        "published": "2026-11-28T03:47:47Z",
+        "first_seen": "2026-11-28T06:48:55Z",
+        "importance": null,
+        "score": 3.774,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "22a15533aa08",
+        "title": "QuTech Launches Quantum Systems Integration Unit to Build Open-Architecture Superconducting Systems",
+        "summary": "QuTech has launched a new Quantum Systems Integration Unit to build open-architecture superconducting quantum computers using a European supply chain.",
+        "why_it_matters": "",
+        "link": "https://quantumcomputingreport.com/qutech-launches-quantum-systems-integration-unit-to-build-open-architecture-superconducting-systems/",
+        "source": "Quantum Computing Report",
+        "type": "news",
+        "sector": "Quantum",
+        "published": "2026-11-28T03:13:18Z",
+        "first_seen": "2026-11-28T06:48:55Z",
+        "importance": null,
+        "score": 3.733,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "8ae15299e6b1",
         "title": "QuTech Demonstrates Coherent Control of a Majorana-Based Qubit in Coupled Kitaev Chains",
@@ -368,7 +432,7 @@
         "published": "2026-11-28T01:22:22Z",
         "first_seen": "2026-11-28T02:40:34Z",
         "importance": null,
-        "score": 3.901,
+        "score": 3.602,
         "summary_source": "feed",
         "related": []
       },
@@ -384,7 +448,7 @@
         "published": "2026-11-28T01:08:46Z",
         "first_seen": "2026-11-28T02:40:34Z",
         "importance": null,
-        "score": 3.884,
+        "score": 3.586,
         "summary_source": "feed",
         "related": []
       },
@@ -400,7 +464,7 @@
         "published": "2026-11-28T01:01:33Z",
         "first_seen": "2026-11-28T02:40:34Z",
         "importance": null,
-        "score": 3.875,
+        "score": 3.578,
         "summary_source": "feed",
         "related": []
       },
@@ -416,71 +480,7 @@
         "published": "2026-11-28T00:43:10Z",
         "first_seen": "2026-11-28T02:40:34Z",
         "importance": null,
-        "score": 3.852,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "7d77d94ae5ee",
-        "title": "Diraq Finalizes $38 Million CHIPS R&D Award with U.S. Department of Commerce for Silicon Spin Quantum Chips",
-        "summary": "Diraq secured a $38 million CHIPS R&D award from the U.S. Department of Commerce to advance silicon spin quantum chips, establishing U.S. facilities and aiming for over two million physical qubits by 2031.",
-        "why_it_matters": "",
-        "link": "https://quantumcomputingreport.com/diraq-finalizes-38-million-chips-rd-award-with-u-s-department-of-commerce-for-silicon-spin-quantum-chips/",
-        "source": "Quantum Computing Report",
-        "type": "news",
-        "sector": "Quantum",
-        "published": "2026-11-27T11:09:19Z",
-        "first_seen": "2026-11-27T14:42:48Z",
-        "importance": null,
-        "score": 2.967,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "9cac905bd523",
-        "title": "planqc Expands into the UK with Double-Digit Million-Euro Cambridge Optical-Lattice Facility",
-        "summary": "planqc, a German quantum computing company, has opened a new UK subsidiary in Cambridge with a multi-million euro investment. This facility will develop next-generation optical-lattice architectures for scaling neutral-atom processors.",
-        "why_it_matters": "",
-        "link": "https://quantumcomputingreport.com/planqc-expands-into-the-uk-with-double-digit-million-euro-cambridge-optical-lattice-facility/",
-        "source": "Quantum Computing Report",
-        "type": "news",
-        "sector": "Quantum",
-        "published": "2026-11-27T10:59:04Z",
-        "first_seen": "2026-11-27T14:42:48Z",
-        "importance": null,
-        "score": 2.957,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "01193419b35b",
-        "title": "SAP and planqc Demonstrate Enterprise Software Integration and Quantum Agents at Quantum Day Munich",
-        "summary": "SAP and planqc showcased an end-to-end cloud integration at Quantum Day Munich, connecting SAP's enterprise software with planqc's quantum computing stack.",
-        "why_it_matters": "",
-        "link": "https://quantumcomputingreport.com/sap-and-planqc-demonstrate-enterprise-software-integration-and-quantum-agents-at-quantum-day-munich/",
-        "source": "Quantum Computing Report",
-        "type": "news",
-        "sector": "Quantum",
-        "published": "2026-11-27T10:49:59Z",
-        "first_seen": "2026-11-27T14:42:48Z",
-        "importance": null,
-        "score": 2.948,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "5806e44957c2",
-        "title": "Riverlane and Nature Research Intelligence Release 2026 Quantum Error Correction Report Highlighting Shift to Full-Stack Engineering",
-        "summary": "The Quantum Error Correction Report 2026 indicates a shift in the quantum computing industry from physics demonstrations to full-stack engineering of fault-tolerant machines.",
-        "why_it_matters": "",
-        "link": "https://quantumcomputingreport.com/riverlane-and-nature-research-intelligence-release-2026-quantum-error-correction-report-highlighting-shift-to-full-stack-engineering/",
-        "source": "Quantum Computing Report",
-        "type": "news",
-        "sector": "Quantum",
-        "published": "2026-11-26T05:14:05Z",
-        "first_seen": "2026-11-26T10:45:17Z",
-        "importance": null,
-        "score": 1.668,
+        "score": 3.557,
         "summary_source": "feed",
         "related": []
       }
@@ -498,7 +498,7 @@
         "published": "2026-11-27T22:01:25Z",
         "first_seen": "2026-11-27T22:43:28Z",
         "importance": null,
-        "score": 3.657,
+        "score": 3.377,
         "summary_source": "feed",
         "related": []
       },
@@ -514,7 +514,7 @@
         "published": "2026-11-27T19:26:04Z",
         "first_seen": "2026-11-27T22:43:28Z",
         "importance": null,
-        "score": 3.479,
+        "score": 3.213,
         "summary_source": "feed",
         "related": []
       },
@@ -530,7 +530,7 @@
         "published": "2026-11-27T18:57:42Z",
         "first_seen": "2026-11-27T22:43:28Z",
         "importance": null,
-        "score": 3.448,
+        "score": 3.184,
         "summary_source": "feed",
         "related": []
       },
@@ -546,7 +546,7 @@
         "published": "2026-11-27T17:06:13Z",
         "first_seen": "2026-11-27T18:39:58Z",
         "importance": null,
-        "score": 3.327,
+        "score": 3.072,
         "summary_source": "feed",
         "related": []
       },
@@ -562,7 +562,7 @@
         "published": "2026-11-27T15:09:40Z",
         "first_seen": "2026-11-27T18:39:58Z",
         "importance": null,
-        "score": 3.205,
+        "score": 2.959,
         "summary_source": "feed",
         "related": []
       },
@@ -578,7 +578,7 @@
         "published": "2026-11-27T15:00:10Z",
         "first_seen": "2026-11-27T18:39:58Z",
         "importance": null,
-        "score": 3.195,
+        "score": 2.95,
         "summary_source": "feed",
         "related": []
       },
@@ -594,7 +594,7 @@
         "published": "2026-11-27T14:22:06Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.156,
+        "score": 2.914,
         "summary_source": "feed",
         "related": []
       },
@@ -610,7 +610,7 @@
         "published": "2026-11-27T12:02:23Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.018,
+        "score": 2.786,
         "summary_source": "feed",
         "related": []
       }
@@ -628,7 +628,7 @@
         "published": "2026-11-27T15:35:22Z",
         "first_seen": "2026-11-27T18:39:58Z",
         "importance": null,
-        "score": 3.231,
+        "score": 2.984,
         "summary_source": "feed",
         "related": []
       },
@@ -644,7 +644,7 @@
         "published": "2026-11-26T17:53:00Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 2.127,
+        "score": 1.964,
         "summary_source": "feed",
         "related": []
       },
@@ -660,7 +660,7 @@
         "published": "2026-11-24T15:17:50Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 0.803,
+        "score": 0.742,
         "summary_source": "feed",
         "related": []
       },
@@ -676,7 +676,7 @@
         "published": "2026-11-19T17:25:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.083,
+        "score": 0.077,
         "summary_source": "feed",
         "related": []
       },
@@ -692,7 +692,7 @@
         "published": "2026-11-19T15:38:18Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.08,
+        "score": 0.074,
         "summary_source": "feed",
         "related": []
       },
@@ -708,7 +708,7 @@
         "published": "2026-11-18T22:02:00Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.057,
+        "score": 0.053,
         "summary_source": "feed",
         "related": []
       },
@@ -724,7 +724,7 @@
         "published": "2026-11-18T20:31:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.056,
+        "score": 0.051,
         "summary_source": "feed",
         "related": []
       }
@@ -742,7 +742,7 @@
         "published": "2026-11-27T22:35:21Z",
         "first_seen": "2026-11-27T22:43:28Z",
         "importance": null,
-        "score": 3.697,
+        "score": 3.414,
         "summary_source": "feed",
         "related": []
       },
@@ -758,7 +758,7 @@
         "published": "2026-11-27T21:58:59Z",
         "first_seen": "2026-11-27T22:43:28Z",
         "importance": null,
-        "score": 3.654,
+        "score": 3.374,
         "summary_source": "feed",
         "related": []
       },
@@ -774,7 +774,7 @@
         "published": "2026-11-27T21:30:41Z",
         "first_seen": "2026-11-27T22:43:28Z",
         "importance": null,
-        "score": 3.621,
+        "score": 3.344,
         "summary_source": "feed",
         "related": []
       },
@@ -790,7 +790,7 @@
         "published": "2026-11-27T21:02:04Z",
         "first_seen": "2026-11-27T22:43:28Z",
         "importance": null,
-        "score": 3.588,
+        "score": 3.313,
         "summary_source": "feed",
         "related": []
       },
@@ -806,7 +806,7 @@
         "published": "2026-11-27T18:23:29Z",
         "first_seen": "2026-11-27T18:39:58Z",
         "importance": null,
-        "score": 3.41,
+        "score": 3.149,
         "summary_source": "feed",
         "related": []
       },
@@ -822,7 +822,7 @@
         "published": "2026-11-27T15:17:54Z",
         "first_seen": "2026-11-27T18:39:58Z",
         "importance": null,
-        "score": 3.213,
+        "score": 2.967,
         "summary_source": "feed",
         "related": []
       },
@@ -838,7 +838,7 @@
         "published": "2026-11-27T15:06:22Z",
         "first_seen": "2026-11-27T18:39:58Z",
         "importance": null,
-        "score": 3.201,
+        "score": 2.956,
         "summary_source": "feed",
         "related": []
       },
@@ -854,7 +854,7 @@
         "published": "2026-11-27T09:02:33Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 2.848,
+        "score": 2.63,
         "summary_source": "feed",
         "related": []
       }
@@ -872,7 +872,7 @@
         "published": "2026-11-27T19:00:00Z",
         "first_seen": "2026-11-27T22:43:28Z",
         "importance": null,
-        "score": 3.45,
+        "score": 3.186,
         "summary_source": "feed",
         "related": []
       },
@@ -888,7 +888,7 @@
         "published": "2026-11-27T11:20:23Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 2.977,
+        "score": 2.749,
         "summary_source": "feed",
         "related": []
       },
@@ -904,7 +904,7 @@
         "published": "2026-11-27T09:44:08Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 2.887,
+        "score": 2.666,
         "summary_source": "feed",
         "related": []
       },
@@ -920,7 +920,7 @@
         "published": "2026-11-27T09:13:02Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 2.858,
+        "score": 2.639,
         "summary_source": "feed",
         "related": []
       },
@@ -936,7 +936,7 @@
         "published": "2026-11-27T09:10:31Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 2.856,
+        "score": 2.637,
         "summary_source": "feed",
         "related": []
       },
@@ -952,7 +952,7 @@
         "published": "2026-11-26T15:03:14Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 2.015,
+        "score": 1.86,
         "summary_source": "feed",
         "related": []
       },
@@ -968,7 +968,7 @@
         "published": "2026-11-26T14:20:22Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 1.987,
+        "score": 1.835,
         "summary_source": "feed",
         "related": []
       },
@@ -984,7 +984,7 @@
         "published": "2026-11-26T13:03:53Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 1.939,
+        "score": 1.79,
         "summary_source": "feed",
         "related": []
       }
@@ -1002,7 +1002,7 @@
         "published": "2026-11-25T14:53:24Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.265,
+        "score": 1.168,
         "summary_source": "feed",
         "related": []
       },
@@ -1018,7 +1018,7 @@
         "published": "2026-11-25T14:00:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.244,
+        "score": 1.148,
         "summary_source": "feed",
         "related": []
       },
@@ -1034,7 +1034,7 @@
         "published": "2026-11-24T16:28:23Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 0.822,
+        "score": 0.759,
         "summary_source": "feed",
         "related": []
       },
@@ -1050,7 +1050,7 @@
         "published": "2026-11-24T15:35:48Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 0.808,
+        "score": 0.746,
         "summary_source": "feed",
         "related": []
       },
@@ -1066,7 +1066,7 @@
         "published": "2026-11-24T15:28:00Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 0.806,
+        "score": 0.744,
         "summary_source": "feed",
         "related": []
       },
@@ -1082,23 +1082,7 @@
         "published": "2026-11-23T16:28:15Z",
         "first_seen": "2026-11-23T18:41:58Z",
         "importance": null,
-        "score": 0.518,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "e799a58db0c1",
-        "title": "Danaher partners with Microsoft to create an agentic AI platform",
-        "summary": "Early tests found novice scientists worked faster when assisted by AI.",
-        "why_it_matters": "",
-        "link": "https://www.medtechdive.com/news/danaher-partners-with-microsoft-to-create-an-agentic-ai-platform/875437/",
-        "source": "MedTech Dive",
-        "type": "news",
-        "sector": "MedTech",
-        "published": "2026-11-23T15:00:00Z",
-        "first_seen": "2026-11-23T18:41:58Z",
-        "importance": null,
-        "score": 0.503,
+        "score": 0.478,
         "summary_source": "feed",
         "related": []
       },
@@ -1114,7 +1098,23 @@
         "published": "2026-11-20T16:46:43Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.13,
+        "score": 0.12,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "ea100e6f148e",
+        "title": "J&J to install first Ottava robot in US hospital",
+        "summary": "The commercial agreement with Memorial Hermann-Texas Medical Center comes in the same week that rival Medtronic revealed expanded FDA clearance for its Hugo robot in general surgical procedures.",
+        "why_it_matters": "",
+        "link": "https://www.medtechdive.com/news/jj-to-install-first-ottava-robot-in-us-hospital/875343/",
+        "source": "MedTech Dive",
+        "type": "news",
+        "sector": "MedTech",
+        "published": "2026-11-20T16:24:06Z",
+        "first_seen": "2026-11-21T23:30:38Z",
+        "importance": null,
+        "score": 0.119,
         "summary_source": "feed",
         "related": []
       }
@@ -1132,7 +1132,7 @@
         "published": "2026-11-27T16:00:54Z",
         "first_seen": "2026-11-27T18:39:58Z",
         "importance": null,
-        "score": 3.258,
+        "score": 3.008,
         "summary_source": "feed",
         "related": []
       },
@@ -1148,7 +1148,7 @@
         "published": "2026-11-27T15:49:05Z",
         "first_seen": "2026-11-27T18:39:58Z",
         "importance": null,
-        "score": 3.245,
+        "score": 2.997,
         "summary_source": "feed",
         "related": []
       },
@@ -1164,7 +1164,7 @@
         "published": "2026-11-27T14:54:22Z",
         "first_seen": "2026-11-27T18:39:58Z",
         "importance": null,
-        "score": 3.189,
+        "score": 2.945,
         "summary_source": "feed",
         "related": []
       },
@@ -1180,7 +1180,7 @@
         "published": "2026-11-27T09:30:00Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 2.874,
+        "score": 2.654,
         "summary_source": "feed",
         "related": []
       },
@@ -1196,7 +1196,7 @@
         "published": "2026-11-27T09:30:00Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 2.874,
+        "score": 2.654,
         "summary_source": "feed",
         "related": []
       },
@@ -1212,7 +1212,7 @@
         "published": "2026-11-26T19:00:00Z",
         "first_seen": "2026-11-26T22:41:37Z",
         "importance": null,
-        "score": 2.174,
+        "score": 2.007,
         "summary_source": "feed",
         "related": []
       },
@@ -1228,7 +1228,7 @@
         "published": "2026-11-26T12:00:00Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 1.9,
+        "score": 1.754,
         "summary_source": "feed",
         "related": []
       },
@@ -1244,7 +1244,7 @@
         "published": "2026-11-25T21:28:53Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 1.436,
+        "score": 1.326,
         "summary_source": "feed",
         "related": []
       }
@@ -1262,7 +1262,7 @@
         "published": "2026-11-27T12:22:01Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.037,
+        "score": 2.804,
         "summary_source": "feed",
         "related": []
       },
@@ -1278,7 +1278,7 @@
         "published": "2026-11-27T12:12:18Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.027,
+        "score": 2.795,
         "summary_source": "feed",
         "related": []
       },
@@ -1294,7 +1294,7 @@
         "published": "2026-11-26T12:20:50Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 1.912,
+        "score": 1.766,
         "summary_source": "feed",
         "related": []
       },
@@ -1310,7 +1310,7 @@
         "published": "2026-11-26T12:02:57Z",
         "first_seen": "2026-11-26T14:46:21Z",
         "importance": null,
-        "score": 1.901,
+        "score": 1.756,
         "summary_source": "feed",
         "related": []
       },
@@ -1326,7 +1326,7 @@
         "published": "2026-11-26T08:30:00Z",
         "first_seen": "2026-11-26T10:45:17Z",
         "importance": null,
-        "score": 1.776,
+        "score": 1.64,
         "summary_source": "feed",
         "related": []
       },
@@ -1342,7 +1342,7 @@
         "published": "2026-11-25T18:58:25Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 1.369,
+        "score": 1.264,
         "summary_source": "feed",
         "related": []
       },
@@ -1358,7 +1358,7 @@
         "published": "2026-11-25T16:58:07Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.317,
+        "score": 1.216,
         "summary_source": "feed",
         "related": []
       },
@@ -1374,7 +1374,7 @@
         "published": "2026-11-25T15:00:00Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.268,
+        "score": 1.171,
         "summary_source": "feed",
         "related": []
       }
@@ -1392,7 +1392,7 @@
         "published": "2026-11-27T13:56:43Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.13,
+        "score": 2.891,
         "summary_source": "feed",
         "related": []
       },
@@ -1408,7 +1408,7 @@
         "published": "2026-11-25T18:24:42Z",
         "first_seen": "2026-11-25T22:41:18Z",
         "importance": null,
-        "score": 1.354,
+        "score": 1.25,
         "summary_source": "feed",
         "related": []
       },
@@ -1424,7 +1424,7 @@
         "published": "2026-11-25T17:00:07Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.318,
+        "score": 1.217,
         "summary_source": "feed",
         "related": []
       },
@@ -1440,7 +1440,7 @@
         "published": "2026-11-25T15:00:03Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.268,
+        "score": 1.171,
         "summary_source": "feed",
         "related": []
       },
@@ -1456,7 +1456,7 @@
         "published": "2026-11-24T18:03:37Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 0.847,
+        "score": 0.782,
         "summary_source": "feed",
         "related": []
       },
@@ -1472,7 +1472,7 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 0.83,
+        "score": 0.766,
         "summary_source": "feed",
         "related": []
       },
@@ -1488,7 +1488,7 @@
         "published": "2026-11-26T05:00:00Z",
         "first_seen": "2026-11-26T06:49:30Z",
         "importance": null,
-        "score": 0.83,
+        "score": 0.766,
         "summary_source": "feed",
         "related": []
       },
@@ -1504,7 +1504,7 @@
         "published": "2026-11-24T14:48:57Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 0.796,
+        "score": 0.735,
         "summary_source": "feed",
         "related": []
       }
@@ -1522,7 +1522,7 @@
         "published": "2026-11-27T08:00:01Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 2.792,
+        "score": 2.578,
         "summary_source": "feed",
         "related": []
       },
@@ -1538,7 +1538,7 @@
         "published": "2026-11-25T18:26:19Z",
         "first_seen": "2026-11-25T18:35:53Z",
         "importance": null,
-        "score": 1.355,
+        "score": 1.251,
         "summary_source": "feed",
         "related": []
       },
@@ -1554,7 +1554,7 @@
         "published": "2026-11-24T22:35:05Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 0.924,
+        "score": 0.853,
         "summary_source": "feed",
         "related": []
       },
@@ -1570,7 +1570,7 @@
         "published": "2026-11-24T19:43:49Z",
         "first_seen": "2026-11-24T22:43:19Z",
         "importance": null,
-        "score": 0.875,
+        "score": 0.808,
         "summary_source": "feed",
         "related": []
       },
@@ -1586,7 +1586,7 @@
         "published": "2026-11-20T21:52:51Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.144,
+        "score": 0.133,
         "summary_source": "feed",
         "related": []
       },
@@ -1602,7 +1602,7 @@
         "published": "2026-11-19T23:30:50Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.093,
+        "score": 0.086,
         "summary_source": "feed",
         "related": []
       },
@@ -1618,7 +1618,7 @@
         "published": "2026-11-18T19:52:17Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.055,
+        "score": 0.051,
         "summary_source": "feed",
         "related": []
       },
@@ -1634,7 +1634,7 @@
         "published": "2026-11-18T15:10:53Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.05,
+        "score": 0.046,
         "summary_source": "feed",
         "related": []
       }
@@ -1652,7 +1652,7 @@
         "published": "2026-11-25T12:00:49Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 1.197,
+        "score": 1.105,
         "summary_source": "feed",
         "related": []
       },
@@ -1668,7 +1668,7 @@
         "published": "2026-11-25T12:00:09Z",
         "first_seen": "2026-11-25T14:50:49Z",
         "importance": null,
-        "score": 1.197,
+        "score": 1.105,
         "summary_source": "feed",
         "related": []
       },
@@ -1684,7 +1684,7 @@
         "published": "2026-11-24T18:30:42Z",
         "first_seen": "2026-11-24T18:41:14Z",
         "importance": null,
-        "score": 0.855,
+        "score": 0.789,
         "summary_source": "feed",
         "related": []
       },
@@ -1700,7 +1700,7 @@
         "published": "2026-11-24T12:00:48Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 0.754,
+        "score": 0.696,
         "summary_source": "feed",
         "related": []
       },
@@ -1716,7 +1716,7 @@
         "published": "2026-11-24T12:00:21Z",
         "first_seen": "2026-11-24T14:47:20Z",
         "importance": null,
-        "score": 0.754,
+        "score": 0.696,
         "summary_source": "feed",
         "related": []
       },
@@ -1732,7 +1732,7 @@
         "published": "2026-11-23T12:00:19Z",
         "first_seen": "2026-11-23T14:49:36Z",
         "importance": null,
-        "score": 0.475,
+        "score": 0.439,
         "summary_source": "feed",
         "related": []
       },
@@ -1748,7 +1748,7 @@
         "published": "2026-11-23T01:25:53Z",
         "first_seen": "2026-11-23T02:44:14Z",
         "importance": null,
-        "score": 0.387,
+        "score": 0.358,
         "summary_source": "feed",
         "related": []
       },
@@ -1764,7 +1764,7 @@
         "published": "2026-11-20T20:15:54Z",
         "first_seen": "2026-11-21T23:30:38Z",
         "importance": null,
-        "score": 0.139,
+        "score": 0.129,
         "summary_source": "feed",
         "related": []
       }
@@ -1782,7 +1782,7 @@
         "published": "2026-11-27T14:36:00Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.17,
+        "score": 2.927,
         "summary_source": "feed",
         "related": []
       },
@@ -1798,7 +1798,7 @@
         "published": "2026-11-27T14:35:00Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.169,
+        "score": 2.926,
         "summary_source": "feed",
         "related": []
       },
@@ -1814,7 +1814,7 @@
         "published": "2026-11-27T12:00:00Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 3.015,
+        "score": 2.784,
         "summary_source": "feed",
         "related": []
       },
@@ -1830,7 +1830,7 @@
         "published": "2026-11-27T11:00:00Z",
         "first_seen": "2026-11-27T14:42:48Z",
         "importance": null,
-        "score": 2.958,
+        "score": 2.731,
         "summary_source": "feed",
         "related": []
       },
@@ -1846,7 +1846,7 @@
         "published": "2026-11-27T09:00:00Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 2.846,
+        "score": 2.628,
         "summary_source": "feed",
         "related": []
       },
@@ -1862,7 +1862,7 @@
         "published": "2026-11-27T08:40:00Z",
         "first_seen": "2026-11-27T06:52:14Z",
         "importance": null,
-        "score": 2.828,
+        "score": 2.611,
         "summary_source": "feed",
         "related": []
       },
@@ -1878,7 +1878,7 @@
         "published": "2026-11-27T06:58:00Z",
         "first_seen": "2026-11-27T10:41:39Z",
         "importance": null,
-        "score": 2.737,
+        "score": 2.527,
         "summary_source": "feed",
         "related": []
       },
@@ -1894,12 +1894,76 @@
         "published": "2026-11-26T17:16:00Z",
         "first_seen": "2026-11-26T18:40:13Z",
         "importance": null,
-        "score": 2.102,
+        "score": 1.941,
         "summary_source": "feed",
         "related": []
       }
     ],
     "Breaking": [
+      {
+        "id": "7eb7527fd108",
+        "title": "Sweden-based Trustly, which lets merchants accept payments via bank transfers, raised $60M from Nordic Capital and others, taking its total funding to $450M+ (John Reynolds/Tech.eu)",
+        "summary": "John Reynolds / Tech.eu : Sweden-based Trustly, which lets merchants accept payments via bank transfers, raised $60M from Nordic Capital and others, taking its total funding to $450M+ — Trustly has raised the funds from existing investors. — Swedish fintech Trustly today…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261128/p3",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-28T06:45:01Z",
+        "first_seen": "2026-11-28T06:48:55Z",
+        "importance": null,
+        "score": 3.595,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "4cb98830516c",
+        "title": "COO Jen Wong says 80%+ of Reddit's monetization comes from logged-in users whose time on the site rises from 5 min/day in year one to 40 min/day by year five (Eleanor Pringle/Fortune)",
+        "summary": "Eleanor Pringle / Fortune : COO Jen Wong says 80%+ of Reddit's monetization comes from logged-in users whose time on the site rises from 5 min/day in year one to 40 min/day by year five — Reddit boasts engagement metrics that would be the envy of many other online platforms…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261128/p2",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-28T06:25:04Z",
+        "first_seen": "2026-11-28T06:48:55Z",
+        "importance": null,
+        "score": 3.573,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "0f4991f96d0e",
+        "title": "Embo, which is developing world models for robotics trained on massive amounts of internet video, emerges from stealth with a $110M seed led by a16z (Embo)",
+        "summary": "Embo : Embo, which is developing world models for robotics trained on massive amounts of internet video, emerges from stealth with a $110M seed led by a16z — Embo is building the next generation of frontier AI models, with a deep understanding of physical reality and…",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261128/p1",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-28T05:50:02Z",
+        "first_seen": "2026-11-28T06:48:55Z",
+        "importance": null,
+        "score": 3.533,
+        "summary_source": "feed",
+        "related": []
+      },
+      {
+        "id": "49393a3b5dbb",
+        "title": "Anthropic says Claude doesn't silently sabotage work and that some user reports reflect \"overcaution\", where Claude clings to self-imposed rules on long tasks (Edwin/@edwinarbus)",
+        "summary": "Edwin / @edwinarbus : Anthropic says Claude doesn't silently sabotage work and that some user reports reflect “overcaution”, where Claude clings to self-imposed rules on long tasks — Claude has not been trained to sabotage work.",
+        "why_it_matters": "",
+        "link": "https://www.techmeme.com/261127/p17",
+        "source": "Techmeme",
+        "type": "community",
+        "sector": "Breaking",
+        "published": "2026-11-28T03:35:05Z",
+        "first_seen": "2026-11-28T06:48:55Z",
+        "importance": null,
+        "score": 3.383,
+        "summary_source": "feed",
+        "related": []
+      },
       {
         "id": "18c3be5c572e",
         "title": "How the MATCH Act could backfire by barring ASML from its ~350 immersion scanners in China, letting rivals service and reverse engineer them, and hire its staff (LithoWar)",
@@ -1912,7 +1976,7 @@
         "published": "2026-11-28T02:00:01Z",
         "first_seen": "2026-11-28T02:40:34Z",
         "importance": null,
-        "score": 3.553,
+        "score": 3.281,
         "summary_source": "feed",
         "related": []
       },
@@ -1928,7 +1992,7 @@
         "published": "2026-11-27T23:30:02Z",
         "first_seen": "2026-11-28T02:40:34Z",
         "importance": null,
-        "score": 3.386,
+        "score": 3.127,
         "summary_source": "feed",
         "related": []
       },
@@ -1944,7 +2008,7 @@
         "published": "2026-11-27T21:35:01Z",
         "first_seen": "2026-11-27T22:43:28Z",
         "importance": null,
-        "score": 3.264,
+        "score": 3.014,
         "summary_source": "feed",
         "related": []
       },
@@ -1960,77 +2024,24 @@
         "published": "2026-11-27T20:15:01Z",
         "first_seen": "2026-11-27T22:43:28Z",
         "importance": null,
-        "score": 3.181,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "331a3ed30f1f",
-        "title": "OpenAI countersues Apple for allegedly stealing trade secrets via a staffer who returned to Apple and \"coercing and threatening\" suppliers that work with both (Financial Times)",
-        "summary": "Financial Times : OpenAI countersues Apple for allegedly stealing trade secrets via a staffer who returned to Apple and “coercing and threatening” suppliers that work with both — The ChatGPT maker also accuses the tech giant of ‘coercing and threatening’ suppliers who work with…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261127/p12",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-27T18:57:47Z",
-        "first_seen": "2026-11-27T22:43:28Z",
-        "importance": null,
-        "score": 3.103,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "abe76de8a23e",
-        "title": "Sources: Verizon is in talks to buy fiber-optic broadband operator Fidium for ~$6B, as part of its goal to expand its network to 50M US homes and businesses (Financial Times)",
-        "summary": "Financial Times : Sources: Verizon is in talks to buy fiber-optic broadband operator Fidium for ~$6B, as part of its goal to expand its network to 50M US homes and businesses — US group pursues company owned by Searchlight Capital and Canada's BCI in push to boost its presence…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261127/p11",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-27T18:50:02Z",
-        "first_seen": "2026-11-27T22:43:28Z",
-        "importance": null,
-        "score": 3.095,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "ac4a0f7f0743",
-        "title": "European Central Bank survey: 44% of employed EU consumers reported using AI weekly at work in August, on par with US peers; 18% used it daily, above US levels (Alexander Weber/Bloomberg)",
-        "summary": "Alexander Weber / Bloomberg : European Central Bank survey: 44% of employed EU consumers reported using AI weekly at work in August, on par with US peers; 18% used it daily, above US levels — Euro-area workers are turning to artificial intelligence at a similar rate as their…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261127/p10",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-27T18:15:00Z",
-        "first_seen": "2026-11-27T18:39:58Z",
-        "importance": null,
-        "score": 3.061,
-        "summary_source": "feed",
-        "related": []
-      },
-      {
-        "id": "c9573a0c2be9",
-        "title": "SAP confirms a cybersecurity incident; report: hackers obtained its staffers' authentication tokens, letting them copy and alter source code stored on GitHub (Eduard Kovacs/SecurityWeek)",
-        "summary": "Eduard Kovacs / SecurityWeek : SAP confirms a cybersecurity incident; report: hackers obtained its staffers' authentication tokens, letting them copy and alter source code stored on GitHub — SAP has detected suspicious activity on GitHub, where hackers reportedly used stolen…",
-        "why_it_matters": "",
-        "link": "https://www.techmeme.com/261127/p9",
-        "source": "Techmeme",
-        "type": "community",
-        "sector": "Breaking",
-        "published": "2026-11-27T16:35:08Z",
-        "first_seen": "2026-11-27T18:39:58Z",
-        "importance": null,
-        "score": 2.964,
+        "score": 2.937,
         "summary_source": "feed",
         "related": []
       }
     ]
   },
   "emerging": [
+    {
+      "term": "lets",
+      "sources": 3,
+      "sectors": 3,
+      "ids": [
+        "3ca3d0a07909",
+        "53454533f08b",
+        "7eb7527fd108"
+      ],
+      "score": 5.25
+    },
     {
       "term": "during",
       "sources": 4,
@@ -2064,17 +2075,6 @@
       "score": 4.38
     },
     {
-      "term": "canada",
-      "sources": 3,
-      "sectors": 3,
-      "ids": [
-        "089e2941a4b6",
-        "1ac244eeaaee",
-        "abe76de8a23e"
-      ],
-      "score": 4.04
-    },
-    {
       "term": "explains",
       "sources": 3,
       "sectors": 3,
@@ -2082,6 +2082,28 @@
         "40e68078b31b",
         "218eeae16c17",
         "38112fd4a48a"
+      ],
+      "score": 3.75
+    },
+    {
+      "term": "long",
+      "sources": 3,
+      "sectors": 3,
+      "ids": [
+        "22c27fb5fcb5",
+        "37bb77bb46ab",
+        "49393a3b5dbb"
+      ],
+      "score": 3.75
+    },
+    {
+      "term": "others",
+      "sources": 3,
+      "sectors": 3,
+      "ids": [
+        "e180e0972a0b",
+        "3b43e30df100",
+        "7eb7527fd108"
       ],
       "score": 3.75
     },
@@ -2095,28 +2117,6 @@
         "c582724d7eaf"
       ],
       "score": 3.5
-    },
-    {
-      "term": "stories",
-      "sources": 3,
-      "sectors": 3,
-      "ids": [
-        "089e2941a4b6",
-        "a182974947fa",
-        "c0f1dbd9bc0e"
-      ],
-      "score": 3.5
-    },
-    {
-      "term": "boston",
-      "sources": 3,
-      "sectors": 3,
-      "ids": [
-        "c69a349f2605",
-        "029ce0432447",
-        "f841378f6650"
-      ],
-      "score": 3.28
     }
   ],
   "stock_watch": [],
@@ -2144,8 +2144,8 @@
         "sector": "AI",
         "source": "arXiv cs.AI",
         "url": "https://rss.arxiv.org/rss/cs.AI",
-        "status": "ok",
-        "entries": 3,
+        "status": "empty",
+        "entries": 0,
         "error": null
       },
       {
@@ -2396,7 +2396,7 @@
       "errors": [
         "ANTHROPIC_API_KEY is not set"
       ],
-      "new_items": 8,
+      "new_items": 10,
       "summarised": 0
     }
   }
